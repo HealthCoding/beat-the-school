@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "source": "Yonsei Mirae draft pilot scene",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-8d00f18479ab92cfd630b43a261a22dbf7222be0df55ccd3c0531357f54186a1.gltf"
+    },
+    {
+      "id": "site-railings",
+      "url": "site-railings/model-10b28bf2d0233eb8ab7a157f3a41db649e78db4f260be0db4d3bdb3f4cfc9693.gltf"
+    },
+    {
+      "id": "entrance-steps",
+      "url": "entrance-steps/model-9a31057a1cd0a000323efd7bddefedfdc88e3a45774872d92980819d5ba653ce.gltf"
+    },
+    {
+      "id": "context",
+      "url": "context/model-34e10cd9930507cf31c5fe4e8ea1098d47b20cb419f9a677783a63499421b043.gltf"
+    },
+    {
+      "id": "lake",
+      "url": "lake/model-67affe97146164850b9fc489da806a9830a3993fdf361e0f8ce4d2863471e6c5.gltf"
+    },
+    {
+      "id": "theater-seating",
+      "url": "theater-seating/model-7a33fcd42412776d544ea00fbd64562e85b69ceec2ebabb403be6188c539c764.gltf"
+    },
+    {
+      "id": "stadium-props",
+      "url": "stadium-props/model-ae17345e4be8930813c6f444377b4d8fdd6f8ffdda99363a8fb454912c59a015.gltf"
+    },
+    {
+      "id": "north-court",
+      "url": "north-court/model-e185197e4fb876ed9a3745257376e17c8ffbd972859209c1c684efb8dc5b0c61.gltf"
+    },
+    {
+      "id": "bus-stops",
+      "url": "bus-stops/model-d615d25b2393b13b3dcb8432f6b854e5a6c1d797c09bb74fe2f94137b31b9848.gltf"
+    },
+    {
+      "id": "garden",
+      "url": "garden/model-d93b06a1d97a0f2409237a045030421fb2a3a1aee4b5ec15e07c56172e25de1b.gltf"
+    },
+    {
+      "id": "gate-bridge",
+      "url": "gate-bridge/model-4452b3b7268442fc88c7df663f7cb2b18988791e2999b792c3fddba347191454.gltf"
+    },
+    {
+      "id": "site-rotc-steps",
+      "url": "site-rotc-steps/model-f9ef10716c5746b4e074920d47146766ce1d6ece7b3769dbfc2375c72d35037a.gltf"
+    },
+    {
+      "id": "stair-trims",
+      "url": "stair-trims/model-6de89bde0365868beda0d03f8d34f4fae9160dab067828efa128aff42d7da37d.gltf"
+    },
+    {
+      "id": "site-retaining-walls",
+      "url": "site-retaining-walls/model-863be9d2596c847084a1ce176e627e422b0867bb2161a3d6239236c786cc31a6.gltf"
+    },
+    {
+      "id": "plaza-planting",
+      "url": "plaza-planting/model-059c3423c53f8f433a77f9a989845b355284f275462417e6fe7919cd1ba61be5.gltf"
+    },
+    {
+      "id": "forecourts",
+      "url": "forecourts/model-e64e7ca93298243559349f1bf0f81516d599d0e836fc43eb0fba0bb7dc246f03.gltf"
+    },
+    {
+      "id": "terrain-skirts",
+      "url": "terrain-skirts/model-3da0deb8981e0dcf4088e698a317d6621dafa6d8786b36c60a64b2fe223bb1b9.gltf"
+    },
+    {
+      "id": "clean-stairs",
+      "url": "clean-stairs/model-d95be39b499cd8b923d3900a1507149f1e7aecd13389b7ecfa29284f9152d856.gltf"
+    },
+    {
+      "id": "lake-terrace",
+      "url": "lake-terrace/model-57678ece002cc50842cda6dfc036809c3de9462bf845cb2e714080b7748d3e78.gltf"
+    },
+    {
+      "id": "cut-fill",
+      "url": "cut-fill/model-c222e5dd9b20af2355c40e43c16805ac5074e6a13813aeb4ba00922030d29a44.gltf"
+    },
+    {
+      "id": "ground-remesh",
+      "url": "ground-remesh/model-52050daddec4ea29c03aef02ed8c0f114fbb216fe9f4814966b39c07242f226d.gltf"
+    },
+    {
+      "id": "forest-edge",
+      "url": "forest-edge/model-aada6090698f9a787685be34196733dc75c9e25f5d789068c796dd66d47e7121.gltf"
+    },
+    {
+      "id": "road-markings",
+      "url": "road-markings/model-75a4cf383d5b4261163096a29930dfa911076ceee8c0bda2e625e7ce57819c10.gltf"
+    },
+    {
+      "id": "sports-courts",
+      "url": "sports-courts/model-6a70e004bd6d0fb97fb757c3fdf72ee6c24105e47e180b315c9a036a4ca96f91.gltf"
+    },
+    {
+      "id": "gate-guardhouse",
+      "url": "gate-guardhouse/model-21b56d06967599ad2f97b60b63cd4bef5da3b5a25d0b5fcdb34bc02e65a9a33a.gltf"
+    },
+    {
+      "id": "main-gate",
+      "url": "main-gate/model-3014ccf6accd06fa095c913a5ffb2b6385a177c4b8d7f3052c14849e31d56668.gltf"
+    },
+    {
+      "id": "eagle",
+      "url": "eagle/model-4ae75f26079be0c66b0b865803b99c14a8d4d18ebf0f3c46d26735273b17334d.gltf"
+    },
+    {
+      "id": "planting",
+      "url": "planting/model-8c3c60872f27f4ad8fe62277d4f65644861acdba8944aacecdc3c32f39a9147c.gltf"
+    }
+  ]
+}

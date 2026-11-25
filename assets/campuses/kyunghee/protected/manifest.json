@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "pilot/kyunghee-seoul active-models.json destructible:false (경희의료원 hospitals: never damaged, shield), packed losslessly",
+  "models": [
+    {
+      "id": "hospitalMain",
+      "name": "경희의료원 본관·서관",
+      "url": "hospitalMain/model-c29fc2493c5df674e6b338aa06995456e7913aac93127ccf0ab88418dcd491ab.gltf",
+      "triangles": 9328
+    },
+    {
+      "id": "hospitalCancer",
+      "name": "후마니타스 암병원",
+      "url": "hospitalCancer/model-6535d5be5456f75988073a6f9ed54283be07de3503f88ded1ff94028fda38e63.gltf",
+      "triangles": 1472
+    },
+    {
+      "id": "hospitalDental",
+      "name": "치과병원",
+      "url": "hospitalDental/model-2cb0dbd6225f25e2ea4a3f861b094ed30cc6e8b6f147b4c7557eb2140e64e318.gltf",
+      "triangles": 3898
+    },
+    {
+      "id": "hospitalEastA",
+      "name": "경희의료원 동관 A",
+      "url": "hospitalEastA/model-55b17a6bc3f28052e9c4cd33f2b90f6fe3ab246ab5d98196ced68aac51bb77ca.gltf",
+      "triangles": 1784
+    },
+    {
+      "id": "hospitalEastB",
+      "name": "경희의료원 동관 B",
+      "url": "hospitalEastB/model-7a40b681408f3c71813b646410beb4a1701a72fc30dc1b765e76a47ed9793bc6.gltf",
+      "triangles": 1136
+    }
+  ]
+}

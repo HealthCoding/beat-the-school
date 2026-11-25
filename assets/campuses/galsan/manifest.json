@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "source": "Galsan Asan R4, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "north",
+      "url": "north/model-4c1cf4a244d34bb84fe20dfaf87d4e874b279f1c1614a627eb46634cb50681a7.gltf",
+      "triangles": 6678,
+      "name": "북측 교실 날개",
+      "variant": "detailed"
+    },
+    {
+      "id": "northwest",
+      "url": "northwest/model-ed99115a2544c0a8de8ed7d85dc0f128343454295b15b004ccbb0d16bfc5bd7d.gltf",
+      "triangles": 4942,
+      "name": "북서 두 박공 날개",
+      "variant": "detailed"
+    },
+    {
+      "id": "west",
+      "url": "west/model-35feb25930a70fa54d61223a15927ac896e1b64562e2f42a32a58298e42464e7.gltf",
+      "triangles": 6394,
+      "name": "서측 교실·낮은 테라스 날개",
+      "variant": "detailed"
+    },
+    {
+      "id": "southwest",
+      "url": "southwest/model-df8072c802957eef69b3e3879dd0e34019f7f39a340ae3e92318676acb4d9964.gltf",
+      "triangles": 4580,
+      "name": "남서 세 박공 날개",
+      "variant": "detailed"
+    },
+    {
+      "id": "south",
+      "url": "south/model-0d275e5326a37356acf95e77ca1abd213d01d05627f4c6c70bb51d184fc23235.gltf",
+      "triangles": 7862,
+      "name": "남측 교실·필로티 날개",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-link",
+      "url": "east-link/model-94a87656c40bdfda646f91bdee6d36994d006e3070d66adcecaf0ece91485cab.gltf",
+      "triangles": 1216,
+      "name": "중정 동측·북동 연결부",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-8130ebd718941cca793c42ac0eed01337a72b0f2ab95d11b9651e84ec9a93ba2.gltf",
+      "triangles": 3226,
+      "name": "동측 체육관 복합동",
+      "variant": "detailed"
+    },
+    {
+      "id": "entry-canopy",
+      "url": "entry-canopy/model-d035337fb48225b93328cfb6848aacedfdcd83302c5e8ab0890b237577ddafe6.gltf",
+      "triangles": 6512,
+      "name": "동남 대계단·청백 캐노피",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-4ad31b0ef02fa55278ded0ed95d4a0d660edb072b72e4bbb1d324c89de14a8c5.gltf",
+      "triangles": 404,
+      "name": "동쪽 교문 작은 부속동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 41814
+  }
+}

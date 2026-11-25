@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Jeonju Seo R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-e5008c860695ed25b17067545cc0d0cee2b7c6c063dac4ea88637e9a98b98211.gltf",
+      "triangles": 34849
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-fda954b467180dc87e01425a77f4a631bcad9249b93df06b71f2ddb06747a330.gltf",
+      "triangles": 21924
+    },
+    {
+      "id": "context",
+      "url": "context/model-4c3df5b18346519e59f279f0b09fcd35051feffc3aed0903f09e10179f820e3f.gltf",
+      "triangles": 54589
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-37a8be455f7481e1fee5f47d3924e9685ec05b31e58ad8719402d8e663eaefff.gltf",
+      "triangles": 2267
+    }
+  ]
+}

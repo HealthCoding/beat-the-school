@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Daejeong Girls Jeju R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -7.410294532775879,
+      "id": "env-ground",
+      "url": "env-ground/model-3e433f840aba05e5e7aa562f2ffcbc783418bcd7031fba6dcb2c1eaecae45b2d.gltf",
+      "triangles": 10352
+    },
+    {
+      "minimumY": -0.20000000298023224,
+      "id": "env-site",
+      "url": "env-site/model-54dbe55930aa75855be02d28e88889a3cac6d53bf4d105a6c5696ddb8f218d4a.gltf",
+      "triangles": 1316
+    },
+    {
+      "minimumY": -0.06339757889509201,
+      "id": "env-landscape",
+      "url": "env-landscape/model-0cd0263593e24eeaf9fbe5f6385f89d0030c778c957c03d7369acb0f70d2fa5f.gltf",
+      "triangles": 17428
+    },
+    {
+      "minimumY": -7.335294723510742,
+      "id": "env-context",
+      "url": "env-context/model-d3ea83e82a8d44a1e58ba1d1b9833a737030a1ca1f0dc24ba35d65f1417f7ab4.gltf",
+      "triangles": 9811
+    }
+  ]
+}

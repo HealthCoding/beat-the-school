@@ -1,0 +1,753 @@
+{
+  "version": 1,
+  "source": "jbnu-jeonju active-models.json (124 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "b36963715",
+      "name": "삼성문화회관",
+      "variant": "detailed",
+      "url": "b36963715/model-b2058bff727d05118e800b116f01ae17c6fc8db0de8648888731ad8bd389f1ee.gltf"
+    },
+    {
+      "id": "b115951745",
+      "name": "이름 미상 way/115951745",
+      "variant": "generic-v2",
+      "url": "b115951745/model-c3e7953198f41070925e30dc353614ee3f7f913c2533dc84aa6563fd91f41266.gltf"
+    },
+    {
+      "id": "b115951746",
+      "name": "자연과학대학",
+      "variant": "generic-v2",
+      "url": "b115951746/model-4892966ebf216bd00535e57a7a31521c7c8197457e6d84d49e97170b144aa178.gltf"
+    },
+    {
+      "id": "b115951747",
+      "name": "이름 미상 way/115951747",
+      "variant": "generic-v2",
+      "url": "b115951747/model-8cf851c9d9059ee38f3a29d2c2e57cacf50cab40314591589a2e45fd2d663c67.gltf"
+    },
+    {
+      "id": "b115951748",
+      "name": "정보전산원",
+      "variant": "generic-v2",
+      "url": "b115951748/model-e6d0c0336d7539f0dc2ccfeb9d5178665dda474caac0cf44d456ebb4137bd716.gltf"
+    },
+    {
+      "id": "b115951750",
+      "name": "농업생명과학대학 3호관",
+      "variant": "generic-v2",
+      "url": "b115951750/model-88c0eccbdf6079eb0c92bfec73d124cda25c606dae5eb714de8767c9c4552d45.gltf"
+    },
+    {
+      "id": "b115951751",
+      "name": "자연과학대학",
+      "variant": "generic-v2",
+      "url": "b115951751/model-4ce019b9e81e8231e92170077bad22604c8ae848e0c836645a0585cc1b3b7748.gltf"
+    },
+    {
+      "id": "b115951752",
+      "name": "진수당",
+      "variant": "generic-v2",
+      "url": "b115951752/model-e43da79013a16401912fec8d7e2afaabbd923279b1a2ec307a3b1a98f1b64da7.gltf"
+    },
+    {
+      "id": "b115951753",
+      "name": "약학대학 글로벌인재관",
+      "variant": "generic-v2",
+      "url": "b115951753/model-55a68cc129acb70a99fd15fc0177aeafbfcbce606f8535a3d4a4d0fb049ef921.gltf"
+    },
+    {
+      "id": "b115951754",
+      "name": "사회과학대학",
+      "variant": "generic-v2",
+      "url": "b115951754/model-a7168c657534d4d567d20bb164c83059143f179e1fae23f910c3170daeac16be.gltf"
+    },
+    {
+      "id": "b115951755",
+      "name": "이름 미상 way/115951755",
+      "variant": "generic-v2",
+      "url": "b115951755/model-96a5ed79b12aaa7bb3b5b434bc441b81c6a3652c1933486153861ad4b06ec13a.gltf"
+    },
+    {
+      "id": "b115951756",
+      "name": "동아리전용관",
+      "variant": "generic-v2",
+      "url": "b115951756/model-58adde6bb1cb592adc89fcc13e83a0f7e146c9cb5d8d16cb6e2abd15626c5a94.gltf"
+    },
+    {
+      "id": "b115951757",
+      "name": "법과대학 본관",
+      "variant": "generic-v2",
+      "url": "b115951757/model-0d994dd38cde8ede2f2a991e950e3fde349c6fac800cdfb2be271c7fdc0b3c3e.gltf"
+    },
+    {
+      "id": "b115951758",
+      "name": "공과대학 3호관",
+      "variant": "generic-v2",
+      "url": "b115951758/model-3a182614b0b6db1f0f70bff8e701c47c68130334ce9ff142bd93b43c4023772a.gltf"
+    },
+    {
+      "id": "b115951759",
+      "name": "공과대학 8호관",
+      "variant": "generic-v2",
+      "url": "b115951759/model-410f6e653880ebc55b12920f68a3b740bed10c468994b5b16ab9c2152b218ea9.gltf"
+    },
+    {
+      "id": "b115951760",
+      "name": "상과대학 2호관",
+      "variant": "generic-v2",
+      "url": "b115951760/model-2e082bad394d100f5ddc7c7a7c0a2bdfa6870c195dc4890363f694231f735e18.gltf"
+    },
+    {
+      "id": "b115951761",
+      "name": "이름 미상 way/115951761",
+      "variant": "generic-v2",
+      "url": "b115951761/model-aaa9e96393104d3ed52d0f3d9b615b53366a62c53f3b24b2ff36bae02acc8a8a.gltf"
+    },
+    {
+      "id": "b115951762",
+      "name": "자연과학대학",
+      "variant": "generic-v2",
+      "url": "b115951762/model-fc287ed4ae7653e6f8a716e1b805fafcd38df2e3fbf362fb0bf44ba6d76e1026.gltf"
+    },
+    {
+      "id": "b115951763",
+      "name": "예지원",
+      "variant": "generic-v2",
+      "url": "b115951763/model-0e9918c42568c65b9bd8657f6f9693c202cca41dbbe0b3e58f066ef824c812c1.gltf"
+    },
+    {
+      "id": "b115951764",
+      "name": "풍동실험실",
+      "variant": "generic-v2",
+      "url": "b115951764/model-fbda113c44bcbda706aab5a24a88b7f15c80bcd7aeaeb8ce32292309d28370ec.gltf"
+    },
+    {
+      "id": "b115951766",
+      "name": "농업생명과학대학 4호관",
+      "variant": "generic-v2",
+      "url": "b115951766/model-50ee374f181165540c8ceb0b840a1c238efdf2eabedf8687887bb2a4c0f01097.gltf"
+    },
+    {
+      "id": "naturalHistory",
+      "name": "자연사박물관",
+      "variant": "detailed",
+      "url": "naturalHistory/model-87e9a801eff89c5b5bd226febf9f791bba882864c99a214f47d3676c54ddfe8d.gltf"
+    },
+    {
+      "id": "b115951768",
+      "name": "인문대학 2호관",
+      "variant": "generic-v2",
+      "url": "b115951768/model-3f6a75a878c9d687c682cb7462088f940834fa917d8d801eedbcb94f333519fd.gltf"
+    },
+    {
+      "id": "b115951770",
+      "name": "공과대학 2호관",
+      "variant": "generic-v2",
+      "url": "b115951770/model-90b2f193589762f4e94d906fadcf63ff4f4f3adff708a00e33e03ee8b660b466.gltf"
+    },
+    {
+      "id": "b115951773",
+      "name": "무진동실험실",
+      "variant": "generic-v2",
+      "url": "b115951773/model-d45c8c6eece1471d181a4054c0f0b69d9276b627df0912877b5b308f01446357.gltf"
+    },
+    {
+      "id": "b115951774",
+      "name": "전북대학교 106 학생군사교육단",
+      "variant": "generic-v2",
+      "url": "b115951774/model-9be8df70147bc4367616c407c89a856203e75dfac78885901d58d89b6733e781.gltf"
+    },
+    {
+      "id": "b115951775",
+      "name": "농업생명과학대학 본관",
+      "variant": "generic-v2",
+      "url": "b115951775/model-6c8e27d363ed39400c9eb72a2b54d330ccfc8cacfd83ff6b390691a58d4322a3.gltf"
+    },
+    {
+      "id": "b115951776",
+      "name": "예술대학 3호관",
+      "variant": "generic-v2",
+      "url": "b115951776/model-d8be41e4bacdaee51ad4c0ec12cd369d59bcf5ec7deaae5f381ad9fcc099235f.gltf"
+    },
+    {
+      "id": "b115951778",
+      "name": "농업생명과학대학 1호관",
+      "variant": "generic-v2",
+      "url": "b115951778/model-87b895da2571b3b3e2dcb9754018f74bc2a94f1e7f9e4da4a5a219d81831070f.gltf"
+    },
+    {
+      "id": "b115951779",
+      "name": "자연과학대학",
+      "variant": "generic-v2",
+      "url": "b115951779/model-54951a6476b954d8fb1b76ef0ca2f77186cc2c5ddc1720c5d01c156f082853fc.gltf"
+    },
+    {
+      "id": "b115951781",
+      "name": "공과대학 7호관",
+      "variant": "generic-v2",
+      "url": "b115951781/model-3de258ffd3e65894f8db3e5195f6714b94765cfd2b27f366c281569e5151a14a.gltf"
+    },
+    {
+      "id": "b115951782",
+      "name": "인재등용관",
+      "variant": "generic-v2",
+      "url": "b115951782/model-3cccfef557782a66d18c8886cee42f8a7b0c1c2fd98d558b97daaa455597bf5e.gltf"
+    },
+    {
+      "id": "b115951783",
+      "name": "창조1관",
+      "variant": "generic-v2",
+      "url": "b115951783/model-f39e04e283879db16e90d200230272fc3ea4cbd3fed88037cc3bdd29b02bf4a1.gltf"
+    },
+    {
+      "id": "b115951786",
+      "name": "사범대학 본관",
+      "variant": "generic-v2",
+      "url": "b115951786/model-622ec493e46af3c1f07f18ee4d09f9847f3f29c633ad3654ad8ba68b1c72de49.gltf"
+    },
+    {
+      "id": "b115951787",
+      "name": "공과대학 부속공장",
+      "variant": "generic-v2",
+      "url": "b115951787/model-dbd2aab13f65fa0d01a70109597bc8f245254a71c9e93a543de40452311ef957.gltf"
+    },
+    {
+      "id": "b115951788",
+      "name": "건지원",
+      "variant": "generic-v2",
+      "url": "b115951788/model-35e52c14447a44507e4ab2f33fda27df8ba0c698cc029c6a4cf9da691be872e1.gltf"
+    },
+    {
+      "id": "b115951790",
+      "name": "생활과학대학",
+      "variant": "generic-v2",
+      "url": "b115951790/model-4b6d6e63f9feba2445d5707757f2a606e7c885f40dfcb03d54493e9b8fdbb6f4.gltf"
+    },
+    {
+      "id": "b115951791",
+      "name": "공과대학 4호관",
+      "variant": "generic-v2",
+      "url": "b115951791/model-43c65316c5fd79092348b91c1437dfc4c6b9cdc00e9ec9e8281e371c90040c3d.gltf"
+    },
+    {
+      "id": "b115951792",
+      "name": "창조2관",
+      "variant": "generic-v2",
+      "url": "b115951792/model-be6201d3baa4bdd1189b289b7bd71b8cb0b126937ba72da1a3eb598f95bdf827.gltf"
+    },
+    {
+      "id": "b115951794",
+      "name": "사범대학 과학관",
+      "variant": "generic-v2",
+      "url": "b115951794/model-87e86295f3f59d01f582a45da7a6b971acc6fda7bddd6a4c3c7a596fa9ac63ae.gltf"
+    },
+    {
+      "id": "b115951799",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "b115951799/model-307e84c475e63a8eefa3558e583283f75270ce25a6d2aa5fe6ea59f24ff282d1.gltf"
+    },
+    {
+      "id": "b115951800",
+      "name": "공과대학 5호관",
+      "variant": "generic-v2",
+      "url": "b115951800/model-fcde6cd8bc22c14ebba90d85f9cdfedfd5ea429d63b46fc07577bffcb4e31936.gltf"
+    },
+    {
+      "id": "b115951803",
+      "name": "이름 미상 way/115951803",
+      "variant": "generic-v2",
+      "url": "b115951803/model-21e6558da580c27d0ba6ebbd995325e99118ccba2d65141827ab46ddbad3a2f3.gltf"
+    },
+    {
+      "id": "b115951804",
+      "name": "이름 미상 way/115951804",
+      "variant": "generic-v2",
+      "url": "b115951804/model-24fa8b85f73966ee71ebfdd1d8bde1659e6859d0d85f0a1227b7fa437f71e2bb.gltf"
+    },
+    {
+      "id": "b115951806",
+      "name": "자연과학대학",
+      "variant": "generic-v2",
+      "url": "b115951806/model-1d4ed5854123df9f4f7e158b127970dda44fdd3d08d46ffb874e18673aaf970d.gltf"
+    },
+    {
+      "id": "b115951807",
+      "name": "시설관리과 파워플랜트",
+      "variant": "generic-v2",
+      "url": "b115951807/model-f5205cb00b660f8cb646da298739651fdef4fe1278206168d8f23201f53067a7.gltf"
+    },
+    {
+      "id": "main",
+      "name": "대학본부",
+      "variant": "detailed",
+      "url": "main/model-c8fef3f44f7b8d5e07fd2d8dbe09f823aa8123b0bd62e5c79373495feb298c53.gltf"
+    },
+    {
+      "id": "b115951813",
+      "name": "이름 미상 way/115951813",
+      "variant": "generic-v2",
+      "url": "b115951813/model-c5b0b597a13d929446578589c4b2c1e83cf9cf25ed50ddbd35cffa93e40ad2c2.gltf"
+    },
+    {
+      "id": "b115951815",
+      "name": "큰사람교육개발원",
+      "variant": "generic-v2",
+      "url": "b115951815/model-f16edef3af265a57b93fa709cb902b1f053d7dad94416c46457af9bcd558b02d.gltf"
+    },
+    {
+      "id": "b115951816",
+      "name": "인문대학 1호관",
+      "variant": "generic-v2",
+      "url": "b115951816/model-2dc42f650a5e23165086f3fdcdf4dd87a702318a9526c3a6728982da00aea0f3.gltf"
+    },
+    {
+      "id": "b115951817",
+      "name": "창업보육센터",
+      "variant": "generic-v2",
+      "url": "b115951817/model-fc839cfa30ba1bb3393f49d756bfe4cce27cd90cc2f5fbc4cc48fd8a91b69de6.gltf"
+    },
+    {
+      "id": "b115951818",
+      "name": "공과대학 6호관",
+      "variant": "generic-v2",
+      "url": "b115951818/model-a1b4446e8a184b529d7c211787eb54ff9b637a748c66b444f439b17abf051560.gltf"
+    },
+    {
+      "id": "b115951819",
+      "name": "농업생명과학대학 2호관",
+      "variant": "generic-v2",
+      "url": "b115951819/model-e0ae942e8e04300a443ffb29f628113dcaf8eaf493288be6ba6a185610270da1.gltf"
+    },
+    {
+      "id": "museum",
+      "name": "박물관",
+      "variant": "detailed",
+      "url": "museum/model-97f6b032fa49f16c46abf75435cab3200a9e8c81ecb2bedd81e0b2c069feb659.gltf"
+    },
+    {
+      "id": "b115951822",
+      "name": "정보전산원 교육동",
+      "variant": "generic-v2",
+      "url": "b115951822/model-0c8f691c1ad4ccced3d5799b9090d3932331517a2599286bb8cbc501d74f4ed5.gltf"
+    },
+    {
+      "id": "b115951824",
+      "name": "이름 미상 way/115951824",
+      "variant": "generic-v2",
+      "url": "b115951824/model-3535d7e5bf437e0afb61cb9872aa7241b8bb54412724b7aca564c51462109d22.gltf"
+    },
+    {
+      "id": "b115951825",
+      "name": "공과대학 1호관",
+      "variant": "generic-v2",
+      "url": "b115951825/model-ef982e98e26d4bf4f50fa7c3091885657dbee249a8875867ab59cf207477b53a.gltf"
+    },
+    {
+      "id": "b115951826",
+      "name": "자연과학대학 5호관",
+      "variant": "generic-v2",
+      "url": "b115951826/model-1a0852e559baca8aae710bdbc42f4d3d0a6d6598ac48c2d045342d85eb217802.gltf"
+    },
+    {
+      "id": "b115951828",
+      "name": "농업생명과학대학 부속농장",
+      "variant": "generic-v2",
+      "url": "b115951828/model-842e8a0d19fac0a5332f7f99d07e6ac7e47415e8d37c024a7f2c3d8796f59cea.gltf"
+    },
+    {
+      "id": "b115951829",
+      "name": "사범대학 예체능관",
+      "variant": "generic-v2",
+      "url": "b115951829/model-7f35e64a2b27c8e8e4de8c2b50e0978a25fb254041612f5f87aeaf8f9b04475a.gltf"
+    },
+    {
+      "id": "b115951832",
+      "name": "농업생명과학대학 온실",
+      "variant": "generic-v2",
+      "url": "b115951832/model-8ed7b5f18834ffcb11adffa1bf5bedce0a69d4926d4f75b5a4c5f61e44ad399b.gltf"
+    },
+    {
+      "id": "b117908732",
+      "name": "상과대학 3호관",
+      "variant": "generic-v2",
+      "url": "b117908732/model-69db2849446f69fa2396615acc75b722ca2d90b4fd6b9353c233ac1060ea398f.gltf"
+    },
+    {
+      "id": "b117908733",
+      "name": "성원법학도서관",
+      "variant": "generic-v2",
+      "url": "b117908733/model-c4fb0a170aa39462393f7566204fc5ddbd38a9e3ed7676f4f3d0f89507466afc.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-2aa8e2ad95c5b6ea6b27705b5f68abb5c2f7db5427710208a81cc4f4fbb50d77.gltf"
+    },
+    {
+      "id": "b117908739",
+      "name": "전대학술문화관",
+      "variant": "generic-v2",
+      "url": "b117908739/model-2d496e5aa650614712681408440073190b1c443373dde596abe6b22dabf0f9a5.gltf"
+    },
+    {
+      "id": "b117908745",
+      "name": "후생관",
+      "variant": "generic-v2",
+      "url": "b117908745/model-b6557d6ccaf7e00ded0e9ee65a5737a331ee9781e84d494fc113f8aa6811d1cb.gltf"
+    },
+    {
+      "id": "b117912025",
+      "name": "대형풍동실험센터",
+      "variant": "generic-v2",
+      "url": "b117912025/model-78f59ea78fb656ff92c8a29551d6c6563db7566369b4ff0c27a1eab475365d6d.gltf"
+    },
+    {
+      "id": "b470140010",
+      "name": "사범대학 교육연구동",
+      "variant": "generic-v2",
+      "url": "b470140010/model-7eaee0fd0d4ba6390c089e55b1835398b3d10a4a843ab85fbfba94d292c34ab9.gltf"
+    },
+    {
+      "id": "b470144646",
+      "name": "뉴실크로드센터",
+      "variant": "custom",
+      "url": "b470144646/model-ba860c19d8b65626ce2e1aab7ed05674bd1c66c558f5f56fb10a9386dad71924.gltf"
+    },
+    {
+      "id": "b470144647",
+      "name": "인문사회관",
+      "variant": "generic-v2",
+      "url": "b470144647/model-1d1f39a08bd67e40b1335140841fbc6d620bc330c1a6ec9370fc7b1cf4458677.gltf"
+    },
+    {
+      "id": "b470144649",
+      "name": "공과대학 9호관",
+      "variant": "generic-v2",
+      "url": "b470144649/model-19e58277931d7c0368b5bd4a254dfbab88e831ec69b54cd6fa1d7add84139609.gltf"
+    },
+    {
+      "id": "b472635997",
+      "name": "건지광장 임시정류장",
+      "variant": "custom",
+      "url": "b472635997/model-16b2d848938344ab0c2cce5ad793784df6e64e60f7c39838bed3bf89978135dc.gltf"
+    },
+    {
+      "id": "b472635999",
+      "name": "전북대 통학버스 정류장",
+      "variant": "custom",
+      "url": "b472635999/model-43ee9abaa25f5e75166cfac1e271cc96bf6b48d1334e419ecee4f4ebaac4613d.gltf"
+    },
+    {
+      "id": "b743633083",
+      "name": "법학전문대학원 본관",
+      "variant": "generic-v2",
+      "url": "b743633083/model-a3c9e44eac8ddcc961effcc29d9b58dceb53e6044eb0414cdc6b79bff4a461ca.gltf"
+    },
+    {
+      "id": "b743648652",
+      "name": "느티나무카페",
+      "variant": "detailed",
+      "url": "b743648652/model-84d889b51edf458827c0b2575b648f33b5f0ebcaae029c6bc53384a1157516dd.gltf"
+    },
+    {
+      "id": "b876428419",
+      "name": "심천학당",
+      "variant": "custom",
+      "url": "b876428419/model-2bab96252d222a422d9c329839b4cf791f545836d00c63ec18c87f63f85635b8.gltf"
+    },
+    {
+      "id": "b876428420",
+      "name": "정연재",
+      "variant": "generic-v2",
+      "url": "b876428420/model-5fbf40c87aeb5dd2146459efec9e37d4bd48ae8a8ef4f4ba39fc90de5e60de07.gltf"
+    },
+    {
+      "id": "b968357470",
+      "name": "전북대학교 해상풍력국제공동연구소",
+      "variant": "generic-v2",
+      "url": "b968357470/model-fcd66dd8d6777511d9baf1ab390a353e948bde2b9e2f3f0230ccfbc21ce2c73b.gltf"
+    },
+    {
+      "id": "b1074408338",
+      "name": "이름 미상 way/1074408338",
+      "variant": "custom",
+      "url": "b1074408338/model-6f21894665bc135909871dd093743e35f9adfbe43ceb70a638e285cd85594be2.gltf"
+    },
+    {
+      "id": "gate",
+      "name": "한옥 정문",
+      "variant": "detailed",
+      "url": "gate/model-151f964531297315048f3175f52e851439a4dd834261682f9390f33ca26c2fce.gltf"
+    },
+    {
+      "id": "b1293436254",
+      "name": "전북대 후생관 CU",
+      "variant": "generic-v2",
+      "url": "b1293436254/model-37348770e9d04e3701e5170dae0818206387a8e6449a241a3dc31544637e699b.gltf"
+    },
+    {
+      "id": "b1299259734",
+      "name": "이름 미상 way/1299259734",
+      "variant": "generic-v2",
+      "url": "b1299259734/model-f7e0f5795eb41eaa3afaac022f0061810ac84b445a069183519cc9a006e7ef79.gltf"
+    },
+    {
+      "id": "b1299259735",
+      "name": "이름 미상 way/1299259735",
+      "variant": "generic-v2",
+      "url": "b1299259735/model-137e9d05349022f117f0ddbc4e626ec800322cae9a06b20a27d2eba97dc6a01e.gltf"
+    },
+    {
+      "id": "b1326487550",
+      "name": "문회루",
+      "variant": "detailed",
+      "url": "b1326487550/model-564e4faa7aa7426721f9799adbd2bc48bcd0095ea64846c895d925c06e548b1c.gltf"
+    },
+    {
+      "id": "b1367280820",
+      "name": "학생타운",
+      "variant": "generic-v2",
+      "url": "b1367280820/model-9afdd7c587383d534ec37f16e0bac9d9403a10bc3e98d46ca73cf23305032da8.gltf"
+    },
+    {
+      "id": "b1389446813",
+      "name": "전북대학교 산학융합 PLAZA",
+      "variant": "generic-v2",
+      "url": "b1389446813/model-ad55826d48d535b7dd2d3b5592b6c161e7157cd6be61762605dc311fc1c3fdb4.gltf"
+    },
+    {
+      "id": "b1541330230",
+      "name": "이름 미상 way/1541330230",
+      "variant": "custom",
+      "url": "b1541330230/model-907a8d47cac53b2760100922c3160279f98b74504bf8c6326f6802205bfece67.gltf"
+    },
+    {
+      "id": "b1554173625",
+      "name": "헌혈의집 전북대한옥센터",
+      "variant": "generic-v2",
+      "url": "b1554173625/model-13bb257f3705c9041300403446b7db39ae2d2abe90a1d0813d2fbe4761a17c9a.gltf"
+    },
+    {
+      "id": "b1557353110",
+      "name": "항공교육실습장",
+      "variant": "generic-v2",
+      "url": "b1557353110/model-3fe381efac9f68b5d74da8ba0b004b106bdd98ad1b180b969f0f995971fb7f85.gltf"
+    },
+    {
+      "id": "b1557353114",
+      "name": "이름 미상 way/1557353114",
+      "variant": "generic-v2",
+      "url": "b1557353114/model-641717514bc99890ddb7cb23221dddd61c80546cd4a449977ab502275c9b4727.gltf"
+    },
+    {
+      "id": "b1557353117",
+      "name": "이름 미상 way/1557353117",
+      "variant": "generic-v2",
+      "url": "b1557353117/model-ac739dbef9705831b05cae0bd8d00bc9199bec016795c61f40f42fc8667156fe.gltf"
+    },
+    {
+      "id": "b1557353121",
+      "name": "이름 미상 way/1557353121",
+      "variant": "generic-v2",
+      "url": "b1557353121/model-3b821d10d65a6a63b7df2f6e580c1e68893bfe99efb2bc2dd18de2946e8d4095.gltf"
+    },
+    {
+      "id": "b6939708",
+      "name": "야외음악당",
+      "variant": "custom",
+      "url": "b6939708/model-740648414a0ee2fde6dc45145857053315593db0b6c51b064b377d2732d3ce28.gltf"
+    },
+    {
+      "id": "b6953118",
+      "name": "상과대학 1호관",
+      "variant": "generic-v2",
+      "url": "b6953118/model-aaeecfcb3b03915c4d24ea882b70931e338e64919d72dfa35027291d173fc541.gltf"
+    },
+    {
+      "id": "b36807585",
+      "name": "전북대학교 의학도서관",
+      "variant": "generic-v2",
+      "url": "b36807585/model-8142cae16f1cda366663c6b946c86bee28f38199dc4e54a6c7855a782556ed2b.gltf"
+    },
+    {
+      "id": "b115951749",
+      "name": "의학계 학생회관",
+      "variant": "generic-v2",
+      "url": "b115951749/model-55932065e3dc3ef7b45d422ae824e1c76a88f85c2a74a154bf8f3f730fe2738b.gltf"
+    },
+    {
+      "id": "b115951780",
+      "name": "의학계열공용관",
+      "variant": "generic-v2",
+      "url": "b115951780/model-bd846a436a37b37d5ca86fc152b4503cae64731a03001258191a0ee2739e8347.gltf"
+    },
+    {
+      "id": "b115951793",
+      "name": "의과대학 2호관",
+      "variant": "generic-v2",
+      "url": "b115951793/model-0d6efb06503b692acba448104a46a4d12d2d7d7b3dbfcd460d193a6128078067.gltf"
+    },
+    {
+      "id": "b115951801",
+      "name": "반도체공정연구센터",
+      "variant": "generic-v2",
+      "url": "b115951801/model-cae295cd6698b7b9d9a83e089d42b7136dc541856b86613e4f4b8a8f50b5b275.gltf"
+    },
+    {
+      "id": "b115951805",
+      "name": "치과대학 3호관",
+      "variant": "generic-v2",
+      "url": "b115951805/model-410fcba204d13be59493658b8368a14af1dc9906ed32998e6a33998b9d9421f5.gltf"
+    },
+    {
+      "id": "b115951831",
+      "name": "반도체물성연구소",
+      "variant": "generic-v2",
+      "url": "b115951831/model-990d60557020f166f7d049bef221879a8387dd7a084ff5406d7ddf194e8ba36f.gltf"
+    },
+    {
+      "id": "b117903329",
+      "name": "대동관",
+      "variant": "generic-v2",
+      "url": "b117903329/model-bc51bc751c48bfdb96bc8636a4620641d5a0811c5a6a5d6c9ac44bd4a7d7f103.gltf"
+    },
+    {
+      "id": "b117903332",
+      "name": "예술대학 2호관",
+      "variant": "generic-v2",
+      "url": "b117903332/model-7bbdf4894538053fcce01478fca6e845c039be3d91bc96e0bcecfb2b1c2ffefb.gltf"
+    },
+    {
+      "id": "b117903335",
+      "name": "예술대학 본관",
+      "variant": "generic-v2",
+      "url": "b117903335/model-829fba0ff7b67d38d348d4a35a88f2582472ab2e83d5c605aadd772497bd4515.gltf"
+    },
+    {
+      "id": "b117903344",
+      "name": "생활관 관리동",
+      "variant": "generic-v2",
+      "url": "b117903344/model-41338c9d343bdeaa09e53ae5b1a59ddf445ea418692ff10371affc87854e1f4c.gltf"
+    },
+    {
+      "id": "b117912026",
+      "name": "훈산건지하운스",
+      "variant": "generic-v2",
+      "url": "b117912026/model-19a3f41efe8090738dc7a929c031fc9764b44fbf1d97c6214dbaff6331cababf.gltf"
+    },
+    {
+      "id": "b472625473",
+      "name": "전북대학교 합동연구동",
+      "variant": "generic-v2",
+      "url": "b472625473/model-18df7348a51111c4bca8393460b611ae219b5e9e1927384723991a174ef484ea.gltf"
+    },
+    {
+      "id": "b472625484",
+      "name": "전북대학교 로스알라모스 연구소",
+      "variant": "generic-v2",
+      "url": "b472625484/model-b2994b720c37b6b886b5c047bcf12f9d719a9044b5be08b4696c73c9793af10f.gltf"
+    },
+    {
+      "id": "b743641874",
+      "name": "한빛관",
+      "variant": "generic-v2",
+      "url": "b743641874/model-e50b2608e2d3f343eb9ad6bf910203f70b8da429841d81cdcead563c11f90b90.gltf"
+    },
+    {
+      "id": "b743648654",
+      "name": "의학전문대학원 교수연구동",
+      "variant": "generic-v2",
+      "url": "b743648654/model-deb172c1272c482418271713417a9b4cb319de0616e38d2232649913518976b6.gltf"
+    },
+    {
+      "id": "b743648655",
+      "name": "전북대학교 의과대학",
+      "variant": "generic-v2",
+      "url": "b743648655/model-104e9b56099af2618227e27d6a14e5f46bf9526b9f96f24ab4a2ca11d6fa6c48.gltf"
+    },
+    {
+      "id": "b743648656",
+      "name": "전북대학교 간호대학",
+      "variant": "generic-v2",
+      "url": "b743648656/model-fc3da8ce559df5d3ec8daf3dde765c1ec6a26c5dcb5aa58a3a96817c54703a6f.gltf"
+    },
+    {
+      "id": "b743648658",
+      "name": "혜민관",
+      "variant": "generic-v2",
+      "url": "b743648658/model-1318089fbcf2c89b5655ea8a17592455a3183ad71f078266e5c99726abccb7fa.gltf"
+    },
+    {
+      "id": "b743648659",
+      "name": "혜민관",
+      "variant": "generic-v2",
+      "url": "b743648659/model-3925a4d00f51f302b09357f96a584cbebf948442a90742dd14627701936f8a4d.gltf"
+    },
+    {
+      "id": "b743648660",
+      "name": "한국기초과학지원연구원 전주분원",
+      "variant": "generic-v2",
+      "url": "b743648660/model-42ca93e975e08dd04a6933c13a5609d7788c33fab045b8e7d599bb71f4540c52.gltf"
+    },
+    {
+      "id": "b743648661",
+      "name": "전북대학교 공동실험실습관",
+      "variant": "generic-v2",
+      "url": "b743648661/model-f6cbc8d1291b1e38d5422185251afa2e9e8c5ddac92181465d94badc841a83a1.gltf"
+    },
+    {
+      "id": "b743648662",
+      "name": "의학전문대학원 생명과학관",
+      "variant": "generic-v2",
+      "url": "b743648662/model-dba726c3e9430f1e5dfdb12b02c8cd04a3f0a92a52e52453c329eafa5bcada4a.gltf"
+    },
+    {
+      "id": "b981579179",
+      "name": "세븐일레븐",
+      "variant": "generic-v2",
+      "url": "b981579179/model-ee5785935b95db8d6eae8ee2d2e02e01a4418897af9fdad881f2d03f241d93ce.gltf"
+    },
+    {
+      "id": "b981579190",
+      "name": "치과대학 1호관",
+      "variant": "generic-v2",
+      "url": "b981579190/model-808586a5030fe5c2c4bc284f2ba4bbc54f9ba099da9d6a460c5ee6618c267d71.gltf"
+    },
+    {
+      "id": "b981579191",
+      "name": "치과대학 2호관",
+      "variant": "generic-v2",
+      "url": "b981579191/model-87eb4e96c57c9c28887104f53be51eefe412797c4e9bb580b89aef9789ec73b4.gltf"
+    },
+    {
+      "id": "b1228625126",
+      "name": "창의관",
+      "variant": "generic-v2",
+      "url": "b1228625126/model-4ded28e05cabc0976b61896af2088ad4dc4f104e4b6ccf6e70e8fa0788e87df5.gltf"
+    },
+    {
+      "id": "b1389446812",
+      "name": "이름 미상 way/1389446812",
+      "variant": "generic-v2",
+      "url": "b1389446812/model-14373f7728bd191b862390aaee6f045e7562934c4f9f654e95283058037dc9ac.gltf"
+    },
+    {
+      "id": "b16784614",
+      "name": "참빛관",
+      "variant": "generic-v2",
+      "url": "b16784614/model-d8e792dcb61f18fcec392e2290ba72876f034099bb47e48427bb6d3003f79d7d.gltf"
+    },
+    {
+      "id": "b16784615",
+      "name": "새빛관",
+      "variant": "generic-v2",
+      "url": "b16784615/model-d056966c9db75e756570cb72374ed93137e01b4acc2bc12f64edfbeceb25ac30.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 412563
+  }
+}

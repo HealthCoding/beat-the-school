@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Dongdo Middle School (Mapo, Seoul) R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "gugwan",
+      "url": "gugwan/model-e48507402022b1484953c83c0d031309aa888c410317d8127a31f4a2438d7b71.gltf",
+      "triangles": 7996,
+      "name": "동도중 구관(석조관·A동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "bongwan",
+      "url": "bongwan/model-3b070efb1bc2841cea5e8ee0571f07d11a18654e21c5f952e1465ad72712b9d7.gltf",
+      "triangles": 5656,
+      "name": "동도중 본관(연결교사동·B동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "junganggwan",
+      "url": "junganggwan/model-a16078eebd2d2c5cac23a938835d8cd1497dac94f32e0e887ed5e8eef5c23e32.gltf",
+      "triangles": 5570,
+      "name": "중앙관(시계탑관·C동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "songsangwan",
+      "url": "songsangwan/model-66b519b18c3e0cdb27f4a0d9537d55e943ab05107a1399ab532b032ace8df2af.gltf",
+      "triangles": 4634,
+      "name": "송산관(강당·복합관·D동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex-d2",
+      "url": "annex-d2/model-fdded6c51f5c567350988b8083634c883036e13dbbad0f453fd72373e218a200.gltf",
+      "triangles": 1286,
+      "name": "조리·특별교실별관(D-2동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "donggwan",
+      "url": "donggwan/model-aa9f45bbb58b6f38332b046c683ad240e8e527d03b8cecc3c983c18fc1e63c39.gltf",
+      "triangles": 4998,
+      "name": "동관(교사·실습동·E동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "south-pavilion",
+      "url": "south-pavilion/model-6de846853911cdc428580e835404d50c5e747faef1d48c2e1afe7194cb32c75e.gltf",
+      "triangles": 1274,
+      "name": "남측 체육지원관(야구부·실내연습동)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 31414
+  }
+}

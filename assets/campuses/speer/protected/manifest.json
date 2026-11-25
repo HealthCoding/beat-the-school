@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "minimumY": 0,
+      "id": "curtis",
+      "url": "../curtis/model-2b63404573abf94c6777ddfc44e34fa8b17f0ebf20ad05fa478be4dcc0c3d5de.gltf",
+      "triangles": 5068,
+      "name": "커티스 메모리얼 예배당"
+    }
+  ],
+  "source": "Curtis Memorial Chapel: independent religious use, shield. School teaching/memorial buildings remain destructible regardless of registered heritage."
+}

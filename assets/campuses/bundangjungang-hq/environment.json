@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Exact Bundangjungang HQ preview environment",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-1d921560639a5e255dc9b8d2875d4da693a2fc1e51cff88f625181bf455b6acb.gltf",
+      "triangles": 7097,
+      "instanceTriangles": 7097
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-83e246ba69e5642b2096f23b15dc4e0964742c56ecb417993b0212df84939d7e.gltf",
+      "triangles": 39432,
+      "instanceTriangles": 39432
+    },
+    {
+      "id": "context",
+      "url": "context/model-aa062d128b82152a0842f7412e2baac43e87c68a90e62b4b7c21e40038a9c191.gltf",
+      "triangles": 39063,
+      "instanceTriangles": 39063
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-e4aa5744e6153ef1d5c9141e077a974016ad2e4e0cfc7126e162da44cb81a7ed.gltf",
+      "triangles": 658,
+      "instanceTriangles": 24412
+    }
+  ]
+}

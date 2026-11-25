@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source": "Bansong Hwaseong R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -11.86762809753418,
+      "id": "env-ground",
+      "url": "env-ground/model-c3ffc5593cbabc363ca16543240454badd854647fce7807e4664e2be9dada246.gltf",
+      "triangles": 48316
+    },
+    {
+      "minimumY": -1.649999976158142,
+      "id": "env-site",
+      "url": "env-site/model-baed2478346f88b4bb41ffed7c6fd42515ecc2f0163002b35e2cf218648ec3d9.gltf",
+      "triangles": 28392
+    },
+    {
+      "minimumY": -7.568591117858887,
+      "id": "env-context",
+      "url": "env-context/model-3d2a48e06766e4bff6749050691fc55c53653a3845208a5bca8260fd8323e4fe.gltf",
+      "triangles": 21570
+    },
+    {
+      "minimumY": 0,
+      "id": "env-planting",
+      "url": "env-planting/model-3ac32898dff91fd98041cce3b0661065f1e0872f355d6d7d575127caf88317a6.gltf",
+      "triangles": 418,
+      "instances": 62
+    }
+  ]
+}

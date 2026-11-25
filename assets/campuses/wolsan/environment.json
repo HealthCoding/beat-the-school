@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Wolsan Gimhae R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-b67fcb74236cf5387d79c87772edbdbb705fe81d6c1fe75e89f17db65e6d3e98.gltf",
+      "triangles": 13577
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-d9751a4484dc2aa0c645a9049a02a85bcb7370f45340c5db3784d6a1432e4453.gltf",
+      "triangles": 31548
+    },
+    {
+      "id": "context",
+      "url": "context/model-8af0ce7b8592fa5a595ddbfb6453726537bf5a1f67b46c7d2d0512b1dcd34f3c.gltf",
+      "triangles": 54607
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-514bc00eab794a60fa63e20660f50516f766c0befa47ad30a40bcf185113f9a8.gltf",
+      "triangles": 2267
+    }
+  ]
+}

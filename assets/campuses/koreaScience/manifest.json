@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "source": "pilot/korea-science/active-models.json (buildings + bridges), packed losslessly",
+  "models": [
+    {
+      "id": "cjFoodSafety",
+      "name": "CJ식품안전관",
+      "variant": "generic",
+      "url": "cjFoodSafety/model-47f4011ac001e75668809b13083d709ff304ce00a670bfd55c8773f90fec6726.gltf"
+    },
+    {
+      "id": "hanaScienceA",
+      "name": "하나과학관 (A동)",
+      "variant": "detailed",
+      "url": "hanaScienceA/model-058b008d5e4712dd0855208734e5706f638489391c73d896895bae1c21b519ee.gltf"
+    },
+    {
+      "id": "hanaScienceB",
+      "name": "하나과학관 (B동)",
+      "variant": "detailed",
+      "url": "hanaScienceB/model-c112ca46e5c0070a658f2599e8cdeae7c0a1a17aff55bbf24fd31eb8c6c9cf2a.gltf"
+    },
+    {
+      "id": "lifeScienceWest",
+      "name": "생명과학관(서관)",
+      "variant": "generic",
+      "url": "lifeScienceWest/model-1bdc77549e5c781ed4f8dadd36c959e06f6167171025f3e05af122161af5e251.gltf"
+    },
+    {
+      "id": "lifeScienceEast",
+      "name": "생명과학관(동관)",
+      "variant": "detailed",
+      "url": "lifeScienceEast/model-4b1e600dd790556f36774399c8dce7432fc2377fb4ed6363b381219e61cef806.gltf"
+    },
+    {
+      "id": "mediheal",
+      "name": "메디힐지구환경관",
+      "variant": "generic",
+      "url": "mediheal/model-fc5ee87d143d4a9650ea30810a9b78d0ff1b88b836fd516c23f160d6fe0cd1c8.gltf"
+    },
+    {
+      "id": "asanScience",
+      "name": "아산이학관",
+      "variant": "detailed",
+      "url": "asanScience/model-1d14fa6d888d7d132433bbe08eb12be0be5676e3831d7795b637eef37aee613a.gltf"
+    },
+    {
+      "id": "woojungInfo",
+      "name": "우정정보관",
+      "variant": "generic",
+      "url": "woojungInfo/model-96cc69b73dea1384df9fb54031ba775b95b7de4eb36f2937eee79d20bd49e80f.gltf"
+    },
+    {
+      "id": "hanaSquareNorth",
+      "name": "하나스퀘어 (북쪽 유리동)",
+      "variant": "generic",
+      "url": "hanaSquareNorth/model-6227bcb87028c9d79783a73e0773a50716633c3edd5f08f0523542bac172b170.gltf"
+    },
+    {
+      "id": "hanaSquareSouth",
+      "name": "하나스퀘어 (남쪽 유리동)",
+      "variant": "generic",
+      "url": "hanaSquareSouth/model-ebf201a7e527c6771808c921cfcd0ce0bd70ea735d6e750f340ef6ca2e6c1796.gltf"
+    },
+    {
+      "id": "basicScience",
+      "name": "기초과학관",
+      "variant": "generic",
+      "url": "basicScience/model-870b970784a64e9e5d37570fb186ca10d774b3fb1f2879c9fe425f95ffb9b441.gltf"
+    },
+    {
+      "id": "futureTech",
+      "name": "미래융합기술관",
+      "variant": "generic",
+      "url": "futureTech/model-e7a87e36ce521a1080fa70861d5c1a6d1a44881ae5cef697eebe6d239d88a1ab.gltf"
+    },
+    {
+      "id": "scienceLibrary",
+      "name": "과학도서관",
+      "variant": "detailed",
+      "url": "scienceLibrary/model-d4fa913a9ce0ad76e1df5cbae9c73319fe3d2b5c22691a5b0546a8b61a376d7f.gltf"
+    },
+    {
+      "id": "aegineung",
+      "name": "애기능생활관",
+      "variant": "generic",
+      "url": "aegineung/model-0e2a796b2393a3f31b2121716d2941757e8ba9a949bb32e9b48928736739a1a3.gltf"
+    },
+    {
+      "id": "jungWoonOh",
+      "name": "정운오 IT·교양관",
+      "variant": "generic",
+      "url": "jungWoonOh/model-fc8faab4ad609aecf28a59d4e80b44b3bad16ef839981d112c813a3db3fc78c8.gltf"
+    },
+    {
+      "id": "sanhak",
+      "name": "산학관",
+      "variant": "generic",
+      "url": "sanhak/model-7029b502f32baf84b78e7532365afb5d9305b901b1231f502c700b6f018a84ae.gltf"
+    },
+    {
+      "id": "envLab",
+      "name": "환경실험관",
+      "variant": "generic",
+      "url": "envLab/model-6ffccbc7ea269986f50fa1247caee364820007389dde950e77a52b30e22e4450.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "detailed",
+      "url": "engineering/model-a2e4dc532f82f0f2800e0af19fb9b8facfb766d4c3f2306d0c6278728ab69a82.gltf"
+    },
+    {
+      "id": "lab2",
+      "name": "제2실험관",
+      "variant": "generic",
+      "url": "lab2/model-59527d22f0528d3cced78d9ce41ce42b16b0d70488fdc2c7f5d1ec3a2c45bd78.gltf"
+    },
+    {
+      "id": "changui",
+      "name": "창의관",
+      "variant": "detailed",
+      "url": "changui/model-9f8b6e0b80792502a3ac41e5072f41ea5d178618742423a99de6b96bd3d62ec4.gltf"
+    },
+    {
+      "id": "newEngineering",
+      "name": "신공학관",
+      "variant": "detailed",
+      "url": "newEngineering/model-83eef8274c7c052f7cb99683683aac80b2951d7f13b5a910b5dd9d373bf068f7.gltf"
+    },
+    {
+      "id": "songhyunSquare",
+      "name": "송현스퀘어(애기능학생회관)",
+      "variant": "generic",
+      "url": "songhyunSquare/model-e4b47beb87bfc221ce1cb853352631ec2df597dc5132cf2bc7d628ff6fadcfa5.gltf"
+    },
+    {
+      "id": "robotConvergence",
+      "name": "로봇융합관",
+      "variant": "generic",
+      "url": "robotConvergence/model-ef41b04af1c972a0e7e319c980ba637b8b6c0bebcb26f6965c55458025620fae.gltf"
+    },
+    {
+      "id": "scienceLibrary-aegineung",
+      "name": "과학도서관-애기능생활관 구름다리",
+      "variant": "bridge",
+      "url": "scienceLibrary-aegineung/model-98691a98a98131720b4c31dfd435ba4bf463a1c2cf1a70ae20c1d7e11e62f2e1.gltf"
+    },
+    {
+      "id": "engineering-sanhak",
+      "name": "공학관-산학관 구름다리",
+      "variant": "bridge",
+      "url": "engineering-sanhak/model-9682cf9813d877aa9448f42b7c7a8ce5f28f9489e9bffcc1f694bbc10f139385.gltf"
+    },
+    {
+      "id": "hanaScience-AB",
+      "name": "하나과학관 A-B 6층 구름다리",
+      "variant": "bridge",
+      "url": "hanaScience-AB/model-d833065288a1d757c39264ddecbf6bc46dd92b9e06b79fb8132ec06d4b68ada7.gltf"
+    },
+    {
+      "id": "hanaSquare-ne-s",
+      "name": "하나스퀘어 동북쪽 보행교 (남, OSM 803710528)",
+      "variant": "bridge",
+      "url": "hanaSquare-ne-s/model-a4c2448b9c3bbff11335a36becab8134657584f2efb680c04590cd78d213ab69.gltf"
+    },
+    {
+      "id": "hanaSquare-ne-n",
+      "name": "하나스퀘어 동북쪽 보행교 (북, OSM 803710531)",
+      "variant": "bridge",
+      "url": "hanaSquare-ne-n/model-11cfa376f140481d008f581ba1e1726fb178c4f568fd80b3675a2616a4fa3244.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 143642
+  }
+}

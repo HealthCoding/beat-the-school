@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "pilot/soongsil-sangdo active-models.json destructible:false (한경직기념관 university chapel: never damaged, shield), packed losslessly",
+  "models": [
+    {
+      "id": "hankyungjik",
+      "name": "한경직기념관",
+      "url": "hankyungjik/model-55ba92adbfd028b4d24e36178a920ee63e8ec7880e58f44070449793bba0aa14.gltf",
+      "triangles": 5436
+    }
+  ]
+}

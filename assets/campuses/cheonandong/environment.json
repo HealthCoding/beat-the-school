@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Cheonan Dong R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-5b645c380bbed6d9acbbda54add4d49ede7a3fd30a9958f8cf4d21b5123ada8b.gltf",
+      "triangles": 60588
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-813e3beab2112506bb40a274e253af71a1c6671e33916c1d05ce86b6fcdc2a6b.gltf",
+      "triangles": 28942
+    },
+    {
+      "id": "context",
+      "url": "context/model-075ba066f1a98d3ba513d4bbd1c60865b56ae6f11f752cbf9cfbc52ae4c928a9.gltf",
+      "triangles": 54376
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f2ba22b97f207c8c7c2034caea6fc866ab57992635c47e9a999a97b625b18d08.gltf",
+      "triangles": 2267
+    }
+  ]
+}

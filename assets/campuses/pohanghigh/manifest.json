@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "auto-school pohanghigh (5 destructible buildings, generated from OSM way/469125630 by scripts/campuses/pohanghigh/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-0d0d85186f1a4aa0797cd2ab112d862b12fa9552aeefc9f183b5acb1c07b8afd.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "청운관",
+      "variant": "auto",
+      "url": "hall2/model-684e3f79ce6d6aee8090a702c9ed6c3166912463f53fb2e0436d0a864f20fb3d.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "후관",
+      "variant": "auto",
+      "url": "wing3/model-26e1a61b7aaba8be18fc4f997d158b0d0301bb08f800bb8503eda781351b4558.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "청운학사",
+      "variant": "auto",
+      "url": "wing4/model-9293b45f53c162fd522225f6b252e1d574c356578ab798def7483d72b1c2de60.gltf"
+    },
+    {
+      "id": "shed5",
+      "name": "부속동",
+      "variant": "auto",
+      "url": "shed5/model-cfea8aac01f1680eeb632f80d665314fef534ded062e7891392786986f9ce824.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 15439
+  }
+}

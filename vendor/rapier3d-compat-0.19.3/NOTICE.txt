@@ -1,0 +1,9 @@
+Rapier 3D (JavaScript bindings, compat build with inlined WebAssembly)
+Package: @dimforge/rapier3d-compat@0.19.3 (npm, published 2025-11-05)
+File: rapier.mjs, copied unmodified from the npm tarball
+Tarball sha1 (matches npm dist.shasum): b7092f4c75e696750c817c9ff6046a8d13015864
+rapier.mjs sha256: bce2c762b440101ebf8cbff038a71fe1884488becd0a53b9a7c0a7e3daf13a2b
+License: Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0
+Copyright: Dimforge EURL / Sébastien Crozet - https://github.com/dimforge/rapier.js
+Used only by src/feel-physics.js (?feel&physics preview), loaded on the first attack.
+Full license text: LICENSE-Apache-2.0.txt (apache.org; the npm tarball ships no license file, package.json declares Apache-2.0)

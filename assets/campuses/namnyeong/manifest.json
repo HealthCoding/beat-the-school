@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "auto-school namnyeong (3 destructible buildings, generated from OSM way/371635467 by scripts/campuses/namnyeong/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-4bee17cf6dd4debccc020381edb21826012d7f002c0e16d71f047226af46b10d.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "송제관",
+      "variant": "auto",
+      "url": "hall2/model-46889ba4fbc8e68782c5184dca5d44214dbe6fffa7add17ec7c70477283386b9.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "체육시설",
+      "variant": "auto",
+      "url": "hall3/model-eb5db3cc4858a0003d7eac20b7e50b81fdcb9a05d31c352b00113fdbc184c0e2.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 11512
+  }
+}

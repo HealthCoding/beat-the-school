@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "snjc-seoul active-models.json (5 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "mainLecture",
+      "name": "본관·제1강의관",
+      "variant": "detailed",
+      "url": "mainLecture/model-8e70afd97e11c25a12326dba728af4c55b4d18e81dded7f24640e91cb4a3f3e5.gltf"
+    },
+    {
+      "id": "practice",
+      "name": "간호실습관",
+      "variant": "detailed",
+      "url": "practice/model-f1ce778021df9e36e8c25de03fdee17585d8416bf9eee930a64c161a1e111162.gltf"
+    },
+    {
+      "id": "lecture2",
+      "name": "제2강의관",
+      "variant": "detailed",
+      "url": "lecture2/model-14f6fd1b189c5493100f6c3e2749fe2e9430e92810e48e50a0b5cb410f3533a9.gltf"
+    },
+    {
+      "id": "annex8088",
+      "name": "미동정 학교 부속동",
+      "variant": "generic-v2",
+      "url": "annex8088/model-f1fd77489ec6d6007f1459ce195359c9f80d8abc22a096fac743b48c0faa709d.gltf"
+    },
+    {
+      "id": "bridge",
+      "name": "연결교",
+      "variant": "custom",
+      "url": "bridge/model-01c83c3d07821e70895da0fddfc573660943abdb8c672feebad3c56792d4d2c3.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 39522
+  }
+}

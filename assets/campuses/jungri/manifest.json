@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "Jungri Daegu R4, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-bb7986cfdda9d29a84e801707587cce93aa06b124e968818266c25a9757b45d9.gltf",
+      "triangles": 18415,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "rear",
+      "url": "rear/model-ee885664b44aa3ede7006cbc5fc2e86d5c3af1bcff3e659491f9e850e1e63923.gltf",
+      "triangles": 10062,
+      "name": "후관",
+      "variant": "detailed"
+    },
+    {
+      "id": "connector",
+      "url": "connector/model-d1c8a0e2d62e48ff416aac51a5435ca0262cd0aed9477125c1012201c85a4a87.gltf",
+      "triangles": 1820,
+      "name": "본관·후관 연결복도",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-0529ed80a97784ef829fb7c2b6bee8b8c7edfe6a12529e771e8e9f973d69f87f.gltf",
+      "triangles": 5516,
+      "name": "중리관",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-bc36d9471871a21db64cd03aeac9de24eb8220d249682428a2c164e741644481.gltf",
+      "triangles": 752,
+      "name": "북서쪽 별동(용도 추정)",
+      "variant": "detailed"
+    },
+    {
+      "id": "walkway",
+      "url": "walkway/model-51abc9e7ee00a7c551b680f3a024140cd32190601e2bc8155c332904683636d0.gltf",
+      "triangles": 200,
+      "name": "본관·중리관 우천통로",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 36765
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school suwonsamil (4 destructible buildings, generated from OSM way/469326701 by suwonsamil-local-builder)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-311ddaed07e21f5a988ad0092da410750b54e83054f343f4fe5f606d46c3d861.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "남측 교사동",
+      "variant": "auto",
+      "url": "wing2/model-0f67325bdadf7a157a5ae6d919c67c09f711aa334696506aa8b909b0bcd20fa9.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "북측 교사동",
+      "variant": "auto",
+      "url": "wing3/model-fc05b5b5158ee2b79e4846b55bd22d2013c20423b7341eb7bc313823a759408c.gltf"
+    },
+    {
+      "id": "adams",
+      "name": "아담스기념관",
+      "variant": "auto",
+      "url": "adams/model-21de21fa172600ef3499996ab6df39401cfadd0376b7279a0a8b937617744610.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 12331
+  }
+}

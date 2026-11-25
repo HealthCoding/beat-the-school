@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/bongui/build-package.mjs (OSM © OpenStreetMap contributors, ODbL; DEM Copernicus GLO-30)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-7644408ac2766cfef70489bd4e14a7f63dee2dd49391f22fbd7e8d840b46ad41.gltf",
+      "triangles": 11406
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-bd11269eaccb3daa539d3736d56c2bcf8a9738f58f29ab65865ac3543267e56d.gltf",
+      "triangles": 5022
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f4e92d16f67c6d03c4bf79a725170f2c04b3ac6eb56d13e8ad7c0816f0d3a396.gltf",
+      "triangles": 46404
+    },
+    {
+      "id": "context",
+      "url": "context/model-f00bba7e4041bf3bea58c0fd0a885324b3efa36865fd1428687b201710c8acf9.gltf",
+      "triangles": 894
+    }
+  ]
+}

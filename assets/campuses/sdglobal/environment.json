@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Seongdong Global Business HS R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-11f6d089c8cfcde0ab8844549ee99940c2c36f4482224dd90925a660059b9103.gltf",
+      "triangles": 11984
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-9d4c76f41e7fbd6d8c5b1287d5f4411a45acd39c94aeb7f17d2a6ac0a1a793e5.gltf",
+      "triangles": 34774
+    },
+    {
+      "id": "context",
+      "url": "context/model-ab78d73f78690d65150fab6fadc0edf917ce4686a215074e70d632fcb7e41fac.gltf",
+      "triangles": 46395
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-4a45c02ad75aaa396a2c630f2bba577109f8a57cf4e7228f6aac56205abfa53b.gltf",
+      "triangles": 2267
+    }
+  ]
+}

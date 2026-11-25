@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Incheon Ieum R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-fa44dc9b04ecad13e34f853124f5d8a68710ad436b613202968e4b55193aa26e.gltf",
+      "triangles": 8615
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-c3f454817ae4714230ef6ae320fb6b5b4d06123a761729ad2ce9b81eff6e7196.gltf",
+      "triangles": 37554
+    },
+    {
+      "id": "context",
+      "url": "context/model-e1ee532f6d9c11101fbb7f3c798088c2c5b46c974ded10ce9098bd2144374702.gltf",
+      "triangles": 19853
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-82825d9b07585ba0fbb006a52c15718a5645e7df55dfe9a960f652634ea31e72.gltf",
+      "triangles": 2267
+    }
+  ]
+}

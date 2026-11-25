@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/yonseiSongdo/build-package.mjs from pilot/yonsei-songdo site/ground.js + context/",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-bb1875ad28f3433d327a66dd68756e807f77708f7617b6387e0867f47c02fea0.gltf",
+      "triangles": 45327
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-1154aca4f951d5481a4edd632336ba9e6fc42240d99eb88fd542481fecc687ad.gltf",
+      "triangles": 22351
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-6863a9c11eff7fc1ec4551ae129f8f7422d0a44acae99f9c03f8ea8f70f66979.gltf",
+      "triangles": 80308
+    },
+    {
+      "id": "env-context-trees",
+      "url": "env-context-trees/model-b77a041c375d2038ad3f3a5b2b318d7dd352181e6cd5e43641d3b79fc822f352.gltf",
+      "triangles": 51510
+    },
+    {
+      "id": "context",
+      "url": "context/model-f9f44c00c865c997a06fc90bff6b74b504b71e8d686dd271e9fdff3e7b119876.gltf",
+      "triangles": 14374
+    }
+  ]
+}

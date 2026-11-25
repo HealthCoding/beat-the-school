@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Songjeong Girls R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-ed2a88d9b74d9ed9b82f7aea012ad447df94fde6ddb3944a861b16f35cba14d8.gltf",
+      "triangles": 12164,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "west",
+      "url": "west/model-41feb64ffd6225167dca8f624e9e8003a9b8c5902b3fec36cd3a2bfdd6ad496d.gltf",
+      "triangles": 5416,
+      "name": "서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-6702972c7f165f70406bb23cf514739baa8732e9e56bbe66ff89d2cb7aed62ca.gltf",
+      "triangles": 1548,
+      "name": "송락관",
+      "variant": "detailed"
+    },
+    {
+      "id": "wing",
+      "url": "wing/model-693c23f58070637fa85443d17f72497b36e29e6ed14c744e53177e385ec8423b.gltf",
+      "triangles": 1540,
+      "name": "송락관 현관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "kiosk",
+      "url": "kiosk/model-e8b68ec214d41a2d4ad73384af3ce389a5f6fd3debb155ea8cb8c267ab9f4330.gltf",
+      "triangles": 374,
+      "name": "창고동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 21042
+  }
+}

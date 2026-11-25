@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "hansung-seoul active-models.json destructible:false (삼군부 총무당: never damaged, shield), packed with bounded attribute rounding with the campus models",
+  "models": [
+    {
+      "id": "chongmudang",
+      "name": "삼군부 총무당",
+      "url": "../chongmudang/model-dfdd7d2e4841d4f47fd700d1bdf502ff5435fd8693e0ddb9c9f8f1a087cd710c.gltf",
+      "triangles": 13494
+    }
+  ]
+}

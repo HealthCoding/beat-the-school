@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "source": "Jungwon Bucheon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-028543fb69377dc21c5c2592c6dcf0ed2d2b467404898240e42c8d019ada6172.gltf",
+      "triangles": 19898,
+      "name": "교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-f4ca975db124668ab14ef3c381b2cdb812b6ff2fbecc0af794b4f162e9480ad1.gltf",
+      "triangles": 2864,
+      "name": "체육관동 승리관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 22762
+  }
+}

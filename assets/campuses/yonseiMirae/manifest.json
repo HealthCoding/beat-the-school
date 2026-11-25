@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "source": "Yonsei Mirae draft; elevations and identification estimated",
+  "models": [
+    {
+      "id": "hq",
+      "name": "대학본부(행정동)",
+      "variant": "detailed",
+      "url": "hq/model-553563159e63a0a9c612c34d9d876c721135de8b64e2d65e40d2354924cba372.gltf",
+      "triangles": 10846
+    },
+    {
+      "id": "jeongui",
+      "name": "정의관",
+      "variant": "detailed",
+      "url": "jeongui/model-1351128df211b23a4209b8079812915eb1a6bec2c16017a29b22bbe5186ec563.gltf",
+      "triangles": 22088
+    },
+    {
+      "id": "cheongsong",
+      "name": "청송관",
+      "variant": "detailed",
+      "url": "cheongsong/model-b7728680ecd7144e23e4798d506b254b7c346cb7cee50072201a382b1365a850.gltf",
+      "triangles": 18611
+    },
+    {
+      "id": "wonju-museum",
+      "name": "원주박물관 (청송관 부속동)",
+      "variant": "detailed",
+      "url": "wonju-museum/model-f9b272ede66cd983295cd603e3a61078956df84b19272d904bcb9701d8e69b3e.gltf",
+      "triangles": 4916
+    },
+    {
+      "id": "changjo",
+      "name": "창조관",
+      "variant": "detailed",
+      "url": "changjo/model-add6b56b0e76c6b0240674ead16b349d2b7fa3d3badd00e9fb593a5de3af5970.gltf",
+      "triangles": 25483
+    },
+    {
+      "id": "changjo-annex",
+      "name": "창조관 북서측 부속동",
+      "variant": "detailed",
+      "url": "changjo-annex/model-85e7e39ae1ff82d8e6631affbc743cb1b64c636fe60039c3274a7e7f7c4c8cc2.gltf",
+      "triangles": 178
+    },
+    {
+      "id": "baegun",
+      "name": "백운관",
+      "variant": "detailed",
+      "url": "baegun/model-7f5b16933a0fa438436aa17b466a93025b9c81b3c61e64fe18281059b5bf3029.gltf",
+      "triangles": 18078
+    },
+    {
+      "id": "baegun-annex-1",
+      "name": "백운관 북측 부속동",
+      "variant": "detailed",
+      "url": "baegun-annex-1/model-6a5dae30a502253666b2ad09b1b0eb8829d64240a97b9511ecc51c10f6b42173.gltf",
+      "triangles": 462
+    },
+    {
+      "id": "baegun-annex-2",
+      "name": "백운관 북서측 부속동",
+      "variant": "detailed",
+      "url": "baegun-annex-2/model-86ea68868f55084d5466dd90a1a7f8c10650f4710d20b7f7c70b77d597bb389d.gltf",
+      "triangles": 166
+    },
+    {
+      "id": "mirae",
+      "name": "미래관",
+      "variant": "detailed",
+      "url": "mirae/model-4c04cdb0c998a17974b6e05212f16ced91c2c0b00b34aeeb2746d3797ae7e255.gltf",
+      "triangles": 17550
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-f0b6b14dbb43414dd4213d050471818069e3b7f38ef83cf126c9393848ed0972.gltf",
+      "triangles": 18164
+    },
+    {
+      "id": "student-union",
+      "name": "학생회관",
+      "variant": "detailed",
+      "url": "student-union/model-97c5d273dfebcb3fddb8794694c87ce1715351086e639e12d93596fdcb9d5c1c.gltf",
+      "triangles": 12070
+    },
+    {
+      "id": "student-union-annex",
+      "name": "학생회관 북서측 부속동",
+      "variant": "detailed",
+      "url": "student-union-annex/model-757e1efd417b7fda64788f25916f7bbe698ac2a14e57a468814b43586dd656fe.gltf",
+      "triangles": 264
+    },
+    {
+      "id": "eagle-plaza",
+      "name": "이글플라자",
+      "variant": "detailed",
+      "url": "eagle-plaza/model-a922ff658cbbadc7c3d599bf6a3beae943ba6d7643e391e83715a44f9aab1415.gltf",
+      "triangles": 17382
+    },
+    {
+      "id": "yonsei-plaza",
+      "name": "연세플라자",
+      "variant": "detailed",
+      "url": "yonsei-plaza/model-5cbdd8998f1c621b8a00e3638d0f2fc1b796251227bedcebab3caced454a8b7e.gltf",
+      "triangles": 22332
+    },
+    {
+      "id": "sports-center",
+      "name": "연세스포츠센터",
+      "variant": "detailed",
+      "url": "sports-center/model-63d69b51298af415116f10ea0d88529e3f06b1990b56157b7569e5aba4cb5df3.gltf",
+      "triangles": 8196
+    },
+    {
+      "id": "lakeside-annex-1",
+      "name": "노천극장 북동측 호수변 부속동 1",
+      "variant": "detailed",
+      "url": "lakeside-annex-1/model-063cbcb90af5583c194f7c10cb5adecd31b38d76e1c2652e5618ebf655ca78c2.gltf",
+      "triangles": 1202
+    },
+    {
+      "id": "lakeside-annex-2",
+      "name": "노천극장 북측 부속동 2",
+      "variant": "detailed",
+      "url": "lakeside-annex-2/model-d0270615686c485035cceb4ef79ff8e4fb024ac28eaa422c2b2bcdf8033f3e40.gltf",
+      "triangles": 436
+    },
+    {
+      "id": "rotc",
+      "name": "학군단",
+      "variant": "detailed",
+      "url": "rotc/model-8748eccefcdc7c11609a31e9747d0b10f5c64fa64fc14ee1643cebadbe33e278.gltf",
+      "triangles": 5468
+    },
+    {
+      "id": "old-museum",
+      "name": "구 대학박물관 (학군단 동측 인접동)",
+      "variant": "detailed",
+      "url": "old-museum/model-a9b975a8da624a3393766f0f5801b1d0d14827e3659c8f9bb7f8d0d318e0524a.gltf",
+      "triangles": 914
+    },
+    {
+      "id": "maeji-1",
+      "name": "매지 1학사",
+      "variant": "detailed",
+      "url": "maeji-1/model-c9a67b20dff14bace06f59846f9fa4874a0fe78aff01c010f14b30c112831d9d.gltf",
+      "triangles": 18592
+    },
+    {
+      "id": "maeji-1-lobby",
+      "name": "매지 1학사 중앙현관동",
+      "variant": "detailed",
+      "url": "maeji-1-lobby/model-5ce5773169e27318db08a6fbc6ee121cdc9810712a7c109f039e14cc42a0d07e.gltf",
+      "triangles": 1442
+    },
+    {
+      "id": "maeji-2",
+      "name": "매지 2학사",
+      "variant": "detailed",
+      "url": "maeji-2/model-868255d56837d3e789a36f720bc9dbb5d88db33520999da3fcd9f70738bf5e6f.gltf",
+      "triangles": 18146
+    },
+    {
+      "id": "maeji-3",
+      "name": "매지 3학사",
+      "variant": "detailed",
+      "url": "maeji-3/model-cce1dc9942c9da899c7f28bb874362ee08e16b08c8d88db796cbbb564dee5c44.gltf",
+      "triangles": 10913
+    },
+    {
+      "id": "cheongyeon",
+      "name": "청연학사",
+      "variant": "detailed",
+      "url": "cheongyeon/model-136b80a3dc72a72a90a5c5daf165a88f3eb1295031845cdc33c2cd4592575ab5.gltf",
+      "triangles": 29528
+    },
+    {
+      "id": "seyeon-1",
+      "name": "세연 1학사",
+      "variant": "detailed",
+      "url": "seyeon-1/model-457994794cb5243c8511a6b58bf53153874de6be2cea37a571ef27b9c980cb68.gltf",
+      "triangles": 12048
+    },
+    {
+      "id": "seyeon-2",
+      "name": "세연 2학사",
+      "variant": "detailed",
+      "url": "seyeon-2/model-5828d33673bab81847e63382fbc4154caf8ef20bd65ab12ffaaf7b29078012e1.gltf",
+      "triangles": 18350
+    },
+    {
+      "id": "seyeon-3",
+      "name": "세연 3학사",
+      "variant": "detailed",
+      "url": "seyeon-3/model-4ffe8c649e34d704f1ba3625866b8c1738b0bcba53d3632ef1c9992ecc5ff05d.gltf",
+      "triangles": 37588
+    },
+    {
+      "id": "seyeon-common",
+      "name": "세연학사 중앙 공용동",
+      "variant": "detailed",
+      "url": "seyeon-common/model-187a741131b1e3bfc41211519baf1f51088d32d05e12cd1d45e512bd766a7891.gltf",
+      "triangles": 4998
+    },
+    {
+      "id": "seyeon-north-annex",
+      "name": "세연학사 북측 부속동",
+      "variant": "detailed",
+      "url": "seyeon-north-annex/model-927ff57dbd104009be806bd39413b119c0d91f48381707ac4e3f6df1ebf95b59.gltf",
+      "triangles": 120
+    },
+    {
+      "id": "hyeonunjae",
+      "name": "현운재",
+      "variant": "detailed",
+      "url": "hyeonunjae/model-c4bde45664e04f885ccf81da4882d1e3f8171114298b6cee2b227104573b4c9d.gltf",
+      "triangles": 9747
+    },
+    {
+      "id": "sanhak",
+      "name": "산학관 (첨단의료기기테크노타워)",
+      "variant": "detailed",
+      "url": "sanhak/model-d7e7cfba9714e4c207d871030dd11d736d725e6f5d41098bd45f73b1fc6c8342.gltf",
+      "triangles": 19588
+    },
+    {
+      "id": "venture-center",
+      "name": "산학관 벤처센터 (첨단의료기기벤처센터)",
+      "variant": "detailed",
+      "url": "venture-center/model-69eadf062c63ef5d41111c371df7816f71c080636606a6365443aa5556ffef7a.gltf",
+      "triangles": 11666
+    },
+    {
+      "id": "eco-tech-center",
+      "name": "환경친화기술센터 (원주환경친화기술센터)",
+      "variant": "detailed",
+      "url": "eco-tech-center/model-0cee5b53d75379276c5da9d7cd4562704dfa90452761484da9b6eaec0f1e264c.gltf",
+      "triangles": 13322
+    },
+    {
+      "id": "bi-1",
+      "name": "제1창업보육센터",
+      "variant": "detailed",
+      "url": "bi-1/model-e2ee1019461c5ac7c054a61c1fa3ba9d64ca1eba0d5546128c6a76d06d6ab389.gltf",
+      "triangles": 3800
+    },
+    {
+      "id": "bi-2",
+      "name": "제2창업보육센터",
+      "variant": "detailed",
+      "url": "bi-2/model-8e4955e5d998c922c717cd759c2ace1044253b61d68c8d60494618eb3d22ebfe.gltf",
+      "triangles": 7350
+    },
+    {
+      "id": "bi-3",
+      "name": "제3창업보육센터 (장애인창업보육센터)",
+      "variant": "detailed",
+      "url": "bi-3/model-fa0bcad35e173afd338e2e7f94862135e3040a7dc7fd50713f89808914451e5c.gltf",
+      "triangles": 5336
+    },
+    {
+      "id": "convergence-hall",
+      "name": "컨버전스홀",
+      "variant": "detailed",
+      "url": "convergence-hall/model-5d3cb74c8f4a7be539b56dd870e3938885b69634a650d599dfe031253978e468.gltf",
+      "triangles": 16816
+    },
+    {
+      "id": "stadium-stand",
+      "name": "종합운동장 본부석 스탠드 캐노피",
+      "variant": "custom",
+      "url": "stadium-stand/model-8a2bb6ba7d9df0b28869b40e7258cdf6a8b3a0b42d58d1e0368ff57980702f48.gltf",
+      "triangles": 4088
+    },
+    {
+      "id": "open-air-theater",
+      "name": "노천극장",
+      "variant": "custom",
+      "url": "open-air-theater/model-56e6d2fb140dfeb591e5f709f8bce4a7e7d29878f457ff7f0166e41e7162446b.gltf",
+      "triangles": 4033
+    }
+  ]
+}

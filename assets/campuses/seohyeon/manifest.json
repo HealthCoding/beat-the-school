@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school seohyeon (4 destructible buildings, generated from OSM way/438960487 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-759c20a453c821906021077279a160c295ab6d74f306a75ca42a3578b242765b.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-56644e090a8731c45e0b0fc1a27997a0a4ae7fcda5680475277ea498aa2cad7f.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing3/model-909ce12199c18ca10c31676216e86b13c89a10e60901fd9e2bbcf0d531660715.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "신관",
+      "variant": "auto",
+      "url": "wing4/model-48b0c881e094e9e6768d5a851befab8c80ac62b0f9d881c181dafdbcdb846169.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 7990
+  }
+}

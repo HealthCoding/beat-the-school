@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school baekyoung (2 destructible buildings, generated from OSM way/379863842 by scripts/campuses/baekyoung/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-593bb1667e3c0867b9440ee1233ffa2a16013f68a06910a60c0f6a6361b25d6e.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing2/model-12e8a7f90c4dfe5d59c86592dc759060d64814fd37c39b6c40d38e85b4877ed9.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 9634
+  }
+}

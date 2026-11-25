@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Ulsan Ilsan Middle School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-7577cd35bb3e5a93c0e1f3e4d34f13949d7d2f632dd17faa351bda994f196ecd.gltf",
+      "triangles": 21350
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-a6bbae513fc37f05532ef2030c9fd0348e6f49bf8cbacc286609e0aac49b9b75.gltf",
+      "triangles": 37592
+    },
+    {
+      "id": "context",
+      "url": "context/model-0e292bee0bfcaa09338b50365a98205c5a2a53aeb5f40675b3a5b7d7b564b36c.gltf",
+      "triangles": 42356
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-a5f48d172cc4675cd786800ab8451657801e04adbf9f91514806bac71d9e69d5.gltf",
+      "triangles": 2267
+    }
+  ]
+}

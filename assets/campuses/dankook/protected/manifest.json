@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "pilot/dankook-jukjeon active-models.json destructible:false (복지관·치과병원 dental hospital: never damaged, shield), packed losslessly",
+  "models": [
+    {
+      "id": "welfare",
+      "name": "복지관·치과병원",
+      "url": "welfare/model-d61858c6036ad9b5a6b09517e84e41e356492f715d79c61d7178a7f033720522.gltf",
+      "triangles": 4526
+    }
+  ]
+}

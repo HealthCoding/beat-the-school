@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Cheongju Hitech R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-98c43571b94758ff25d5cf006011010fe7c74f1d937766923a79998102c40cd4.gltf",
+      "triangles": 9286
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-72b65a3c210f94956dc016cb60b4ac3609419f269fd9ce6cbb6ec309f9b2d96d.gltf",
+      "triangles": 34050
+    },
+    {
+      "id": "context",
+      "url": "context/model-58474c676b75d84098160921f8ae2185301571bcbe2442feebb26d794d7b37d6.gltf",
+      "triangles": 18166
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-22e3e0bce9cc542610d3c0cf4651b760f27f1a32900fa6af395feb9a4fc2ed8b.gltf",
+      "triangles": 1272
+    }
+  ]
+}

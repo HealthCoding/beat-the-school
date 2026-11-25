@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/chujamiddle/build-package.mjs (OSM © OpenStreetMap contributors, ODbL; DEM AWS Terrain Tiles)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-63f9973818bf3f1e4ee54f104f93082b37c66df290325acc81ed8a063e594655.gltf",
+      "triangles": 74378
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-a0a0517714cac7f14c930d3b2e80a553c1cd8a5b82a7af52eb8737e8a8aef3fa.gltf",
+      "triangles": 11254
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-e15f86fc2b0d7fa1579cdf854395b60a4d6d6b8dbe3da2da9627db8f80727f84.gltf",
+      "triangles": 41236
+    },
+    {
+      "id": "context",
+      "url": "context/model-4b09dc3c8cdfe13c9ac5d9fe8bf673db8572027e88c1e0dce9a43c19a4fec6ff.gltf",
+      "triangles": 918
+    }
+  ]
+}

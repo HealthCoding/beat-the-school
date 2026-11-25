@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "source": "Speer Gwangju R3, exact local geometry, explicit placements, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "main",
+      "url": "main/model-9098717d80e3ac08b447cea1d2d02eb99b59557b0b9b2285be41c0b51db17b28.gltf",
+      "triangles": 17732,
+      "name": "본관·신관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "gym",
+      "url": "gym/model-45ea0a11c8b7cb2fcad8b6472dae32a9c7dc11bff23273194896b384f30b48a9.gltf",
+      "triangles": 5297,
+      "name": "대강당·체육관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "smallhall",
+      "url": "smallhall/model-02e2dd47e6eb57fe3b7287805a982d884c73fb93f18180d8d68dfefceeedf46e.gltf",
+      "triangles": 1991,
+      "name": "소강당",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "service",
+      "url": "service/model-cbc927376863187df1c973ef81e42dce816443f2c690381cd939638977b759df.gltf",
+      "triangles": 2142,
+      "name": "도서관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "northclass",
+      "url": "northclass/model-78c703799755b9a00933525152eb2181e6199980d5a6b49142b43cc4f2e4b646.gltf",
+      "triangles": 3806,
+      "name": "과학관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "northannex",
+      "url": "northannex/model-39918a16dafe6450f187ac1d80bd411015cdcb69ff4681838032dc119c2273ed.gltf",
+      "triangles": 3482,
+      "name": "우정관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "science",
+      "url": "science/model-b0305bec6c2acf9ad2a77576034997442ce4bc7fef09ffe086e73c2003f655ab.gltf",
+      "triangles": 7110,
+      "name": "동측 교사동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "middle",
+      "url": "middle/model-a7cab4bd81ca3d1a048a75e6af05614bff95eea6cce9f6c672d189ed7cfb1d2a.gltf",
+      "triangles": 8495,
+      "name": "수피아여중 교사동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.27000001072883606,
+      "id": "winsborough",
+      "url": "winsborough/model-009d7ef514b6d72d6e31c16650555d6540de1a411f336c04c2359e6201dba711.gltf",
+      "triangles": 11692,
+      "name": "윈스브로우홀",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "westhall",
+      "url": "westhall/model-d43d776902e09033cb75132536c258d4f35a397aa6c3975da75318d2ab6b5960.gltf",
+      "triangles": 1712,
+      "name": "서측 부속강당 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.27000001072883606,
+      "id": "speerhall",
+      "url": "speerhall/model-cefc0238c9c1a846fdac039bdd70dda12f307a309b0caf1405c66ec311c017df.gltf",
+      "triangles": 18801,
+      "name": "수피아홀",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "cafeteria",
+      "url": "cafeteria/model-a90538569020c744e9753552c9e7f4035cbaeee250c7557ac681e4290f18397b.gltf",
+      "triangles": 2938,
+      "name": "급식소",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "shop",
+      "url": "shop/model-8abb1cf241fe3dbbff85ff249a69eb6bd2fde35989ef935bfd5018338cdbb6be.gltf",
+      "triangles": 860,
+      "name": "매점",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 86058
+  }
+}

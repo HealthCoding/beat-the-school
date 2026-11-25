@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Sungeui R10 photo repairs; building identity and elevations remain estimated",
+  "models": [
+    {
+      "id": "main",
+      "name": "대학본관",
+      "variant": "detailed",
+      "url": "main/model-84f5bcafc43c086dd8b082fdb8e18ea9b018e7b49445691340a46eb46dc7918a.gltf"
+    },
+    {
+      "id": "west",
+      "name": "교내 건물 840",
+      "variant": "generic-v2",
+      "url": "west/model-408e97714cf4eac26cbef3ef249bf0442fb2767597c45249d71e7ed85eef9ff3.gltf"
+    },
+    {
+      "id": "lecture_a",
+      "name": "강의 A동",
+      "variant": "detailed",
+      "url": "lecture_a/model-cdd84ea2e939bdc66ce0d9bc919ffff08deb4b21b102cdb9115f8db7026a07e0.gltf"
+    },
+    {
+      "id": "court_wing",
+      "name": "교내 건물 842",
+      "variant": "generic-v2",
+      "url": "court_wing/model-15f744d26d89776db104934818a14609d8c36753285b87861d5e06ae3769738c.gltf"
+    },
+    {
+      "id": "student",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "student/model-08d8f13a6330a5a4666077eb290fe610b95a6e69c54870df78e7f8baf64bc7d0.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "gym/model-dcc2f2a1fa73d01dc2d1a0c566efa854ee9ccbafbfb427e647c655a9fef4c940.gltf"
+    },
+    {
+      "id": "lecture_c",
+      "name": "강의 C동",
+      "variant": "detailed",
+      "url": "lecture_c/model-e80b675f3129a21f776e15ef3953c5d1085b72c32bbbcc2369a8c0dc2f4f9f5c.gltf"
+    },
+    {
+      "id": "mainGate",
+      "name": "대학정문",
+      "variant": "custom",
+      "url": "mainGate/model-c605de126fb78225d53fb4bfb6a76f9c59a8d73b7bf42ea00da4cd829b447ce7.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 57978
+  }
+}

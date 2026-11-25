@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "auto-school djforeign (5 destructible buildings, generated from OSM way/356718314 by djforeign-local-builder)",
+  "models": [
+    {
+      "id": "academic",
+      "name": "아카데믹 빌딩",
+      "variant": "auto",
+      "url": "academic/model-4cab6ccf26bc7efc04df04a59340933c1702b183557a58eb6a49b48a0ebbef3c.gltf"
+    },
+    {
+      "id": "athletics",
+      "name": "체육관·행정동",
+      "variant": "auto",
+      "url": "athletics/model-c8a1c2238f947b113f79b34bf27ce9220719d6c765b995f4aa376744212703f3.gltf"
+    },
+    {
+      "id": "dorm",
+      "name": "기숙사·식당동",
+      "variant": "auto",
+      "url": "dorm/model-cd056805ed32ac5be1f960b997df21782206a7ce8a7c3dad13cb838c2a0e6335.gltf"
+    },
+    {
+      "id": "annex",
+      "name": "남쪽 별관",
+      "variant": "auto",
+      "url": "annex/model-055af3c1e402e854a33dcff49f3fc6c96a6073f391ff472b0ca76931aa0bf481.gltf"
+    },
+    {
+      "id": "clockhall",
+      "name": "시계탑 별관",
+      "variant": "auto",
+      "url": "clockhall/model-c5a66435c9bb3d9415d3ed91b8732b47d769639911ae089d03d074a96fb260c4.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 25940
+  }
+}

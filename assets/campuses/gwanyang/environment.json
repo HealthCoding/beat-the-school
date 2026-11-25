@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Gwanyang Anyang R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -13.86019229888916,
+      "id": "env-ground",
+      "url": "env-ground/model-8019b76f064b0395065f64c01eab77606ce240020bc156dbc998c6a2900189c9.gltf",
+      "triangles": 12983
+    },
+    {
+      "minimumY": -0.786012589931488,
+      "id": "env-site",
+      "url": "env-site/model-6fab59060d35d1fac850a70b70916d0c50a5da6abf3c2a66ae7d094d787d9b4e.gltf",
+      "triangles": 2408
+    },
+    {
+      "minimumY": -2.2300000190734863,
+      "id": "env-landscape",
+      "url": "env-landscape/model-7b71544bd8defab2e4095c7e826869e7c9e4de1c5c1c1130dc5e029da4c0753a.gltf",
+      "triangles": 35893
+    },
+    {
+      "minimumY": -12.518558502197266,
+      "id": "env-context",
+      "url": "env-context/model-2b12814832ad68ba96a72e9c009fc964e52140226f12d0edd2ce70e57b15b04d.gltf",
+      "triangles": 30092
+    }
+  ]
+}

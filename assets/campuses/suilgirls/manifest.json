@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Suil Girls Suwon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 5.949999809265137,
+      "id": "main",
+      "url": "main/model-f58f3408c8ab989878cd602c777241e69da7bd6ccdc45e4a108819dcbb465831.gltf",
+      "triangles": 29038,
+      "name": "본관 교사1호동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 5.949999809265137,
+      "id": "annex",
+      "url": "annex/model-74324f6701df1494ae38b22ab90af4a264c144f2b5169762ae9a5dba5c340410.gltf",
+      "triangles": 20972,
+      "name": "후관 교사2호동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.20000000298023224,
+      "id": "gym",
+      "url": "gym/model-4e2b272ca4cbec249a60b264801f7ac8b18d2c360a27567b23b6cf24633d9ad5.gltf",
+      "triangles": 6304,
+      "name": "모란체육관 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 6,
+      "id": "bridge",
+      "url": "bridge/model-d6be6cfb05fb4723a18d9e1da00aae3c0ad03c7a8a382c9999f2735ca3dbe3a9.gltf",
+      "triangles": 7880,
+      "name": "본관-북별관 연결부 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 5.75,
+      "id": "eaststore",
+      "url": "eaststore/model-9dccee789c54a44e91f2474570d8fab96f4fc50cf832c98a4a6ce53dd9fceaa6.gltf",
+      "triangles": 328,
+      "name": "본관 동측 소형 부속 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.25,
+      "id": "stage",
+      "url": "stage/model-3f744f5f049568a8240dc0780a21fc5bce6a9e1656080d3ec90e632b308932fe.gltf",
+      "triangles": 1214,
+      "name": "구령대 하부실·상부 열린 단상",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 65736
+  }
+}

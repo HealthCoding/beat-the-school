@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Sungdeok Gwangju R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -4.4467267990112305,
+      "id": "env-ground",
+      "url": "env-ground/model-beedf33b033544be6f0c829d8091b5045272fb2ddee28bad5f416c215e53aa9d.gltf",
+      "triangles": 4145
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "env-site",
+      "url": "env-site/model-009e92621601a6a936ea539efae5de1a28171effed1366f060de1aed3ae1a4c7.gltf",
+      "triangles": 15994
+    },
+    {
+      "minimumY": -0.009577074088156223,
+      "id": "env-landscape",
+      "url": "env-landscape/model-3246146b3f2254dc9022b3075f87a6937c3ceae293139f134733c94eb48104ad.gltf",
+      "triangles": 41438
+    },
+    {
+      "minimumY": -4.371726989746094,
+      "id": "env-context",
+      "url": "env-context/model-95ded8909f168fecbdb66417a6f672578f3ff276fdbc320ce1339dbfe2ffd07d.gltf",
+      "triangles": 37038
+    }
+  ]
+}

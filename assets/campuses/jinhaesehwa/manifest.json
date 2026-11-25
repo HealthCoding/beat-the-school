@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source": "Jinhae Sehwa Changwon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "main",
+      "url": "main/model-020cb61da351c3af1c9ec08d18da5c0b294d02aa425dfb2315ff28d7e1c692ee.gltf",
+      "triangles": 18984,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "hall",
+      "url": "hall/model-d7a66d5a7751e818681c2977cefea5f48ba7ed7f93b28d39c1e8faf936d0be1e.gltf",
+      "triangles": 7462,
+      "name": "급식소·세화힐링홀 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "id": "west",
+      "url": "west/model-59293edce798f8d8c3c3f62f8bd59d381960ca6d21787dbec801d6e0591ca1b6.gltf",
+      "triangles": 360,
+      "name": "서측 차양 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "id": "westshade",
+      "url": "westshade/model-a7840736ee806320e179650c4d2ff55c90334180c488434cbf0ca7ad4284aaf7.gltf",
+      "triangles": 420,
+      "name": "서측 연결차양 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "id": "eastlink",
+      "url": "eastlink/model-c6b6d9070313dad30f7bca92435cfb175ecb9e65f9b292c7ab612052d46d2339.gltf",
+      "triangles": 408,
+      "name": "동측 연결차양 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 27634
+  }
+}

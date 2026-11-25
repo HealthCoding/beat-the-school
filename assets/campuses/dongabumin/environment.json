@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-efc8487ecb322a9e846987ae21c7500eed6ecfa7a775717f1af30f02bacfa41c.gltf"
+    },
+    {
+      "id": "context",
+      "url": "context/model-f61b1f12a0f506331b3be3ca377405ad72572fcee48fbeac81ed77b1bcd83b4a.gltf"
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-c54c0fbcb84125a674c6d2abe3cee9c831484cc79f497032fd53c7d68447cd2d.gltf"
+    }
+  ]
+}

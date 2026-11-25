@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by Yebong school local generator (OSM © OpenStreetMap contributors, ODbL; coarse Copernicus elevation points)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-c24760177b1eba168a53692009e0ba188c426cc665a90cac42650783b8a26845.gltf",
+      "triangles": 2928
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-2837b483ebb04676ea78b34d28fc00aed8eff3587d7d56ba5e6caa406f475e3f.gltf",
+      "triangles": 30802
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-0c568fd29c5a60a22d1c7b3cffd1d96f6dd6d58f57838d78fabcb298b1eb1126.gltf",
+      "triangles": 93192
+    },
+    {
+      "id": "context",
+      "url": "context/model-8ae482ed5f6a550c046a78eecc90d478ac0adf56d88414b0f8917fb528b05ca1.gltf",
+      "triangles": 476
+    }
+  ]
+}

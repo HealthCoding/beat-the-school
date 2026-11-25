@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "Ewha Girls Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "main",
+      "url": "main/model-de5c47746df26797dc989ad67fa2a297301f69764a1facfd07c6bef8df29b208.gltf",
+      "triangles": 18212,
+      "name": "화암신봉조관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "centennial",
+      "url": "centennial/model-9ab4f41bc9254cc94896e9b329cc6824c2639f3fa5165ffc4a99f08a90f3364d.gltf",
+      "triangles": 11202,
+      "name": "이화백주년기념관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "simpson",
+      "url": "simpson/model-6465b2c4c9fa96897d50160a73ca5101fb9f4bcd8868b6d7d28ffadfa216c2fa.gltf",
+      "triangles": 27697,
+      "name": "심슨기념관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -4.449999809265137,
+      "id": "yugwansun",
+      "url": "yugwansun/model-144a561fce698d877b9156db37a3be06829068a9f9d0b5ed896d91d2b3c6f23d.gltf",
+      "triangles": 5912,
+      "name": "유관순기념관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -4.449999809265137,
+      "id": "gym",
+      "url": "gym/model-1a7365fa056bde90fe0500e128e023178960e7f0d21c64f4dc045310b620265b.gltf",
+      "triangles": 2732,
+      "name": "백상규기념관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -1.0499999523162842,
+      "id": "dorm",
+      "url": "dorm/model-2cf35f231e3af31369af3c8b65b62fded1b02bb240ac847d6939a48f8b3cd799.gltf",
+      "triangles": 15738,
+      "name": "이화학사 김점동관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 7,
+      "id": "bridge",
+      "url": "bridge/model-47652803b79f1e78ceb253e7fba01d17c7de6097d5cde0d913602a6a3bf9cc5d.gltf",
+      "triangles": 908,
+      "name": "백주년–본관 연결교",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "small_annex",
+      "url": "small_annex/model-d9a2f1220d66ab7e63b0b2feb26b7e2fc2982ef8be265a228233d2a2b34efcb9.gltf",
+      "triangles": 888,
+      "name": "남측 부속동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "library",
+      "url": "library/model-0755b1c7d33f34c692280b22b25787d174d405ba2ca698a4157fbfbd3994c00d.gltf",
+      "triangles": 3218,
+      "name": "전인항기념도서관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 86507
+  }
+}

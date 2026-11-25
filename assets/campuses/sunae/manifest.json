@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school sunae (2 destructible buildings, generated from OSM way/467202207 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-75af0cac7bf2ba55a42076125fa2505ac765c267a5dba4d7bd66ab546c7e65a8.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-5c8de4560daa191a25076db62d2cd822412ec646c94fc34872a79bacc41d1c63.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 6591
+  }
+}

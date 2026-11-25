@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "source": "pilot/skku-myeongnyun/heritage (문묘·성균관 halls and gates, 국가유산: never damaged, no plaques or lettering), packed losslessly",
+  "models": [
+    {
+      "id": "daeseongjeon",
+      "name": "대성전",
+      "url": "daeseongjeon/model-5bcd0dff7a080bda23dc4303bbc8f8e7690110f49bfb82ef3cecd0b1072c902a.gltf",
+      "triangles": 7674
+    },
+    {
+      "id": "myeongnyundang",
+      "name": "명륜당",
+      "url": "myeongnyundang/model-d75c176d1f261c357df14a90d9bcf7fe09eae07b94e5ba2564eb61c7c61b7c3a.gltf",
+      "triangles": 7612
+    },
+    {
+      "id": "dongmu",
+      "name": "동무",
+      "url": "dongmu/model-c9b5b3de492eb1928930ecb7865ec0d6fdf7eceaebfeeeafba23c05f4f386b6a.gltf",
+      "triangles": 4376
+    },
+    {
+      "id": "seomu",
+      "name": "서무",
+      "url": "seomu/model-3db83a2af311ab6dbbc50c1dcfbfd1e02a49d7175a255cf4cc9a8bd2f2c96807.gltf",
+      "triangles": 4312
+    },
+    {
+      "id": "dongjae",
+      "name": "동재",
+      "url": "dongjae/model-73e2cd41f43dbbf9527c0135ea39352e8e66898d5ff7ec25b8cbeb631e6cea33.gltf",
+      "triangles": 5496
+    },
+    {
+      "id": "seojae",
+      "name": "서재",
+      "url": "seojae/model-dd6dde7a4a30b681cd03c060dfc741e7fbcc3a22d84dbe712a749f82f07c068a.gltf",
+      "triangles": 5432
+    },
+    {
+      "id": "jinsasikdang",
+      "name": "진사식당",
+      "url": "jinsasikdang/model-2e182428f6518794bf328c244f4a77b0ca0b5b43f4ca21b2c53c9c50999507c0.gltf",
+      "triangles": 6294
+    },
+    {
+      "id": "bicheondang",
+      "name": "비천당",
+      "url": "bicheondang/model-fa20cca1308e55b5161116d7ee8f3aa1ce0d14c04f71a58407dcd3764a6eabcb.gltf",
+      "triangles": 6516
+    },
+    {
+      "id": "sinsammun",
+      "name": "신삼문",
+      "url": "sinsammun/model-4e65b45246364ffa665dac91cbf5070f702f29645226f4aaca229f7c1e04ea77.gltf",
+      "triangles": 2904
+    },
+    {
+      "id": "dongsammun",
+      "name": "동삼문·동고(추정)",
+      "url": "dongsammun/model-4533780c9d99bb00eb0c391e99ff661e2e48b343abf92f9d510aba8e5308b6a3.gltf",
+      "triangles": 2436
+    }
+  ]
+}

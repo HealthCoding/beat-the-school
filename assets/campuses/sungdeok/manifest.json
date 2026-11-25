@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Sungdeok Gwangju R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "main",
+      "url": "main/model-398b97b4014f265555b8af08fbe6a3f71ee1b494e35b0bb8045a5b8ddd656572.gltf",
+      "triangles": 24025,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "dorm",
+      "url": "dorm/model-7375e222291ed954e390f6098f9d67d1329f2dd6edcf8f72c4795e27831bdaf2.gltf",
+      "triangles": 6012,
+      "name": "청송면학관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "haksa",
+      "url": "haksa/model-f69bdbc250f5745bab861f2c2b5782fa116a9aa44fe79dedd7a33f5e89dad938.gltf",
+      "triangles": 4416,
+      "name": "청송학사 동익",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "shop",
+      "url": "shop/model-81d653e90f6ed66aebbd85d9ec92e2124c719593adf8a70fca43087c3f709c1c.gltf",
+      "triangles": 856,
+      "name": "매점",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "hall",
+      "url": "hall/model-e6a2dc6c3192e006ea7d75efd542a8c7066820b988e51e577715883eaed40b8a.gltf",
+      "triangles": 6578,
+      "name": "청송관 체육관·급식",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "guard",
+      "url": "guard/model-1a178e9ce5f731d8b7ed54a1ca96b89198b181795bb2415f0fdca31ee65f15c8.gltf",
+      "triangles": 660,
+      "name": "경비실 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 42547
+  }
+}

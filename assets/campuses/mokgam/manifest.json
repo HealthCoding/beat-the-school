@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "auto-school mokgam (3 destructible buildings, generated from OSM way/996955083 by scripts/campuses/mokgam/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-0afe58f20b5ebc88d1cab17705a0dfb6e4bbb1d207fc085045e723d986831df6.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "별동",
+      "variant": "auto",
+      "url": "hall2/model-5b03469e55305244577de7d358315637bcd22a1df75edeff7de44b3120a1ced0.gltf"
+    },
+    {
+      "id": "shed3",
+      "name": "경비실",
+      "variant": "auto",
+      "url": "shed3/model-0c4e21a0f937b20a1a29d0fba73c342fb1e345a21b39ecf50640fcafd139f170.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 13535
+  }
+}

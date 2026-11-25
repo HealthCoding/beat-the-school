@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "source": "Mirim Girls Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main-west",
+      "url": "main-west/model-a653c56664e396d2a5dca1b2fb59495caff9bdec802147759bdd480136684964.gltf",
+      "triangles": 8310,
+      "name": "본관 서측동(운동장 쪽·시계탑)",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-sw",
+      "url": "main-sw/model-bd2dda7e5f381aa9f42f5cf125d44c0fd30d611c18e89eb9d93d1060f4c69816.gltf",
+      "triangles": 5742,
+      "name": "본관 남서동(운동장 쪽 돌출부)",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-south",
+      "url": "main-south/model-5a1c71f07c9c4f064d6ef47da570a586648c4a1dc242aca25b601ff876474eb4.gltf",
+      "triangles": 8224,
+      "name": "본관 남측동(중정 남쪽)",
+      "variant": "detailed"
+    },
+    {
+      "id": "it-center",
+      "url": "it-center/model-5290d0b021fec371474ec59768e330dd5eee6c6c1d7eac0228872535a64b941a.gltf",
+      "triangles": 1948,
+      "name": "정보교육관(유리 커튼월)",
+      "variant": "detailed"
+    },
+    {
+      "id": "mg-north",
+      "url": "mg-north/model-00347d0e39f7a195417d78dcc53df082cef0611a5c6c948109aaed73a75d0046.gltf",
+      "triangles": 8244,
+      "name": "미림여고동 북측(체육관 쪽)",
+      "variant": "detailed"
+    },
+    {
+      "id": "mg-east",
+      "url": "mg-east/model-7d3f5154442bc84fe8bc644bb5a5d8a6d354560c23ad2808d1fdf25c149172b0.gltf",
+      "triangles": 9328,
+      "name": "미림여고동 동측(은행나무길 쪽)",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-aad07b99f2b6ea95252f421d75bef25ad7257f1611cfd34d43efe61ef5f269c0.gltf",
+      "triangles": 2992,
+      "name": "체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "aud-east",
+      "url": "aud-east/model-3042908f09ca132c65d0a5765120049f583387189db4463f4113e5033e94d89e.gltf",
+      "triangles": 4634,
+      "name": "강당동 동측(교실·NCS실)",
+      "variant": "detailed"
+    },
+    {
+      "id": "aud-west",
+      "url": "aud-west/model-0fd173391f360309241ec359d936be3e4bd752dd5e207a02a5b19290dcae1609.gltf",
+      "triangles": 3164,
+      "name": "강당동 서측(원산대강당·식당)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 52586
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "source": "jbnu-jeonju active-models.json destructible:false (이름 미상 way/115951784, 이름 미상 way/115951808, 찬솔관, 이름 미상 way/115951823, 전북대학교 어린이집, 숲속어린이집, 이름 미상 way/115951830, 전북대학교 치과병원 본관, 전북대학교 치과병원 신관·장애인구강진료센터, 전북대학교병원 본관, 전북대학교병원 권역응급의료센터, 전북대학교병원 노인보건의료센터, 전북대학교병원 전북지역암센터: never damaged, shield), packed with bounded attribute rounding with the campus models",
+  "models": [
+    {
+      "id": "b115951784",
+      "name": "이름 미상 way/115951784",
+      "url": "../b115951784/model-36a3c64f10f0c0be335a800dabc385143f15d08aa283018ced5e04a1dc116e90.gltf",
+      "triangles": 440
+    },
+    {
+      "id": "b115951808",
+      "name": "이름 미상 way/115951808",
+      "url": "../b115951808/model-cb136c75f87ca583e5f2af5c0546b364535ae070dc98a0885e0c09e54e1a11d2.gltf",
+      "triangles": 744
+    },
+    {
+      "id": "b115951821",
+      "name": "찬솔관",
+      "url": "../b115951821/model-ac6d51e0589fb1f53c4357af12077177a6f8d4c1ee96f87719d27fb14342a174.gltf",
+      "triangles": 852
+    },
+    {
+      "id": "b115951823",
+      "name": "이름 미상 way/115951823",
+      "url": "../b115951823/model-e9d8fffaa7f8899f2551db7dc03de1c86b173fc95d38828c3e3540365eadadbf.gltf",
+      "triangles": 464
+    },
+    {
+      "id": "b115951827",
+      "name": "전북대학교 어린이집",
+      "url": "../b115951827/model-40b7c04337efe817b8d0fcb2d53fab14b55db278f66f7a68f7bb8bcfaa7554e9.gltf",
+      "triangles": 716
+    },
+    {
+      "id": "b743648657",
+      "name": "숲속어린이집",
+      "url": "../b743648657/model-7aab70e45076eae25ca78a31cd601a109f0f79a61a54a6cf45c2b344fae165c5.gltf",
+      "triangles": 970
+    },
+    {
+      "id": "b115951830",
+      "name": "이름 미상 way/115951830",
+      "url": "../b115951830/model-f8594eada8b408c8cd28423f64028e77b3190f48398acc77ea2e947b1e8e8e40.gltf",
+      "triangles": 292
+    },
+    {
+      "id": "hospital-dental",
+      "name": "전북대학교 치과병원 본관",
+      "url": "../hospital-dental/model-c7d8e80e4615bc39a9c1249a633ec85142d3d19694486d15d31cb872cbf8fa05.gltf",
+      "triangles": 20
+    },
+    {
+      "id": "hospital-dental-new",
+      "name": "전북대학교 치과병원 신관·장애인구강진료센터",
+      "url": "../hospital-dental-new/model-594a9e75ebaeb262abf6b161193b92a4a29653309d091a4dc9607b0c1cae3652.gltf",
+      "triangles": 10
+    },
+    {
+      "id": "hospital-main",
+      "name": "전북대학교병원 본관",
+      "url": "../hospital-main/model-e73fc32f0914ed715279d8bb91010104549f858591f196c9300c3578fcceb06a.gltf",
+      "triangles": 165
+    },
+    {
+      "id": "hospital-emergency",
+      "name": "전북대학교병원 권역응급의료센터",
+      "url": "../hospital-emergency/model-40be13f4d253607c2b1487a4509321c8960ecc3c517efc1473c5274d77227914.gltf",
+      "triangles": 113
+    },
+    {
+      "id": "hospital-geriatric",
+      "name": "전북대학교병원 노인보건의료센터",
+      "url": "../hospital-geriatric/model-87f0c6305aad1322fe946e1baf4242d38c7392dbedbe1d452f85ee4ed7adbe6f.gltf",
+      "triangles": 38
+    },
+    {
+      "id": "hospital-cancer",
+      "name": "전북대학교병원 전북지역암센터",
+      "url": "../hospital-cancer/model-6e6bc5d2e99bfab705677f906b439bf28093aa954e2f1b8448efd23da77e3c80.gltf",
+      "triangles": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Exact Sunae HQ preview environment",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-fc8558cf3a914e92e4dd6ebb83dedcb5850e5111222399a1b209ce23c82c74b2.gltf",
+      "triangles": 34339,
+      "instanceTriangles": 34339
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-57b69daee813784f9742c7442ec970e4301eb104967bab212a2bdd33ee86754c.gltf",
+      "triangles": 13634,
+      "instanceTriangles": 13634
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-ad197b0ba9a0cf6b3667761be9d79593f649e92a12b7b91f61e7c8d75bb1935e.gltf",
+      "triangles": 1234,
+      "instanceTriangles": 14406
+    },
+    {
+      "id": "context",
+      "url": "context/model-dd38c653e50314d722dd1d400e3f040710c5350ed505abbc894a8b6fc77c46e1.gltf",
+      "triangles": 4511,
+      "instanceTriangles": 4511
+    }
+  ]
+}

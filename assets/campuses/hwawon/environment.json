@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Hwawon Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-65d0479fec11a1d5dc9a7e5c44b4444cdc394a7c3deb7c1a42d0940aab10c4d5.gltf",
+      "triangles": 54684
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-401e7034475f09d954bade49889beeab6ed40d6dee2750440542a30ac589e359.gltf",
+      "triangles": 24436
+    },
+    {
+      "id": "context",
+      "url": "context/model-ed250dbfa96c7cb2e742b8d2d019bad59b5a084ab2214bb683b19c6b75d27f66.gltf",
+      "triangles": 59549
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-ea21029614a1ec9f62ce0ea81669d20c3e68479c950a7d4a767689dc9bc6c9b6.gltf",
+      "triangles": 3475
+    }
+  ]
+}

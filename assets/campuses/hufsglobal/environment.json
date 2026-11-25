@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/hufsglobal/build-package.mjs from the pilot environment glTF (ground / site / planting by node)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-dfb1fb66bcdd253c98459b40d369aa39570669a485ff51a343da9a3b71d09d9e.gltf",
+      "triangles": 318923
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-2611bb302884a5e9a67e12bbc297cd3357f21fdb92f57ac6d00fa4ab2472f339.gltf",
+      "triangles": 21909
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-23c9df5fc8a3403d51cb98410679d42b07f0748da3d542bc21e563f0894c9c2a.gltf",
+      "triangles": 4158
+    }
+  ]
+}

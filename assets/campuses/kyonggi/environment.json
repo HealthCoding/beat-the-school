@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/kyonggi/build-package.mjs from the pilot preview modules + landscape/ + context/; look-textures = texture carrier for the ground shader",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-fa251d7091df670eaafb407aec7c7bd36903113f8d2cbbb6e81af1175c2f295c.gltf",
+      "triangles": 615196
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-1a680d8daa299200e279f9101e88e9cc3d1f3f37818f26893b0cd2f9f044d210.gltf",
+      "triangles": 104499
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f886efd11aaf48e18aef1cb76d88c324633fe50d9cb5a8588057b43a3081936e.gltf",
+      "triangles": 110510
+    },
+    {
+      "id": "env-landscape",
+      "url": "env-landscape/model-50fb15974cabdf5ae5db1b6d464cab71cce60d3463232c49c81c459651bc86d4.gltf",
+      "triangles": 2114
+    },
+    {
+      "id": "env-landscape-outer",
+      "url": "env-landscape-outer/model-2403920fa329fa6625d471f5f5ebc65acf1c854eb25a0dac57899dd0818471d5.gltf",
+      "triangles": 62809
+    },
+    {
+      "id": "env-landscape-sports",
+      "url": "env-landscape-sports/model-4af075606dcee82aa01095a31b4183f9efd3b10cd2991d8604baf59eabcfb833.gltf",
+      "triangles": 3552
+    },
+    {
+      "id": "env-landscape-gate",
+      "url": "env-landscape-gate/model-4769c45de0f4cd1e5994296b6ea2ed123149c8d108a4a2bbb4e2ce8edb3c77a5.gltf",
+      "triangles": 1476
+    },
+    {
+      "id": "env-landscape-sculpture",
+      "url": "env-landscape-sculpture/model-79fcd4140352be7b1742e838c69e4711c5426b4086698a2d9d6fe6a591a9f334.gltf",
+      "triangles": 732
+    },
+    {
+      "id": "env-landscape-library-garden",
+      "url": "env-landscape-library-garden/model-9e4b26fbb7abc2e3ace840f8c729f4ded854117efd739b19374fa044f821f645.gltf",
+      "triangles": 45392
+    },
+    {
+      "id": "env-landscape-jinri-garden",
+      "url": "env-landscape-jinri-garden/model-8dd8bf0a8cf843beb08b992efb9e05af8c992fd4b9a2621a0333fd9852c21f27.gltf",
+      "triangles": 30664
+    },
+    {
+      "id": "env-landscape-hoyeon-garden",
+      "url": "env-landscape-hoyeon-garden/model-1fb9baf522d18b01152520c365a9e7cb9e04e20e135ac69348b9ed5405f52277.gltf",
+      "triangles": 18098
+    },
+    {
+      "id": "env-landscape-jiphyeon-garden",
+      "url": "env-landscape-jiphyeon-garden/model-7a62a47400087b3ca9aa4835f3f10fd35ac102c1fec7481ec6165351b67f282b.gltf",
+      "triangles": 12208
+    },
+    {
+      "id": "env-landscape-gong2-garden",
+      "url": "env-landscape-gong2-garden/model-eeb1ebf8ee8b2cd1fa54e36ba41eeb1eae2240318a5a9b65418de71626f26485.gltf",
+      "triangles": 4080
+    },
+    {
+      "id": "context",
+      "url": "context/model-4125f2328920f4ad64461ad7b3e1fa64d2f3e6f62e402ca45a9b6fd4c7713a6f.gltf",
+      "triangles": 24745
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-3fe5fc5f70bad83076cca720e90c6c067ce0f9d0cda8293b83411d3c8e7ba93d.gltf",
+      "triangles": null
+    },
+    {
+      "id": "look-textures",
+      "url": "look-textures/model-3f7d63f4716cd026936dddaf79296c70ec65bad68b62e9914a2f14fe8d8b5877.gltf",
+      "triangles": 0,
+      "carrier": true
+    }
+  ]
+}

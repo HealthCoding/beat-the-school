@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "s3-dental-hospital",
+      "name": "치과병원(국립강릉원주대학교치과병원)",
+      "url": "../s3-dental-hospital/model-4ca875299e6fef03b45b7c68abd058167a54371f4f1903e8f95ef47713e0a79e.gltf",
+      "triangles": 35208
+    },
+    {
+      "id": "n19-daycare",
+      "name": "해람어린이집",
+      "url": "../n19-daycare/model-883f6326035d008eb8d255aa0c9d9c71fe0160a6205bf438b5fe7b48865e19a5.gltf",
+      "triangles": 10428
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/koreaScience/build-package.mjs from the pilot preview modules + context/",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-f5157bf02f615c934537f78c13df2340d81656093dd46b9ffb54948cdb62bf73.gltf",
+      "triangles": 61717
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-16c25c2482d0ed048549cf570f2ab814ecf1e796efd3a7adf16e5fde1f2e4de3.gltf",
+      "triangles": 50220
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-97db3b05c443f74570cb84f652a57d372fa8cd34343aafe97de33f835e237232.gltf",
+      "triangles": 24120
+    },
+    {
+      "id": "context",
+      "url": "context/model-3777086f7bc709203c3581dfaf2f8f07388d8bd17d403d1c2817058bc98b29ec.gltf",
+      "triangles": null
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-bb2cebfcf3d45fd1a8432ebaf58b31ec4d1c47d7a9cad7f06fb02ac7036c558f.gltf",
+      "triangles": null
+    }
+  ]
+}

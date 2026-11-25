@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "source": "Sehwa Girls Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.07999999821186066,
+      "instanceTriangles": 18848,
+      "id": "main",
+      "url": "main/model-301570137f10bf808809e991a89562375813a2bf61c685c56a6196ec0d70c718.gltf",
+      "triangles": 18848,
+      "name": "세화여고 본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "instanceTriangles": 16130,
+      "id": "boys",
+      "url": "boys/model-e093da057affa2487f9a184ebfb2e7c45687a4464789ed87b92b3f2a291018a4.gltf",
+      "triangles": 16130,
+      "name": "세화고 본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -1.25,
+      "instanceTriangles": 9926,
+      "id": "middle",
+      "url": "middle/model-680d7a57b3e3a480683513c9d0a00b857d4ffc506fba910cb363ef163e0a4323.gltf",
+      "triangles": 9926,
+      "name": "세화여중 교사",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.18000000715255737,
+      "instanceTriangles": 2834,
+      "id": "gym",
+      "url": "gym/model-7764a6c5b98512f77918641f990bd5318ea1c0605681c329991d7b59dcf29a92.gltf",
+      "triangles": 2834,
+      "name": "공유 체육관 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "instanceTriangles": 3412,
+      "id": "annex",
+      "url": "annex/model-9306994b68604c353e923a14902cf447b42570c8b4d71b1e73f208c9dc8a980b.gltf",
+      "triangles": 3412,
+      "name": "세화관 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.07999999821186066,
+      "instanceTriangles": 3096,
+      "id": "center",
+      "url": "center/model-07d1329d646cdf97889208945b7762c24a9970654af732a96626520c79e7f9c5.gltf",
+      "triangles": 3096,
+      "name": "중앙동 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 54246
+  }
+}

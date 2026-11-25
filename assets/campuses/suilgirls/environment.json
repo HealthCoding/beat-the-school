@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Suil Girls Suwon R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -10.74301528930664,
+      "id": "env-ground",
+      "url": "env-ground/model-cb3fa626f2deb29042402ef87af0b440172491926f0ebb5e97b0a092e5e4f6ba.gltf",
+      "triangles": 18121
+    },
+    {
+      "minimumY": -0.5,
+      "id": "env-site",
+      "url": "env-site/model-b19673b74cece6ac8593ce689a353967006949b9f0f1b5cced7d0002534e934d.gltf",
+      "triangles": 10038
+    },
+    {
+      "minimumY": -0.48979902267456055,
+      "id": "env-landscape",
+      "url": "env-landscape/model-357d9cab6d5ed1b8e2591d9f697c7d0c3aaddea7e0ff79e387ea69d8f474feb4.gltf",
+      "triangles": 46521
+    },
+    {
+      "minimumY": -9.943078994750977,
+      "id": "env-context",
+      "url": "env-context/model-38db2f84df37dcd519c1bc5ade607deab66f5e857c14a046f748e052e6fc5f20.gltf",
+      "triangles": 16663
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Hwawon Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-a639a9e4e4b2c1adbbecfba6d66090a1f9e2780e02e61e6c5e199ce2f6f0ba0f.gltf",
+      "triangles": 9836,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-north",
+      "url": "main-north/model-92f61769408f2b12aa61f461fa201b3c58963248523d3395b2b30f46cbab7301.gltf",
+      "triangles": 3290,
+      "name": "본관 북측동",
+      "variant": "detailed"
+    },
+    {
+      "id": "rear-wing",
+      "url": "rear-wing/model-d9b47e02cdf15d4f983f8711fcd18abe2ec794c595cf5a29c9dcf80a4d1fb231.gltf",
+      "triangles": 3532,
+      "name": "후관",
+      "variant": "detailed"
+    },
+    {
+      "id": "link-wing",
+      "url": "link-wing/model-49c57a4259e4c6937954884fea1a1613a0d5713c68a0061bbedc4f6f633517f3.gltf",
+      "triangles": 1644,
+      "name": "연결동",
+      "variant": "detailed"
+    },
+    {
+      "id": "hwawon-hall",
+      "url": "hwawon-hall/model-ade658968843f69c65c519adc8a5051ad928f328e4bb7d6f5e0adeabc94561c4.gltf",
+      "triangles": 3408,
+      "name": "화원관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 21710
+  }
+}

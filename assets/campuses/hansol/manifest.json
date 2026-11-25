@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school hansol (4 destructible buildings, generated from OSM way/487688001 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-d218c65755bc481b947bca4c43eaeb4ffef9e625b145fddc7797070dd3679f9e.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-d3d6a987205cc614f6379536192bcf25ebe6430490e49415c364d16335d8c3d5.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing3/model-591c03570fbf562318666de40b5c8441233119b9cbf2d238609038e9ee283fd9.gltf"
+    },
+    {
+      "id": "shed4",
+      "name": "부속동",
+      "variant": "auto",
+      "url": "shed4/model-7c4d06257bb2fd064b2fc9629dc39e311f94922681b34981e891c77411f68f87.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 9076
+  }
+}

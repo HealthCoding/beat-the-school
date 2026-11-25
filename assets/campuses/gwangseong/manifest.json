@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "auto-school gwangseong (5 destructible buildings, generated from OSM way/301436582 by gwangseong-local-builder)",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "auto",
+      "url": "main/model-e4b3b1b778c094bbcf06aa825a300ccf7db5e4a65e8e27f26005cac5a11ca42c.gltf"
+    },
+    {
+      "id": "southwest",
+      "name": "남서 교사동",
+      "variant": "auto",
+      "url": "southwest/model-5d195e5e93e7ca42edfc98e1af566085974d300f6ad0bb4ee4443af1748e6531.gltf"
+    },
+    {
+      "id": "hall",
+      "name": "북쪽 교사동",
+      "variant": "auto",
+      "url": "hall/model-6689e2272fdf6596190a99052840481a768b1458684384cdc801bdd15d3dac96.gltf"
+    },
+    {
+      "id": "west",
+      "name": "서쪽 교사동",
+      "variant": "auto",
+      "url": "west/model-6c2c4d5bb6eca98fd9930a4f0c120e302bd17bb26d891a27fb9078b7826d1c48.gltf"
+    },
+    {
+      "id": "east",
+      "name": "동쪽 교사동",
+      "variant": "auto",
+      "url": "east/model-570a7f05478cffff062b26663f825524fb63bff33fef1ff2d7f2d24d1b002a11.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 17474
+  }
+}

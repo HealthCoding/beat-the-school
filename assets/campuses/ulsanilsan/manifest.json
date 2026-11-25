@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Ulsan Ilsan Middle School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-afb7aa8d3aac943495ea833f1c5e04710019f05bed0721d724e461dbd7e56567.gltf",
+      "triangles": 6258,
+      "name": "본관동(교과교실·관리동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-4d62ca58cb0b0b4dfe7f3e65f29d19e16c47b4f837f494c6b2124644dec37fa5.gltf",
+      "triangles": 2066,
+      "name": "서측 특별교실·연결관(가온이솔·해솔)",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-4e366fa8f7388f3e249c268a05e63f8894498fa79c866eca93ad221dd797585a.gltf",
+      "triangles": 2342,
+      "name": "동측 도서·특별교실동(다락채·소담재)",
+      "variant": "detailed"
+    },
+    {
+      "id": "naraemoe-gym",
+      "url": "naraemoe-gym/model-c03031e36f115af5bdcf10d5d98ab6f49a49f32da27fe8cec07a57507c457d46.gltf",
+      "triangles": 3414,
+      "name": "나래뫼관(다목적체육관)",
+      "variant": "detailed"
+    },
+    {
+      "id": "cafeteria-wing",
+      "url": "cafeteria-wing/model-305f382db27b4a348f99d4787db3cac3a67eff7778759bd2e9327d607ffc7078.gltf",
+      "triangles": 1360,
+      "name": "급식소·중간별관(식생활관)",
+      "variant": "detailed"
+    },
+    {
+      "id": "judogwan",
+      "url": "judogwan/model-4061fa21867829d967e503cdb311356cee6d59bebc35dfc00398eeb52d86a6a6.gltf",
+      "triangles": 1394,
+      "name": "유도관(유도장·체력단련동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-929f2d5bc6272b2270ab8a763f907a5ce5acb15afd6c2279833de5d6c5ce6b79.gltf",
+      "triangles": 398,
+      "name": "서문 경비초소(수위실)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 17232
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Wirye Hanam R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-ddabddf2b3c6f37de23dc8274381f4105395fa42d2dc219a2e8753c91db9fc36.gltf",
+      "triangles": 39784
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-f6eda905664b0141a0a2f1ba2f55d6e84fb5bfd0c5ceeee7280b83d7ab699d28.gltf",
+      "triangles": 33440
+    },
+    {
+      "id": "context",
+      "url": "context/model-74775a9430a1e5eda3fea13ed338472cf7f30ab42d5ae90c41a5906fb31596bb.gltf",
+      "triangles": 33232
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-571536604fb28b5b712bd79925bba4e6ee29ddd4e887733eb832ffd63500f74d.gltf",
+      "triangles": 2267
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Chungwoon University R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-3eebe8ffc4e1b7b289f40941149151ab0c4fffb2c5fc0aeab1ba26ac78442e56.gltf",
+      "triangles": 179442
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-2fd0f520f0f6e92451de5ea8698014c03f82249cf2f33e3985c8c0140f1410bc.gltf",
+      "triangles": 1846
+    },
+    {
+      "id": "context",
+      "url": "context/model-33d0692182e68a6a3e10f6134e0a4b730e48a682634ecc8852fab2d7333bd567.gltf",
+      "triangles": 1699
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-931dd0d765f65abd1d816c0d7a01b96424c20ad2a7a07fac8f3551622a014d40.gltf",
+      "triangles": 230
+    }
+  ]
+}

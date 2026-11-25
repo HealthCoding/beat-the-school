@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Hyeopseong Busan R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-747da6a3ba3337674846232dfbbb16bdb3f23ff3c28e2379314d08c2a37e9fcc.gltf",
+      "triangles": 61383
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-2b014a772689c19e28354046a4b9deec7a634dbd75fac80159b9939cb94bf90c.gltf",
+      "triangles": 28806
+    },
+    {
+      "id": "context",
+      "url": "context/model-e327fa1c7cac43a5823d887050acee99d8644e7ca59ce6f1e908525b4d912b0b.gltf",
+      "triangles": 39567
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f833d7b41db6c4cc88d935833d54332890887fefd4ce77a12123b8c19140c800.gltf",
+      "triangles": 2267
+    }
+  ]
+}

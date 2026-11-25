@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Ogeum Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-83763e99230f22f1ce2754a09edf54004bfca3eec634c6aed180e0e24c10369f.gltf",
+      "triangles": 19538
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-268819e64011cff7e22caefb2f9c641d2618c8b452522ad0dabc58c144b75a7f.gltf",
+      "triangles": 50966
+    },
+    {
+      "id": "context",
+      "url": "context/model-c2f0b137331aa0c20e1ac06c2e2e3c86174fc9ead91897355e2a49a6f747eeb4.gltf",
+      "triangles": 53806
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-8b49873dd3f1d1be11920dd22af2c4f5f66eefe2469c5caa5e2c21d406c29c8f.gltf",
+      "triangles": 2267
+    }
+  ]
+}

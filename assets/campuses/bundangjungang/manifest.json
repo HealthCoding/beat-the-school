@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school bundangjungang (2 destructible buildings, generated from OSM way/471999372 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-aeb3debe9494ee94d30f63bb9729b7554635c374720023be5f7f994ff5a37b42.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "별관",
+      "variant": "auto",
+      "url": "hall2/model-49fe5ca93dd60c242446e60a2e0c458d9de0d1d7816f0631a69c119b082a9bc5.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 9614
+  }
+}

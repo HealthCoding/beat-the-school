@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "ewha-sinchon active-models.json destructible:false (이화유치원, 대학교회: never damaged, shield), packed losslessly with the campus models",
+  "models": [
+    {
+      "id": "kindergarten",
+      "name": "이화유치원",
+      "url": "../kindergarten/model-dd5264b0e5acbd2f31ff7cb61cfc2188d1971cce50094656ddb654fe093207c4.gltf",
+      "triangles": 1082
+    },
+    {
+      "id": "church",
+      "name": "대학교회",
+      "url": "../church/model-6a8d9655b34434713e3ded90cb37f757d923add98fd69d91c5ad68dc588ce6e1.gltf",
+      "triangles": 1432
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Gocheok Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-5557a38cfcf28f6579c23ee026bccece183e9a9a8637173751c8dde979fde571.gltf",
+      "triangles": 15871
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-c1fbfddf68eb596bdd094353fe7e853ff0b2f675a193178cc3e2c76791fd3607.gltf",
+      "triangles": 37182
+    },
+    {
+      "id": "context",
+      "url": "context/model-aff267deec61a6511a004c867004d664c942d3142e7a1bdf7fd854660140a37a.gltf",
+      "triangles": 38242
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-01e35841022ffa256a9dd1abe9aa7196628d2d720095a4287437915a9f842da5.gltf",
+      "triangles": 2267
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "woosong-daejeon active-models.json destructible:false (W8 우송유치원: never damaged, shield), packed with bounded attribute rounding with the campus models",
+  "models": [
+    {
+      "id": "w8",
+      "name": "W8 우송유치원",
+      "url": "../w8/model-224850e5166b0628073575da855074f13f2e9df5bbdc471383efef866c32df2c.gltf",
+      "triangles": 900
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "source": "Seoul Art High School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "jeongsu",
+      "url": "jeongsu/model-bb1a6c721933dd08098092e4bae51aab86f7b3563ddde2eada09bfa043045655.gltf",
+      "triangles": 5184,
+      "name": "운동장 정면 교사",
+      "variant": "detailed"
+    },
+    {
+      "id": "finwing",
+      "url": "finwing/model-226a6910f2f2efb1994d30284a67b7522d146afb4f073906588c27d772949452.gltf",
+      "triangles": 6444,
+      "name": "수직핀 교사",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 11628
+  }
+}

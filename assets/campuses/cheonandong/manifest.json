@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Cheonan Dong R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-5e470a816f6f2e283020ae8a0657788b74cffdddebd22b26883c78818ef29130.gltf",
+      "triangles": 13344,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-f876956ab0193532d43fc44ed927084211402de2e3003eb891ac7be06c55f0c2.gltf",
+      "triangles": 3868,
+      "name": "체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-4c8156d6f5db7ad2b80321d50b4977e46f357a4169de5a21558ab3dfec5fba34.gltf",
+      "triangles": 3876,
+      "name": "별관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 21088
+  }
+}

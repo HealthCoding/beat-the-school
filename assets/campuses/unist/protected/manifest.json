@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "unist-ulsan active-models.json destructible:false (UNIST 어린이집: never damaged, shield), packed with exact source attributes and equivalent colour batching with the campus models",
+  "models": [
+    {
+      "id": "b207",
+      "name": "UNIST 어린이집",
+      "url": "../b207/model-09cbe9117af7a044af44c0723ad36e25733a2405f3f49ec0a6a94a6506c6ffaf.gltf",
+      "triangles": 890
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/hufs/build-package.mjs from the pilot preview modules + landscape/ + context/",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-15d44e50901841a1aaa462e076248c28bc3d886c266c8e0b83e2b1f06a8ba049.gltf",
+      "triangles": 93431
+    },
+    {
+      "id": "env-context-ground",
+      "url": "env-context-ground/model-c7e6a0c474a11bbc542c4d1ecf2c9b1d0b742c6681ece24f61ac4e508e5eb9b1.gltf",
+      "triangles": 39858
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-d56f080dd6238b119877d09a4d165c41b4bb639c491195f9965c652bf93aa2bd.gltf",
+      "triangles": 33300
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-a56b4b4b18fe951058add23a0a9add9c759ce59a94923abed2dd0b4115006eb5.gltf",
+      "triangles": 37336
+    },
+    {
+      "id": "env-landscape-sports",
+      "url": "env-landscape-sports/model-f4c339e1c33722ac32eda9455a9c724a0b07f27c4b6de2d3f401e2824a880744.gltf",
+      "triangles": 7784
+    },
+    {
+      "id": "context",
+      "url": "context/model-7081bdcfe334aa9236923ea1b39a9afaf98f798009e73bf95f6cf8c8b5d97013.gltf",
+      "triangles": 54786
+    }
+  ]
+}

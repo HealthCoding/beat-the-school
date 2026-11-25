@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Wolsan Gimhae R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-b46bfa75abe5114158bd08a343e3fa09bba552f192d27c0c733c29973e102061.gltf",
+      "triangles": 22014,
+      "name": "본관 중앙 원형홀·동측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-96b92d300e3c4e3d738322668a304eb87816c8fe023801c37d391e41c34941f0.gltf",
+      "triangles": 5178,
+      "name": "서측 교사동(별관)",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-92559c1890638151b716838b7ff12474e88a58a4db5ab1e711aa36eb59848fc7.gltf",
+      "triangles": 3334,
+      "name": "동측 과학·미술·가사실 특별동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-5458dfa32aa5a212da9fac0f7a7bcc0b51d5733d41b3d5918fee3539d2060c1b.gltf",
+      "triangles": 2150,
+      "name": "주2동 다목적강당(체육관)",
+      "variant": "detailed"
+    },
+    {
+      "id": "cafeteria",
+      "url": "cafeteria/model-e00582f2a7d6428f41e5466fbc30a6c4712dd7a7d98834ef7d880d7278e72a84.gltf",
+      "triangles": 1220,
+      "name": "급식소(식당·조리실동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "bridge",
+      "url": "bridge/model-73e24008363c043e7fcd76cbf7b12f422aa1a13920c57794826f466dfcd412b0.gltf",
+      "triangles": 2626,
+      "name": "본관-서측동 연결통로동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gate",
+      "url": "gate/model-62b8ecef4a5e3649818b9c16be5ed1b5dae4298c0d1ce9013f8d825d25f98c2c.gltf",
+      "triangles": 710,
+      "name": "정문 기둥·등교 아치 캐노피동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 37232
+  }
+}

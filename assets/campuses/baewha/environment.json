@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Baewha Girls High School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-4335b749a1b6593e4f56fcdd58e931488f502a448162264841a59bb5f5437e17.gltf",
+      "triangles": 204225
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-9be9aeff83d675760a4fcf8d5d1294d530a0a82408baf15a1be38f4db4aa2d7f.gltf",
+      "triangles": 3963
+    },
+    {
+      "id": "context",
+      "url": "context/model-555c8d5eff9fa5d8fee5e07cdb5a76c8fc6047beb00119a784965cc69e5bcf19.gltf",
+      "triangles": 65126
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-2b9470f017284571bb073911c8c12a55e25a3643630452c75751af7714ba35e9.gltf",
+      "triangles": 2267
+    }
+  ]
+}

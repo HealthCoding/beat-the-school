@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Jangyu Gimhae R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-f4220a3bc337966c31a2717c67534e467177c892aaeb973d998443d7b63e9286.gltf",
+      "triangles": 66132
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-a6c83418719c596994f4b891816546c356e30b66bf1ce485158f1bdcc306248f.gltf",
+      "triangles": 48494
+    },
+    {
+      "id": "context",
+      "url": "context/model-37ef8f783e1c955873f0af7b7c4e5a04df67a4b1805ce5ec260d5b0f4c7ba7d4.gltf",
+      "triangles": 20792
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-e064c2184a151761319a17774ed098172de382cea6ad2dcc7184a5b6960e4a35.gltf",
+      "triangles": 2267
+    }
+  ]
+}

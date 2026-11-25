@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school naksaeng (4 destructible buildings, generated from OSM way/564197533 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-1d5fa67c455f4d2b9419cdc2f994fea5b5a30617420bb8603661f44f4bc43e90.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-7632e032ccdb15eaf0d7ba0af2f0c93d351996232518db6d293303eb1fd6bfcb.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing3/model-8bc2935c5d8c4d6c2e0fa88cc554c8004147ec35169cac245819b94e2801982b.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "신관",
+      "variant": "auto",
+      "url": "wing4/model-12637cfaeecd849690f58fb24ed89ef4ad206e979903cef332c6bd239d5449b5.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 14958
+  }
+}

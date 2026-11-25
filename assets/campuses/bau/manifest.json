@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "source": "bau-seoul active-models.json (14 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "arts",
+      "name": "예술동",
+      "variant": "detailed",
+      "url": "arts/model-7906e7c9934788ef28f14a11164a64edead3de81797060e95fd8b88cd491cfd4.gltf"
+    },
+    {
+      "id": "education",
+      "name": "교육동",
+      "variant": "detailed",
+      "url": "education/model-df20652d59cc95517dd998a4022f1f90777384618bbae181f50d95069f21333e.gltf"
+    },
+    {
+      "id": "vision",
+      "name": "백석비전센터",
+      "variant": "detailed",
+      "url": "vision/model-4f3122408fded4c4663ca5da07413cefdc6f0eb656ace38fa914096ffc191c0d.gltf"
+    },
+    {
+      "id": "freedom",
+      "name": "자유동",
+      "variant": "detailed",
+      "url": "freedom/model-9a9e2fc120f9628287213ec0f621c2a156c2f5f754b84ff280657b44f8fc7a63.gltf"
+    },
+    {
+      "id": "truth",
+      "name": "진리동",
+      "variant": "detailed",
+      "url": "truth/model-735c51f36d23b197fac2e8695c771f7178c257433396f11b774fe2b646bed92a.gltf"
+    },
+    {
+      "id": "pastoral",
+      "name": "목양동",
+      "variant": "generic-v2",
+      "url": "pastoral/model-0a863e414364999e31354054b8d8d21b6cdbae1f59f6146f21feeeb2c281fc50.gltf"
+    },
+    {
+      "id": "hope",
+      "name": "소망동",
+      "variant": "generic-v2",
+      "url": "hope/model-b7a2f48b4dd55b9ef4bdc20ee6d352a0583fd366cd6ea9479699293cc02dd9b3.gltf"
+    },
+    {
+      "id": "wisdom",
+      "name": "지혜동",
+      "variant": "generic-v2",
+      "url": "wisdom/model-5fe14fff1445259695fc4b8a35195037cf8076dd0004e20ae245b7a0a85e6a49.gltf"
+    },
+    {
+      "id": "nuri",
+      "name": "누리동",
+      "variant": "generic-v2",
+      "url": "nuri/model-7f7e4474a6813ce7dbe23afe2218896713d2b6bad216ca71ae021f680568b2bc.gltf"
+    },
+    {
+      "id": "dream",
+      "name": "드림동",
+      "variant": "generic-v2",
+      "url": "dream/model-44e4ac6864c09d414f3f6dc57a1cfbace1a4e3cace86c6168728979f6cdf52b9.gltf"
+    },
+    {
+      "id": "areum",
+      "name": "아름동",
+      "variant": "generic-v2",
+      "url": "areum/model-f59f160eeebcbbd5b909b9fc25e1bba23ffd12ae28931688d3ef69e80e2d69a2.gltf"
+    },
+    {
+      "id": "love",
+      "name": "사랑동",
+      "variant": "generic-v2",
+      "url": "love/model-30a03257722a905f3b35db88ed26c0226005056be9507f71af3fb2ee63b64b61.gltf"
+    },
+    {
+      "id": "raon",
+      "name": "라온동",
+      "variant": "generic-v2",
+      "url": "raon/model-60b12b9be786bc38c25b098d8f8565aac0c50a6135bc700f33331dd2fbfbd76d.gltf"
+    },
+    {
+      "id": "bridge",
+      "name": "교육동–비전센터 4층 연결교",
+      "variant": "custom",
+      "url": "bridge/model-c40330cb1cb58c2e52886fb83c7a7c520da3ae0661a0a611a6d3208b6226581e.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 90616
+  }
+}

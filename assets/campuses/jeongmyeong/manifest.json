@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school jeongmyeong (4 destructible buildings, generated from an estimated aerial work boundary by jeongmyeong-local-builder)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "공용 교사동 1",
+      "variant": "auto",
+      "url": "wing1/model-5b714ade7867ff45cb91481895d9712bf3b5a2a9f1f626bb8ed730966ed7be50.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "공용 교사동 2",
+      "variant": "auto",
+      "url": "wing2/model-47c50c7fc718b2ac9c84af022b491adea97a5d7d649e0db341f0800858ada4c2.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "공용 건물 1",
+      "variant": "auto",
+      "url": "hall3/model-b8f41c6d4f3c81b19dc3fa53c4b7053174d95f3454d67c0f83fcdb74c43758a9.gltf"
+    },
+    {
+      "id": "shed4",
+      "name": "공용 부속동",
+      "variant": "auto",
+      "url": "shed4/model-5bf8514cf4541dfcfc6d4b4b044cead805582eb571417baa8fac0951c71f469d.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 25762
+  }
+}

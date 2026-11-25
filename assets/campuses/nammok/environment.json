@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Nammok Ulsan R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -11.200339317321777,
+      "id": "env-ground",
+      "url": "env-ground/model-ba3741213ed63cecabd04d0adf6b07ad2e416f283211117b8396d7cc8b9c9972.gltf",
+      "triangles": 45022
+    },
+    {
+      "minimumY": -1.600000023841858,
+      "id": "env-site",
+      "url": "env-site/model-02415c4404dc458475e2097d2192ae3a38e8f5b5f961d1abccd9c80de4bd1ff1.gltf",
+      "triangles": 18606
+    },
+    {
+      "minimumY": -1.600000023841858,
+      "id": "env-landscape",
+      "url": "env-landscape/model-f3bf03aab8e514d31535543faa449be269fbc9439259b83b2951e110967d9f6a.gltf",
+      "triangles": 48214
+    },
+    {
+      "minimumY": -10.895657539367676,
+      "id": "env-context",
+      "url": "env-context/model-edbd970dc6e6ca734a21c982d0fcddc43b4ec926bcb535b2c16ac9fd908f4cb2.gltf",
+      "triangles": 8323
+    }
+  ]
+}

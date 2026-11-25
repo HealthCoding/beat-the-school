@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "source": "konkuk-seoul active-models.json destructible:false (KU동물암센터(추정), 건국대학교병원, 도정궁 경원당: never damaged, shield), packed losslessly with the campus models",
+  "models": [
+    {
+      "id": "lakeside",
+      "name": "KU동물암센터(추정)",
+      "url": "../lakeside/model-326b5bcb38c6219f40a55bd5a2ba6f89cfaffadb15f7136319c73c2d9484eb3e.gltf",
+      "triangles": 1896
+    },
+    {
+      "id": "hospital",
+      "name": "건국대학교병원",
+      "url": "../hospital/model-c480a65801a0ad55a6f7ae6fde907a2bbb336ec9ad644e1831af2ceceb90c3d5.gltf",
+      "triangles": 5396
+    },
+    {
+      "id": "gyeongwondang",
+      "name": "도정궁 경원당",
+      "url": "../gyeongwondang/model-814cbbd4ecc6f14ccc61be34fcdddc907a486cbba7495e3f62eaadef10749759.gltf",
+      "triangles": 8070
+    }
+  ]
+}

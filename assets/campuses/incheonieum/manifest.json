@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Incheon Ieum R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main-west",
+      "url": "main-west/model-e0dd10429ec1554267b243afc58d8565928473afec84bf70fe3b70cb80992555.gltf",
+      "triangles": 6138,
+      "name": "본관 서측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "central-hub",
+      "url": "central-hub/model-4afd9067060b382a04113aa606a3e5f1ede99406fa46cc82a58ce1125b3e7be5.gltf",
+      "triangles": 3912,
+      "name": "본관 중앙 허브·현관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-east",
+      "url": "main-east/model-a19b11b3a6438fc9454172670ac86bbeb72a72d2cef87c67c00788d49ac4a938.gltf",
+      "triangles": 5362,
+      "name": "본관 동측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym-hall",
+      "url": "gym-hall/model-49c07d1d36855decb88fabf261a35ed6ba9969589e54649d6844c3760821e8b4.gltf",
+      "triangles": 3104,
+      "name": "체육관·급식실 복합동",
+      "variant": "detailed"
+    },
+    {
+      "id": "north-wing",
+      "url": "north-wing/model-4c08d9c00ddb36c934f7573c8a1ddbd73caa6594327831f0a4c76861ad9c844d.gltf",
+      "triangles": 5894,
+      "name": "북측 특별교실·과학동",
+      "variant": "detailed"
+    },
+    {
+      "id": "library-bridge",
+      "url": "library-bridge/model-ad160b1e266e3f885c4d49240c6ea9b663427615a7b118c32efea57bcee95d70.gltf",
+      "triangles": 3874,
+      "name": "중앙 도서관·홈베이스 연결동",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-56595f9ba21461ab05117d2e69b069d9cab1c04efef227efaf08b3f375c3a1b6.gltf",
+      "triangles": 452,
+      "name": "정문 경비초소",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 28736
+  }
+}

@@ -1,0 +1,1221 @@
+{
+  "version": 1,
+  "source": "pilot/snu-gwanak-v2/active-models.json (202 destructible buildings), floats rounded (position 1/1024 m, normal 6-bit mantissa, tile uv 1/4096) then packed losslessly",
+  "models": [
+    {
+      "id": "shaGate",
+      "name": "정문 샤 조형물",
+      "variant": "detailed",
+      "url": "shaGate/model-3d49e08eda46bc2ff634caaebb2fabef9dbcfc1719fd77ac60f46320f2630f1b.gltf"
+    },
+    {
+      "id": "law15_1",
+      "name": "15-1동 우천법학관",
+      "variant": "generic-v2",
+      "url": "law15_1/model-69c5d54eeb0a906bd43f34fd8aed53221a51598544b7567fe0726f0768f80387.gltf"
+    },
+    {
+      "id": "edu11",
+      "name": "11동 사범관3",
+      "variant": "generic-v2",
+      "url": "edu11/model-83e7f35aacf8cf34b52a98f2561f910e05c92af63c86c70e854139e24feb3e00.gltf"
+    },
+    {
+      "id": "stand149",
+      "name": "149동 종합운동장본부석",
+      "variant": "generic-v2",
+      "url": "stand149/model-a017568e8ff7367fe229e9793abf9863fc10670180520f31944b994ef576bce1.gltf"
+    },
+    {
+      "id": "b113_annex",
+      "name": "113-1동 동원생활관부속동",
+      "variant": "generic-v2",
+      "url": "b113_annex/model-b4bccce4fc0a2ffa8e7df160ecf42f5d0bdf0ee01c040a09031c460fad22588c.gltf"
+    },
+    {
+      "id": "edu9",
+      "name": "9동 사범관1",
+      "variant": "generic-v2",
+      "url": "edu9/model-0f73168a7f635f6e6c156431f85952ee4ac87fcb62df60e6d18ff40d562cb154.gltf"
+    },
+    {
+      "id": "library",
+      "name": "62동 중앙도서관 본관",
+      "variant": "detailed",
+      "url": "library/model-bb8a600cf378562c2e1c2c9f168c86ec9ad743311ecd5e08cb3bdcdd0005438c.gltf"
+    },
+    {
+      "id": "b43_2",
+      "name": "43-2동 관악 43-2동[데이터사이언스대학원 및 공과대학 강의동 2]",
+      "variant": "generic-v2",
+      "url": "b43_2/model-fec893ef6997325948b8f4ed9ab42b84ded81285194e369ed0914550391cd3f5.gltf"
+    },
+    {
+      "id": "econ16_2",
+      "name": "16-2동 한국경제혁신센터",
+      "variant": "generic-v2",
+      "url": "econ16_2/model-57f27022dd41fd1336f7dcb8cd183001411351348c8527088aeb2145b2618b8d.gltf"
+    },
+    {
+      "id": "b223",
+      "name": "223동 관악 223동[우석경제관]",
+      "variant": "generic-v2",
+      "url": "b223/model-fbf2a2d99c100bcb6baf9d606ab6dcd2ab46ed75ca09156b0be6ca0cd18b69e3.gltf"
+    },
+    {
+      "id": "b27",
+      "name": "27동 자연과학관9",
+      "variant": "generic-v2",
+      "url": "b27/model-e66e2dd643be0dc2ee5e1c3b2488d00e4f9e4c8eb6837f757e7fcf5f0703d9f8.gltf"
+    },
+    {
+      "id": "b23",
+      "name": "23동 자연과학관5",
+      "variant": "generic-v2",
+      "url": "b23/model-3d4505236b8cd0fd5e1def3ef8989a02a556747318fbcf346473c8889e0cab24.gltf"
+    },
+    {
+      "id": "b25",
+      "name": "25동 자연과학관7",
+      "variant": "generic-v2",
+      "url": "b25/model-58c934c169d5c7b7bdd295f8166eb734aa2e2d89098dcf39d47f88e052227d8f.gltf"
+    },
+    {
+      "id": "b43_1",
+      "name": "43-1동 이공계멀티미디어강의동",
+      "variant": "generic-v2",
+      "url": "b43_1/model-dcbde8499c3eec6088f83ad4615a5f3650001e9c62da399b86656d08efd833d6.gltf"
+    },
+    {
+      "id": "b56",
+      "name": "56동 자연과학관10",
+      "variant": "generic-v2",
+      "url": "b56/model-02efe535ca97e66331a6f7aa1e68226c8ad42551c27b4b7b8d4a8b8419f9c725.gltf"
+    },
+    {
+      "id": "b21",
+      "name": "21동 약학관1",
+      "variant": "generic-v2",
+      "url": "b21/model-e27f14613498e6ae22e9c6d89b923989bc487900af6c8a2bef8d70a693f416d1.gltf"
+    },
+    {
+      "id": "b20",
+      "name": "20동 약학관3",
+      "variant": "generic-v2",
+      "url": "b20/model-aad34a372255d1229119689166c1de5aca2e20dbc4275b31039861a8e161504e.gltf"
+    },
+    {
+      "id": "b22",
+      "name": "22동 자연과학관4",
+      "variant": "generic-v2",
+      "url": "b22/model-13314c6aac98fd88a7724643e0dfb53b56a348672a5f8086e8867ecdcf8eefa7.gltf"
+    },
+    {
+      "id": "b129",
+      "name": "129동 수리과학연구동",
+      "variant": "generic-v2",
+      "url": "b129/model-687269ef5acbe4f04a648da66284b807d2bd58153d0db41ea7c09ed17c8291a4.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "63동 학생회관",
+      "variant": "detailed",
+      "url": "studentUnion/model-00b59c47cca053de9e059b06691170480dee6aad76946d676874d637f80ad3f6.gltf"
+    },
+    {
+      "id": "b28",
+      "name": "28동 자연대(대형)",
+      "variant": "generic-v2",
+      "url": "b28/model-affbe9ed68f4222fdb038668a0f52132384978692f568b8ba9f3e37c2fea7e7c.gltf"
+    },
+    {
+      "id": "hum14",
+      "name": "인문관7(14동)",
+      "variant": "generic-v2",
+      "url": "hum14/model-3171bf6c3e17cdb4103f96521df64e72bca0549b5de2f73118eda60f9a7de791.gltf"
+    },
+    {
+      "id": "admin",
+      "name": "60동 행정관",
+      "variant": "detailed",
+      "url": "admin/model-3983d5f733f1f0d91ccd407a627594196ed57942a7ce7b24e69ca2fad241ce66.gltf"
+    },
+    {
+      "id": "b25_1",
+      "name": "25-1동 자연대강의및실험연구동",
+      "variant": "generic-v2",
+      "url": "b25_1/model-d5f1a962637c9966bf85f19c00f7323e1ef063453c5e4b2250d18a8edac073d4.gltf"
+    },
+    {
+      "id": "b65",
+      "name": "65동 교수회관",
+      "variant": "generic-v2",
+      "url": "b65/model-b12a0bbc886d4b4de4e57a5a5aae207988c51d2712b25b7bea0d936e70d09641.gltf"
+    },
+    {
+      "id": "b75_1",
+      "name": "75-1동 제3학생식당",
+      "variant": "generic-v2",
+      "url": "b75_1/model-284c3188fd1c92959b42f37fba8d4a7540064943e3cb6f09d93e47336934ffa3.gltf"
+    },
+    {
+      "id": "b83",
+      "name": "83동 인문사회계멀티미디어강의동",
+      "variant": "generic-v2",
+      "url": "b83/model-176c383508082a3e73151b10dbb1766452c0642a65590156ba06df7d615a743a.gltf"
+    },
+    {
+      "id": "b113",
+      "name": "113동 동원생활관",
+      "variant": "generic-v2",
+      "url": "b113/model-17b4d6fcfc20da0e1ae190b147281269aefc427c9a07bd99a7bd9a81abba4b9b.gltf"
+    },
+    {
+      "id": "jahayeonCafeteria",
+      "name": "109동 자하연식당",
+      "variant": "generic-v2",
+      "url": "jahayeonCafeteria/model-0b3bc37bdbd60dae94c35e4db5ff1473abeb41f66b4480e162da2d24f5ebe76e.gltf"
+    },
+    {
+      "id": "shinyang4",
+      "name": "4동 신양인문학술정보관",
+      "variant": "generic-v2",
+      "url": "shinyang4/model-25722545b179cfbb32db5adc8526e7c432edc906359f638269a66f2f226f5b78.gltf"
+    },
+    {
+      "id": "hum2",
+      "name": "2동 인문관2",
+      "variant": "generic-v2",
+      "url": "hum2/model-dd3a4bc625fc0fed3d542727de3e084695ad8c5ae44983653105090e499369e4.gltf"
+    },
+    {
+      "id": "hum3",
+      "name": "3동 인문관3",
+      "variant": "generic-v2",
+      "url": "hum3/model-fe5972d8bee52755b0a5fb2c4a5b1ca5a18b88912534976f2514b741e7cb3c4b.gltf"
+    },
+    {
+      "id": "hum5",
+      "name": "인문관4(5동)",
+      "variant": "generic-v2",
+      "url": "hum5/model-ed941092459ba4da5c5cb3646684001e595fb4b008581f16b6c0bbb7d23c6106.gltf"
+    },
+    {
+      "id": "b76",
+      "name": "76동 제4식당(서당골)",
+      "variant": "generic-v2",
+      "url": "b76/model-5274d5efff4a489655fb2cb6877f2473dd039558e093602a0472cd5ac2406ca7.gltf"
+    },
+    {
+      "id": "hum1",
+      "name": "1동 인문관1",
+      "variant": "generic-v2",
+      "url": "hum1/model-87f2749905f202fdba34857e513ed32a60041dbbe61a2f217535a7eb305b9e6f.gltf"
+    },
+    {
+      "id": "b200",
+      "name": "200동 농업생명과학대학",
+      "variant": "generic-v2",
+      "url": "b200/model-df60133d5423f2632452c49b4acc28fcf9352f6abcbace545af7c12ce4e508fa.gltf"
+    },
+    {
+      "id": "b502",
+      "name": "자연과학대학 (502)",
+      "variant": "generic-v2",
+      "url": "b502/model-83f414a525bff6c570b90c63e0c85533458b51d3d0d16ec5386752b4dc4d3ec9.gltf"
+    },
+    {
+      "id": "sci26",
+      "name": "자연과학관8(26동)",
+      "variant": "generic-v2",
+      "url": "sci26/model-7b52176227ed29b2783ba4a2d08881208cc4823e888255493b18a1cc8dbc8992.gltf"
+    },
+    {
+      "id": "b501",
+      "name": "자연대연구동(501·502동)",
+      "variant": "generic-v2",
+      "url": "b501/model-4d1acb06a443cc3e66f97b32cb8cdd39cfdff2fbfe129c5b2f329f11df1bd38a.gltf"
+    },
+    {
+      "id": "b39",
+      "name": "39동 대학원연구동(1단계)",
+      "variant": "generic-v2",
+      "url": "b39/model-8b5c1df7cff9f1a9ce3105da146517472f0673b2dcc7e8d80e597ec3856e9dac.gltf"
+    },
+    {
+      "id": "b500",
+      "name": "목암홀·대학원연구동(500동)",
+      "variant": "generic-v2",
+      "url": "b500/model-78cd8e15e60d84df9e4686b40c06d076d36533e1a8104c2940fa057f8dbf3b73.gltf"
+    },
+    {
+      "id": "edu10",
+      "name": "10동 사범관2",
+      "variant": "generic-v2",
+      "url": "edu10/model-4f51c0203c3b361912f0f071376db03cfa5f1635d78e3f443d02a4eb8b9fc9d1.gltf"
+    },
+    {
+      "id": "law15",
+      "name": "15동 법학관1",
+      "variant": "generic-v2",
+      "url": "law15/model-fb6f450f74da4d30eea0b6777342b7b8c67b14695108f2b4ff82393d1a0c01ae.gltf"
+    },
+    {
+      "id": "b58",
+      "name": "58동 SK경영관",
+      "variant": "generic-v2",
+      "url": "b58/model-5b4c2e8ff7638779b8905295f923740d1419a2811b15f58c34109246113005e0.gltf"
+    },
+    {
+      "id": "b100",
+      "name": "100동 버들골 풍산마당",
+      "variant": "generic-v2",
+      "url": "b100/model-f72b5c164999a175882f8babf94127b2a8659e4203a9f0dc41102fb0a4491a44.gltf"
+    },
+    {
+      "id": "b102",
+      "name": "102동 정보화본부",
+      "variant": "generic-v2",
+      "url": "b102/model-b27f857241079f2820bea775f85bbdd4fd9fca940512c6e74a8ef245a5ba860c.gltf"
+    },
+    {
+      "id": "basicEducation",
+      "name": "61동 기초교육원",
+      "variant": "generic-v2",
+      "url": "basicEducation/model-cefe16c01228852261671e070acbd489776badee9abf7411e6403fd696e7f906.gltf"
+    },
+    {
+      "id": "eng301",
+      "name": "제1공학관(301동)",
+      "variant": "detailed",
+      "url": "eng301/model-d7a43bb31866f30d6cc98d36aac2eb2cf341d02488c94ddf1294695dc50dae5c.gltf"
+    },
+    {
+      "id": "b950",
+      "name": "950동 국제백신연구소",
+      "variant": "generic-v2",
+      "url": "b950/model-afa9e4b46fd5eebf6aa33c51ddfc7a4bb5d8ec054fe67cf291b527f7510dd008.gltf"
+    },
+    {
+      "id": "socSci",
+      "name": "16동 사회과학관",
+      "variant": "generic-v2",
+      "url": "socSci/model-bd140acb923e8dd3dd77c323037cc00e670d95feece5469ab5bf8c89499db6cf.gltf"
+    },
+    {
+      "id": "b101",
+      "name": "101동 아시아연구소",
+      "variant": "generic-v2",
+      "url": "b101/model-0864845b69f3b6dd8c2c045abbeba751e7d397e7738ea895249b9dc1cca5f91e.gltf"
+    },
+    {
+      "id": "b67",
+      "name": "67동 NH농협두레문예관",
+      "variant": "generic-v2",
+      "url": "b67/model-4d98b5c877789e7b72e9d40db6c4a92235e84c4795f43b89f2531fa4ae4a1b48.gltf"
+    },
+    {
+      "id": "b16_1",
+      "name": "16-1동 신양학술정보관Ⅲ",
+      "variant": "generic-v2",
+      "url": "b16_1/model-9cd556671d3bce8b6301ab847a59285e2658aa73bac3d9306299985879fd057c.gltf"
+    },
+    {
+      "id": "lawLibrary",
+      "name": "72동 법학도서관",
+      "variant": "generic-v2",
+      "url": "lawLibrary/model-6d6a404fab06073ca473ac8b543b3e15487a5464ec1d284b6ea07a1d9a0047ed.gltf"
+    },
+    {
+      "id": "law84",
+      "name": "84동 근대법학교육100주년기념관",
+      "variant": "generic-v2",
+      "url": "law84/model-b6085a0cf0eb1d2dfc01682b0d2e2eee3f2be7480b0f3503bea00acfc058da88.gltf"
+    },
+    {
+      "id": "kyujanggak",
+      "name": "103동 규장각한국학연구원",
+      "variant": "detailed",
+      "url": "kyujanggak/model-4bd7fe955595044fb88d476207085ffac5367e7775ec725db36329bb1d966699.gltf"
+    },
+    {
+      "id": "b17",
+      "name": "17동 법학관2",
+      "variant": "generic-v2",
+      "url": "b17/model-bca80ad8204ea3985b04220fc9016ceed9dde4c3d1f1320a9742f37b8a992b2f.gltf"
+    },
+    {
+      "id": "edu12",
+      "name": "12동 사범교육협력센터",
+      "variant": "generic-v2",
+      "url": "edu12/model-d6dd53b3e94b354936e8f4ff0a9d89fed15e05790dc4dcf80c7cfc3b06cd935c.gltf"
+    },
+    {
+      "id": "hum6",
+      "name": "인문관5(6동)",
+      "variant": "generic-v2",
+      "url": "hum6/model-7973b4dfd99f1569a0672cf99268b1053c16351caf8606d5b5ca2334c357f3d6.gltf"
+    },
+    {
+      "id": "hum7",
+      "name": "인문관6(7동)",
+      "variant": "generic-v2",
+      "url": "hum7/model-046858138e3230ef16861772567d14fff86b2dd040aae865c4649659888b98c4.gltf"
+    },
+    {
+      "id": "doosan8",
+      "name": "8동 두산인문관",
+      "variant": "generic-v2",
+      "url": "doosan8/model-eb2a663f74b402978aa62a710ca077a1e098117489da5c9423ee6624b5cc2268.gltf"
+    },
+    {
+      "id": "b10_1",
+      "name": "10-1동 사범대교육정보관",
+      "variant": "generic-v2",
+      "url": "b10_1/model-78c7d976c8358c77f652ac6c8daab9b220d0cc08fafdabb6e3d91f8d2d269b75.gltf"
+    },
+    {
+      "id": "sci24",
+      "name": "자연과학관6(24동)",
+      "variant": "generic-v2",
+      "url": "sci24/model-f538989bfe036716e87cd05cde8a864d74d16bf8aed558ecc1ed25042af90c15.gltf"
+    },
+    {
+      "id": "vet85",
+      "name": "85동 수의과대학",
+      "variant": "generic-v2",
+      "url": "vet85/model-5a270989e97a4c51cbaf870f07ba05b4cac4a736303a110c2571d66ed34f38d4.gltf"
+    },
+    {
+      "id": "edu13",
+      "name": "13동 과학교육관",
+      "variant": "generic-v2",
+      "url": "edu13/model-ce28aab0b35fd5a8fc64548a5e6b35fe3c9c4df634c29e3e66467c05713c1595.gltf"
+    },
+    {
+      "id": "moa",
+      "name": "151동 미술관(MOA)",
+      "variant": "detailed",
+      "url": "moa/model-4d3c2c7791c673a72788ac9b842bb9f1ca34153157d3116540816151938968ae.gltf"
+    },
+    {
+      "id": "b37",
+      "name": "37동 공학관8",
+      "variant": "generic-v2",
+      "url": "b37/model-78170d213664b879f26d10cb79033326901e6c687a01e8ce2c4a52d2467ec689.gltf"
+    },
+    {
+      "id": "b64",
+      "name": "64동 IBK커뮤니케이션센터",
+      "variant": "generic-v2",
+      "url": "b64/model-64f8f4ec81533c7b065f28b475144f1d8cad40a36f64948e04fac06eafa3067f.gltf"
+    },
+    {
+      "id": "b220",
+      "name": "220동 종합교육연구동",
+      "variant": "generic-v2",
+      "url": "b220/model-131241c0e721464381993c602bad2e436290c10ceb570629ec877f2948e7da18.gltf"
+    },
+    {
+      "id": "b221",
+      "name": "221동 보건대학원",
+      "variant": "generic-v2",
+      "url": "b221/model-6bd9da30cb8eaf821cabd568fb75cc450e8405f329cb3fcb671b0dd2cf8cbaac.gltf"
+    },
+    {
+      "id": "envStudies",
+      "name": "82동 환경대학원",
+      "variant": "generic-v2",
+      "url": "envStudies/model-b83206590f693f3a42ab7e40b75e12ba74875b7c423097861fd51527ed4685e5.gltf"
+    },
+    {
+      "id": "b506",
+      "name": "506동 생명과학부시약보관창고",
+      "variant": "generic-v2",
+      "url": "b506/model-337a02394698a1f1d951626071f33d7c60fb7bd1fe417be08328bb3708fbdea4.gltf"
+    },
+    {
+      "id": "b20_annex",
+      "name": "20-1동 약학관부속동",
+      "variant": "generic-v2",
+      "url": "b20_annex/model-f8d88973c8470236882a1f1807132c78ab775a2ad67c64bf10fedda2059e2856.gltf"
+    },
+    {
+      "id": "b946",
+      "name": "946동 BK국제관",
+      "variant": "generic-v2",
+      "url": "b946/model-7c965562bda0655285f500b7cb9428dd58122041e0aedbd1ded5ede64a7f0711.gltf"
+    },
+    {
+      "id": "b943",
+      "name": "943동 SK텔레콤",
+      "variant": "generic-v2",
+      "url": "b943/model-204d32923c096318751ca124696a50256b2963de72338d275e5deec192e79ba2.gltf"
+    },
+    {
+      "id": "b32_1",
+      "name": "32-1동 해동학술문화관",
+      "variant": "generic-v2",
+      "url": "b32_1/model-506e884af20ba0da8e303473b6b24872c3b8d5f1cb7a1ba15627dcb345e13012.gltf"
+    },
+    {
+      "id": "kwanjeong",
+      "name": "62-1동 중앙도서관 관정관",
+      "variant": "detailed",
+      "url": "kwanjeong/model-7cca173b087de1f7f28fc4aeb3e79028700bf9abf25e924c8bbcf20782f14aa0.gltf"
+    },
+    {
+      "id": "b503",
+      "name": "자연대연구동(503·504동)",
+      "variant": "generic-v2",
+      "url": "b503/model-b84381a52e05d8333e7a9be5f17c0033f55a467a81a95fc9b52b070ea7fdc702.gltf"
+    },
+    {
+      "id": "b33",
+      "name": "33동 공학관4",
+      "variant": "generic-v2",
+      "url": "b33/model-ddbbcc44d0a973ba43ed8ef5da2db040fe01a6eb5ec59b019993b04688181c20.gltf"
+    },
+    {
+      "id": "b36",
+      "name": "36동 공학관7",
+      "variant": "generic-v2",
+      "url": "b36/model-9de4fda9adfbefb82d3a3b591fd7f0d5ede295669b39928f3777b5e5ae2ca20a.gltf"
+    },
+    {
+      "id": "b34",
+      "name": "34동 공학관5",
+      "variant": "generic-v2",
+      "url": "b34/model-2f699a10effa7eae3e84768234ed5f298896fc42a75be0063238ade05776e7ef.gltf"
+    },
+    {
+      "id": "b44_1",
+      "name": "44-1동 신양학술정보관",
+      "variant": "generic-v2",
+      "url": "b44_1/model-a6300d7c60d2e93078bd99c8e8bdbc465559ef8e2df5ebba0a6e167683894c32.gltf"
+    },
+    {
+      "id": "b75",
+      "name": "75동 복지관",
+      "variant": "generic-v2",
+      "url": "b75/model-d25c9a9af31c9607480eddeab6248fe5c3bb111e75338931932863a4daf06e62.gltf"
+    },
+    {
+      "id": "b30_2",
+      "name": "30-2동 공대간이식당",
+      "variant": "generic-v2",
+      "url": "b30_2/model-0d431fe08df6cf1b8b06661314db52f51b390f69fae6e5b6eec1071d0cd3561b.gltf"
+    },
+    {
+      "id": "b140",
+      "name": "140동 국제대학원",
+      "variant": "generic-v2",
+      "url": "b140/model-95e0eda564900c85082d142cb49d41d9e7803a6f51a1995b4cfa1da05ac87fb8.gltf"
+    },
+    {
+      "id": "b49",
+      "name": "49동 예술관연구동",
+      "variant": "generic-v2",
+      "url": "b49/model-a439756a5b3087520298ff0b5807897e9adff537f21e64ccc280e8bbb4b79c30.gltf"
+    },
+    {
+      "id": "b310",
+      "name": "310동 엔지니어하우스",
+      "variant": "generic-v2",
+      "url": "b310/model-a436d7679e361e286fb28dc848141db5cfe0a810bec728d35e7bbb0896f29a83.gltf"
+    },
+    {
+      "id": "b222",
+      "name": "222동 생활과학대학",
+      "variant": "generic-v2",
+      "url": "b222/model-723cc6c9432608063b610691d6c2b3135832292eaebd33550ae0984940b6c072.gltf"
+    },
+    {
+      "id": "b57_1",
+      "name": "57-1동 행정대학원",
+      "variant": "generic-v2",
+      "url": "b57_1/model-87c13f3d760862d6117c953287d1ebf0ed5db095f3164d479437266a1bf9ccee.gltf"
+    },
+    {
+      "id": "b43",
+      "name": "43동 데이터사이언스대학원 및 공과대학 강의동 1",
+      "variant": "generic-v2",
+      "url": "b43/model-042e13c1ea6252377c96ea483c56df1eb232fbbd63a826894dd9279d9bf3f30b.gltf"
+    },
+    {
+      "id": "b71",
+      "name": "71동 체육관",
+      "variant": "generic-v2",
+      "url": "b71/model-286e2d1e45db3d168cf6c170ad79c8eb735202423110a9c0fda30a611a2e9be0.gltf"
+    },
+    {
+      "id": "b150",
+      "name": "150동 명예교수연구동",
+      "variant": "generic-v2",
+      "url": "b150/model-29d656cd54a7a285e5ff0e1c618b396b30bcd0d6797cd56f15fd6459b519ab87.gltf"
+    },
+    {
+      "id": "b30",
+      "name": "30동 공학관1",
+      "variant": "generic-v2",
+      "url": "b30/model-83b5c5fbd8116a90b59f0c8c0218933e2d9209f6d04a3a319d1364afe51e707b.gltf"
+    },
+    {
+      "id": "b31",
+      "name": "31동 공학관2",
+      "variant": "generic-v2",
+      "url": "b31/model-e5130722f0dbb4f9d298cd52ebe954c6f31f3d1d9bd2aa9ecb83e53f9e2d2e24.gltf"
+    },
+    {
+      "id": "b918",
+      "name": "918동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b918/model-927b91f175d03919fd08326715e5ebcafa5bde21b5b486613a77182a30f86045.gltf"
+    },
+    {
+      "id": "b935",
+      "name": "935동 가족생활관5",
+      "variant": "generic-v2",
+      "url": "b935/model-c540b9692c35b238e07c354b69fc95fc71ebf9f2db115832247452ec2b3c07c4.gltf"
+    },
+    {
+      "id": "b125",
+      "name": "125동 호암교수회관",
+      "variant": "generic-v2",
+      "url": "b125/model-0e2fd248c332e4741b8e9849b503ee82700725decf2374aa741e4beb2858223d.gltf"
+    },
+    {
+      "id": "b945",
+      "name": "945동 웅진R&D센터",
+      "variant": "generic-v2",
+      "url": "b945/model-cd6c9f9986dfb3a723a836eb9fcad4f7eb5ce02383679ea2303508c054e4e2c5.gltf"
+    },
+    {
+      "id": "b105",
+      "name": "105동 유전공학연구소",
+      "variant": "generic-v2",
+      "url": "b105/model-4052c5c4e4e83b625a9d5f0d84f9fbf1c97663186f93bb98cf8e6245bf66c190.gltf"
+    },
+    {
+      "id": "b104",
+      "name": "104동 반도체공동연구소",
+      "variant": "generic-v2",
+      "url": "b104/model-8aa7c1fce1857db79077eebb9761bc281438442da16a92dfb75dbbcbbd767f71.gltf"
+    },
+    {
+      "id": "b42",
+      "name": "42동 선형수조실험동",
+      "variant": "generic-v2",
+      "url": "b42/model-2de63f6fc9428df1d097d50fe110543bf559bcd4710d8559363327b21c2ef2c3.gltf"
+    },
+    {
+      "id": "b41",
+      "name": "41동 선체구조실험동",
+      "variant": "generic-v2",
+      "url": "b41/model-2f0058773adcee30df97567c87f347d4095187c905cc84bad42618bbf1f86af2.gltf"
+    },
+    {
+      "id": "b132",
+      "name": "132동 뉴미디어통신공동연구소",
+      "variant": "generic-v2",
+      "url": "b132/model-0f431472aee7433ed2d93820811fe7f3676aa863f711b0f2dfcf45e26127f753.gltf"
+    },
+    {
+      "id": "b311",
+      "name": "311동 화학공정신기술연구소",
+      "variant": "generic-v2",
+      "url": "b311/model-e62f1dacbd84aa765877e64d9eee48ddf4b9012c4cdfba212eeb38c4fbd67dac.gltf"
+    },
+    {
+      "id": "b313",
+      "name": "313동 정밀기계공동연구소",
+      "variant": "generic-v2",
+      "url": "b313/model-7f62b6c00686d8dfa9d4e34921041bdadb09db20f1a80cce35c5747acb0c5c7a.gltf"
+    },
+    {
+      "id": "b314",
+      "name": "314동 차세대자동차신기술연구소",
+      "variant": "generic-v2",
+      "url": "b314/model-9e1a6aa29f99c3a66d0bf0c30aa6142df47306395b03dd0281c8215501c7f7c3.gltf"
+    },
+    {
+      "id": "b300",
+      "name": "300동 관악 300동[유회진 학술정보관]",
+      "variant": "generic-v2",
+      "url": "b300/model-0c799bf9b2256698ca420132b9e2662735871adf1ee514c50f25bb088a851973.gltf"
+    },
+    {
+      "id": "b137_1",
+      "name": "137-1동 CJ어학관",
+      "variant": "generic-v2",
+      "url": "b137_1/model-508005cd769073c4c7367982f98385851f4f21a70df8d0c02f1757440d0527b3.gltf"
+    },
+    {
+      "id": "b137",
+      "name": "137동 언어교육원",
+      "variant": "generic-v2",
+      "url": "b137/model-83862b0c5f9eb93d8b360a25988e63cdf2844561dbdffdadf5d917fa348d34a4.gltf"
+    },
+    {
+      "id": "b68",
+      "name": "68동 파워플랜트",
+      "variant": "generic-v2",
+      "url": "b68/model-d72da5395786ae3d26371029824cf3d93c6ffa9d1fcf4422224a4ca37d915960.gltf"
+    },
+    {
+      "id": "b68_1",
+      "name": "68-1동 신림변전소",
+      "variant": "generic-v2",
+      "url": "b68_1/model-cd60db5efa270e4da98e922870cdaeeafb4c35b92037d05fd67f37bd276fc23b.gltf"
+    },
+    {
+      "id": "b143",
+      "name": "143동 약대신약개발연구센터",
+      "variant": "generic-v2",
+      "url": "b143/model-354ad3644ae2b27c6a7505bad808eceb48bb786a9307c8aaec129dbec1855ca2.gltf"
+    },
+    {
+      "id": "b21_annex",
+      "name": "21-1동 약학관실험부속동",
+      "variant": "generic-v2",
+      "url": "b21_annex/model-ace95015068e3648f21da8537897f707c5dac61796103827150c3a14d4a3656e.gltf"
+    },
+    {
+      "id": "b142",
+      "name": "142동 약학관5",
+      "variant": "generic-v2",
+      "url": "b142/model-184d9200edb8aca6161d23a9ac842096eee94b54c74c443b2a2b47f239089b57.gltf"
+    },
+    {
+      "id": "b141",
+      "name": "141동 약학관4",
+      "variant": "generic-v2",
+      "url": "b141/model-cc81488ed97e58dd572837a7cc44377392425cd73a364b7ad86f07b5c15ee39d.gltf"
+    },
+    {
+      "id": "b66",
+      "name": "66동 학군단본관",
+      "variant": "generic-v2",
+      "url": "b66/model-30c8609a54a63b68ba9a3fcaafe46f34b3913ded9249171c020f5ee9be4151d6.gltf"
+    },
+    {
+      "id": "b66b",
+      "name": "66-1동 학군단별관",
+      "variant": "generic-v2",
+      "url": "b66b/model-f603690fabc950344f7c24430125356075521f2f1b7685de6b8606fbfce14476.gltf"
+    },
+    {
+      "id": "b66c",
+      "name": "66-2동 학군단부속동",
+      "variant": "generic-v2",
+      "url": "b66c/model-39e01bdbe9a5df1680831973f6242ca3e64be6d0c9178c966b9103bbccfa1b5f.gltf"
+    },
+    {
+      "id": "b138",
+      "name": "138동 컴퓨터연구소",
+      "variant": "generic-v2",
+      "url": "b138/model-7b6998eaec6b5b8406ad25e2daffde59f5f607feb082cfecc81e33ad69326cdb.gltf"
+    },
+    {
+      "id": "b139",
+      "name": "139동 공동기기원",
+      "variant": "generic-v2",
+      "url": "b139/model-da0d5843835ff8cd182055b1ec35975dc4c401eeefdeb0df6b7bd8729f28558b.gltf"
+    },
+    {
+      "id": "b29",
+      "name": "29동 약학관2",
+      "variant": "generic-v2",
+      "url": "b29/model-330c61715e5b237a88c289935cba4fa8745210336083bf61984b19f51173ae94.gltf"
+    },
+    {
+      "id": "b19",
+      "name": "19동 자연과학관2",
+      "variant": "generic-v2",
+      "url": "b19/model-7ffd2b64236397bb088ce1dfe9da5983351f697b3635b70d290e3deee0bb4647.gltf"
+    },
+    {
+      "id": "b18",
+      "name": "18동 자연과학관1",
+      "variant": "generic-v2",
+      "url": "b18/model-f53132232f0886503c511c0c58879d0c4def72a7fbc512ea136c486175665454.gltf"
+    },
+    {
+      "id": "b18_annex",
+      "name": "18-2동 자연대부속실",
+      "variant": "generic-v2",
+      "url": "b18_annex/model-dc1abec0bee1431a69cff63c42b8f9180563b828cca32b392da2b2de7a0ab6d4.gltf"
+    },
+    {
+      "id": "b98",
+      "name": "98동 환경안전원",
+      "variant": "generic-v2",
+      "url": "b98/model-82631e0268ed0423f57515c3998761eb7388aab60d1215a7aa8573aea2585ab9.gltf"
+    },
+    {
+      "id": "b97",
+      "name": "97동 환경안전원1",
+      "variant": "generic-v2",
+      "url": "b97/model-3676ece6b89a21f5eb21d40595781fba742a3ddc20f6abbb5bc0fb275658fc78.gltf"
+    },
+    {
+      "id": "b152_1",
+      "name": "152-1동 롯데국제교육관",
+      "variant": "generic-v2",
+      "url": "b152_1/model-6de425dd437fac69226984b95b36bb24ad3f3c06de5dd4b0de5ef9088ace4bca.gltf"
+    },
+    {
+      "id": "b152",
+      "name": "152동 CJ인터내셔널센터",
+      "variant": "generic-v2",
+      "url": "b152/model-39e2268e6f600c35f159907cf0908a41c23b8075a79e57076630358d7a890f88.gltf"
+    },
+    {
+      "id": "b71_2",
+      "name": "71-2동 포스코스포츠센터",
+      "variant": "generic-v2",
+      "url": "b71_2/model-8c984eacc11c13d6534dd32986067e80277b5d48e00b80dd8beb777d69698152.gltf"
+    },
+    {
+      "id": "vet80",
+      "name": "80동 수의대부속동물병원·생물공학연구소",
+      "variant": "generic-v2",
+      "url": "vet80/model-f1ea59697f7cb49d3a29dbcb8fedd690626a5492338af74f4d188f2aec69655a.gltf"
+    },
+    {
+      "id": "b81",
+      "name": "81동 생명공학연구동",
+      "variant": "generic-v2",
+      "url": "b81/model-691b0cfc14c7440489d662c1262f8c3820ed028bd2ed89d2359cd7ff3d5a36ab.gltf"
+    },
+    {
+      "id": "b137_2",
+      "name": "137-2동 대림국제관",
+      "variant": "generic-v2",
+      "url": "b137_2/model-29529731c80b9e7cb50dbdfcd6b79797270f793712c9a796d9e9dc1b2c35773e.gltf"
+    },
+    {
+      "id": "lgBiz",
+      "name": "59동 LG경영관",
+      "variant": "generic-v2",
+      "url": "lgBiz/model-566ea7163b1cf3983be518d467a0aff92940eff862fbea0477a56a2fae13abe4.gltf"
+    },
+    {
+      "id": "b57",
+      "name": "57동 행정대학원",
+      "variant": "generic-v2",
+      "url": "b57/model-9f209ae29d03d9313a75e2bcd9329d6c47182b7d91209ba23c76f9e525213c11.gltf"
+    },
+    {
+      "id": "b70",
+      "name": "70동 박물관",
+      "variant": "generic-v2",
+      "url": "b70/model-8e72ed5e8b27e2b8173236e5b5b112f313c74f1e84c4122571d66407150841f4.gltf"
+    },
+    {
+      "id": "artsResearch",
+      "name": "74동 예술복합연구동",
+      "variant": "generic-v2",
+      "url": "artsResearch/model-fd9e23024df069a04a0ef1a2da12dbb58edfda6d963f0836ca3426c0a6ce3ba7.gltf"
+    },
+    {
+      "id": "b50",
+      "name": "50동 예술관(미대)1A",
+      "variant": "generic-v2",
+      "url": "b50/model-4f613219b034cfdbfdd07fd0ef8cc491f34b97780fb6b968bb0f39222fec8b3a.gltf"
+    },
+    {
+      "id": "b50b",
+      "name": "50-1동 예술관(미대)1B",
+      "variant": "generic-v2",
+      "url": "b50b/model-6adf10757805dd0917c9db2fbc081120efde6ef05c9a41a958c50072f6be2dae.gltf"
+    },
+    {
+      "id": "b51",
+      "name": "51동 예술관(미대)2",
+      "variant": "generic-v2",
+      "url": "b51/model-1f2ceaa584a26a14b878b4c2d965eebf306e821948c310853af89074836f88d2.gltf"
+    },
+    {
+      "id": "b52",
+      "name": "52동 예술관(미대)3",
+      "variant": "generic-v2",
+      "url": "b52/model-72445856a2c2ebdb280db3e94fc58932a093adfc00f8fc71a6332a618c2bb328.gltf"
+    },
+    {
+      "id": "b52_1",
+      "name": "52-1동 미대교양실습동",
+      "variant": "generic-v2",
+      "url": "b52_1/model-df16c1731cc054c9f9f4d9833683835e2659dc35ffb717dde786f3a6e414beb3.gltf"
+    },
+    {
+      "id": "b53",
+      "name": "53동 예술관(음대)1",
+      "variant": "generic-v2",
+      "url": "b53/model-800e41a3972c675c27e75b23c5d8597d22df3704d6e146ceebc544d800146994.gltf"
+    },
+    {
+      "id": "music54",
+      "name": "54동 예술관(음대)2",
+      "variant": "generic-v2",
+      "url": "music54/model-89284ec4069fb559921d3fd18de4f7161a7a38e71ab3c6a05c348cd3dc5c0eca.gltf"
+    },
+    {
+      "id": "music55",
+      "name": "55동 예술관(음대)3",
+      "variant": "generic-v2",
+      "url": "music55/model-f8561d05192478bc5a57a0686aa01fd6f88c19ca82214ba80724284758165626.gltf"
+    },
+    {
+      "id": "b203",
+      "name": "203동 SPC농생명과학 및 기초과학연구동",
+      "variant": "generic-v2",
+      "url": "b203/model-1703f2ccb2606993e651acd19694a33ec4d3d8ce3494b87ac2c149e926c0ec48.gltf"
+    },
+    {
+      "id": "b201",
+      "name": "201동 농업생명과학대학환경관",
+      "variant": "generic-v2",
+      "url": "b201/model-f8114e1cd1ab26f923d1277e4b0439adafd83ad78a67e0c2b0eff1248f50899c.gltf"
+    },
+    {
+      "id": "b40",
+      "name": "40동 풍동실험동1",
+      "variant": "generic-v2",
+      "url": "b40/model-b962e4c47d16dd84b44f982bc07fc085cfc6d03717409768c9e8a86f78ec2491.gltf"
+    },
+    {
+      "id": "b133",
+      "name": "133동 자동화연구소",
+      "variant": "generic-v2",
+      "url": "b133/model-8b52c1ebeb3f7d7b621c9e72a865ae6a0a5785d70ac9323c4339529f66fa0ac0.gltf"
+    },
+    {
+      "id": "b130",
+      "name": "130동 기초전력연구소",
+      "variant": "generic-v2",
+      "url": "b130/model-bfc69b6cc8535f5054351d0880fb36816206266c7fd8a0bd469980317056887b.gltf"
+    },
+    {
+      "id": "b44",
+      "name": "44동 풍동실험동2",
+      "variant": "generic-v2",
+      "url": "b44/model-d3b7742725dd9dfcb6882b0d1b48c56f64fb26fe7921cdaac22a6820ecf3c5a3.gltf"
+    },
+    {
+      "id": "b135",
+      "name": "135동 에너지신기술연구동",
+      "variant": "generic-v2",
+      "url": "b135/model-9e76bc60ce0cc97ceba033f7a758d0819a63d1fdd39058a8b511e7dba2d42560.gltf"
+    },
+    {
+      "id": "b131",
+      "name": "131동 신소재공동연구소",
+      "variant": "generic-v2",
+      "url": "b131/model-19666b9526dae9f5ba6ba46dd9ee3e3d7b1449fa098296ab277a477668b43128.gltf"
+    },
+    {
+      "id": "b330",
+      "name": "330동 제2파워플랜트",
+      "variant": "generic-v2",
+      "url": "b330/model-8996898d5716a17d36fa6079f7e0e433aff62c4fd5b390fbb3963e5659c1226c.gltf"
+    },
+    {
+      "id": "b331",
+      "name": "331동 차량정비고",
+      "variant": "generic-v2",
+      "url": "b331/model-156a26f5c249359c47c68409df7cf12a6edc908cf2bbc97d888a91499a965e89.gltf"
+    },
+    {
+      "id": "b316",
+      "name": "316동 대형구조실험동",
+      "variant": "generic-v2",
+      "url": "b316/model-5a918b196a3e2606cd04fa4c4ffd05249a664836ce3b179c7c159c3936951353.gltf"
+    },
+    {
+      "id": "b104_1",
+      "name": "104-1동 반도체교육관",
+      "variant": "generic-v2",
+      "url": "b104_1/model-84938e4579ef3898ec521af3b75b8b4b79720420d39daa1ea1cf5733b83d4a02.gltf"
+    },
+    {
+      "id": "b139_1",
+      "name": "139-1동 정전가속기동",
+      "variant": "generic-v2",
+      "url": "b139_1/model-1916f4fee0806ca1bc711ed42e947fa3e0d901ac8a9b6d8ba50792573a9b5743.gltf"
+    },
+    {
+      "id": "b46",
+      "name": "46동 천문관측소",
+      "variant": "generic-v2",
+      "url": "b46/model-b261c18c050ab3610ae01cbe46b7d807c0b42a99d0cba9df18ca01805f1f6d4e.gltf"
+    },
+    {
+      "id": "b125_1",
+      "name": "125-1동 국제백신연구소연구동",
+      "variant": "generic-v2",
+      "url": "b125_1/model-a94421008b1d5c4825c9a86923fdf10b4a4e9fb7cc965947bb9663222c9173e4.gltf"
+    },
+    {
+      "id": "b940",
+      "name": "940동 연구공원지원시설",
+      "variant": "generic-v2",
+      "url": "b940/model-abd8e28bd782bd9ce59ae23a16d0526af71b1513945e62b500c5819da0abfbf7.gltf"
+    },
+    {
+      "id": "b942",
+      "name": "942동 LG연구동",
+      "variant": "generic-v2",
+      "url": "b942/model-98fc11a8250b5b5d840c0038c957bc1ddf3c1b5b1de4bb9702620e497844b9fc.gltf"
+    },
+    {
+      "id": "b941",
+      "name": "941동 백학어린이집",
+      "variant": "generic-v2",
+      "url": "b941/model-e28dc7f94158bd1aa7834f00854e843cbf0f6111e1b2a92c84119685408337a2.gltf"
+    },
+    {
+      "id": "b941_1",
+      "name": "941-1동 느티나무어린이집",
+      "variant": "generic-v2",
+      "url": "b941_1/model-cfaba555b55fb61986810ef77e820b661cc0ce4b7693b887e4cfad4afabddc8b.gltf"
+    },
+    {
+      "id": "b936",
+      "name": "936동 교직원아파트",
+      "variant": "generic-v2",
+      "url": "b936/model-e4d9407d43ffc32af5eee9be9575867754a61400962ace3ee468dc03bfe26029.gltf"
+    },
+    {
+      "id": "b125_2",
+      "name": "125-2동 게스트하우스",
+      "variant": "generic-v2",
+      "url": "b125_2/model-3a15b760fb77f56c543320e2c16f14243b3ff93685e1a03a4974997be08e5542.gltf"
+    },
+    {
+      "id": "b125_1_2",
+      "name": "125-1동 컨벤션센타",
+      "variant": "generic-v2",
+      "url": "b125_1_2/model-3b8ed2f7420c778f9422dc71aea3d7eda05403453b4c2409c7a262ead9a3ba8a.gltf"
+    },
+    {
+      "id": "b127",
+      "name": "127동 호암서관",
+      "variant": "generic-v2",
+      "url": "b127/model-c5635e4241632352d4c963da2f766175d2568256ba6252125f53dcaa8f2e0bca.gltf"
+    },
+    {
+      "id": "b126",
+      "name": "126동 호암동관",
+      "variant": "generic-v2",
+      "url": "b126/model-016983909c3e6e8a891d0e5960b9b32ac7444ff527c850a1cfbb560d2f7fbf98.gltf"
+    },
+    {
+      "id": "b111",
+      "name": "111동 사범대학 간이식당",
+      "variant": "generic-v2",
+      "url": "b111/model-e22b65afb312d1a27f1eaa9bf3a62dfec10e13bf93c7ecd5fd4adecf9088cbec.gltf"
+    },
+    {
+      "id": "b934",
+      "name": "934동 가족생활관4",
+      "variant": "generic-v2",
+      "url": "b934/model-cbb2fade779e6dae292dacd6d26b8480e96e1a89dbce79d9ed2c65861e296d30.gltf"
+    },
+    {
+      "id": "b933",
+      "name": "933동 가족생활관3",
+      "variant": "generic-v2",
+      "url": "b933/model-73908538a5168c7efafbd2a2ac23c87380ded1bf31f01726b84e995397f82a89.gltf"
+    },
+    {
+      "id": "b932",
+      "name": "932동 가족생활관2",
+      "variant": "generic-v2",
+      "url": "b932/model-3abf835380d596e4128270ccc8d0675a954dba0d4ec3f62fcd8adf0ad2dc2e6e.gltf"
+    },
+    {
+      "id": "b931",
+      "name": "931동 가족생활관1",
+      "variant": "generic-v2",
+      "url": "b931/model-385cd36f40cbe2c24fb0d376732611321bbe68fdf66f26b6323b94f8a9e124d8.gltf"
+    },
+    {
+      "id": "b52_2",
+      "name": "52-2동 야외조각실습장",
+      "variant": "generic-v2",
+      "url": "b52_2/model-4fb314b506c59f91cc598a6370ce8d9bdf2892e30433aac2c6a194e65edbb1d1.gltf"
+    },
+    {
+      "id": "b919B",
+      "name": "919B동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b919B/model-12d65b1519387444a178013366b2fef0b39ce956f506b456e66b1aa910e20162.gltf"
+    },
+    {
+      "id": "b153",
+      "name": "153동 우정원 글로벌사회공헌센터",
+      "variant": "generic-v2",
+      "url": "b153/model-78d67e9f2f9505e4652b3792c45b491bdf39ffac5d71b7928ccad457e95c7f99.gltf"
+    },
+    {
+      "id": "b71_1",
+      "name": "체육문화교육연구동(71-1동)",
+      "variant": "generic-v2",
+      "url": "b71_1/model-4ec55f490ef3ca796d77601ca491569bc148708f70a06cdacca7a0ee7d27c7ca.gltf"
+    },
+    {
+      "id": "b42_1",
+      "name": "42-1동 슬로싱실험동",
+      "variant": "generic-v2",
+      "url": "b42_1/model-bde39a5f2e9f01d57a528da5de863bf4225095041236e107c4e04f75fc606fa0.gltf"
+    },
+    {
+      "id": "b45",
+      "name": "45동 천문대(신)",
+      "variant": "generic-v2",
+      "url": "b45/model-fecb1a21649c1889a4a022fef38ca9218eef2cdea7edd4016cb44b69a1d8c345.gltf"
+    },
+    {
+      "id": "b302",
+      "name": "302동 제2공학관",
+      "variant": "generic-v2",
+      "url": "b302/model-bff0a0950ebf200f75ae9ca5e052ec9083d6b72e21c1f3a7bb34a5949c76bab3.gltf"
+    },
+    {
+      "id": "b900",
+      "name": "900동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b900/model-a9263407f186ac9567937f83333b81a7368d3bd6ab90e9868d824a175970b1d5.gltf"
+    },
+    {
+      "id": "b922",
+      "name": "922동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b922/model-fe28c5fc6a181e7e92b57121a100fba83b7cd25bad14942f502d51dbf74ea2ef.gltf"
+    },
+    {
+      "id": "b924",
+      "name": "924동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b924/model-30581c11f489ee48cb458ea0470b01b17d783e75f1bd748634c32cd9c8501216.gltf"
+    },
+    {
+      "id": "b919D",
+      "name": "919D동 관악사919D동",
+      "variant": "generic-v2",
+      "url": "b919D/model-94116b3de8648d75a90f7f0c454350d6b12b833af35b602db03ffa4acc55994d.gltf"
+    },
+    {
+      "id": "b906",
+      "name": "906동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b906/model-8774d05d9202bc727f9d27fdb265a2b8eef95d29b26a041255bb115d92050559.gltf"
+    },
+    {
+      "id": "b904",
+      "name": "904동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b904/model-0f3772f33504bdeb4ca1fd11920199ec3bde1c2417868d2244f2e834335bfac3.gltf"
+    },
+    {
+      "id": "b905",
+      "name": "905동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b905/model-8dbbf677b60760e265ee2cb2a7039d6807ebfffa9bb778d038680419d1245dba.gltf"
+    },
+    {
+      "id": "b903",
+      "name": "903동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b903/model-d33d23ccdb25c71ad0748a5fb96e57f5baefc58f87584f56874ad226acf0ef2c.gltf"
+    },
+    {
+      "id": "b923",
+      "name": "923동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b923/model-226bbd402e0ad3eee842d9685b39ab6b67013c2225ec12d100e40fe92e66a149.gltf"
+    },
+    {
+      "id": "b902",
+      "name": "902동 (관악사)대학원 생활관",
+      "variant": "generic-v2",
+      "url": "b902/model-58f3dc42f5f0cca5e7d04d66858318c5f48428e455192580eb157de32c99844e.gltf"
+    },
+    {
+      "id": "b901",
+      "name": "901동 관악사901동",
+      "variant": "generic-v2",
+      "url": "b901/model-33462ebda93d8ad598005aa2a64d04b775b510c8b4a634b3ff87df054c2dd97a.gltf"
+    },
+    {
+      "id": "b921",
+      "name": "921동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b921/model-90679bd9fb5b1bef38b088ea8a205a3be3c1efc8bc1033cfedf0f0c95e2307ea.gltf"
+    },
+    {
+      "id": "b919A",
+      "name": "919A동 관악사919A동",
+      "variant": "generic-v2",
+      "url": "b919A/model-4a6d38acdd3bcc93ad84614194310e0ffc0eec37cfb485fbceaf9e51e6e97add.gltf"
+    },
+    {
+      "id": "b919C",
+      "name": "919C동 관악사919C동",
+      "variant": "generic-v2",
+      "url": "b919C/model-bd4789939801dc7d229822fa73863110564ec6158c77931eebe7291ed2347cba.gltf"
+    },
+    {
+      "id": "b925",
+      "name": "925동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b925/model-a50b3fe6fecc7daa841eef5a716c09d8ccaf4cdf5f0fadf5bebeb81f6895b1f1.gltf"
+    },
+    {
+      "id": "b926",
+      "name": "926동 (관악사)학부 생활관",
+      "variant": "generic-v2",
+      "url": "b926/model-57382333896593b59fa140d2b65124b6c5860ffb87ae44c2837daed6d70933d1.gltf"
+    },
+    {
+      "id": "b920",
+      "name": "920동 관악사후생관",
+      "variant": "generic-v2",
+      "url": "b920/model-a5bd8dc6cbb018007ff819f5c343cd2f2d25b3b831a3f084a3683e6fe1efa3d0.gltf"
+    },
+    {
+      "id": "b944",
+      "name": "944동 삼성전자서울대연구소",
+      "variant": "generic-v2",
+      "url": "b944/model-fdc775fe467c4513517511187fc6b0650e9f6517d263a433f76c61dd03dd02d6.gltf"
+    },
+    {
+      "id": "b312",
+      "name": "312동 정밀기계연구소실험연구동",
+      "variant": "generic-v2",
+      "url": "b312/model-06d787e59067ffd5745158c1bfaf9430df4ec43ce20ffd75066fac884287d9c9.gltf"
+    },
+    {
+      "id": "b35",
+      "name": "35동 공학관6",
+      "variant": "generic-v2",
+      "url": "b35/model-4607eb573993231ab205d6bdc8d970b638a194002ad15699f04a83528a47d871.gltf"
+    },
+    {
+      "id": "b69",
+      "name": "69동 실험동물자원관리원",
+      "variant": "generic-v2",
+      "url": "b69/model-5d8cf17380ff25761ba6ab0338ecffa9b2985bcd222d6492ac5b25258f778c4f.gltf"
+    },
+    {
+      "id": "b38",
+      "name": "38동 글로벌공학교육센터",
+      "variant": "generic-v2",
+      "url": "b38/model-53e9f35b0e83e04d5c55172c43969107a4b646eee7f48f68be7c48917a4ab4a8.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 353616
+  }
+}

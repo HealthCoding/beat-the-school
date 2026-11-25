@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "Bansong Hwaseong R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -1.100000023841858,
+      "id": "main",
+      "url": "main/model-e7bb246f17ccecdc103f50c69bd3f2dc9a6bdd0364c89bbf5559f2dd3fd54ffb.gltf",
+      "triangles": 14528,
+      "name": "본관·연결교사",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "gym",
+      "url": "gym/model-d255d7554d355b34ce5e70e8dc16e47e199695e914a3c83a0909f9f15ddfa9ed.gltf",
+      "triangles": 11932,
+      "name": "체육관·하부시설 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.10000000149011612,
+      "id": "annex",
+      "url": "annex/model-89ae98d32d3919d5af65e35938629993481b4c741767d0f36deff9b7127874fa.gltf",
+      "triangles": 6664,
+      "name": "남동 별관 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 33124
+  }
+}

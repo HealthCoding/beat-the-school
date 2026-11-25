@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "source": "pilot/kyunghee-seoul/active-models.json (28 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "detailed",
+      "url": "main/model-71fa6d87af05e2f2ee9e77afb6ad14fddf164e3e6db115c50aa669b3b82fcbbb.gltf"
+    },
+    {
+      "id": "peaceHall",
+      "name": "평화의전당",
+      "variant": "detailed",
+      "url": "peaceHall/model-e5cea610ccec28391a1e6e0e80ac03ce9f82e0e322490a3e75d95a6d571a42ab.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-05eacb0f9f22e053dc0f352bcdc285dd50894632a9a36e92da4104d2ee65f0fd.gltf"
+    },
+    {
+      "id": "facultyHall",
+      "name": "교수회관",
+      "variant": "generic-v2",
+      "url": "facultyHall/model-2d672abb090ca6a31730cfb06723d648fdcf3dc3ebc25428feb30dbffde90f35.gltf"
+    },
+    {
+      "id": "law",
+      "name": "제1법학관",
+      "variant": "generic-v2",
+      "url": "law/model-fd3513277229b1ea5f7209d42e25c9d721b70d6d04a6f60d662d3fe930a9bc38.gltf"
+    },
+    {
+      "id": "law2",
+      "name": "제2법학관",
+      "variant": "generic-v2",
+      "url": "law2/model-157583d9c9ab8093e2788a76d067c84f1b97eb076c4ac069f3ad2cb12ffd6b1d.gltf"
+    },
+    {
+      "id": "oldKoreanMed",
+      "name": "(구)한의과대학관",
+      "variant": "generic-v2",
+      "url": "oldKoreanMed/model-29806e3afda1a9f0283f3c2d5288e765990d9e7ff89178c768b13f226d848b3b.gltf"
+    },
+    {
+      "id": "humanitiesWest",
+      "name": "문과대학 서관",
+      "variant": "generic-v2",
+      "url": "humanitiesWest/model-f638e3ea6a5d408b2ec77f8f6ec644692506a8d33963df8874ae007d738db748.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "문과대학관",
+      "variant": "generic-v2",
+      "url": "humanities/model-72d894c2d46595e1a682c7105002a0da4c26b63c9cb4312c1184e2896a39bf6b.gltf"
+    },
+    {
+      "id": "humanitiesEast",
+      "name": "문과대학 동관",
+      "variant": "generic-v2",
+      "url": "humanitiesEast/model-36b73821c22e363724337d76d23cad04b00a93843d3519588e9238e1d4aead9f.gltf"
+    },
+    {
+      "id": "politics",
+      "name": "정경대학관",
+      "variant": "generic-v2",
+      "url": "politics/model-4a84e156c625b42b4031cdee359d065fcbf6f9b346901721ed6ca635f142715f.gltf"
+    },
+    {
+      "id": "science",
+      "name": "SPACE21 이과대학관",
+      "variant": "generic-v2",
+      "url": "science/model-ad6d359d41cc7c93b9b2f2166d22146ace2e588f59426c9e5cc3357785a9dc64.gltf"
+    },
+    {
+      "id": "koreanMed",
+      "name": "SPACE21 한의과대학관",
+      "variant": "generic-v2",
+      "url": "koreanMed/model-1f0e45233e9685f268b722c2516880f52ad3bfe44a5b3fb74faa9e92348af9c2.gltf"
+    },
+    {
+      "id": "dance",
+      "name": "무용학부관",
+      "variant": "generic-v2",
+      "url": "dance/model-5bfc6167a9b5591517f382ea54d842c53bcef1f1d326f5da45ebf6092ae4ad3a.gltf"
+    },
+    {
+      "id": "music",
+      "name": "크라운관(음악대학)",
+      "variant": "detailed",
+      "url": "music/model-cc847fd9baa96182ca4dc0a9ffe0244b7e7ac09c443a4bb804a89f442c5f6137.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-159b54228456e7ba026fb716600be36c943e8fa243a1a83c09769a4a63bfdccd.gltf"
+    },
+    {
+      "id": "orbis",
+      "name": "오비스홀",
+      "variant": "generic-v2",
+      "url": "orbis/model-28a1af7255f48c183d6e8839c0a5e9b96a96f7d7d6206703010a618941372570.gltf"
+    },
+    {
+      "id": "broadcasting",
+      "name": "신문방송국",
+      "variant": "generic-v2",
+      "url": "broadcasting/model-5a63bfbaf783506bfa72fdc11174ab40c26f46248bed1e2125868cc042d0688f.gltf"
+    },
+    {
+      "id": "intlEducation",
+      "name": "국제교육원",
+      "variant": "generic-v2",
+      "url": "intlEducation/model-a59084e7a8e0b186e3dbee50568deaed4974fc1b78fd3f5ef89dd2591025971e.gltf"
+    },
+    {
+      "id": "humanEcology",
+      "name": "생활과학대학",
+      "variant": "generic-v2",
+      "url": "humanEcology/model-6ec022218cfd1144bdabce048a9bc3c8005fc923072491b0c7bde5aaf7286c7b.gltf"
+    },
+    {
+      "id": "hotel",
+      "name": "호텔관광대학관 본관",
+      "variant": "generic-v2",
+      "url": "hotel/model-7ff9c183b086dc116ee3204c5c32dde1ab10846474dd016fe518f0902ecfbb3c.gltf"
+    },
+    {
+      "id": "hotelSouth",
+      "name": "호텔관광대학관 별관",
+      "variant": "generic-v2",
+      "url": "hotelSouth/model-4001000672d7f04191a2f3037cca13c5f1a93a2373edffb60c10b838c67eeaf9.gltf"
+    },
+    {
+      "id": "cheongun",
+      "name": "청운관",
+      "variant": "generic-v2",
+      "url": "cheongun/model-a92839fd842f0231f866996531ee9c5b9b4f90508d04a275590703fa59ec5f58.gltf"
+    },
+    {
+      "id": "neoRenaissance",
+      "name": "네오르네상스관",
+      "variant": "generic-v2",
+      "url": "neoRenaissance/model-a5a6eb3b0d2181687868e8913dcc0c2f4b5bda14c129a9dc7857755490e5b6d2.gltf"
+    },
+    {
+      "id": "kheePlaza",
+      "name": "경희플라자",
+      "variant": "generic-v2",
+      "url": "kheePlaza/model-7803c5e82b28016e54ea430e6907dd29edfa3293f26362556c68181323739a76.gltf"
+    },
+    {
+      "id": "areumwon",
+      "name": "아름원(행복기숙사)",
+      "variant": "generic-v2",
+      "url": "areumwon/model-6473e7ebc1aa486d76d3bffb507ef2e8762f549f2d1a410863f3c237029eb123.gltf"
+    },
+    {
+      "id": "samuiwon",
+      "name": "삼의원 창업센터",
+      "variant": "generic-v2",
+      "url": "samuiwon/model-437c88c04b7cb80a18845c21b37925ef0cbfab5d884d55c3999599eec6b16534.gltf"
+    },
+    {
+      "id": "mainGate",
+      "name": "정문(등용문)",
+      "variant": "custom",
+      "url": "mainGate/model-21242ac3db414a7c9f44fc312a3cf3d584c5eca4e1b0bf69c57834058b3f7e2a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 188029
+  }
+}

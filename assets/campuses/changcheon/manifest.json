@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Changcheon Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-bf39cc1f4dd4aea02efec76774e238d4051c72bd85ec1e59a30877a4c0703adc.gltf",
+      "triangles": 18550,
+      "name": "본관 중앙·동측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-d4ee20caee2874c334152f4ed9991026ed1f9e6a61a6a396d9cddd52c2483f88.gltf",
+      "triangles": 5182,
+      "name": "본관 서측 교사·행정동",
+      "variant": "detailed"
+    },
+    {
+      "id": "north-west-wing",
+      "url": "north-west-wing/model-d025919cdf3d945a9105dbee820ed3bdc3fae1faddc7b65d6577366ca47f1be1.gltf",
+      "triangles": 4894,
+      "name": "서북측 특별교실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym-hall",
+      "url": "gym-hall/model-528c830dee8ed8d68a3b2fc838a0de2a850f30a1536ca06efcea8803556e3017.gltf",
+      "triangles": 3726,
+      "name": "체육관·다목적강당동",
+      "variant": "detailed"
+    },
+    {
+      "id": "center-core-wing",
+      "url": "center-core-wing/model-96165446d825ae424b253da94d3a6cf3342b3e70b0bc791f39bc9cd88f1b26b0.gltf",
+      "triangles": 3434,
+      "name": "북측 중앙 연결·교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-9906a40bb60dcd18dc26bcac26470dd399237aea7b52d028db81afd44128da38.gltf",
+      "triangles": 4854,
+      "name": "동북측 별관 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-81d62d4f4dd43b56ccfbb1360a3aebff2d78f4af9044e9999a8e9cbf851869cc.gltf",
+      "triangles": 592,
+      "name": "서남문 경비초소",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 41232
+  }
+}

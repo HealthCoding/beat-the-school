@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "auto-school yebong (4 destructible buildings, candidate building outlines and photographs, by Yebong school local generator)",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "auto",
+      "url": "main/model-0cf4e76853d8e2ec33a0419181a74357db64ff8217c1869e6009f0389a6804eb.gltf"
+    },
+    {
+      "id": "annex",
+      "name": "별관",
+      "variant": "auto",
+      "url": "annex/model-d44ad2d24ca79a0802213baffbb0b1c8c9c52ad4cda9d264ae98aab23acbeb9b.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관·급식실",
+      "variant": "auto",
+      "url": "gym/model-cd4bbc9c81a6774cfff14b6ecb054515acffa69bc84b626b75d9a5573c5c7f95.gltf"
+    },
+    {
+      "id": "guard",
+      "name": "수위실",
+      "variant": "auto",
+      "url": "guard/model-e16bf521b77482ca9f85e3e8a799c9714c71c56dbdf5cc00ba2f69e4b598cd41.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 51267
+  }
+}

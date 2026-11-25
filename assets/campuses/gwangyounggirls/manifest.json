@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "source": "auto-school gwangyounggirls (6 destructible buildings, generated from OSM way/464988528 by scripts/campuses/gwangyounggirls/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "서쪽 교사동",
+      "variant": "auto",
+      "url": "wing1/model-c9a0717e2cf839abcd7de5710118ac8a24aaa26152a5c559cc52ba7e434d0d24.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "광영여고 본관",
+      "variant": "auto",
+      "url": "wing2/model-0246517fb6b10e2e61a1fa6ead5a59b447523edca2bf538301f22aec68d16a22.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "북쪽 실내시설",
+      "variant": "auto",
+      "url": "hall3/model-1842a699f44f4a0284ef1b4e2e24c0cfe5dc577a55764d26d7b88f7b645e4523.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "남동쪽 유리동",
+      "variant": "auto",
+      "url": "wing4/model-3cc650c50eb41af8ae145102de0b0788099288450de82fbc1823a0c8d1490ed6.gltf"
+    },
+    {
+      "id": "wing5",
+      "name": "남쪽 별동",
+      "variant": "auto",
+      "url": "wing5/model-ae494c0d2c44bed0de06d394dad886b741ec5de765b05e5e36aa86a1e9db19f4.gltf"
+    },
+    {
+      "id": "wing6",
+      "name": "북서쪽 교사동",
+      "variant": "auto",
+      "url": "wing6/model-b082ac6cd1795c7dfb7a48cb478b8b200085f96df62fea8c482be0f54be9bfe4.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 27433
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Ipseok R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-4d09c30c53133b7fa1e9e11639c94c92cd97cf00762c5d8b225a8d43513788de.gltf",
+      "triangles": 14957
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-c1040924cb4ad4e79bb3c8179e96b75434b835e73c58ae6e0254f90b8d9518ed.gltf",
+      "triangles": 14412
+    },
+    {
+      "id": "context",
+      "url": "context/model-bd849f57fd9465c67d3e0c8696b5aa1627669fb05648eeb4a9771ffce9e7f421.gltf",
+      "triangles": 51358
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-c23be1d492439b18e82ea27828b7e1fd5f3a935bc2577a12e3e40a40f38c878d.gltf",
+      "triangles": 2267
+    }
+  ]
+}

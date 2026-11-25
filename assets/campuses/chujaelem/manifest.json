@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school chujaelem (2 destructible buildings, generated from OSM way/481625568 by scripts/campuses/chujaelem/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-e9c32a7c9ef82db224c9e452dd238231967f62524dc392f3e084883d9ac4813b.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing2/model-b3a2bccf740d9480f1b4d75a04d717a4a94c293ecd9e6857af4098e9f790e40f.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 3876
+  }
+}

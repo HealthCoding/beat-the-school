@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "Sanggye Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-48f2a55ea695a7eecdb8057e374cfeb8669c376706fb984d99b4ebf3eeb05784.gltf",
+      "triangles": 4520,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "north-wing",
+      "url": "north-wing/model-b0f67c93bc143ae852e20640202e66cec4d2ff3f7af9af508af913f6344f1334.gltf",
+      "triangles": 3478,
+      "name": "북관",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-af8cbbf1f0c07fb6e8594b6812f19cbf9f2d0c0bc54f2872f2b064b96eed7501.gltf",
+      "triangles": 1966,
+      "name": "서관(도서관)",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-7d4ff99aa684fc7094b66f7ae364f20bde1260d4e169f25f0baf4a17d19e3ba0.gltf",
+      "triangles": 2362,
+      "name": "동관",
+      "variant": "detailed"
+    },
+    {
+      "id": "cheongyeoul",
+      "url": "cheongyeoul/model-095a42013359db22bea8985aec88384005cf5dac790dbe62b9f2a6561dd3f5aa.gltf",
+      "triangles": 6906,
+      "name": "청여울관(강당)",
+      "variant": "detailed"
+    },
+    {
+      "id": "cafeteria",
+      "url": "cafeteria/model-3524046b2001457ccc9a09cc0480a561bff3c00291d2df5fb4b6a88bcb10eaac.gltf",
+      "triangles": 1118,
+      "name": "식당",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 20350
+  }
+}

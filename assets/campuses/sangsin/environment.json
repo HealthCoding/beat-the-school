@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Sangsin R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-f816ea4c380ed7fd0967afe74cac9b99a00dfcd32fb8f3ee11bdd8375649cbbd.gltf",
+      "triangles": 43485
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-e9e5a3b1b61026d9b3473c6a292580396ae796ac6ceee83344d3c149034aa86b.gltf",
+      "triangles": 17676
+    },
+    {
+      "id": "context",
+      "url": "context/model-b9aeabedb2c9947f0ddd705e71db883fa7866b0a5566b3b2ef28136b12027f09.gltf",
+      "triangles": 57383
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f6524d85c749193c160d366ea617b6357d01457ea0c4107069664e832693fa53.gltf",
+      "triangles": 2267
+    }
+  ]
+}

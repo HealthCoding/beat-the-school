@@ -1,0 +1,48 @@
+/* Construction hoarding shared by the loading screen (style.css @imports it) and the campus select (index.html):
+   night sky, crane with a swaying trolley, corrugated wall, hazard tape, warning lamps, dust, the stencil
+   lettering, the wrecked-building mark and the tape progress roll. Loops move only transform/opacity. */
+.ld-sky,.ld-wall,.ld-dust{position:absolute;left:0;right:0;z-index:-1;pointer-events:none}
+.ld-sky{top:0;height:24%;background:linear-gradient(#0b1220,#1a2a48 80%,#2a3d62)}
+.ld-sky::before,.ld-sky::after{content:"";position:absolute;inset:0 0 10%;background:radial-gradient(circle,#fff3dc 0 1px,#0000 1.6px) 13px 9px/293px 83px,radial-gradient(circle,#fff3dc 0 1px,#0000 1.6px) 88px 40px/211px 71px;opacity:.5;animation:ld-tw 3.2s ease-in-out infinite alternate}
+.ld-sky::after{background:radial-gradient(circle,#fff3dc 0 1px,#0000 1.6px) 52px 22px/257px 97px,radial-gradient(circle,#fff3dc 0 1px,#0000 1.6px) 120px 5px/337px 59px;animation-delay:-1.6s}
+@keyframes ld-tw{to{opacity:.12}}
+.ld-crane{position:absolute;right:5%;top:16px;width:430px;height:300px;transform-origin:100% 0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 430 300'%3E%3Cg stroke='%2330466f' fill='none'%3E%3Cpath stroke-width='2.4' d='M40 30H420M40 44H420M330 44V300M350 44V300'/%3E%3Cpath stroke-width='1.6' d='M40 30l11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14 11 14 11-14M330 44l20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20M350 44l-20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20 20 20 -20 20M60 30L340 4l80 26M340 4V30'/%3E%3C/g%3E%3Cpath fill='%2330466f' d='M384 44h34v16h-34z'/%3E%3Cpath fill='%233b5585' d='M328 44h24v20h-24z'/%3E%3Ccircle fill='%23ff4a3d' cx='340' cy='4' r='3.2'/%3E%3C/svg%3E") no-repeat}
+.ld-trolley{position:absolute;left:96px;top:38px;animation:ld-trolley 11s ease-in-out infinite alternate}
+.ld-trolley::before{content:"";position:absolute;left:-8px;top:-4px;width:16px;height:6px;background:#3b5585}
+.ld-trolley i{position:absolute;left:0;top:0;transform-origin:0 0;animation:ld-sway 3.4s ease-in-out infinite alternate}
+.ld-trolley i::before{content:"";position:absolute;left:-1px;width:1.5px;height:92px;background:#7f8da6}
+.ld-trolley i::after{content:"";position:absolute;left:-34px;top:92px;width:68px;height:9px;background:#3b4f78;border-top:2px solid #50678f}
+@keyframes ld-trolley{0%,8%{transform:none} 92%,100%{transform:translateX(150px)}}
+@keyframes ld-sway{from{transform:rotate(2.2deg)} to{transform:rotate(-2.2deg)}}
+.ld-wall{top:24%;bottom:0;background:radial-gradient(ellipse 60% 70% at 50% 0%,#ffd9921f,#0000 70%),linear-gradient(#61646c 0 2px,#4a4d55 2px,#2c2e33) 0 100%/100% 3.4% no-repeat,linear-gradient(#0000 62%,#3b2c1d55 90%,#3b2c1d88),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .55 0 0 0 -.2'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E"),radial-gradient(circle at 5px 5px,#a3afc4 0 1.6px,#0a111e 2.4px,#0000 3.2px) 145px 14px/160px 92px,repeating-linear-gradient(90deg,#0000 0 148px,#0b1322 148px 151px,#ffffff10 151px 152px,#0000 152px 160px),repeating-linear-gradient(90deg,#ffffff07 0 160px,#0000 160px 320px,#00000018 320px 480px),repeating-linear-gradient(90deg,#ffffff0a 0 2px,#0000 2px 10px,#00000030 10px 13px,#0000 13px 20px),#1b2a45}
+.ld-wall::before{content:"";position:absolute;left:-6%;right:-6%;bottom:13%;height:26px;transform:rotate(-1.6deg);background:repeating-linear-gradient(-45deg,#ffcf33 0 18px,#1c1c1c 18px 36px);box-shadow:0 3px 0 #0007,inset 0 2px 0 #fff3,inset 0 -2px 0 #0003}
+.ld-rail{position:absolute;left:0;right:0;top:-12px;height:14px;background:linear-gradient(#6b7383,#3a404c 60%,#20252e);box-shadow:0 3px 0 #0006}
+.ld-rail b{position:absolute;top:-14px;left:14%;width:16px;height:14px;border-radius:8px 8px 2px 2px;background:#ff9f1c;box-shadow:0 0 0 2px #3a2a12 inset}
+.ld-rail b:nth-child(2){left:49%}
+.ld-rail b:nth-child(3){left:84%}
+.ld-rail b::after{content:"";position:absolute;left:50%;top:50%;width:140px;height:110px;margin:-55px 0 0 -70px;border-radius:50%;background:radial-gradient(#ffae3d66,#ff9f1c00 65%);animation:ld-beacon 1.3s steps(1,end) infinite}
+.ld-rail b:nth-child(2)::after{animation-delay:-.65s}
+.ld-rail b:nth-child(3)::after{animation-delay:-.3s}
+@keyframes ld-beacon{50%{opacity:0}}
+.ld-dust{inset:0}
+.ld-dust i{position:absolute;bottom:8%;left:var(--x);width:3px;height:3px;border-radius:50%;background:#fff3dc;opacity:0;animation:ld-dust var(--d) linear var(--t) infinite}
+.ld-dust i:nth-child(1){--x:8%;--dx:30px;--d:9s;--t:-2s}.ld-dust i:nth-child(2){--x:21%;--dx:-24px;--d:11s;--t:-7s}.ld-dust i:nth-child(3){--x:34%;--dx:18px;--d:8s;--t:-4s}.ld-dust i:nth-child(4){--x:46%;--dx:-30px;--d:12s;--t:-10s}.ld-dust i:nth-child(5){--x:58%;--dx:26px;--d:10s;--t:-1s}.ld-dust i:nth-child(6){--x:69%;--dx:-14px;--d:7.5s;--t:-5s}.ld-dust i:nth-child(7){--x:81%;--dx:34px;--d:12.5s;--t:-8s}.ld-dust i:nth-child(8){--x:92%;--dx:-20px;--d:9.5s;--t:-3s}
+@keyframes ld-dust{0%{opacity:0;transform:none} 15%{opacity:.5} 100%{opacity:0;transform:translate(var(--dx),-46vh)}}
+.ld-mark,.loading-overlay .loading-mark{display:block !important;width:70px;height:70px;opacity:.92;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -5 100 100'%3E%3Cpath fill='%23fff3dc' d='M14 48h25v34H14ZM37 26h26v56H37ZM33 28 50 8l17 20ZM61 56l7-4 4 5 5-3 3 6 6-3v25H61Z'/%3E%3Cpath fill='%23fff3dc' d='M76 36h7v7h-7Z' transform='rotate(20 79 39)'/%3E%3Ccircle fill='%231b2a45' cx='50' cy='39' r='6.5'/%3E%3Cpath fill='%231b2a45' d='M44.5 82v-9a5.5 5.5 0 0 1 11 0v9Z'/%3E%3Cpath d='M60 46l-4.5 6 5 5-4.5 7' stroke='%231b2a45' stroke-width='3' fill='none' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat}
+.ld-stn,#loading-title{line-height:1;letter-spacing:.06em;color:#fff3dc;text-shadow:0 0 7px #fff3dc33,0 0 1px #fff3dc;-webkit-mask:linear-gradient(#000 0 46%,#0000 46% 54%,#000 54%);mask:linear-gradient(#000 0 46%,#0000 46% 54%,#000 54%)}
+.ld-roll{position:relative;width:min(380px,100%);height:12px;margin-top:6px;background:#0a111e;border:2px solid #060b14;box-shadow:inset 0 2px 0 #000a,0 1px 0 #ffffff22}
+.ld-clip,.ld-fill{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.ld-fill{transform:translateX(calc((var(--p) - 1) * 100%));transition:transform .25s linear;background:#ffcf33;box-shadow:inset 0 1px 0 #fff8,inset -1px 0 0 #fff8}
+.ld-sp{display:none}
+@media (max-width:560px){
+.ld-sky{height:17%}
+.ld-wall{top:17%}
+.ld-crane{right:-18%;top:8px;transform:scale(.62)}
+.ld-wall::before{bottom:11%;height:22px}
+.ld-mark,.loading-overlay .loading-mark{width:56px;height:56px}
+.ld-roll{width:min(290px,100%)}
+}
+@media (prefers-reduced-motion:reduce){
+.ld-sky::before,.ld-sky::after,.ld-trolley,.ld-trolley i,.ld-rail b::after,.ld-fill{animation:none !important;transition:none !important}
+.ld-dust{display:none}
+}

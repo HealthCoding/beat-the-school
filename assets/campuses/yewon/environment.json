@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "source": "Yewon Yangju R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-eb7bbda099aadae8cb3cc93198fae5a7e3180764861c711d9f4430fa14c83cec.gltf",
+      "triangles": 96495
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-add2b017a9ed34aded4032b41c988e52c68289d9b7a269fcb1d8efc2c8a9136d.gltf",
+      "triangles": 10954
+    },
+    {
+      "id": "context",
+      "url": "context/model-c843d0d967282ea7e0755dc9a27a45b7469fd6f2b755710fd88bc8e9d21ef1d7.gltf",
+      "triangles": 14229
+    },
+    {
+      "id": "env-nw-hall",
+      "url": "env-nw-hall/model-272ca732eadb462494efb6a0af4a3e88cdebea78c1c2c771d885858a6e5cf503.gltf",
+      "triangles": 6388
+    },
+    {
+      "id": "env-se-shed-a",
+      "url": "env-se-shed-a/model-a305647173e8d466f7321c2ce9f92c29ac1b6e1f8c28430129164b14a1cbbef4.gltf",
+      "triangles": 340
+    },
+    {
+      "id": "env-se-shed-b",
+      "url": "env-se-shed-b/model-429e0fec6876781529fa356e8c0dcf4baf336118d24967855bb005bed643163a.gltf",
+      "triangles": 414
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-a256c98d0b4d354c2998a0c6bb670bc74ceebc96e2ae43e952b2e98b0232a39c.gltf",
+      "triangles": 1535
+    }
+  ]
+}

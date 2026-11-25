@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Busan Buheung High School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-df43830bbb789744053ce06e2648c69c9b1e8042290ba143e3fa788453ca135f.gltf",
+      "triangles": 6867,
+      "name": "본관 중앙동(시계탑 현관·홈베이스·교실동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-82edfed5170957010ec9633c10112038a71f6e0d1e5f8f10a095308a37d8e91e.gltf",
+      "triangles": 7760,
+      "name": "본관 서측동(미술·진로·교실동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "music-annex",
+      "url": "music-annex/model-461470d0daee9384a15a0e150bb457cc105739facb33d59605f3464ec18e3491.gltf",
+      "triangles": 2966,
+      "name": "음악·온라인스튜디오 별관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "cafeteria",
+      "url": "cafeteria/model-074944407e973bcdfa993dee08402a38c7b35935f153ac2ef69db4b34b2e7066.gltf",
+      "triangles": 2384,
+      "name": "급식실·학생식당동",
+      "variant": "detailed"
+    },
+    {
+      "id": "science-wing",
+      "url": "science-wing/model-1c6011351576923c3ad7bcc41992ee26157e184904b8395aaa5ecfa72840dc5d.gltf",
+      "triangles": 12038,
+      "name": "과학·메이커·교무동",
+      "variant": "detailed"
+    },
+    {
+      "id": "buheung-hall",
+      "url": "buheung-hall/model-7cb21b669c6a938174ddbe02facd90b42e8ec65b560c2d5e6920c365b262579d.gltf",
+      "triangles": 5308,
+      "name": "부흥관·부현재(다목적강당·도서관·태권도실)",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-7dec6c26750b9fa8bd261debb9bf098af3b8c00a94af7b3fa738061eebdb4d54.gltf",
+      "triangles": 470,
+      "name": "정문 경비초소(배움터지킴이실)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 37793
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "source": "pilot/soongsil-sangdo/active-models.json (25 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "baird",
+      "name": "베어드홀",
+      "variant": "detailed",
+      "url": "baird/model-a68dfcfb761bd5a7054a9c1de03682f3e5db8d5e6d63ebbde8b562396e1ed03a.gltf"
+    },
+    {
+      "id": "hyungnam",
+      "name": "형남공학관",
+      "variant": "detailed",
+      "url": "hyungnam/model-9cfdb24dcf892c1d174979afe861a2e6298da0a5d27e11ea2d7030d74e83bacc.gltf"
+    },
+    {
+      "id": "museum",
+      "name": "한국기독교박물관",
+      "variant": "generic-v2",
+      "url": "museum/model-9e7e9023babe5c0cd20a73df8f9552d3b9638590e3de40d0fe058ec7c0642407.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "generic-v2",
+      "url": "library/model-ff5000a39ccce688720ea779acc6e1ace67bae48059d9c8d10a05b1ddd6a0c65.gltf"
+    },
+    {
+      "id": "shinyang",
+      "name": "신양관",
+      "variant": "generic-v2",
+      "url": "shinyang/model-35dcf7a9433b6438cea0195fa9a38c719f07276930d47ff15c37cce4e9f630e5.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-f3fc15d1aa83f183ebaa423e07666d86b517e7346370de3ac48f12c415ae64c6.gltf"
+    },
+    {
+      "id": "joManSik",
+      "name": "조만식기념관",
+      "variant": "generic-v2",
+      "url": "joManSik/model-7ab65a85a215a24c0b7863e7eb2562f5f1e1de683963dfdf1773ab45145d0b82.gltf"
+    },
+    {
+      "id": "westminster",
+      "name": "웨스트민스터홀",
+      "variant": "generic-v2",
+      "url": "westminster/model-cc9686bc2ecf2bc7d8fd0c7c93c93d69a4bdf9b0dc5176253f44ad5ce6aebcd9.gltf"
+    },
+    {
+      "id": "jinri",
+      "name": "진리관",
+      "variant": "generic-v2",
+      "url": "jinri/model-420d011c5d2a7e1b4337ea5754a7428f56459cef65918c6832d66b41e4e07f60.gltf"
+    },
+    {
+      "id": "venture",
+      "name": "벤처중소기업센터",
+      "variant": "generic-v2",
+      "url": "venture/model-bed0a5d8eca18071acee61a6b0fa0be86b02cd7de3ca4ff0ebc0abcc8e318958.gltf"
+    },
+    {
+      "id": "sungdeok",
+      "name": "숭덕경상관",
+      "variant": "generic-v2",
+      "url": "sungdeok/model-7c9ef64bc336da7c38cd4b41f21f52af97eebfd75c2ad799e0fdc9c686678300.gltf"
+    },
+    {
+      "id": "culture",
+      "name": "문화관",
+      "variant": "generic-v2",
+      "url": "culture/model-be7256453e9e078a8a01d12b5065b986581d2546641489a076b616f4e32ae77c.gltf"
+    },
+    {
+      "id": "ahnEaktai",
+      "name": "안익태기념관",
+      "variant": "generic-v2",
+      "url": "ahnEaktai/model-806a1657c77d5992c8e71faa6d192beb0696f88cf31897ecc912e3d139439520.gltf"
+    },
+    {
+      "id": "future",
+      "name": "미래관",
+      "variant": "generic-v2",
+      "url": "future/model-3485d0e47baa7a1f385effebf9c0706b5a2aa0193cf951d07e55510cbfcfaa9a.gltf"
+    },
+    {
+      "id": "computing",
+      "name": "전산관",
+      "variant": "generic-v2",
+      "url": "computing/model-8088868486dfd3c47348cab84f4891a7d87db8faf2616048e6715469ad8d75ec.gltf"
+    },
+    {
+      "id": "research",
+      "name": "연구관",
+      "variant": "generic-v2",
+      "url": "research/model-b5ed92e4678bc66e620574f3651d79c2c9f5b9e5236bf903b1ce6b5e3550fb70.gltf"
+    },
+    {
+      "id": "changsin",
+      "name": "창신관",
+      "variant": "generic-v2",
+      "url": "changsin/model-a2f30b2ce36a571d706e84666be4e62741b1584e337e1e89a67316599e238f61.gltf"
+    },
+    {
+      "id": "globalBrain",
+      "name": "글로벌브레인홀",
+      "variant": "generic-v2",
+      "url": "globalBrain/model-492ff9b121056707b5054e478cfbeca485e022325c5950811caea3b4212ed4c7.gltf"
+    },
+    {
+      "id": "residence",
+      "name": "레지던스홀",
+      "variant": "generic-v2",
+      "url": "residence/model-6da187da152df5d4f4dd99a01cf7c3226434a67cd3714b5c71dda7f9f6897010.gltf"
+    },
+    {
+      "id": "education",
+      "name": "교육관",
+      "variant": "generic-v2",
+      "url": "education/model-de8634aa4981e1913dee8923f849ba054f347c6feefeff1335d10d95fe493cf9.gltf"
+    },
+    {
+      "id": "baekma",
+      "name": "백마관",
+      "variant": "generic-v2",
+      "url": "baekma/model-88a01730bb35f6139ab04c1bfe664aca06f8a2ec9539abc374a3ff1c88c3904a.gltf"
+    },
+    {
+      "id": "changui",
+      "name": "창의관",
+      "variant": "generic-v2",
+      "url": "changui/model-0256519bc65145e35dfbffcf25d228dac75ce71316e7ef39302c2e46fbcff07d.gltf"
+    },
+    {
+      "id": "infoScience",
+      "name": "정보과학관",
+      "variant": "generic-v2",
+      "url": "infoScience/model-648f6452a9dee4e391b9fa37a4212c2b186c272eea63922cdf3121ef7550a819.gltf"
+    },
+    {
+      "id": "mainGate",
+      "name": "정문 캐노피",
+      "variant": "custom",
+      "url": "mainGate/model-2f43b9eae4b0a9bc7da6fc9ae5628eb71da520d4b66394aad683590e9030f00b.gltf"
+    },
+    {
+      "id": "fieldStand",
+      "name": "운동장 관중석",
+      "variant": "custom",
+      "url": "fieldStand/model-0778aa6b2246cb126984ffd0e17e440675af8a8a31ff20026839407f1d6ad662.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 97916
+  }
+}

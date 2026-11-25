@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Ansan Design Ansan R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 1.0499999523162842,
+      "id": "main",
+      "url": "main/model-6ade7b42e40a2b5c90005d3efe3e8fd8c8b880406b9dfd7801bdfe993ee28d79.gltf",
+      "triangles": 20820,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 1.149999976158142,
+      "id": "kium",
+      "url": "kium/model-3303846b52c62b552d1b13f7f8d93f0d34240539530c3f52f8ab2959c088feff.gltf",
+      "triangles": 7130,
+      "name": "키움관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "euncheon",
+      "url": "euncheon/model-36a5617ea0eea91a4b60098ba28c0133b20d2c74270d34d383fac5e8ad546b4d.gltf",
+      "triangles": 4440,
+      "name": "은천관(체육관)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "mido",
+      "url": "mido/model-db2b294453f44c6c27a48d51f1987a88a75435cd5b037fd4403f5dbeab895bae.gltf",
+      "triangles": 3552,
+      "name": "미도관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "dining",
+      "url": "dining/model-ba4d2e69b53927c7b6f312aceffef3e69c5bf1ab12cafbbb4c8761c648e9836d.gltf",
+      "triangles": 1904,
+      "name": "식생활교육관(2026신축)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "guard",
+      "url": "guard/model-865167987af2b2fdfbce055dd32459dfa4bbc06b4d433da9dcefcb005e5e6246.gltf",
+      "triangles": 450,
+      "name": "정문 경비실",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 38296
+  }
+}

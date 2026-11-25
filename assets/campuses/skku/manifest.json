@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "source": "pilot/skku-myeongnyun/active-models.json (15 destructible buildings incl. the restored 교수회관), packed losslessly",
+  "models": [
+    {
+      "id": "anniversary600",
+      "name": "600주년기념관",
+      "variant": "detailed",
+      "url": "anniversary600/model-8843bfe869ea760c1c9ae7d7b95997ff8f782bb076fd9373996b53a98e1743af.gltf"
+    },
+    {
+      "id": "lawSchool",
+      "name": "법학관",
+      "variant": "generic-v2",
+      "url": "lawSchool/model-6aa9247157e06ff9e02d50ab02ec7a846d0bcf712eca9af3993ab8bc3ac40e27.gltf"
+    },
+    {
+      "id": "hoam",
+      "name": "호암관",
+      "variant": "detailed",
+      "url": "hoam/model-5ba144f3e69a4138b80bdcf48f57d15de30c411451c8e0bbb4b3394594c5f872.gltf"
+    },
+    {
+      "id": "centralLibrary",
+      "name": "중앙학술정보관",
+      "variant": "detailed",
+      "url": "centralLibrary/model-a846852bc2e72586d5035c29fa46e4a3cc131484da69111208d75d66ca872aa7.gltf"
+    },
+    {
+      "id": "studentCenter",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentCenter/model-e5c28f6937ac9662e328d5be5b6c4c313e1191fa28d9e9d767691a672a0271b9.gltf"
+    },
+    {
+      "id": "internationalHall",
+      "name": "국제관",
+      "variant": "generic-v2",
+      "url": "internationalHall/model-fde6a96cd84785b66ace08455d6e95d06477b4a9836d59f1d2ef83beef59be0d.gltf"
+    },
+    {
+      "id": "iHouse",
+      "name": "인터내셔널하우스(I-하우스)",
+      "variant": "generic-v2",
+      "url": "iHouse/model-14ea478d9a04e9f3be2050a87d04863c20bae4e5b39db552cda23e8fb0ff791d.gltf"
+    },
+    {
+      "id": "yanghyeon",
+      "name": "양현관",
+      "variant": "generic-v2",
+      "url": "yanghyeon/model-6b31eba5fa94cb29c373fc5ffbcc13c4a9c4d2f80c9f1f0b8cd7c97fbef644a4.gltf"
+    },
+    {
+      "id": "toegye",
+      "name": "퇴계인문관",
+      "variant": "generic-v3",
+      "url": "toegye/model-bd6504f1542a697b08266a3262fa80665939b85706d4b50ab1ac3e4fa13fdef6.gltf"
+    },
+    {
+      "id": "dasan",
+      "name": "다산경제관",
+      "variant": "generic-v3",
+      "url": "dasan/model-09bfb19a9121e843c4b86ded789eaddf91ea491920d653f555b7c2a15c453f26.gltf"
+    },
+    {
+      "id": "business",
+      "name": "경영관",
+      "variant": "detailed",
+      "url": "business/model-295cdae07525a2ac125e713182bbdf10dbeeb8ddbd21218106942578a9539ce3.gltf"
+    },
+    {
+      "id": "suseon",
+      "name": "수선관",
+      "variant": "detailed",
+      "url": "suseon/model-0538deb4be5a57fd729ab7cc8aa5d848e1110bc283a05ba48d3904671e5d0b2e.gltf"
+    },
+    {
+      "id": "suseonAnnex",
+      "name": "수선관(별관)",
+      "variant": "detailed",
+      "url": "suseonAnnex/model-f573b8a47ed6550762fb2a3a3ffed5df19de2a434ac7717af74ecf37632e0848.gltf"
+    },
+    {
+      "id": "kHouse",
+      "name": "킹고하우스(K-하우스)",
+      "variant": "generic-v2",
+      "url": "kHouse/model-461dc30e3fb04a9562d339c559ce285dc2c0d57f9d862809c8974c6fa617d83f.gltf"
+    },
+    {
+      "id": "facultyHall",
+      "name": "교수회관",
+      "variant": "restored",
+      "url": "facultyHall/model-3d3d5433867718a04e885abf0069521c344d66021417c03753c1c76d0efc8d77.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 115580
+  }
+}

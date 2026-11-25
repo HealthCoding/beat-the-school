@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "Speer Gwangju exact world environment and original instanced planting",
+  "models": [
+    {
+      "minimumY": -16.049530029296875,
+      "id": "env-ground",
+      "url": "env-ground/model-d438852995387515de5a26859d5bd154b77a6c32f42fa6873cfcaac2babd4fed.gltf",
+      "triangles": 178114
+    },
+    {
+      "minimumY": 5.617422103881836,
+      "id": "env-site",
+      "url": "env-site/model-7f48e5440478510a8dbd2aca970972e7e8b89ff73c7f8f558f3640d1c93ebacf.gltf",
+      "triangles": 9690
+    },
+    {
+      "minimumY": 1.3996844291687012,
+      "id": "env-landscape",
+      "url": "env-landscape/model-568e5e1f0b1254cf3953adbaace2016d6115052734bda5cd580ceddd2b77de42.gltf",
+      "triangles": 2052
+    },
+    {
+      "minimumY": -7.661147117614746,
+      "id": "env-context",
+      "url": "env-context/model-d6baa591061d4ef0bf75001b66dcf6c6de2e22250b12a0f9488fb17fd1e5536f.gltf",
+      "triangles": 10666
+    },
+    {
+      "minimumY": 0,
+      "id": "env-planting",
+      "url": "env-planting/model-5e41d9c5213574cacb5e16ab42b4126f4ced3412b83e7bcd062e6644ff6e1ff4.gltf",
+      "triangles": 674
+    }
+  ]
+}

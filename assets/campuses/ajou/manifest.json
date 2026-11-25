@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "source": "ajou-suwon active-models.json (39 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "gym/model-6a191e89ef0fb343d973af26004239b024177bbdce49d09346ac5f91531d7a5b.gltf"
+    },
+    {
+      "id": "yulgok",
+      "name": "율곡관",
+      "variant": "detailed",
+      "url": "yulgok/model-c7a8b2222f3c60385ebeb800921e6b3576768499067a4ddfa0db682eefb75d74.gltf"
+    },
+    {
+      "id": "yeonam",
+      "name": "연암관",
+      "variant": "generic-v2",
+      "url": "yeonam/model-6e8e3bc7fc0f5d3b1c3a6ae763bd54a99b83429d8883e0b108f4fc37d8d7c304.gltf"
+    },
+    {
+      "id": "seongho",
+      "name": "성호관",
+      "variant": "generic-v2",
+      "url": "seongho/model-cd505aa1aa8d2866af6328c6689dcd4d1a28895cb34ca9e402732e57aea77325.gltf"
+    },
+    {
+      "id": "paldal",
+      "name": "팔달관",
+      "variant": "detailed",
+      "url": "paldal/model-014ab86bbe604773bfa7d78fcf7964e0bc4688e1b79dfdd83d9a0915ed6096e1.gltf"
+    },
+    {
+      "id": "woncheon",
+      "name": "원천관",
+      "variant": "detailed",
+      "url": "woncheon/model-d31fa9feffea45a482e75de705d2e5fc1100624a5516ecbdc14d301629b00299.gltf"
+    },
+    {
+      "id": "west",
+      "name": "서관",
+      "variant": "generic-v2",
+      "url": "west/model-63065530ab84780f569e16fa6ebdfadd8d20d4683f60894e6d414ae234e89a4c.gltf"
+    },
+    {
+      "id": "east",
+      "name": "동관",
+      "variant": "generic-v2",
+      "url": "east/model-f2d5987cd02ca9ea9ea7454d73b8f149d506aae0e3fba34946d2d1d04e742c80.gltf"
+    },
+    {
+      "id": "student1",
+      "name": "학생회관1",
+      "variant": "generic-v2",
+      "url": "student1/model-85b8ee8792b27d30d0c0d9e14dfdcf0e32e867e9394488a8dedb609844c9b2e7.gltf"
+    },
+    {
+      "id": "student2",
+      "name": "학생회관2",
+      "variant": "generic-v2",
+      "url": "student2/model-c410c8a32a684d6a768cf8e03bfe4595c9be9987299a59ba1be600716ce6b158.gltf"
+    },
+    {
+      "id": "namje",
+      "name": "남제관(기숙사)",
+      "variant": "generic-v2",
+      "url": "namje/model-fab93ccd221217ca1f965909d2203d2622a3eac7e197ec45ce3b291e8f77dec1.gltf"
+    },
+    {
+      "id": "energy",
+      "name": "에너지센터",
+      "variant": "generic-v2",
+      "url": "energy/model-c319b9dfbb770a205d0ba1ce58ca91ef31cf6d8b6873eeada5c8bb9dcf145d88.gltf"
+    },
+    {
+      "id": "dorm-dining",
+      "name": "기숙사식당",
+      "variant": "generic-v2",
+      "url": "dorm-dining/model-01d6377bd2184f2f3ea0973002b09f3b520c0b63424174632d5b0814519f1a1c.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "학군단",
+      "variant": "generic-v2",
+      "url": "rotc/model-a6513579db58bb166fb6508df3225ebb9071878359075ebdd25d584f977c7260.gltf"
+    },
+    {
+      "id": "yongji",
+      "name": "용지관(기숙사)",
+      "variant": "generic-v2",
+      "url": "yongji/model-d1e0f9eb585ad11276cfc95763ac75a2250f321e3b58caa4e91f0dff026eaf12.gltf"
+    },
+    {
+      "id": "woncheon-info",
+      "name": "원천정보관",
+      "variant": "generic-v2",
+      "url": "woncheon-info/model-82f01a1cb2e75826c1f064699213166d9cc73b9d56b5a3d5eb3cdb9b1dcc00e2.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제학사(기숙사)",
+      "variant": "generic-v2",
+      "url": "international/model-dfcd746b9cf58b9d7c01da32a79e35fb474b4a0bd43269d9236600f16fbb9552.gltf"
+    },
+    {
+      "id": "chem-lab",
+      "name": "화공실험동",
+      "variant": "generic-v2",
+      "url": "chem-lab/model-a8193eb4348d9bfbbc37c35dfc0f85d25deb10234c4dc53a5e04f0e3b56936e0.gltf"
+    },
+    {
+      "id": "civil-lab",
+      "name": "토목실험동",
+      "variant": "generic-v2",
+      "url": "civil-lab/model-ffcb77d33540ec2dc6a199b1134b45cbe1826f2c5da50f21eea48a12b5272b56.gltf"
+    },
+    {
+      "id": "capstone",
+      "name": "종합설계동",
+      "variant": "generic-v2",
+      "url": "capstone/model-bddbb0a84a216cc899d478778400d96eb5fa6ad6b81c66c8e49c629c74bf24ef.gltf"
+    },
+    {
+      "id": "aux-468774590",
+      "name": "이름 미상 부속동 468774590",
+      "variant": "generic-v2",
+      "url": "aux-468774590/model-d610b44922817ced4c0aea6f667f8400ccb0150af9d31bbee6cbc378cfa984ae.gltf"
+    },
+    {
+      "id": "aux-471315226",
+      "name": "시약 수거동",
+      "variant": "generic-v2",
+      "url": "aux-471315226/model-8533a6aabbb4ff677777855b59eb94a4ffa06ddfeacc7bd45b2e4ab289f4a77e.gltf"
+    },
+    {
+      "id": "hongjae",
+      "name": "홍재관",
+      "variant": "generic-v2",
+      "url": "hongjae/model-1ef6014dfcf9e0d8bd52134013f6238dc419d3c0184c62b3fbb2cf183103ceaa.gltf"
+    },
+    {
+      "id": "aux-580372134",
+      "name": "이름 미상 부속동 580372134",
+      "variant": "generic-v2",
+      "url": "aux-580372134/model-56bb91c30f18cd595c1bd146da88054831fbd142cd333db3a3a99e2f3419d59a.gltf"
+    },
+    {
+      "id": "aux-580373350",
+      "name": "이름 미상 부속동 580373350",
+      "variant": "generic-v2",
+      "url": "aux-580373350/model-ecd8ecf6af91ff98c287914cc0f6fc1304b751bac6942653b774d3c754c86388.gltf"
+    },
+    {
+      "id": "pharmacy",
+      "name": "약학관",
+      "variant": "generic-v2",
+      "url": "pharmacy/model-2a4a01b07408a6c1a3afc208eaf5028386483df89029a652b71f53d7786a7a05.gltf"
+    },
+    {
+      "id": "industry",
+      "name": "산학협력원",
+      "variant": "generic-v2",
+      "url": "industry/model-670a58cd7d363537f65714314b6f03f305051aeb1953b96e8329c94a9d915874.gltf"
+    },
+    {
+      "id": "geotech",
+      "name": "대형지반연구실험동",
+      "variant": "generic-v2",
+      "url": "geotech/model-feab1eea6c59d50bf1007e6f76e8cf2fdb0f314b2bcd89946e5d7136f3056104.gltf"
+    },
+    {
+      "id": "gwanggyo",
+      "name": "광교관(기숙사)",
+      "variant": "generic-v2",
+      "url": "gwanggyo/model-480f90810e3e84715c8cac500add705b7c79bfc339e3041d7a5a717bb8db9339.gltf"
+    },
+    {
+      "id": "hwahong",
+      "name": "화홍관(기숙사)",
+      "variant": "generic-v2",
+      "url": "hwahong/model-62a10981d0e5d0d4624ab2ab8baf61f01535be441cba6ab96a76110ffe5d25f1.gltf"
+    },
+    {
+      "id": "clinical-lab",
+      "name": "임상수기센터 및 실험동물센터",
+      "variant": "generic-v2",
+      "url": "clinical-lab/model-529b1beb1fc7adc0e46f8832a974b7b3b47a492e4fceb2f847170a8612cd1a55.gltf"
+    },
+    {
+      "id": "biomedical",
+      "name": "의생명과학관",
+      "variant": "generic-v2",
+      "url": "biomedical/model-1672a4f278a1b19a53745887b9d2c67aded38f1044009811606c04b5096f5400.gltf"
+    },
+    {
+      "id": "hyegang",
+      "name": "혜강관",
+      "variant": "generic-v2",
+      "url": "hyegang/model-6a5952f2d4963c54ba03a36b400bbc882e6f00046a3d2657b1a03946adeefa84.gltf"
+    },
+    {
+      "id": "aux-1168524946",
+      "name": "이름 미상 부속동 1168524946",
+      "variant": "generic-v2",
+      "url": "aux-1168524946/model-51f5d205c4bd23b109a50a37918d6d6566edad705ba1c035c0f5c1eceecd739c.gltf"
+    },
+    {
+      "id": "aux-1168524947",
+      "name": "이름 미상 부속동 1168524947",
+      "variant": "generic-v2",
+      "url": "aux-1168524947/model-9c41a1f5bd78ef81380fba4c8eac5c3d25e471ad2737c6199bc3395b7de452a0.gltf"
+    },
+    {
+      "id": "illsin",
+      "name": "일신관(기숙사)",
+      "variant": "detailed",
+      "url": "illsin/model-a62dd4dd8e0bb6c7250345f07d601f04ee933b553504a40dd4e59ca249d1c945.gltf"
+    },
+    {
+      "id": "dasan",
+      "name": "다산관",
+      "variant": "generic-v2",
+      "url": "dasan/model-a9803d09d0e0ad42a0eff199c372d48628805c3a509b2ef336701b7edddb7fe3.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-0fc7475eeef453d0299820cd82bf5ba71e272cf11aaae1351693b5a4def34e7c.gltf"
+    },
+    {
+      "id": "parking3",
+      "name": "제3주차빌딩",
+      "variant": "custom",
+      "url": "parking3/model-f200459b889aa7bfa2daedf8a0cf67b0f01bcaddde0881770869cb7a8ae6b19a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 185450
+  }
+}

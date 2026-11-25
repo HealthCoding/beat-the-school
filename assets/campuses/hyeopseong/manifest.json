@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "source": "Hyeopseong Busan R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-e205c9aa46befad24cc91b871511a3b9acb2e35796c6aff3f9f4122c4289874e.gltf",
+      "triangles": 22318,
+      "name": "협성경복중 본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "high",
+      "url": "high/model-0643ab66742e56f94b42b602ff50f2d6effc4e5e7192b7aea8c5e5581552ecb8.gltf",
+      "triangles": 11132,
+      "name": "협성고 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-a",
+      "url": "west-a/model-0f72e71b8edb9d5a43f856f53da8604d49aad5dbbc97a175f047a7f308ba006c.gltf",
+      "triangles": 3752,
+      "name": "서쪽 교사동(북)",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-b",
+      "url": "west-b/model-6e762a259c75507e72a232ea05b2578251b6784f7ef60142bc5129a658aa9bd6.gltf",
+      "triangles": 4752,
+      "name": "서쪽 교사동(남)",
+      "variant": "detailed"
+    },
+    {
+      "id": "dream",
+      "url": "dream/model-3c4e2aa53fa032c18f7834d884f7961a18fb1df9b25b366b9c2793c557059dbd.gltf",
+      "triangles": 3722,
+      "name": "꿈미래관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-5a93d48d7b9ba7372494bf6300e31061c5e003629985d35f02d78f92d35288d2.gltf",
+      "triangles": 14780,
+      "name": "우봉관",
+      "variant": "detailed"
+    },
+    {
+      "id": "batting",
+      "url": "batting/model-fe024fb0c51a447256e6c839261a1592ac3d36c6d5e0d218e3c959be94ac5df0.gltf",
+      "triangles": 482,
+      "name": "실내야구연습장",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-e43451783c4518915e07b8d447b3fb8dee73cc1335be456533491d91cc6a06c8.gltf",
+      "triangles": 3552,
+      "name": "서쪽 별관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 64490
+  }
+}

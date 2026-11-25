@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "source": "gachon-seongnam active-models.json (22 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "gachonHall",
+      "name": "가천관",
+      "variant": "detailed",
+      "url": "gachonHall/model-52249783fbf5d0a3de42c7bedf6144a64970aadfd3f84d3a0c0a634d1de0947c.gltf"
+    },
+    {
+      "id": "visionTower",
+      "name": "비전타워",
+      "variant": "detailed",
+      "url": "visionTower/model-b0311259a8cac19ed5495a09e248604378b7782257fbe55e958e02c9fc2ed52e.gltf"
+    },
+    {
+      "id": "centralLibrary",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "centralLibrary/model-88cbbe4f2bc41b49c8ef3489bd321ce888879c6b2c4ad86fc34dba0b933adcb8.gltf"
+    },
+    {
+      "id": "aiHall",
+      "name": "AI관",
+      "variant": "detailed",
+      "url": "aiHall/model-d2e4ca022be128d57ff6a5209bfd7d3fac7f9fb4467b8428e76720b6c83e2233.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법과대학",
+      "variant": "generic-v2",
+      "url": "law/model-8d0346ab5d17079a28721a7c341490d7737c5d92b725a2abfbabe8aa8148c71e.gltf"
+    },
+    {
+      "id": "cyberLibrary",
+      "name": "AI도서관",
+      "variant": "generic-v2",
+      "url": "cyberLibrary/model-b5d52a5aac6d43b4f816cc5d75cb4b977a59143fbb68dc7b1a205536a97bfc75.gltf"
+    },
+    {
+      "id": "bionano",
+      "name": "바이오나노대학",
+      "variant": "generic-v2",
+      "url": "bionano/model-857c71c0629cbd6af8c847f59a7852302fb53ba8d03977a83813c349aa805fa3.gltf"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체대학",
+      "variant": "generic-v2",
+      "url": "semiconductor/model-79a5b5b933e32e7078b163c6ef1e50e8405a416ae67499075ae0669702cc4b20.gltf"
+    },
+    {
+      "id": "eng1",
+      "name": "공과대학1",
+      "variant": "generic-v2",
+      "url": "eng1/model-d3baf623c04832e7db90f7244aa61e41099d2039768ea4ead00726a1c8579d75.gltf"
+    },
+    {
+      "id": "eng2",
+      "name": "공과대학2",
+      "variant": "generic-v2",
+      "url": "eng2/model-ffcb102a25c9081d40524136dd83f16c46530f0b7b60638f08f41a73b87abdf8.gltf"
+    },
+    {
+      "id": "bionanoRes",
+      "name": "바이오나노연구원",
+      "variant": "generic-v2",
+      "url": "bionanoRes/model-b142cf47206c7a2ba29b51521ec62584f19f52303e1017abc69084ee7301367c.gltf"
+    },
+    {
+      "id": "orientalMed",
+      "name": "한의과대학",
+      "variant": "generic-v2",
+      "url": "orientalMed/model-f41027c1b715effae7e416da23d25875220b9ef634fd942502e4d1bd68297eaa.gltf"
+    },
+    {
+      "id": "globalCenter",
+      "name": "글로벌센터",
+      "variant": "generic-v2",
+      "url": "globalCenter/model-ce6c62fd40f3f351517274e68110910f16e80ff01db09f76181235648d329e64.gltf"
+    },
+    {
+      "id": "arts2",
+      "name": "예술·체육대학2",
+      "variant": "generic-v2",
+      "url": "arts2/model-79df7fd97da5107d3f667f27c3fc1ce9cd137beb6b107ede3ac38661c885e650.gltf"
+    },
+    {
+      "id": "arts1",
+      "name": "예술·체육대학1",
+      "variant": "generic-v2",
+      "url": "arts1/model-3336c33cfe3a8a857ef7be851aae47a58adecd050f5ff838c28dc554b04a7f33.gltf"
+    },
+    {
+      "id": "gradSchool",
+      "name": "대학원",
+      "variant": "generic-v2",
+      "url": "gradSchool/model-6399c401ea5e5a84c0e23e2504f38265d956047a29718e024a52cff8c1914200.gltf"
+    },
+    {
+      "id": "eduGrad",
+      "name": "교육대학원",
+      "variant": "generic-v2",
+      "url": "eduGrad/model-d3932b32aa384eba55b264e6c25cd23eaf0e4522cd5307790a52f799f4d4f09b.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-5b3f1b785a894b75a5b5c3a77673aada00409dc1f17afa406dccb949af130dd1.gltf"
+    },
+    {
+      "id": "dorm1",
+      "name": "제1학생생활관",
+      "variant": "generic-v2",
+      "url": "dorm1/model-48973df65227ac1dd74df8ecb739930887e182fb317a435e86d818892a4744ef.gltf"
+    },
+    {
+      "id": "dorm2",
+      "name": "제2학생생활관",
+      "variant": "generic-v2",
+      "url": "dorm2/model-e6e5873d2a0c09e53553cfbfc9cb16e1fb983d9a7058d0651a94d902b7aee38d.gltf"
+    },
+    {
+      "id": "dorm3",
+      "name": "제3학생생활관",
+      "variant": "generic-v2",
+      "url": "dorm3/model-3919f3440dc72c972c0cc8db01e0390b4d58552d8946dd327d9efa1a89f5cc3c.gltf"
+    },
+    {
+      "id": "grandstand",
+      "name": "대운동장 스탠드",
+      "variant": "custom",
+      "url": "grandstand/model-779734ee44e56166986084bfda717dc550020a42ba5173da4846781e2b48977c.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 126922
+  }
+}

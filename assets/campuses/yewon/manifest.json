@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "source": "Yewon Yangju R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "art-hall",
+      "url": "art-hall/model-f9a33f66a7a08725ecd141250612f26d7961619022be9a32c789400449f23228.gltf",
+      "triangles": 1286,
+      "name": "예술관(본관 동쪽 높은 상자)",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-east",
+      "url": "main-east/model-9d1ef1acd11503e984a5b00eca082367a24a33ebe70bee68599f3d8ba026261a.gltf",
+      "triangles": 1180,
+      "name": "본관 동측 낮은 동(예술관 앞 갈색 띠 동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-north",
+      "url": "main-north/model-f6f728a814021beb751a2579d2d649b6d87c88c32f01354fb08438ac24ea2c5f.gltf",
+      "triangles": 5892,
+      "name": "본관(북측 긴 동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-link",
+      "url": "main-link/model-f47859963e0435d03367da1a2bdb13f0e5550fb437ab5a02df4a6cfb36080f2e.gltf",
+      "triangles": 1340,
+      "name": "본관 서쪽 연결동(벽돌·유리 다리)",
+      "variant": "detailed"
+    },
+    {
+      "id": "yewon-hall",
+      "url": "yewon-hall/model-6669a450b219b2e2960935dd580dc6f1d451b1ede66b9a2256a2ce2e57a0ea63.gltf",
+      "triangles": 4598,
+      "name": "예원관",
+      "variant": "detailed"
+    },
+    {
+      "id": "court-bridge",
+      "url": "court-bridge/model-4330a00c3421bdf667ac98ec94ab66523340134c31c085b4c796302859d2879d.gltf",
+      "triangles": 444,
+      "name": "안마당 연결 다리",
+      "variant": "detailed"
+    },
+    {
+      "id": "global-hall",
+      "url": "global-hall/model-0ea260ce5933b31fbc420cc850b1d07a55c0e7191c77719ba6953280aef54aec.gltf",
+      "triangles": 3460,
+      "name": "글로벌인재관",
+      "variant": "detailed"
+    },
+    {
+      "id": "dorm",
+      "url": "dorm/model-bde610a67b0d7caa78da0b698d53fd485834ec1c31519175da5556469b555d9f.gltf",
+      "triangles": 9092,
+      "name": "학생생활관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 27292
+  }
+}

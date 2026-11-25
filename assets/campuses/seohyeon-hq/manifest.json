@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "source": "Seohyeon HQ R3 exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "wing1",
+      "url": "wing1/model-a05a764fe78947deecdc3cf98b87496ca22d02ec147213e864fff5682d10ae5b.gltf",
+      "triangles": 10600,
+      "instanceTriangles": 10600,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall2",
+      "url": "hall2/model-5c020f45c2a25fc67db773bd7ea40d899ab27160f208b6fe6787985cda0fccb1.gltf",
+      "triangles": 3650,
+      "instanceTriangles": 3650,
+      "name": "체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "wing3",
+      "url": "wing3/model-fac914a6b552763ce46f0c94048cc79e58944c47faddde1a3be926108b18ad69.gltf",
+      "triangles": 4486,
+      "instanceTriangles": 4486,
+      "name": "별관",
+      "variant": "detailed"
+    },
+    {
+      "id": "wing4",
+      "url": "wing4/model-918029e240881b7a9a872b43a39345f722062082be245ec14c49570f2a63eca6.gltf",
+      "triangles": 3714,
+      "instanceTriangles": 3714,
+      "name": "본관 북동붙임부(추정)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 22450
+  }
+}

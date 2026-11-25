@@ -1,0 +1,627 @@
+{
+  "version": 1,
+  "source": "pilot/kaist-daejeon/active-models.json (103 destructible buildings), floats rounded (position 1/1024 m, normal 6-bit mantissa, tile uv 1/4096) then packed losslessly",
+  "models": [
+    {
+      "id": "mainBldg",
+      "name": "본관 (E14)",
+      "variant": "detailed",
+      "url": "mainBldg/model-e841f92015d4df82636a8ed8011174eb31588335ed7ec499b022abf93b5bf85f.gltf"
+    },
+    {
+      "id": "library",
+      "name": "학술문화관 (E9)",
+      "variant": "detailed",
+      "url": "library/model-dfe31c060fb9d48653f5dffc0ef0da26df11ce970d4db75506e3fcff55a42208.gltf"
+    },
+    {
+      "id": "creativeLearning",
+      "name": "창의학습관 (E11)",
+      "variant": "detailed",
+      "url": "creativeLearning/model-8c60ed9f567b0147a658b3df18309515fc99f14c9b72b94c1a3daf126c4361fa.gltf"
+    },
+    {
+      "id": "kiBldg",
+      "name": "KI빌딩 (E4)",
+      "variant": "detailed",
+      "url": "kiBldg/model-36becdd507edd79bcab72ef2864c76ea88f9bed6ac6b6629057814536a45e1d5.gltf"
+    },
+    {
+      "id": "artMuseum",
+      "name": "KAIST 미술관 (E9)",
+      "variant": "generic-v2",
+      "url": "artMuseum/model-f84ef32ef11d99058177bd5f4cbb712b65669b3eee8adb36862fef58817f0ff6.gltf"
+    },
+    {
+      "id": "auditorium",
+      "name": "대강당 (E15)",
+      "variant": "generic-v2",
+      "url": "auditorium/model-5018c9ce4b7812c6d4415edbf660cd5f479fae8d047c179fe0a309cfeb266f43.gltf"
+    },
+    {
+      "id": "chungMoonSoul",
+      "name": "정문술빌딩 (E16)",
+      "variant": "generic-v2",
+      "url": "chungMoonSoul/model-c6d305ff42137dc1414e3b0723cfb5f0d0c85e2f4e9ee9ec07d47032d261d528.gltf"
+    },
+    {
+      "id": "yangBunSoon",
+      "name": "양분순빌딩 (E16-1)",
+      "variant": "generic-v2",
+      "url": "yangBunSoon/model-721abe8ab84ced28c74ccc5b13a3c6181a87771ed9c8882f3d00de0b971f1aa5.gltf"
+    },
+    {
+      "id": "facultyClub",
+      "name": "교직원회관 (E5)",
+      "variant": "generic-v2",
+      "url": "facultyClub/model-17ce83ddffc8bca75cdb7005f8842febdb45815ccbecf2741db3be22954d9553.gltf"
+    },
+    {
+      "id": "naturalSci",
+      "name": "자연과학동 (E6)",
+      "variant": "generic-v2",
+      "url": "naturalSci/model-d7f4951b7d8597cf99482e0a3fb18877afc74ee618ba85460c01baac41600d52.gltf"
+    },
+    {
+      "id": "basicSci",
+      "name": "기초과학동 (E6-6)",
+      "variant": "generic-v2",
+      "url": "basicSci/model-5df80de17846ea5eadaafe8ca6b5afe0985b8425bd9cfc7b2a237150e1127117.gltf"
+    },
+    {
+      "id": "biomed",
+      "name": "의과학연구센터 (E7)",
+      "variant": "generic-v2",
+      "url": "biomed/model-91657b99c61be1262e4df0db7ca87ab967b9985fc7520f9bba085aeb5f37c4d2.gltf"
+    },
+    {
+      "id": "infoElec",
+      "name": "정보전자공학동 (E3)",
+      "variant": "generic-v2",
+      "url": "infoElec/model-c11595329d4f0d85295c76207ad88a4697d953b518babd417e28a14a445d8ce1.gltf"
+    },
+    {
+      "id": "kraftonSoc",
+      "name": "크래프톤SoC빌딩 (E3-5)",
+      "variant": "generic-v2",
+      "url": "kraftonSoc/model-22d1d41bf8fb7a979f0cae842b3d48908b10b3c06f40f88231287337b1181a43.gltf"
+    },
+    {
+      "id": "indMgmt",
+      "name": "산업경영학동 (E2)",
+      "variant": "generic-v2",
+      "url": "indMgmt/model-b58478314cd137da3463862194b573d8f7eb9ac7d09635415bc2545f31885108.gltf"
+    },
+    {
+      "id": "sportsComplex",
+      "name": "류근철 스포츠컴플렉스 (N3)",
+      "variant": "generic-v2",
+      "url": "sportsComplex/model-bd2c309bfe1b28ed5bdea6f750e31ff84dab66e2e4c5c84284f3d15b08d487e5.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문사회과학부동 (N4)",
+      "variant": "generic-v2",
+      "url": "humanities/model-83989582685fb5f07c3eb6debb31331ee4e60bfcb43149c27f7db4c7818b8ca2.gltf"
+    },
+    {
+      "id": "branchAdmin",
+      "name": "행정분관 (N2)",
+      "variant": "generic-v2",
+      "url": "branchAdmin/model-9a777f6aca65cbba8e9f9aad095319dd9d95b0efb11a0d86dce5b0ab5f58b24d.gltf"
+    },
+    {
+      "id": "basicExp",
+      "name": "기초실험연구동 (N5)",
+      "variant": "generic-v2",
+      "url": "basicExp/model-20db2edb10a17b670c6e865360e5b0e8b347ee041cf58e170eedb0eb6dd37a38.gltf"
+    },
+    {
+      "id": "itBldg",
+      "name": "IT융합빌딩 (N1)",
+      "variant": "generic-v2",
+      "url": "itBldg/model-a4394150d447c24f567b24c7c1a0c4d2f0700250ae01665c41d02b55400b0d6d.gltf"
+    },
+    {
+      "id": "indDesign",
+      "name": "산업디자인학과동 (N25)",
+      "variant": "generic-v2",
+      "url": "indDesign/model-0a1153e00d4648c207e76bc4db35be8806719633384a3ba501fc58494b2a97b8.gltf"
+    },
+    {
+      "id": "undergradLib",
+      "name": "교양분관 (N10)",
+      "variant": "generic-v2",
+      "url": "undergradLib/model-f8c80b034243b710df1e6551ac92dff93cd97867f238d5aa1f8031fba7251d30.gltf"
+    },
+    {
+      "id": "kaimaru",
+      "name": "카이마루 학생식당 (N11)",
+      "variant": "generic-v2",
+      "url": "kaimaru/model-8a65bff079b95eaffdbc7462f397c9ea3683c0a494434d3b0c08a0fe893b8ff7.gltf"
+    },
+    {
+      "id": "studentCenter2",
+      "name": "학생회관-2 (N12)",
+      "variant": "generic-v2",
+      "url": "studentCenter2/model-34ada7b6c16021225196dcd8c790070df0c036d5bbf48913856df8c081377e57.gltf"
+    },
+    {
+      "id": "taeWulGwan",
+      "name": "태울관 (N13)",
+      "variant": "generic-v2",
+      "url": "taeWulGwan/model-b03fa145c32af62770396693443a5943bcff102dfc9162a49d862b0cc233c039.gltf"
+    },
+    {
+      "id": "changYoungShin",
+      "name": "장영신학생회관 (N13-1)",
+      "variant": "generic-v2",
+      "url": "changYoungShin/model-7ada7976f0631b6bfb128074dbe0700787f81e6f248a31b3975594994fa69612.gltf"
+    },
+    {
+      "id": "mechEng",
+      "name": "기계공학동 (N7)",
+      "variant": "generic-v2",
+      "url": "mechEng/model-f8748108fe7fc86d30eae9db1da001745dcbd4f12624f9fcf0726d45baced761.gltf"
+    },
+    {
+      "id": "eduSupport",
+      "name": "교육지원동 (W8)",
+      "variant": "generic-v2",
+      "url": "eduSupport/model-534eece5a655db395372116095d1b52941310c8cc0ed3f9f85d2edfdeb34428d.gltf"
+    },
+    {
+      "id": "analysisCenter",
+      "name": "중앙분석센터 (W8-1)",
+      "variant": "generic-v2",
+      "url": "analysisCenter/model-3eb4bc863beef66d77a49bd1e212fd97f2d2813b54e65de8790e3c62d1b8674b.gltf"
+    },
+    {
+      "id": "studentCenter1",
+      "name": "학생회관-1 (W2)",
+      "variant": "generic-v2",
+      "url": "studentCenter1/model-f8901ceb9bf709e0af74e56694cf2f746396ed8b28ab8cd47777b27eb7cdc673.gltf"
+    },
+    {
+      "id": "intlCenter",
+      "name": "인터내셔널센터 (W2-1)",
+      "variant": "generic-v2",
+      "url": "intlCenter/model-7d37a263b3554693930c5809408e70d10431305319bd8c68424932634a81d371.gltf"
+    },
+    {
+      "id": "appliedEng",
+      "name": "응용공학동 (W1)",
+      "variant": "generic-v2",
+      "url": "appliedEng/model-9c1a964df1268b4c02f31990c3f8ee581040a0d32dc7d68da2fbd41291a3a860.gltf"
+    },
+    {
+      "id": "indSysEngE2_2",
+      "name": "산업및시스템공학동 (E2-2)",
+      "variant": "generic-v2",
+      "url": "indSysEngE2_2/model-e4fa1ed0d938144cfa5df6c5af2c011779e87cb144607705d251551bf4130b12.gltf"
+    },
+    {
+      "id": "deviceInnovE3_3",
+      "name": "미래융합소자동 (E3-3)",
+      "variant": "generic-v2",
+      "url": "deviceInnovE3_3/model-3f4cb9d96a93581e245fceea9b66f1aa7a8e05405c7e184e7e3cf97143f7bb85.gltf"
+    },
+    {
+      "id": "saeneulE3_4",
+      "name": "새늘동 (E3-4)",
+      "variant": "generic-v2",
+      "url": "saeneulE3_4/model-a209fdfea292ad2036a1d5f1910cb9c68054ec355f8f4593cac2e31aa8dbc387.gltf"
+    },
+    {
+      "id": "californiaBakeryE6_5",
+      "name": "캘리포니아 베이커리·카페동 (E6-5)",
+      "variant": "generic-v2",
+      "url": "californiaBakeryE6_5/model-ed4a97b86badd479c06c089b93cc221ad7204f6c43e4bf6607ae4b3fc10f9077.gltf"
+    },
+    {
+      "id": "sejongGwanE8",
+      "name": "세종관 (E8)",
+      "variant": "generic-v2",
+      "url": "sejongGwanE8/model-98f4963e1c2fb638eee4f013242a926954a365074b3e579c2f550b5fc158c214.gltf"
+    },
+    {
+      "id": "centralWarehouseE10",
+      "name": "중앙창고 (E10)",
+      "variant": "generic-v2",
+      "url": "centralWarehouseE10/model-00646663d09a629a27611ef3245d2e22d4d31cf94247f7ce522fcad9172c3e20.gltf"
+    },
+    {
+      "id": "centralPlantE12",
+      "name": "중앙기계실 (E12)",
+      "variant": "generic-v2",
+      "url": "centralPlantE12/model-017df49715bd530f8c2f101fb3d190680270862c4e96fcfdc755e043c41860cf.gltf"
+    },
+    {
+      "id": "satelliteCenterE13",
+      "name": "인공위성연구센터 (E13)",
+      "variant": "generic-v2",
+      "url": "satelliteCenterE13/model-bcf5eb1b2ea37f281099cb98d8939f5e75452f7939fdc69a5dfeded8cc91da87.gltf"
+    },
+    {
+      "id": "auditoriumAnnexE15",
+      "name": "대강당 부속동 (E15-1)",
+      "variant": "generic-v2",
+      "url": "auditoriumAnnexE15/model-bcd356e4c5ae595f7e539daa6e8703b9b7b0896544f7ae1994f292ed9721b6c9.gltf"
+    },
+    {
+      "id": "sportsStandE17",
+      "name": "대운동장 스탠드 (E17)",
+      "variant": "generic-v2",
+      "url": "sportsStandE17/model-9fcfeee0ea500f35f0079e22fd3743e3f69132f8a2da50ff10b97c419ae12ae0.gltf"
+    },
+    {
+      "id": "animalCenterE18",
+      "name": "대전질환모델동물센터 (E18)",
+      "variant": "generic-v2",
+      "url": "animalCenterE18/model-e533af2a57fbbcf908f573004ef24039823722a8cea65c87539dfa526b6ac303.gltf"
+    },
+    {
+      "id": "bioModelParkE18_1",
+      "name": "바이오모델시스템파크 (E18-1)",
+      "variant": "generic-v2",
+      "url": "bioModelParkE18_1/model-737df45c7aae606605be03e7ae7f4dcf2cacc44c93d7cc69edefbb782d402f7b.gltf"
+    },
+    {
+      "id": "wasteStorageE18_2",
+      "name": "폐기물처리장·냉각가스보관소 (E18-2)",
+      "variant": "generic-v2",
+      "url": "wasteStorageE18_2/model-3fb89a8f9f6c5822a3be46b359f6d6c1e8380868efc579c51854bca5cd0bea48.gltf"
+    },
+    {
+      "id": "nanoFabE19",
+      "name": "나노종합기술원 (E19)",
+      "variant": "generic-v2",
+      "url": "nanoFabE19/model-27729ff44f881f348e9cb2f405ce40e3ac7cd186b892607660dae6a71462fdc8.gltf"
+    },
+    {
+      "id": "gyeryongGwanE20",
+      "name": "계룡관 (E20)",
+      "variant": "generic-v2",
+      "url": "gyeryongGwanE20/model-b62a343db4e508b24f97146295132e81cf30dd6c665c0f76bef391ad8ddfaae5.gltf"
+    },
+    {
+      "id": "pappalardoCenterE21",
+      "name": "파팔라도 메디컬센터·KAIST 클리닉 (E21)",
+      "variant": "generic-v2",
+      "url": "pappalardoCenterE21/model-329837c2ad64b3359e4ec89b4cbdd5e9cd057a1a1eafeb0e4ee69b3e5012329d.gltf"
+    },
+    {
+      "id": "kaistPharmacyE21",
+      "name": "카이스트약국 (E21-1)",
+      "variant": "generic-v2",
+      "url": "kaistPharmacyE21/model-ffd4b3b4a263a7cdf1c94fd279fd8bbe7aa568182cea8c63c7f9fe4dc45194d1.gltf"
+    },
+    {
+      "id": "ibsKaistE22",
+      "name": "기초과학연구원 KAIST 캠퍼스 (E22)",
+      "variant": "generic-v2",
+      "url": "ibsKaistE22/model-0d637865a4b9904660a25d47740b94ba33231b7e4da6c5d4b6a060fd7a410382.gltf"
+    },
+    {
+      "id": "appliedEngAnnexW1",
+      "name": "응용공학동 부속연구동 (W1 별관)",
+      "variant": "generic-v2",
+      "url": "appliedEngAnnexW1/model-57f6ae1fd2f58035bffb192893fbdf14104efee533ce3efca0298d007cb7d28c.gltf"
+    },
+    {
+      "id": "lotteRndW1",
+      "name": "롯데-카이스트 R&D센터 (W1-4)",
+      "variant": "generic-v2",
+      "url": "lotteRndW1/model-bc2f7b3bfa714261abe09a998677db740a7f85c5cf0cd3f0c3563052c16802cd.gltf"
+    },
+    {
+      "id": "galileiGwanW3",
+      "name": "갈릴레이관 (W3)",
+      "variant": "generic-v2",
+      "url": "galileiGwanW3/model-b31db67a84bf67445a9ecf918151eadb47b0adcca1903813a49e571e87d56b01.gltf"
+    },
+    {
+      "id": "yeoulGwanW4_1",
+      "name": "여울관 (W4-1)",
+      "variant": "generic-v2",
+      "url": "yeoulGwanW4_1/model-b8623997a6d0cf6d4bedc74bee0528de33742907169ca4550905f7bebdc077b7.gltf"
+    },
+    {
+      "id": "nadlGwanW4_2",
+      "name": "나들관 (W4-2)",
+      "variant": "generic-v2",
+      "url": "nadlGwanW4_2/model-264839eb960a95f1dd6dea7edd66c1b720933c5ad5a699df1d9b9da847084795.gltf"
+    },
+    {
+      "id": "westDormSupportW4",
+      "name": "서측 생활관지원실 (W4 부속)",
+      "variant": "generic-v2",
+      "url": "westDormSupportW4/model-b6698afa52a4bee6ec096ac3fe1914135850f81a654eba427ac80a4d6f768737.gltf"
+    },
+    {
+      "id": "dasomGwanW4_3",
+      "name": "다솜관 (W4-3)",
+      "variant": "generic-v2",
+      "url": "dasomGwanW4_3/model-112b57f889b68be70b5f520b8919aecb94f2faf94e4298f32dac874502ad5302.gltf"
+    },
+    {
+      "id": "westDormAnnexW4_5",
+      "name": "서측기숙사 편의동 (W4-5)",
+      "variant": "generic-v2",
+      "url": "westDormAnnexW4_5/model-a5dbb5c377e1408faa4b0566aabb9525d0d3cc80e408fa8ae00bcc20f7057366.gltf"
+    },
+    {
+      "id": "heemangGwanW4_4",
+      "name": "희망관 (W4-4)",
+      "variant": "generic-v2",
+      "url": "heemangGwanW4_4/model-46fc13cb3cdffbf8e9b2158d64a1ea572fb8ba2cb5cf938145a702cea763646f.gltf"
+    },
+    {
+      "id": "yejiGwanW5_1",
+      "name": "예지관·기혼자기숙사 (W5-1)",
+      "variant": "generic-v2",
+      "url": "yejiGwanW5_1/model-d764d2d7f421cefada30a5076a82dae6a2d81058144cf49881e8a01bf6b39279.gltf"
+    },
+    {
+      "id": "startupVillageW5_2",
+      "name": "스타트업빌리지 (W5-2)",
+      "variant": "generic-v2",
+      "url": "startupVillageW5_2/model-5b2f2df0a9a2b3026b680a501ecb27995a595bf9f0bd135182a8135757876aa7.gltf"
+    },
+    {
+      "id": "intlVillageCW5_3",
+      "name": "인터내셔널빌리지 C (W5-3)",
+      "variant": "generic-v2",
+      "url": "intlVillageCW5_3/model-2879c585284892b96e30a603f9f57a6cc9603f8bff841630c53a7d6e3f7cbd77.gltf"
+    },
+    {
+      "id": "intlVillageAW5_4",
+      "name": "인터내셔널빌리지 A (W5-4)",
+      "variant": "generic-v2",
+      "url": "intlVillageAW5_4/model-d3c9e43843a465394fa5f172b5a22169d1e933c6889894636521371210eeb29a.gltf"
+    },
+    {
+      "id": "intlVillageBW5_5",
+      "name": "인터내셔널빌리지 B (W5-5)",
+      "variant": "generic-v2",
+      "url": "intlVillageBW5_5/model-7d3162f7fd9fc6331bc996c3ce0ebe6624d87bd2cedd466804f8d3381ae828fb.gltf"
+    },
+    {
+      "id": "mirGwanW6",
+      "name": "미르관 (W6)",
+      "variant": "generic-v2",
+      "url": "mirGwanW6/model-cfb494b6532ece31f1205e7fe2511515821834f65f9772e0ecf139547bc9c82e.gltf"
+    },
+    {
+      "id": "naraeGwanW6",
+      "name": "나래관 (W6)",
+      "variant": "generic-v2",
+      "url": "naraeGwanW6/model-fda90ca780d56f599f5db58d3211965b0e9db2c2304900d047be774db20ebba4.gltf"
+    },
+    {
+      "id": "nanumGwanW7",
+      "name": "나눔관 (W7)",
+      "variant": "generic-v2",
+      "url": "nanumGwanW7/model-10e4b910e9cd40c90949a49384fff08527a533315dbee311c81751b2df730d1a.gltf"
+    },
+    {
+      "id": "analysisAnnexW8_2",
+      "name": "중앙분석센터 별관 (W8-2)",
+      "variant": "generic-v2",
+      "url": "analysisAnnexW8_2/model-dcc164a92efb0c188c1e2d82f01fca5e205783e54c61c114c675b1ec255153e3.gltf"
+    },
+    {
+      "id": "kaiHelpW8_3",
+      "name": "카이헬프·교육지원 별관 (W8-3)",
+      "variant": "generic-v2",
+      "url": "kaiHelpW8_3/model-1f3ee6ed5173e751938c17b683164637fc44c99a261d3ada0c9c4703d47b0297.gltf"
+    },
+    {
+      "id": "waterTankW9",
+      "name": "서측 배수지·물탱크동 (W9 부속)",
+      "variant": "generic-v2",
+      "url": "waterTankW9/model-63ff20c8c5a0a593196c5b9b7fb93fa2de92ea43b1429f026c088dbf765cf5f2.gltf"
+    },
+    {
+      "id": "outdoorTheaterW9",
+      "name": "노천극장 (W9)",
+      "variant": "generic-v2",
+      "url": "outdoorTheaterW9/model-8b25abce1fe8e46891f79a1c6f87faad7a9c1a584125a9ccc34337b875f08640.gltf"
+    },
+    {
+      "id": "outdoorTheaterAnnexW9",
+      "name": "노천극장 부속동 (W9-1)",
+      "variant": "generic-v2",
+      "url": "outdoorTheaterAnnexW9/model-e814d38f37d21651be4e14b8fe87dad4b912260f15261cb949a3b219e42a1a37.gltf"
+    },
+    {
+      "id": "windTunnelW10",
+      "name": "풍동실험실 (W10)",
+      "variant": "generic-v2",
+      "url": "windTunnelW10/model-8d27ecd0d75039853bcb7d892c958a27e7ff95a0d4fc5f6d0b37b90b2669337d.gltf"
+    },
+    {
+      "id": "intlFacultyAptW11",
+      "name": "외국인교수아파트 (W11)",
+      "variant": "generic-v2",
+      "url": "intlFacultyAptW11/model-b771f049331e5b26b519eaa84190347c705b45b9bf7b3c671145f890819e2e4c.gltf"
+    },
+    {
+      "id": "westPlantW12",
+      "name": "서측기계실 (W12)",
+      "variant": "generic-v2",
+      "url": "westPlantW12/model-fd9a1a2bef7580ca07c09365d61c9ec0d1819466ee77f9f424d8ebd719be605a.gltf"
+    },
+    {
+      "id": "metaConvergenceW13",
+      "name": "메타융합관 (W13)",
+      "variant": "generic-v2",
+      "url": "metaConvergenceW13/model-4fb49521d853c4080b2134e88d6129155f7f155703560c03ffd9c5a93da3358e.gltf"
+    },
+    {
+      "id": "smartCityW15",
+      "name": "스마트도시공학센터 (W15)",
+      "variant": "generic-v2",
+      "url": "smartCityW15/model-e30b7e1ad633fadc0d498c22f74207e94005f4cb8b9b6ceccf5433f79449c797.gltf"
+    },
+    {
+      "id": "geoCentrifugeW16",
+      "name": "지오센트리퓨지 실험동 (W16)",
+      "variant": "generic-v2",
+      "url": "geoCentrifugeW16/model-ce66d6bc24164d8fa3470a83cc9d1bd094f64a9fc043f84e82591d343347c749.gltf"
+    },
+    {
+      "id": "eastGateN0",
+      "name": "동문 경비실 (N0)",
+      "variant": "generic-v2",
+      "url": "eastGateN0/model-ccedab8818e8d76dc912217ee3f46d31506e6b084e2a67ca79b742b2f87e05a5.gltf"
+    },
+    {
+      "id": "itBldgAnnexN1",
+      "name": "IT융합빌딩 북측연구동 (N1 별관)",
+      "variant": "generic-v2",
+      "url": "itBldgAnnexN1/model-18eb2645e5ba4fe758af0e65c0f2c6484ff997c72d79c38807aedf87b283f839.gltf"
+    },
+    {
+      "id": "facultyHallN6",
+      "name": "교수회관 (N6)",
+      "variant": "generic-v2",
+      "url": "facultyHallN6/model-10cbfb68345cf19eec92e0d8d10aa6a1a7f7f04c893fc74b7a90e95aaa625d4c.gltf"
+    },
+    {
+      "id": "mechEngLabN7_3",
+      "name": "기계공학 실험동 (N7-3·4)",
+      "variant": "generic-v2",
+      "url": "mechEngLabN7_3/model-c73e710854490e0f5ed320a63480f2e0ed294adb5b023e91157f59a78a73450f.gltf"
+    },
+    {
+      "id": "autoTechLabN7_5",
+      "name": "자동차기술대학원 실험동 (N7-5)",
+      "variant": "generic-v2",
+      "url": "autoTechLabN7_5/model-5de531c72a341eb85b07001f9030c8087ba0ef4231a42b407d0f37e0e47dbd4b.gltf"
+    },
+    {
+      "id": "practiceBldgN9",
+      "name": "실습동 (N9)",
+      "variant": "generic-v2",
+      "url": "practiceBldgN9/model-153be4c5817780516ad51909adad78596ab9ab8dfecb49d7e8d9d59ab34d5040.gltf"
+    },
+    {
+      "id": "sarangGwanN14",
+      "name": "사랑관 (N14)",
+      "variant": "generic-v2",
+      "url": "sarangGwanN14/model-190ba23352436b8e10a874e0f964c8b463410b8d0ede9d5e0227085ef9213c71.gltf"
+    },
+    {
+      "id": "kaiLoungeN14",
+      "name": "카이라운지 (N14 부속)",
+      "variant": "generic-v2",
+      "url": "kaiLoungeN14/model-d821838ee196f3f265137312de752d03862de20976c72610fffdead2b07a44b8.gltf"
+    },
+    {
+      "id": "staffHousingN15",
+      "name": "교직원 숙소 (N15)",
+      "variant": "generic-v2",
+      "url": "staffHousingN15/model-6f3d36dc17bf4fab078999253c5cfcf0d09639833231a423292ba7ad248dd1a1.gltf"
+    },
+    {
+      "id": "bikeShopN15",
+      "name": "자전거 매장·편의동 (N15 부속)",
+      "variant": "generic-v2",
+      "url": "bikeShopN15/model-db7884e6be04108ca115a5f8526b523beab3ab90d4a7a9b793acabc858ba674a.gltf"
+    },
+    {
+      "id": "somangGwanN16",
+      "name": "소망관 (N16)",
+      "variant": "generic-v2",
+      "url": "somangGwanN16/model-1fcac615c955b511a59306b78d55ba2fa5054c10e348b645fb5da8ab7c3eadd3.gltf"
+    },
+    {
+      "id": "seongsilGwanN17",
+      "name": "성실관 (N17)",
+      "variant": "generic-v2",
+      "url": "seongsilGwanN17/model-f94effa215c59731d326bf63fe8757327fd6853e802b4cbca6973440f4ec1e32.gltf"
+    },
+    {
+      "id": "jinriGwanN18",
+      "name": "진리관 (N18)",
+      "variant": "generic-v2",
+      "url": "jinriGwanN18/model-7ddb95fdd767d6e37cfc5bea8d97159cf2b36e15bf5c4b96413dee5aaf5222d5.gltf"
+    },
+    {
+      "id": "areumGwanN19",
+      "name": "아름관 (N19)",
+      "variant": "generic-v2",
+      "url": "areumGwanN19/model-8ced0249ee34dd81715f0ceae7364c0b06e82cc5c229d1acab2f95fe6ff01ef5.gltf"
+    },
+    {
+      "id": "silloeGwanN20",
+      "name": "신뢰관 (N20)",
+      "variant": "generic-v2",
+      "url": "silloeGwanN20/model-57f3c3e7a4b1ff1d65fc132fbff684a8aafb4c959587915fdc39c92053113570.gltf"
+    },
+    {
+      "id": "jihyeGwanN21",
+      "name": "지혜관 (N21)",
+      "variant": "generic-v2",
+      "url": "jihyeGwanN21/model-1301193965d2261de0ae0ab36d2a61090562da6d9cbc4e1166d390adc8e4f035.gltf"
+    },
+    {
+      "id": "alumniVentureN22",
+      "name": "동문창업관·기술경영학부동 (N22)",
+      "variant": "generic-v2",
+      "url": "alumniVentureN22/model-b73c865183da425692c272ed6046db862af278385e9050afcb5a8d50fe1fb9a6.gltf"
+    },
+    {
+      "id": "northGateN23",
+      "name": "북문 경비실 (N23 부속)",
+      "variant": "generic-v2",
+      "url": "northGateN23/model-9cb8e026b9aa845580c4e1af8b563962f0371ba7aee3d434980a26102be22ed5.gltf"
+    },
+    {
+      "id": "fmriCenterN23",
+      "name": "fMRI센터 (N23)",
+      "variant": "generic-v2",
+      "url": "fmriCenterN23/model-20a3b2cfd5de7e9e416f06583cbb73e7fc04c486fbae43bfa042d3aa343bc604.gltf"
+    },
+    {
+      "id": "lgInnovHallN24",
+      "name": "LG이노베이션홀·김재철AI대학원 (N24)",
+      "variant": "generic-v2",
+      "url": "lgInnovHallN24/model-461805cee8e586b8274c36ff964626d53a019ae6ca8dd63194965c5df4ccd974.gltf"
+    },
+    {
+      "id": "ctAnnexN25_2",
+      "name": "문화기술·산업디자인 별관 (N25-2)",
+      "variant": "generic-v2",
+      "url": "ctAnnexN25_2/model-db663d14f62fa2ba883524d78491fee653af2fdb6d11d0c68454d8711bb5bbdd.gltf"
+    },
+    {
+      "id": "highPerfSysN26",
+      "name": "고성능집적시스템연구센터 (N26)",
+      "variant": "generic-v2",
+      "url": "highPerfSysN26/model-002af57d43db1b0b3bf5a99bf5eea81b7e39951710e21daa1a7b996e8e42d965.gltf"
+    },
+    {
+      "id": "eurekaHallN27",
+      "name": "유레카관 (N27)",
+      "variant": "generic-v2",
+      "url": "eurekaHallN27/model-b28d28f203596cfcf123ff6c2f623cfea4ea3ae46250a6e7cbeb198ff6e0c6f4.gltf"
+    },
+    {
+      "id": "energyEnvCenterN28",
+      "name": "에너지환경연구센터 (N28)",
+      "variant": "generic-v2",
+      "url": "energyEnvCenterN28/model-8dd8f33470fbb1ea0e215db5e9bcc195d995a23ae43dc6f069e979da77e1031a.gltf"
+    },
+    {
+      "id": "mainGate",
+      "name": "정문 (E1)",
+      "variant": "custom",
+      "url": "mainGate/model-8dccf50b6f75da76d1dee3ef66e0fa08f325b93fa640e496beba41d1964496cd.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 305291
+  }
+}

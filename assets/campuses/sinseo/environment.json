@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Sinseo Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-eac468fe3bb18561fcd87770c3f34cfa15ef8e9be514fae1d215a6d851a6d826.gltf",
+      "triangles": 13843
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-c49a27dfab996b1a880f668dd51f4ca731b8b4622b96c3b684baead8529d9a21.gltf",
+      "triangles": 25252
+    },
+    {
+      "id": "context",
+      "url": "context/model-53067bb62aff03fccea6a222db5db00a67cc737e87b339a018c477819899c7fe.gltf",
+      "triangles": 45471
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-20cb431e12042ec041e3aad5f02ee7607fcae6c198203553411852290dd652a4.gltf",
+      "triangles": 2267
+    }
+  ]
+}

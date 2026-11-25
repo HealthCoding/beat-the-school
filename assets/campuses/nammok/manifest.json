@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "Nammok Ulsan R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 0.30000001192092896,
+      "id": "main",
+      "url": "main/model-09d5f680aa9397cfcc3e6f374cac360d1443fc00313bc6db26c92f24960e30c7.gltf",
+      "triangles": 40597,
+      "name": "본관(5층 세 교사날개·4층 옥상정원동)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.30000001192092896,
+      "id": "gym",
+      "url": "gym/model-9bb41edb2fcc3cdca261e16c3e0d8b7a5c1df48ea6590a8fd448f39a28e6dd38.gltf",
+      "triangles": 2954,
+      "name": "남목관(급식1층·체육관2층)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.30000001192092896,
+      "id": "bridge",
+      "url": "bridge/model-703b90a9087cbac1cf41bd9764435fa7cc9b252f69caa4ebd03c18ec2ca46082.gltf",
+      "triangles": 1776,
+      "name": "본관-남목관 2층 연결교",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 45327
+  }
+}

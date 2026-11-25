@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "Seoul Art High School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-600310c5a60a576aeadc252b07f81581c4ce3f93a3f388693ab4022618cc936a.gltf",
+      "triangles": 9548
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-b28420c2a06f883f4301dbad5c6647d87152f972a702467705654c423dda385c.gltf",
+      "triangles": 462
+    },
+    {
+      "id": "context",
+      "url": "context/model-4a6bd7f045fab5f703d785258a9ab685bb5381635292eb93ee816b6896b284a3.gltf",
+      "triangles": 44964
+    }
+  ]
+}

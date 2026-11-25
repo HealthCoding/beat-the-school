@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Namseoul University R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-0695937d273283a7413ccb2bb5375515494cccaed172ffb4058947fcea1ee451.gltf",
+      "triangles": 184441
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-0386de8c233b01da7d2b39d27e819482a2d6cd9c168c58555c8fe158837a87a0.gltf",
+      "triangles": 27607
+    },
+    {
+      "id": "context",
+      "url": "context/model-b22d78efe6b29d31b7c2032ed21feb686a9466ee65d16a785838b28dc7ad880f.gltf",
+      "triangles": 29161
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-6c9705fbe5b64fe6c49a161fe3360af75c142bd21a6bd3313f513e4888652c2b.gltf",
+      "triangles": 230
+    }
+  ]
+}

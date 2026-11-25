@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/hanyang/build-package.mjs from the pilot preview rules",
+  "models": [
+    {
+      "id": "site-amphitheater-bowl",
+      "url": "site-amphitheater-bowl/model-006528c8d7d47dd65e121cb7075948dd82d8d788c0e22e441cc91fabe7baf31b.gltf",
+      "triangles": 11392
+    },
+    {
+      "id": "site-forecourt",
+      "url": "site-forecourt/model-867b776c36c75b62e1f836a3cca171a7f671b16ffe2d11a2da85870fe956441b.gltf",
+      "triangles": 55792
+    },
+    {
+      "id": "site-context",
+      "url": "site-context/model-537ea331ae9d640964c38d83a6ee7bbbeda0e02a771b7c840479d3d4972a77f2.gltf",
+      "triangles": 4700
+    },
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-049cc5c6ae2715351aa924838f41af937006a902c989593aa88bac2b0b512857.gltf",
+      "triangles": 208628
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-63cdf327ab325b83f9c47bf4a96880143d5bc63ee973e9d754681d6773cfbb20.gltf",
+      "triangles": 47460
+    }
+  ],
+  "totals": {
+    "triangles": 327972
+  }
+}

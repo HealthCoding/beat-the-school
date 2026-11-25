@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Jungri Daegu R4 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-f13ac4ad70f2588a776595cdbad97df9d4fffa16b5af60c6f1dc99f6cacbcecc.gltf",
+      "triangles": 22918
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-746c9c343e7db1142f017b61cd59ce3f4eae5a1507fa79ba46001220392e3d99.gltf",
+      "triangles": 40634
+    },
+    {
+      "id": "context",
+      "url": "context/model-6f331aa0b57d68a3814a9192d19916670dac39c2c40fb17fb3e7872203ef3eb6.gltf",
+      "triangles": 34836
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-15d95df5b81fc7ef3bb1d8dd4bc79cf7c067c73b88a66347314c7da60dce5dcf.gltf",
+      "triangles": 976
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "source": "pilot/korea-anam/active-models.json (Codex pilot), packed losslessly",
+  "models": [
+    {
+      "id": "418Memorial",
+      "name": "4.18기념관",
+      "variant": "photo-correction",
+      "url": "418Memorial/model-195c830dbd2f23545ab3eae14950232865b11b00296622ef511fd5eb3cc1cabb.gltf"
+    },
+    {
+      "id": "cjLaw",
+      "name": "CJ법학관",
+      "variant": "photo-correction",
+      "url": "cjLaw/model-424714632d8b9d60dff5aef357c8ab8843241888f086597509787dc314b96c49.gltf"
+    },
+    {
+      "id": "lgPosco",
+      "name": "LG-POSCO경영관",
+      "variant": "photo-correction",
+      "url": "lgPosco/model-6863c2d5757b08f4b5d69637b93ba5e488e02a801a1761b7502ab4cb22ac3385.gltf"
+    },
+    {
+      "id": "skFuture",
+      "name": "SK미래관",
+      "variant": "photo-correction",
+      "url": "skFuture/model-166ed315d23e1da80f3f4768265cb957d9f58df16125c468c57190fa6691998f.gltf"
+    },
+    {
+      "id": "auditorium",
+      "name": "강당",
+      "variant": "remaining-twenty",
+      "url": "auditorium/model-9414d11406de53fc97902359b0ac445171a1f01dd5dd3a5ac4e434462ec8928f.gltf"
+    },
+    {
+      "id": "businessMain",
+      "name": "경영본관",
+      "variant": "photo-correction",
+      "url": "businessMain/model-91d215c105445378920915c02fd004de0d66c0696d7f7df4b502343c471bee2a.gltf"
+    },
+    {
+      "id": "alumni",
+      "name": "교우회관",
+      "variant": "photo-correction",
+      "url": "alumni/model-2cdfc2b57c1c2d8b0a1a994ded65c2385ce8f2691b792515bfb8c41ee9302f76.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제관",
+      "variant": "photo-correction",
+      "url": "international/model-befbdd34a1f8910ee909adc01455d61e54475e0e95c62dbfb856b874dbc4f683.gltf"
+    },
+    {
+      "id": "dongwonLeadership",
+      "name": "동원글로벌리더십홀",
+      "variant": "photo-correction",
+      "url": "dongwonLeadership/model-fca3ea2eeb2be91cfb7d6d25665424ac9067093dd59f0e56ca8d6bd69012faaf.gltf"
+    },
+    {
+      "id": "lyceum",
+      "name": "라이시움(평생교육원)",
+      "variant": "photo-correction",
+      "url": "lyceum/model-7c35b9c7f214ef9993108f98f51e36dcd64582162ecf396b60bface575be5023.gltf"
+    },
+    {
+      "id": "westHall",
+      "name": "문과대학(서관)",
+      "variant": "photo-correction",
+      "url": "westHall/model-1530f5a4e03bf1cd9ca55a47b7d5ae9186622e72e28701d1cf3324cd148ed864.gltf"
+    },
+    {
+      "id": "media",
+      "name": "미디어관",
+      "variant": "east-media-three",
+      "url": "media/model-838e757821c4db9e564ebfeb14ebbab426aab8d0bf1dd174166dda6e66e9f53a.gltf"
+    },
+    {
+      "id": "centennialSamsung",
+      "name": "백주년기념삼성관/박물관",
+      "variant": "photo-correction",
+      "url": "centennialSamsung/model-0f46eabe55a112cb89bda7fbd4d73c20ada4b52ca76a06755755ca9aa761a37e.gltf"
+    },
+    {
+      "id": "lawOld",
+      "name": "법학관(구관)",
+      "variant": "photo-correction",
+      "url": "lawOld/model-56eee6cc3ca63ab8235d174cb4bf05165086faa30faadac8cd2aa6061f37cd41.gltf"
+    },
+    {
+      "id": "lawNew",
+      "name": "법학관(신관)",
+      "variant": "photo-correction",
+      "url": "lawNew/model-f827446966f92147120842c2fe1b5da864eb65222299c7fedf8bb5cc799f91aa.gltf"
+    },
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "photo-correction",
+      "url": "main/model-93edf58eb5e5fa800454a11f3d8346b9b80e3ea1975e2e3cdae9008fdc17893b.gltf"
+    },
+    {
+      "id": "educationMain",
+      "name": "사범대학 본관",
+      "variant": "photo-correction",
+      "url": "educationMain/model-34daa89fae1382cfe19936cd8d7cd773732efc1715be92a2dac4929a375ecdbe.gltf"
+    },
+    {
+      "id": "educationNew",
+      "name": "사범대학 신관",
+      "variant": "photo-correction",
+      "url": "educationNew/model-2228dc04e8be1fd22fc69a9cb7dcade4982cca748f75d3cd62b6e11f6a3e71cf.gltf"
+    },
+    {
+      "id": "politicalEconomics",
+      "name": "상남정경관",
+      "variant": "photo-correction",
+      "url": "politicalEconomics/model-f2d992e287cb851d35b5a2ee31d48381b8a0c3b378a2b858788b110a91e1f1c8.gltf"
+    },
+    {
+      "id": "facultyHouse",
+      "name": "수당삼양패컬티하우스",
+      "variant": "photo-correction",
+      "url": "facultyHouse/model-ee579ddf04259fbdddc53c4e672eebea7191e1e4d7793853553a471a5ee2901a.gltf"
+    },
+    {
+      "id": "asiaticResearch",
+      "name": "아세아문제연구원",
+      "variant": "photo-correction",
+      "url": "asiaticResearch/model-04e5dfc6bf224bf2271aad96046aa78bdd2506024cbdde1f3696273d4a6ec22b.gltf"
+    },
+    {
+      "id": "woodang",
+      "name": "우당교양관",
+      "variant": "photo-correction",
+      "url": "woodang/model-3a30f4d18128c7460b3e783b842dcc497d90a9258050bb3ac40f945ff49eaec3.gltf"
+    },
+    {
+      "id": "uncho",
+      "name": "운초우선교육관",
+      "variant": "photo-correction",
+      "url": "uncho/model-e2eb90b98af03c0dced0e39415178cf886693a90e3b5a183a86f5bc3fcafb551.gltf"
+    },
+    {
+      "id": "incheonMemorial",
+      "name": "인촌기념관",
+      "variant": "photo-correction",
+      "url": "incheonMemorial/model-090998ef4b4410b952b53f3ac2b7047a41850e2745a22a0103540172ce78be7e.gltf"
+    },
+    {
+      "id": "graduateOldLibrary",
+      "name": "중앙도서관(대학원)",
+      "variant": "photo-correction",
+      "url": "graduateOldLibrary/model-91251b7c345cd0dd30dbc48fe5cb24fe215b0317d59ea0899611ccd666a22417.gltf"
+    },
+    {
+      "id": "centralLibrary",
+      "name": "중앙도서관(신관)",
+      "variant": "photo-correction",
+      "url": "centralLibrary/model-48a21312151c78d526c74421066223c7aa81d360b602a7c81ab97b8781bda1b5.gltf"
+    },
+    {
+      "id": "sportsLife",
+      "name": "체육생활관",
+      "variant": "photo-correction",
+      "url": "sportsLife/model-92947218d861adabc9358df41a78eba3cedc9b36b4838834bab3fb3804f734b7.gltf"
+    },
+    {
+      "id": "tigerPlaza",
+      "name": "타이거플라자",
+      "variant": "photo-correction",
+      "url": "tigerPlaza/model-45326090f454838f392d457d460599c1c6e13b771dd72a69c6aea90ab540cb2b.gltf"
+    },
+    {
+      "id": "piVille99",
+      "name": "파이빌99",
+      "variant": "photo-correction",
+      "url": "piVille99/model-261bf49b7a82822b925b03bbee4852d88ecbde01b26b0abb92d7e739cb7aac78.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "한투스퀘어(학생회관)",
+      "variant": "photo-correction",
+      "url": "studentUnion/model-ce2943509fa21d0d6c89e0ef8fc2caa553817b692eae4f1bef75d65234775262.gltf"
+    },
+    {
+      "id": "koreanEducation",
+      "name": "한국어교육관",
+      "variant": "photo-correction",
+      "url": "koreanEducation/model-56724060840f57a55c9505baa521e352b208b537f84d784561a5415b1cb30f35.gltf"
+    },
+    {
+      "id": "haesongLawLibrary",
+      "name": "해송법학도서관",
+      "variant": "haesong-study",
+      "url": "haesongLawLibrary/model-15aa835cb6ed1e41ea84e4961fdd6fe525db153eb2a653d46decd0663d29f73f.gltf"
+    },
+    {
+      "id": "hyundaiBusiness",
+      "name": "현대자동차경영관",
+      "variant": "east-media-three",
+      "url": "hyundaiBusiness/model-71c5589c05631651eea9725d8ea31109f065481f10533369b40bf25d722ff25a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 372065
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Daejeong Girls Jeju R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 0.8500000238418579,
+      "id": "main",
+      "url": "main/model-1fb745c1acffecad0c99821035178fbe0fd7acdd5f6bc19b37cb74bd4386e5ad.gltf",
+      "triangles": 16108,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.8500000238418579,
+      "id": "heritage",
+      "url": "heritage/model-7ed3f810c57fef4056931d9c521c987049faa8d59313d2502fac5a554068384c.gltf",
+      "triangles": 10456,
+      "name": "역사관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.8500000238418579,
+      "id": "annex",
+      "url": "annex/model-5bd27351ea4f3da942bc7630d1e871852bd5eef651dd3e237d3ae20af7e3bc3e.gltf",
+      "triangles": 3526,
+      "name": "별관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "gym",
+      "url": "gym/model-2a4fcca625b3695289cb620616808a238e8344c7c5b1f34541eda64f4332caf2.gltf",
+      "triangles": 3816,
+      "name": "수선관(다목적강당/체육관)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "neulhaenuri",
+      "url": "neulhaenuri/model-3506eafcc74b27b3475a9245f795b41414f3a293032542ceec4a52c4ca76923a.gltf",
+      "triangles": 3564,
+      "name": "늘해누리",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "guard",
+      "url": "guard/model-d21f3dec9ebbd74d6ab09b796cde89709d5fc34e3edecf00e7d1a65e7ef8eb6c.gltf",
+      "triangles": 376,
+      "name": "학생지킴이실",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 37846
+  }
+}

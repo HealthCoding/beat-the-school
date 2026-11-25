@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Gyeongil Girls Changwon R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -17.211009979248047,
+      "id": "env-ground",
+      "url": "env-ground/model-74b7f21bef8c8ff93167985a35c8b1259fa1ec7666e2a0a10260793e24895023.gltf",
+      "triangles": 10978
+    },
+    {
+      "minimumY": -3,
+      "id": "env-site",
+      "url": "env-site/model-9711508216bbac26c83697655ab1ff14df23e8ff5d2317b6f6c6c49dc72413a1.gltf",
+      "triangles": 4344
+    },
+    {
+      "minimumY": -3.3455405235290527,
+      "id": "env-landscape",
+      "url": "env-landscape/model-aad9333c6c4e580980783d7fee68563ec3f4407e2737e9aa35ed4b83fbaf72a8.gltf",
+      "triangles": 25602
+    },
+    {
+      "minimumY": -17.136009216308594,
+      "id": "env-context",
+      "url": "env-context/model-18a164038e825191c424df2ef1e1580958694c7c01de1baf6894ebbe6054ef30.gltf",
+      "triangles": 9777
+    }
+  ]
+}

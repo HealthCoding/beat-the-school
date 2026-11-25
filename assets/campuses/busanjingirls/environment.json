@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Busanjin Girls Busan R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-5683d04c9fefe660557c8964553850425c43e10b9c95236bcac194fca5a83da7.gltf",
+      "triangles": 27020
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-00c43d5d6e32322d2960ed4fc52b0560fff5fe8fa5685ab2353d7a87473c68a2.gltf",
+      "triangles": 60622
+    },
+    {
+      "id": "context",
+      "url": "context/model-94344e7e12bb77a23e11b0540d9013a221c3769785348e01bce8cda975294c1e.gltf",
+      "triangles": 31032
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-a39a26d6dbc4e2de405af24e9e7d5d955b48e0b609daeffa54d9de04268e1946.gltf",
+      "triangles": 2427
+    }
+  ]
+}

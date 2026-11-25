@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "Sinseo Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-4449ec68ed5398e9204108d0c8c9e006ef3c7be43df4f28d99ddde2b962b0034.gltf",
+      "triangles": 4798,
+      "name": "본관 북측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-tower",
+      "url": "west-tower/model-63c4a3e56b02c6a02382bb5186f03ef6f190f7778473359464de05e9cd2d6282.gltf",
+      "triangles": 1976,
+      "name": "서측 탑동(유리 계단탑)",
+      "variant": "detailed"
+    },
+    {
+      "id": "drum",
+      "url": "drum/model-364a365b3c2b1c5974d6826871d24adafbc0546fb17d84786a8f88d21e938643.gltf",
+      "triangles": 5560,
+      "name": "원형동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-d161d9799f0ddf4e8a77dab7b5a74fea0a02479163df7b1b8b4ba4bdeaa51823.gltf",
+      "triangles": 6712,
+      "name": "동관",
+      "variant": "detailed"
+    },
+    {
+      "id": "south-hall",
+      "url": "south-hall/model-a88a0bd0248f526136f84e52c2e4fdc62acd535078bba70702860e18c4b4f002.gltf",
+      "triangles": 826,
+      "name": "남측 체육관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "south-terrace",
+      "url": "south-terrace/model-fc17a221da1fa9602ef23b81a5c52d9fb1b568917e3195e0c453df377744b9ec.gltf",
+      "triangles": 1108,
+      "name": "남서 급식·옥상마당동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 20980
+  }
+}

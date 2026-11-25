@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Sunju Gumi R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-661eff41ccafd3849d8439efabe16fa06ca6bb331f5bdb7217ed0efde8dee908.gltf",
+      "triangles": 12204
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-18f9f6ed6100c2995e5ad53306104ca7af7746a684320328d5f68e4ad1f90275.gltf",
+      "triangles": 40180
+    },
+    {
+      "id": "context",
+      "url": "context/model-28b5528e4799a751fa7e82f5dc52e8e10dd61e62be2a59bda571ebba7d6657c8.gltf",
+      "triangles": 58126
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-f3570f9531d3f31a58fc6543bb6cce871b626338d5cf02075d0f13157c901923.gltf",
+      "triangles": 2267
+    }
+  ]
+}

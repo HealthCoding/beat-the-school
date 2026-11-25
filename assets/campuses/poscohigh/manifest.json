@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "source": "Pohang Jecheol HS R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-df5a571cf2ecbea4bf8a3c4407dfb571b296c067aafc7418e31d883a47d49bf7.gltf",
+      "triangles": 6678,
+      "name": "본관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "special3",
+      "url": "special3/model-a31664292848c82d424bd3ec761f5a5af1e109ff6218d090a333eb4e1e08a3a3.gltf",
+      "triangles": 7836,
+      "name": "특별3동",
+      "variant": "detailed"
+    },
+    {
+      "id": "special2",
+      "url": "special2/model-9af06483b367e889574c4eb2242474b1c3e88c6a5dc4d2b6727d8c607df37113.gltf",
+      "triangles": 3166,
+      "name": "특별2동",
+      "variant": "detailed"
+    },
+    {
+      "id": "special1",
+      "url": "special1/model-58134c1b204d0ea73fe5bd9d471229cf166f73391752dd0355b22fb84ef5fa6a.gltf",
+      "triangles": 5862,
+      "name": "특별1동",
+      "variant": "detailed"
+    },
+    {
+      "id": "grade2",
+      "url": "grade2/model-2ecef82266a5b10a1d71545f891847d4e55c71f18db4f31855ad39ff55a84759.gltf",
+      "triangles": 7452,
+      "name": "2학년동",
+      "variant": "detailed"
+    },
+    {
+      "id": "grade1",
+      "url": "grade1/model-f7aada232bea9ba4e57353ed2d8aecae219b7ecb1df06724430b42ddce350495.gltf",
+      "triangles": 7148,
+      "name": "1학년동",
+      "variant": "detailed"
+    },
+    {
+      "id": "senior-girls",
+      "url": "senior-girls/model-76c2dc0bf74d5e0b0e191e7c6e1019a7c122404861badc77934396de1c73b898.gltf",
+      "triangles": 4378,
+      "name": "3학년 여학생동",
+      "variant": "detailed"
+    },
+    {
+      "id": "senior-boys",
+      "url": "senior-boys/model-9d7413946d055a1306fb07b1a05e705898d284817eab5154ce2a623ee3fcc1b4.gltf",
+      "triangles": 4630,
+      "name": "3학년 남학생동",
+      "variant": "detailed"
+    },
+    {
+      "id": "cheongam",
+      "url": "cheongam/model-c22e2c213331ebb938efe64245ee24771e1247dd2ddc265084bea0fcaf9b69b0.gltf",
+      "triangles": 10362,
+      "name": "청암학사",
+      "variant": "detailed"
+    },
+    {
+      "id": "yedo",
+      "url": "yedo/model-4280184bc55c37c9465ef12acd3c2838e6a5d6271891e5f1fde55f363ae8fef0.gltf",
+      "triangles": 3576,
+      "name": "예도관",
+      "variant": "detailed"
+    },
+    {
+      "id": "yeonhak",
+      "url": "yeonhak/model-52a5f650237412742dc6de17bd2b801016e609ce6698a9d9f2fd3f224271887a.gltf",
+      "triangles": 4420,
+      "name": "연학관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 65508
+  }
+}

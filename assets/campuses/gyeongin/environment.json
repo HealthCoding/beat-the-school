@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Gyeongin Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-8051e86c090d766cdb69eb060dfdcf19e2a24c539ac41be111c3119b88770bf6.gltf",
+      "triangles": 6092
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-e5c290cda89a4325cc218c681693752836e36edc4769d1a9802c3090812d4f04.gltf",
+      "triangles": 21990
+    },
+    {
+      "id": "context",
+      "url": "context/model-4d7eb5b09c085162f4d1c03c081f0ed626d7db820ead98cb5eb5b5cc8c5ba700.gltf",
+      "triangles": 26939
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-7e7ef20aa4b1bae598624717a1bc7c1bce31a78578558a74dc9e6165db56cb32.gltf",
+      "triangles": 4741
+    }
+  ]
+}

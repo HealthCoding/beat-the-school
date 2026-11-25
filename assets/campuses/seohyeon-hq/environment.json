@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Exact Seohyeon HQ preview environment",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-c9cb234874eb1efd6a57dfe3af18e360fc57bb42f321cd54a7a7579dc9dda545.gltf",
+      "triangles": 8232,
+      "instanceTriangles": 8232
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-eba07ae23f4a0d1d7f68b242e3808229468ff5c62bca3aca12046b125c12f53a.gltf",
+      "triangles": 44072,
+      "instanceTriangles": 44072
+    },
+    {
+      "id": "context",
+      "url": "context/model-1e908b6be30b3b5860f627333e2fa9cdc1537a2c42683afc8ff2842d5c40092c.gltf",
+      "triangles": 31935,
+      "instanceTriangles": 31935
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-1a85674145e783d0ba4593e6ad309a5701763af3b0286f53d6c7d746ec8ad593.gltf",
+      "triangles": 1570,
+      "instanceTriangles": 8194
+    }
+  ]
+}

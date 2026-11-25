@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "Yongwon Changwon R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -7.123578071594238,
+      "id": "env-ground",
+      "url": "env-ground/model-4ab53bb706a339845c4b701fe361e8331f11b0271986ddee6a14970c8b628f2e.gltf",
+      "triangles": 26547
+    },
+    {
+      "minimumY": -1.5,
+      "id": "env-site",
+      "url": "env-site/model-49b1a19fe3eb5d5f61807dd812529493dda7ec8feb809d2d206cff872c83f6ce.gltf",
+      "triangles": 5268
+    },
+    {
+      "minimumY": -1.5,
+      "id": "env-landscape",
+      "url": "env-landscape/model-1ad2cad985f78dda038146060d591eb899103aac7036c164c34526a090e4f4df.gltf",
+      "triangles": 4616
+    },
+    {
+      "minimumY": -0.26900702714920044,
+      "id": "env-context",
+      "url": "env-context/model-f139f193a206370a004a365efdcd6c6488ea719e1f6319396a5b5f3f71b8cfae.gltf",
+      "triangles": 306
+    },
+    {
+      "minimumY": 0,
+      "id": "env-planting",
+      "url": "env-planting/model-4d8f4f9ea6e16ade3c7017ba9dc0028f93a00567014baddd80f93a482580a950.gltf",
+      "triangles": 418
+    }
+  ]
+}

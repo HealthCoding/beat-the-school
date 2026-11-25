@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Donggwang Goseong R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -3.5,
+      "id": "env-ground",
+      "url": "env-ground/model-3d1b409019215737f317f3222601314bcf1cb6d866ad79aafa811ae74cb59700.gltf",
+      "triangles": 10391
+    },
+    {
+      "minimumY": -0.699999988079071,
+      "id": "env-site",
+      "url": "env-site/model-996da2dceac0c4f79de471731320ac1133ef07cf546ddb8de11c7214601c3918.gltf",
+      "triangles": 11242
+    },
+    {
+      "minimumY": -0.6986044049263,
+      "id": "env-landscape",
+      "url": "env-landscape/model-bac18d0d3c84bfea36dce2cd1613a74a545296dcbea69ab3ed0f318f931efee9.gltf",
+      "triangles": 32002
+    },
+    {
+      "minimumY": -3.424999952316284,
+      "id": "env-context",
+      "url": "env-context/model-21733007d622084e973f91f0444da9f21ee60cdf16499e7c017745a69a5de7fd.gltf",
+      "triangles": 8613
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "auto-school seoulartshs (5 destructible buildings, generated from OSM way/244952013 by scripts/campuses/seoulartshs/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-1f31dacd331397c4403b4c5d4b2d1b88e9806a4063aebe0428c0dcefea7e6fef.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "도암홀",
+      "variant": "auto",
+      "url": "wing2/model-4407ef6bac563d826b67e90078599cca1ac6f865a9a0bd371e435b8d36840e99.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "미술관",
+      "variant": "auto",
+      "url": "wing3/model-a0bbdcf251f4ab76d54391120425c7abb2348e6283a0f6c7310775efc4ca90f1.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "무용관",
+      "variant": "auto",
+      "url": "wing4/model-e6c67c5e62dca82d06acf230584f8a3b516542ba1ffd79b1afb43dd3f1c46c56.gltf"
+    },
+    {
+      "id": "shed5",
+      "name": "경비실",
+      "variant": "auto",
+      "url": "shed5/model-fa120881bd641cc473c37446800d64b3c368c93a0299dbcf92e73a138b87bfa5.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 18948
+  }
+}

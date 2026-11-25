@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "pilot/hanyang-seoul/active-models.json (destructible:false, protection shield: 한양대병원), packed losslessly",
+  "models": [
+    {
+      "id": "hospitalWest",
+      "name": "한양대병원 서관",
+      "variant": "generic",
+      "url": "hospitalWest/model-efb2728d9452b88fec81256e44019d8b38533f0cff3b0c64aa852ef0df72e3f7.gltf",
+      "triangles": 4886
+    },
+    {
+      "id": "hospitalMain",
+      "name": "한양대병원 본관(포디움+탑)",
+      "variant": "generic",
+      "url": "hospitalMain/model-20bd983af7e8b89d14eefe8ce196dc7ad80c23cf13527102aea967f3f09ed836.gltf",
+      "triangles": 6164
+    },
+    {
+      "id": "hospitalCentre",
+      "name": "한양대병원 중앙동",
+      "variant": "generic",
+      "url": "hospitalCentre/model-d3e257bae4bb2775aa26821127a7faacf37f958d99bb70b1911b88a3ca4e2157.gltf",
+      "triangles": 3788
+    },
+    {
+      "id": "hospitalSouth",
+      "name": "한양대병원 남쪽동",
+      "variant": "generic",
+      "url": "hospitalSouth/model-5ec1b7acd92f69af6d20d2405ad5afa18654f5d41b5bb42cefc1f728e5825c85.gltf",
+      "triangles": 2518
+    },
+    {
+      "id": "hospitalNew",
+      "name": "한양대병원 신관",
+      "variant": "generic",
+      "url": "hospitalNew/model-a8ecc69b15df68d1f30e4175641f2c68b2a4b934e80b6f9da1355a2f63f8c153.gltf",
+      "triangles": 1626
+    },
+    {
+      "id": "hospitalEast",
+      "name": "한양대병원 동관",
+      "variant": "generic",
+      "url": "hospitalEast/model-f348be86074cc8ab501cd00d427febb6d778fa6843b64679eb7365b9a382c22b.gltf",
+      "triangles": 4428
+    }
+  ],
+  "totals": {
+    "triangles": 23410
+  }
+}

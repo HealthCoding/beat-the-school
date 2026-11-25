@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by suwonsamil-local-builder (OSM © OpenStreetMap contributors, ODbL; DEM Copernicus GLO-30 DSM)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-820a00cf02855a547e10213be8ab58772259e377bfdfce288843cb7b9a3513c8.gltf",
+      "triangles": 7004
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-eb92afa3c5cf4264b90ca92d611b5a727f829e8b371547cf7f4978bc90d5290d.gltf",
+      "triangles": 2442
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-18c2695e897e4c8bbd53ef59e77cc2a4de614900698ca3f1950babeded4c216d.gltf",
+      "triangles": 11268
+    },
+    {
+      "id": "context",
+      "url": "context/model-a04aadabba07c2ee0294f123073c8c222ffc833888532e6003e4a5f00806b883.gltf",
+      "triangles": 221
+    }
+  ]
+}

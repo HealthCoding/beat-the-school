@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Yonghwa Girls Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-0ed0b99e34028621cd2b35e81c9cc648267162ebf8ab65e73e23ebca8a7928cc.gltf",
+      "triangles": 11182,
+      "name": "본관 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-east",
+      "url": "main-east/model-266cc24dfeb923f58ea6e5d6b659bdafae8f2364869093e9b1a3e60ebf50244e.gltf",
+      "triangles": 8126,
+      "name": "본관 동관",
+      "variant": "detailed"
+    },
+    {
+      "id": "jiphyeon",
+      "url": "jiphyeon/model-3c17b3829bad5f385d318e84362124da9f5d5d44c62ceec519d85f6894bc7dd4.gltf",
+      "triangles": 5060,
+      "name": "집현관 도서관·사임당홀",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex-north",
+      "url": "annex-north/model-8704aece0d913851748e12b6bd8659069a2a63854195ebe8b1137302be93c700.gltf",
+      "triangles": 1814,
+      "name": "북측 특별·부속동",
+      "variant": "detailed"
+    },
+    {
+      "id": "bonggok",
+      "url": "bonggok/model-abe727a1fa545188c3dd5f95f82dba534c6efbb06f986ebd275406d794792eca.gltf",
+      "triangles": 3132,
+      "name": "봉곡관 체육관·강당",
+      "variant": "detailed"
+    },
+    {
+      "id": "guyong",
+      "url": "guyong/model-cfe3a4216e55c693a530a43509003ab4b12a1c9e956a52ed91f352993a252b4d.gltf",
+      "triangles": 7488,
+      "name": "구용관 교사동·로툰다홀",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-41bf12d1c0b7434a5c1c3999ad41df6b3566a01f3a573579cc869ca14e2eed79.gltf",
+      "triangles": 542,
+      "name": "정문 경비실",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 37344
+  }
+}

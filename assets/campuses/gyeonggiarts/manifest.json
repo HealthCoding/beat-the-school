@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Gyeonggi Arts local photo-based candidates",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "detailed",
+      "url": "main/model-be6c54c8f82610ba3de8c43e5a57a50e36f6a77d258f0cd8e565aa53279312df.gltf",
+      "triangles": 44356
+    },
+    {
+      "id": "music-hall",
+      "name": "음악관",
+      "variant": "detailed",
+      "url": "music-hall/model-4ca117790bd9dfb2bc9658ce468050afed9b57451ca79c73b2dc72f7bd648265.gltf",
+      "triangles": 22650
+    },
+    {
+      "id": "arthall",
+      "name": "경기아트홀",
+      "variant": "detailed",
+      "url": "arthall/model-058ed84f3848aab84de7acb58ea077b9e7254817cf98028561b1a527ee91575f.gltf",
+      "triangles": 13322
+    },
+    {
+      "id": "white-hall",
+      "name": "화이트홀",
+      "variant": "detailed",
+      "url": "white-hall/model-7cd89b82b2f3d69e1ce0b0ce1ea25b5bd8b0635469c9d4c14c72b709502f3198.gltf",
+      "triangles": 16452
+    },
+    {
+      "id": "dream-hall",
+      "name": "드림홀",
+      "variant": "detailed",
+      "url": "dream-hall/model-6523e283cf470bb45cb5b544b5b99654387a97782c710baa60e90cc1f89c8918.gltf",
+      "triangles": 7274
+    }
+  ],
+  "totals": {
+    "triangles": 104054
+  }
+}

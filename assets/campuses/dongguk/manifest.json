@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "source": "dongguk-seoul active-models.json (28 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "mainHall",
+      "name": "본관",
+      "variant": "detailed",
+      "url": "mainHall/model-8595d81a409cc9e176c7defac3fa4a90e035f168bd18b997308516aeb5522d07.gltf"
+    },
+    {
+      "id": "myungjin",
+      "name": "명진관",
+      "variant": "detailed",
+      "url": "myungjin/model-280d5f39d466c96719bdda735dfb24abbc57476af3179f8557b6ed2a2adc07a6.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "generic-v2",
+      "url": "library/model-82ced1b94264383f3240370acc664a5f6a600c75b44798a9291d74bebf3ce060.gltf"
+    },
+    {
+      "id": "manhae",
+      "name": "만해관·법학관",
+      "variant": "generic-v2",
+      "url": "manhae/model-a59f023ac32fccfb1b243b09881e504f2d33aeb54b177d49593745ba84d65ba2.gltf"
+    },
+    {
+      "id": "hyehwa",
+      "name": "혜화관",
+      "variant": "generic-v2",
+      "url": "hyehwa/model-68832e277adbf424a68c06053846a50c38a2b4ca52e118b2c46073579ae9bae1.gltf"
+    },
+    {
+      "id": "hyehwaAnnex",
+      "name": "혜화별관",
+      "variant": "generic-v2",
+      "url": "hyehwaAnnex/model-14c121399b91bca6342df55efce3a8bb20353f560cfa95206365678ec6d9b111.gltf"
+    },
+    {
+      "id": "business",
+      "name": "사회과학관·경영관",
+      "variant": "generic-v2",
+      "url": "business/model-0a7d471a3cf030bbd116673248a74e344512de630d948f55236fdd5b36ca6d13.gltf"
+    },
+    {
+      "id": "culture",
+      "name": "문화관",
+      "variant": "generic-v2",
+      "url": "culture/model-cf0ec56c1ecda098d0c8f6a66247043d52f9050af910077b9e3c5179eb9675a6.gltf"
+    },
+    {
+      "id": "academic",
+      "name": "학술관",
+      "variant": "generic-v2",
+      "url": "academic/model-9422caf60a6e870e064a292d85516684b8e0ed947bcbc3f31f11d1f649f73533.gltf"
+    },
+    {
+      "id": "sangnok",
+      "name": "상록원",
+      "variant": "generic-v2",
+      "url": "sangnok/model-6d6d56eedc8de4c0f94d161ba87bf2ed67e78ed95018d9b24cf5e192634c6811.gltf"
+    },
+    {
+      "id": "science",
+      "name": "과학관",
+      "variant": "generic-v2",
+      "url": "science/model-3e2a233724757c9acc8925c3fd1605de93ae732e41317bda5f3564b4c3585fae.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "gym/model-c93fd5a393b92ecd4188e25e13e2105b1441d6c065c45b7f0155476163b52da4.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-dc2fba0c8e52b4fae89564f70dd271eed3c55cf07db0fcec3e4fb09851d6acae.gltf"
+    },
+    {
+      "id": "dahyang",
+      "name": "다향관",
+      "variant": "generic-v2",
+      "url": "dahyang/model-1727ec42c24041b891e0cbd65295cabbfa108b10d84b6a619a17f3a8ad3c63f5.gltf"
+    },
+    {
+      "id": "wonheung",
+      "name": "원흥관",
+      "variant": "generic-v2",
+      "url": "wonheung/model-6cebaff092a31cde2f30672df6e9be730c3fcd64474906db88918af7300456c8.gltf"
+    },
+    {
+      "id": "wonheungAnnex",
+      "name": "원흥별관",
+      "variant": "generic-v2",
+      "url": "wonheungAnnex/model-63a4cad352da11a326533403ac2e03d620a0dc145a06675e530fce6cd19bd6fa.gltf"
+    },
+    {
+      "id": "newEng",
+      "name": "신공학관",
+      "variant": "generic-v2",
+      "url": "newEng/model-89dc0890d5693383ec20624b87ca844ce948b80e7b7345e437ab84bca1896a9e.gltf"
+    },
+    {
+      "id": "namsanDorm",
+      "name": "남산학사",
+      "variant": "generic-v2",
+      "url": "namsanDorm/model-ff48bacf71fb21910282a763c1fd140823914ea6f5e7e7504530917d73dcac9c.gltf"
+    },
+    {
+      "id": "haklim",
+      "name": "학림관",
+      "variant": "generic-v2",
+      "url": "haklim/model-fa69491fc58e8ab6101f390f6ee7f74197e54065e3ed96a9417bfc9fc5d329af.gltf"
+    },
+    {
+      "id": "infoP",
+      "name": "정보문화관 P동",
+      "variant": "generic-v2",
+      "url": "infoP/model-e69f17f8d398737cd984a975575301bd7ca538ed31aed5957a7929ff8e8d5c98.gltf"
+    },
+    {
+      "id": "infoQ",
+      "name": "정보문화관 Q동",
+      "variant": "generic-v2",
+      "url": "infoQ/model-838df01a1b32647c5952cee9f7b974bacff706d394ce8d2c7bc3e489bd34021e.gltf"
+    },
+    {
+      "id": "gyesan",
+      "name": "계산관",
+      "variant": "generic-v2",
+      "url": "gyesan/model-b6bed1ab625d81d8d10bb60f6e857792d79b46d90d2e470aa693832576027ffc.gltf"
+    },
+    {
+      "id": "gyesanA",
+      "name": "계산관A",
+      "variant": "generic-v2",
+      "url": "gyesanA/model-ab6031bb9582e22812d0eb0bb7b702cda067b4524791045c8ad503d24ae23fe9.gltf"
+    },
+    {
+      "id": "banya",
+      "name": "반야관",
+      "variant": "generic-v2",
+      "url": "banya/model-3938dcadda1b9ec76e746867fd9b168b5982c0def6582e60fc59510c75252a28.gltf"
+    },
+    {
+      "id": "cafeSerio1",
+      "name": "만해동산 매점(카페 쎄리오)",
+      "variant": "generic-v2",
+      "url": "cafeSerio1/model-67d905933e23654d52e3c2e8f0c7744be2b6b21e534457f209e3f710f3dbe6a4.gltf"
+    },
+    {
+      "id": "cafeSerio2",
+      "name": "카페 쎄리오(2)",
+      "variant": "generic-v2",
+      "url": "cafeSerio2/model-2b8155be521127921ed46efa697fbe778f6056e35eb7c9b2434ea7a4e1e5823d.gltf"
+    },
+    {
+      "id": "cafeBonia",
+      "name": "카페 보니애",
+      "variant": "generic-v2",
+      "url": "cafeBonia/model-c24ccc91afe2b03bc15576c72a927a65d1b22a85b4de2fddc2ad7cc1520f4dea.gltf"
+    },
+    {
+      "id": "mediaCenter",
+      "name": "미디어센터 부스",
+      "variant": "generic-v2",
+      "url": "mediaCenter/model-11411caf61869426dbac1cf13dc8e227acd3519531014b2149a921f9368a4485.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 103460
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "source": "auto-school jangyuhigh (6 destructible buildings, generated from OSM way/570612327 by scripts/campuses/jangyuhigh/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "남관",
+      "variant": "auto",
+      "url": "wing1/model-04398614bdcb19e7a08007ea689e6c2e05a06330b4bb8ba7e5a34f23eaa72da2.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "북관",
+      "variant": "auto",
+      "url": "wing2/model-7c8575e609d22ce68dbc92aced677abf379e8d4986967cf4c73dba26bcaa3ff4.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "강당",
+      "variant": "auto",
+      "url": "hall3/model-64b0320bfd9e86244e432daaac62ec04f1cb8429170de33256b5a3281922b361.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing4/model-8f95c560c052d546aa9afe51323b08253454816748fa45f987da8755c2ddcf64.gltf"
+    },
+    {
+      "id": "wing5",
+      "name": "서관",
+      "variant": "auto",
+      "url": "wing5/model-7927375efb14e23b388898980fab9e891f797a8fed017483db2d0a1b447b4b09.gltf"
+    },
+    {
+      "id": "hall6",
+      "name": "씨름장",
+      "variant": "auto",
+      "url": "hall6/model-be3df18cf73adeecb091385ca12772b9c3fafd4413b41cc720f38caa86ad3b4a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 12644
+  }
+}

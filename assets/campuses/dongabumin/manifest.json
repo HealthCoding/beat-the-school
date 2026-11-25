@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "b01",
+      "name": "석당박물관",
+      "url": "b01/model-267200480c90f24bbb4843981f609af26d762b6d1cdb35426a2afaaf237d2c23.gltf"
+    },
+    {
+      "id": "art",
+      "name": "석당미술관",
+      "url": "art/model-dc5ed97d5b18ab277b12b152510181c3c2211ed8cd9370fc54c54fbb2981a6a7.gltf"
+    },
+    {
+      "id": "b02",
+      "name": "법학전문대학원",
+      "url": "b02/model-8782c63361c3820ae290b4aaa7eb267c1631be110cd2554970ffff08eb3a8919.gltf"
+    },
+    {
+      "id": "b03",
+      "name": "글로벌인재관",
+      "url": "b03/model-20f7ffa5f6d0c95c90bff93ae0993a86019b289abbc883b581bbf776c41ef5fb.gltf"
+    },
+    {
+      "id": "b04n",
+      "name": "종합강의동 북탑",
+      "url": "b04n/model-f5289cf81f6adf5df420f4f295c6e9b3a1c81c44ae98e6c7d091162b4489319e.gltf"
+    },
+    {
+      "id": "b04s",
+      "name": "종합강의동 남탑",
+      "url": "b04s/model-ffee9c83b71fbce74a211e151fc37226d27c78165d82a78a474bb25f75a393e6.gltf"
+    },
+    {
+      "id": "b04base",
+      "name": "종합강의동 기단",
+      "url": "b04base/model-d3b84322362b2635d44479b01adf7aefd199a4e8d5dd74a91b86e174ede6fc31.gltf"
+    },
+    {
+      "id": "b05",
+      "name": "국제관·다우홀",
+      "url": "b05/model-9a026c95a5e034fc9d3ca8ef28bc78391f0b1e930f92312be1e18ef82b9850bb.gltf"
+    },
+    {
+      "id": "dorm",
+      "name": "한림생활관 부민관",
+      "url": "dorm/model-a8c67e83fb46667bbb0d41d21f3a6a5ba2781534a2b176fb5b7ed2e8155982f9.gltf"
+    },
+    {
+      "id": "b31",
+      "name": "수위실",
+      "url": "b31/model-d19138468c203d6177a18ae8a15c87bcf7a42ef8bfb2d42f04b27c0aa30bb4e6.gltf"
+    },
+    {
+      "id": "b32",
+      "name": "동아한국어학당",
+      "url": "b32/model-145015fc8b263c3502b9fd9292895340a2f4d8ec932f4f2ff6729c25d3d91fbb.gltf"
+    }
+  ]
+}

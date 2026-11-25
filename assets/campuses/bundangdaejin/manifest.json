@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "auto-school bundangdaejin (3 destructible buildings, generated from OSM way/469085448 by scripts/auto-school/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-49f98e567a487d0ee1e8b8ed8a83ae67042636e30ee162e5c2ebd630857fae9f.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-56a9c6a579a9b74c9a0b686c58090507e769323471ebae5f9a49c1e782ac424e.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "강당",
+      "variant": "auto",
+      "url": "hall3/model-34d265c5d63e1255ffe60a22ce11c0dcdf63d75dc3848b878ba4ad4442edbf23.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 5894
+  }
+}

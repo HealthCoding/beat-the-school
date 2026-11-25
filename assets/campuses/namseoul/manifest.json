@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "source": "Namseoul University: exact positions and oriented faces; quantized render normals and UVs",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-5a39cd6f5c8e63c41c84644a9aedf5e0b57bb844d6e86e56146672d87a237a2c.gltf",
+      "triangles": 12048,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "eng2",
+      "url": "eng2/model-73207e64bdd139101a0a1ab358c160566b7478bb8b445de233464ac6b685a53e.gltf",
+      "triangles": 12738,
+      "name": "공학2관",
+      "variant": "detailed"
+    },
+    {
+      "id": "eng1",
+      "url": "eng1/model-49c2f15c5085a1ec41fae4ffa7ea344ad1c6798c2a5bff007878c37df911fa51.gltf",
+      "triangles": 13368,
+      "name": "공학1관",
+      "variant": "detailed"
+    },
+    {
+      "id": "library",
+      "url": "library/model-f999ebfa566e78d6039bad5099f8ec10f76041e425288f16d98f3ea024cc4be4.gltf",
+      "triangles": 16446,
+      "name": "성암기념중앙도서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "knowledge",
+      "url": "knowledge/model-87939247e641e986902202f9a9d4d22b0dfa114b5038041e5ab7093d6d02c1dd.gltf",
+      "triangles": 21608,
+      "name": "지식정보관",
+      "variant": "detailed"
+    },
+    {
+      "id": "student",
+      "url": "student/model-6e9f0960b2c33de10055627bdd83de4cced54c4eaf02688c815d8902782c3e45.gltf",
+      "triangles": 11966,
+      "name": "학생복지회관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-63a87ca9f59fa734842a79833d2212758574ac94d8115e8801c20836b2507e95.gltf",
+      "triangles": 9642,
+      "name": "성암문화체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "humanities",
+      "url": "humanities/model-5b028863d5187a8e5dbd1e23e4e5b07e75fa20a4fa5b89353467b27e3cb8db3f.gltf",
+      "triangles": 17370,
+      "name": "인문사회학관",
+      "variant": "detailed"
+    },
+    {
+      "id": "health",
+      "url": "health/model-d4dec412ed76ce985c155af8730a2d1e453ac4f876d50c25855fe77c268f6e26.gltf",
+      "triangles": 9680,
+      "name": "보건의료학관",
+      "variant": "detailed"
+    },
+    {
+      "id": "formative",
+      "url": "formative/model-7ac1a62167c6729acdb118d0a9b971214f0322031e53803f2cc7c2dc74d9d033.gltf",
+      "triangles": 9600,
+      "name": "조형학관",
+      "variant": "detailed"
+    },
+    {
+      "id": "business",
+      "url": "business/model-e01794f4eb9b5b46ae6599707758ee00f3b761f6f369ed3ca62aa099bfe678fb.gltf",
+      "triangles": 9992,
+      "name": "상경학관",
+      "variant": "detailed"
+    },
+    {
+      "id": "dev21",
+      "url": "dev21/model-4996094dd5fac67e42ba5770d2659a17689b99e5f63f1f90a4ca33ce445f21f5.gltf",
+      "triangles": 10830,
+      "name": "21세기개발관",
+      "variant": "detailed"
+    },
+    {
+      "id": "design",
+      "url": "design/model-cac422c225f82e403a0bdc5549a71c7daed1a5bf420295f26fa92aa8895af984.gltf",
+      "triangles": 18098,
+      "name": "디자인정보관",
+      "variant": "detailed"
+    },
+    {
+      "id": "elim1",
+      "url": "elim1/model-532a59ab2d35fdcdb4ae1d1d3f797381eadb35f99a771d390fac7eda905a3319.gltf",
+      "triangles": 9182,
+      "name": "제1엘림생활관",
+      "variant": "detailed"
+    },
+    {
+      "id": "elim2",
+      "url": "elim2/model-5b725b5f79eff2306f61a4fda20bfddd338ada0aac6325d58b2d3aa20576ccaf.gltf",
+      "triangles": 19872,
+      "name": "제2엘림생활관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hwajeong",
+      "url": "hwajeong/model-0ed115137f4871e0b59b4e8ab96e1ad26e9e6228ffd71d0fbf1ae1d198efce46.gltf",
+      "triangles": 10814,
+      "name": "화정관",
+      "variant": "detailed"
+    },
+    {
+      "id": "child",
+      "url": "child/model-4f875588fc00784b6e85f512b8670c6ffb2abdef02d9467296b80f5faa472ad9.gltf",
+      "triangles": 9452,
+      "name": "복지학관",
+      "variant": "detailed"
+    },
+    {
+      "id": "elim-annex",
+      "url": "elim-annex/model-efbef0836e76070621f853d79672e03af23846631b3ec0fd8a51525c7fcbd1ac.gltf",
+      "triangles": 3102,
+      "name": "엘림생활관 별관",
+      "variant": "detailed"
+    },
+    {
+      "id": "glass",
+      "url": "glass/model-e690b379cba0282471b0c6a91740a622a7e57c57e2e723ab5219fa190e38f187.gltf",
+      "triangles": 5032,
+      "name": "유리조형 실습실",
+      "variant": "detailed"
+    },
+    {
+      "id": "kiosk",
+      "url": "kiosk/model-3eabe3c05abf478d1456e34da261820d93c3227ba6f46025951ae3fc1be201ad.gltf",
+      "triangles": 1138,
+      "name": "북쪽 관리동",
+      "variant": "detailed"
+    },
+    {
+      "id": "student-annex",
+      "url": "student-annex/model-5ae9b0c8821ef306f7a49387c980f6893935b40356aa5c32bd3904cacdaff636.gltf",
+      "triangles": 2894,
+      "name": "학생복지회관 별관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 234872
+  }
+}

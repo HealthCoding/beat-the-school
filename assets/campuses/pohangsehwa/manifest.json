@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Pohang Sehwa High School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-91be15876bb2905a42c9d47bf6ad63926780163beb99bd2cbda0ab12d257ac30.gltf",
+      "triangles": 4792,
+      "name": "본관 서편 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "main",
+      "url": "main/model-23ffd0a9378c3571aa3ddac92ea56e629f5887756865386e946a100cae92ac60.gltf",
+      "triangles": 3612,
+      "name": "본관 중앙 현관·교무동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-93ad13b8b4fc2291e8150356d502438ad32671c1f4821fa17882f0126875fcaf.gltf",
+      "triangles": 4732,
+      "name": "본관 동편 특별교실·도서관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "stand-podium",
+      "url": "stand-podium/model-8167f4aa8f88a55348f1b6caba991c3db3f3b11266bfa9c41afbac48601842e1.gltf",
+      "triangles": 11840,
+      "name": "구령대 및 스탠드 차양동",
+      "variant": "detailed"
+    },
+    {
+      "id": "achigwan",
+      "url": "achigwan/model-63d2641a309205bd085c895a6170fa561aa9d2da464cec0326850fdce195be84.gltf",
+      "triangles": 6596,
+      "name": "아치관(다목적강당·급식소)",
+      "variant": "detailed"
+    },
+    {
+      "id": "achigwan-tower",
+      "url": "achigwan-tower/model-d6d33453dfbe1f962a2579827238940254925b364d4ca90c779b62f72984cd13.gltf",
+      "triangles": 994,
+      "name": "아치관 주현관 계단탑동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gate-annex",
+      "url": "gate-annex/model-dfd8fc19405b2ea0181c1facb6bd6978b55b96b59b08677eec402fe094fa8862.gltf",
+      "triangles": 618,
+      "name": "정문 수위실·부속동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 33184
+  }
+}

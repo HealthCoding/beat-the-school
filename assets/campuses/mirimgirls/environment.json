@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Mirim Girls Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-21fa9ef16bc220de3b20fc4b12dd7247d6701aed41514f106c68eab75c261a50.gltf",
+      "triangles": 30707
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-f57001aa1d46fd7e4dfb90a0227ae262dffe9b0f12e5590402a3c5b37ef1581b.gltf",
+      "triangles": 26220
+    },
+    {
+      "id": "context",
+      "url": "context/model-d3c9f0140f4d2ee7e06998b24e3ecbc2c749999b487201bc91ad5c54a0e42e9d.gltf",
+      "triangles": 50079
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-82468ad9c053b93316252e8f9d9f17f1655e026f98dbaf62d4ff69bd9a674203.gltf",
+      "triangles": 2267
+    }
+  ]
+}

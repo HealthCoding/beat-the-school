@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "source": "kyunghee-global active-models.json (41 destructible buildings), positions exact; normals and building UVs quantized with recorded error bounds",
+  "models": [
+    {
+      "id": "aeji",
+      "name": "애지원",
+      "variant": "generic-v2",
+      "url": "aeji/model-f9be507e9a9dc6e179fbcb62738eb42c5086c8f079314ca325fffd2d044c5337.gltf"
+    },
+    {
+      "id": "aux170482643",
+      "name": "부속동 170482643",
+      "variant": "generic-v2",
+      "url": "aux170482643/model-f917283229bb580c9d92ff17c4e5a1fb1c9bc2bca17d15303716c1d61e2400e8.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "generic-v2",
+      "url": "engineering/model-d59bd1e4fdd34092cfa56fed439eefb857701f73b0d2724cdf64689819c533ec.gltf"
+    },
+    {
+      "id": "physical",
+      "name": "체육대학관",
+      "variant": "detailed",
+      "url": "physical/model-8b1edd5c87215bef74cf3f597c6aa47ae6296076e1558eaf974363a273fe4d16.gltf"
+    },
+    {
+      "id": "englab",
+      "name": "공학실험동",
+      "variant": "generic-v2",
+      "url": "englab/model-48f920471a5945948ab0b017006dc32be4a54f8d517c7af9c489306f90b25ecf.gltf"
+    },
+    {
+      "id": "reactor",
+      "name": "원자로센터",
+      "variant": "detailed",
+      "url": "reactor/model-8353f84e34dadf271c60d673b78e2e96b7d408dc1c81652099956561a73a86b4.gltf"
+    },
+    {
+      "id": "gate",
+      "name": "정문(새천년기념탑:네오르네상스문)",
+      "variant": "detailed",
+      "url": "gate/model-88b4d88eb463659ce54f663b861b10cccff65b608ed1409fcf8a56971e4eeb04.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관(대학본부)",
+      "variant": "detailed",
+      "url": "library/model-52a577ef11b0167f2140e39787e6722078012fd2f2e4713e77ce03cffd4047ea.gltf"
+    },
+    {
+      "id": "student",
+      "name": "학생회관",
+      "variant": "detailed",
+      "url": "student/model-0aa31fb04fb0f4b9453ec3ebf394458868eb837030c1ab8163470d1c429133e3.gltf"
+    },
+    {
+      "id": "arts",
+      "name": "예술·디자인대학관",
+      "variant": "detailed",
+      "url": "arts/model-7a29000ca98b9dad3081beaf854132637fc7972834997f8e955e98db414d72f6.gltf"
+    },
+    {
+      "id": "multimedia",
+      "name": "멀티미디어교육관",
+      "variant": "detailed",
+      "url": "multimedia/model-5343d9a5f524ee7ded2170f7c29bcf5c5670b468c11dc8f82d19328f26b67f4d.gltf"
+    },
+    {
+      "id": "global",
+      "name": "글로벌관",
+      "variant": "detailed",
+      "url": "global/model-2210d4a2fbe3620b7714fee29cb5ae78c042affeca283c14ad969356b40c289a.gltf"
+    },
+    {
+      "id": "management",
+      "name": "국제·경영대학관",
+      "variant": "generic-v2",
+      "url": "management/model-e2a6b85f388d7bdc4347e9a143bd7909e3c26ca52b8f34ac385fb48b98fda372.gltf"
+    },
+    {
+      "id": "electronics",
+      "name": "전자정보/응용과학대학관",
+      "variant": "generic-v2",
+      "url": "electronics/model-6bbc14ed07e92084651db11b328694c28172f630373004a4cdf869a803d9d89c.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제학관",
+      "variant": "generic-v2",
+      "url": "international/model-231795652d7c8225f08004a11ae564e2e750e75b589e99d07fd1d7522d5fbe50.gltf"
+    },
+    {
+      "id": "life",
+      "name": "생명과학대학관",
+      "variant": "detailed",
+      "url": "life/model-79a10f8df864bbd77a868660b386ffc5d45f8c0b55231f3349d38b20a2275d0b.gltf"
+    },
+    {
+      "id": "greenhouse",
+      "name": "원예생명공학 온실",
+      "variant": "generic-v2",
+      "url": "greenhouse/model-fd6d2afd7a0b4aa94d211a11d68763b1ff109309bd4fcc088e99f6efc2dd13e4.gltf"
+    },
+    {
+      "id": "ceramics",
+      "name": "도예관",
+      "variant": "detailed",
+      "url": "ceramics/model-a847fe14b523bf1ec7699e579afd18e8f0d025d30ec2da7a323ced744827ecba.gltf"
+    },
+    {
+      "id": "aux474521124",
+      "name": "부속동 474521124",
+      "variant": "generic-v2",
+      "url": "aux474521124/model-fcf299b5174de6e79323d92839d2685bbfb4fc4fa2c5e39d9e19e4d275808155.gltf"
+    },
+    {
+      "id": "observatory",
+      "name": "천문대",
+      "variant": "custom",
+      "url": "observatory/model-3bbc238b11178ac3b2c64df11b4960884ee76c95423b88d686431d5303c85c99.gltf"
+    },
+    {
+      "id": "theatre",
+      "name": "평화노천극장",
+      "variant": "custom",
+      "url": "theatre/model-908625e55d99f52ab3fe2019caf6f93e0c0f7a66ac3ecc64185570527c130163.gltf"
+    },
+    {
+      "id": "processing",
+      "name": "한방재료가공(경희보감)",
+      "variant": "detailed",
+      "url": "processing/model-f84d0216bcdc7ebe1394299b5d2d87fd516d782904a942f374d6be128eaf0221.gltf"
+    },
+    {
+      "id": "seonseung",
+      "name": "선승관",
+      "variant": "detailed",
+      "url": "seonseung/model-de8d760e96142a1ea8c558677bf69ae7dc6286e8e37ce723c16a85d3eca4b580.gltf"
+    },
+    {
+      "id": "languages",
+      "name": "외국어대학관",
+      "variant": "generic-v2",
+      "url": "languages/model-2e696afbfd30f37bfab22062f51354a39555c1f60038d19912c679a4211d2a70.gltf"
+    },
+    {
+      "id": "aux764320683",
+      "name": "Emart 24",
+      "variant": "generic-v2",
+      "url": "aux764320683/model-405117f9097878df1d872928a32dedd36912d1fc2f09047349f3c0bd0bb10a4b.gltf"
+    },
+    {
+      "id": "aux778946313",
+      "name": "실험연구동",
+      "variant": "generic-v2",
+      "url": "aux778946313/model-c92365b5dd7b35220cf7156d6e6c1ae3b6d67cb0807ce154072a449b74cb856d.gltf"
+    },
+    {
+      "id": "aux778946314",
+      "name": "부속동 778946314",
+      "variant": "generic-v2",
+      "url": "aux778946314/model-e7de9db7cc7f656950a18ec48939ef2c9d22ecaa6535394a45c96ef54bac5f3b.gltf"
+    },
+    {
+      "id": "aux778946315",
+      "name": "부속동 778946315",
+      "variant": "generic-v2",
+      "url": "aux778946315/model-7fd74a27bc6ac4861d57a0a0bd9d45a574e241e3ba63eb02ab237b97e3e80cd6.gltf"
+    },
+    {
+      "id": "research",
+      "name": "실험연구동",
+      "variant": "detailed",
+      "url": "research/model-5f854c4e5d494a6527a724d7285fe4fb8c6a7e50f8c012e193aef05400f349e9.gltf"
+    },
+    {
+      "id": "aux778946317",
+      "name": "부속동 778946317",
+      "variant": "generic-v2",
+      "url": "aux778946317/model-426df8d3c2840d0d93f97be9670228e348dcb37592ab58b430093287a8381a6f.gltf"
+    },
+    {
+      "id": "aux778946318",
+      "name": "부속동 778946318",
+      "variant": "generic-v2",
+      "url": "aux778946318/model-70b05b5b89513088e0b80faa8a1e0bf7565097d2cd8623fa3ffb4745fba92344.gltf"
+    },
+    {
+      "id": "aux778946319",
+      "name": "부속동 778946319",
+      "variant": "generic-v2",
+      "url": "aux778946319/model-8fc38d1bc2ac2b901128ebc1b77e226ba50c10176b955683dd9b0719c4a2b1ac.gltf"
+    },
+    {
+      "id": "aux778946320",
+      "name": "부속동 778946320",
+      "variant": "generic-v2",
+      "url": "aux778946320/model-99ad4e044bd74ae49bb17363904f2eded22c92d81b7326d91f085aaa3e8a373b.gltf"
+    },
+    {
+      "id": "aux778946321",
+      "name": "부속동 778946321",
+      "variant": "generic-v2",
+      "url": "aux778946321/model-3e7cacce21ae31d16caa1775577df9292fd377f1ab023c5906a05b507701fd63.gltf"
+    },
+    {
+      "id": "aux801815069",
+      "name": "실험연구동",
+      "variant": "generic-v2",
+      "url": "aux801815069/model-ebc05fd3e0be6715bcf86d2f2448f25684e18fc7c74cce4a170b05a4c58a315b.gltf"
+    },
+    {
+      "id": "aux1370623062",
+      "name": "부속동 1370623062",
+      "variant": "generic-v2",
+      "url": "aux1370623062/model-fe1e54720230f4eecaceb7f9a26de53ca682831fe6fefea0d923df533a2b290a.gltf"
+    },
+    {
+      "id": "aux1370623063",
+      "name": "부속동 1370623063",
+      "variant": "generic-v2",
+      "url": "aux1370623063/model-099b2af95ab12654953fbe63de4ada15dfd65bc5d97d23f2a9f7fcbc35d613a5.gltf"
+    },
+    {
+      "id": "aux1385686358",
+      "name": "부속동 1385686358",
+      "variant": "generic-v2",
+      "url": "aux1385686358/model-09333258a733e742abcde193364d754b0c773814a93a39030b9166a9e296f352.gltf"
+    },
+    {
+      "id": "dormMale",
+      "name": "제2기숙사 남자동",
+      "variant": "generic-v2",
+      "url": "dormMale/model-8d6ea2c64cc85f0d49bb9b03e384ee4118c9bdc548719ef1ba2f8cbe5f50198e.gltf"
+    },
+    {
+      "id": "dormFemale",
+      "name": "제2기숙사 여자동",
+      "variant": "generic-v2",
+      "url": "dormFemale/model-503350318d535e52c7911a1126f53697b251232f45633602b9b2ee3bc88e1674.gltf"
+    },
+    {
+      "id": "woojung",
+      "name": "우정원",
+      "variant": "detailed",
+      "url": "woojung/model-bf83b2dcabcff4eeac72106eb37291cad974ceee49aa86a2fc93d79edd69a2cf.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 234988
+  }
+}

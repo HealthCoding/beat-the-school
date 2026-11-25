@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Songjeong Girls R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-3268e26049ecf9cc299971d918fa97eca18a7be4eeb38fad97312b3ee24d0933.gltf",
+      "triangles": 54904
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-9eaaee35de2043c291498ead0fe18ed14d060ff8f3cfc7e11be31815d64e0161.gltf",
+      "triangles": 21412
+    },
+    {
+      "id": "context",
+      "url": "context/model-215f61076e6664b1fe0eb44f21fc9932d5af40aaa554c95e8327b9aea6f3c538.gltf",
+      "triangles": 25133
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-6d1510f6af7fd1d835edcdd9ff9791276f46e7ca0584ad1ca21143870dcbcc48.gltf",
+      "triangles": 2267
+    }
+  ]
+}

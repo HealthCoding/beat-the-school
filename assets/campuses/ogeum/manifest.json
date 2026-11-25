@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Ogeum Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-242434637ebe553028057dc7b1143bc1024ccd3f41f9d1680f4774be7699c6cf.gltf",
+      "triangles": 14114,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "rear",
+      "url": "rear/model-b4e6199e15e9d2a9b33a8d5df831dc2a62d05c3ad55822a0bbd9a150c3164313.gltf",
+      "triangles": 9656,
+      "name": "후관(동명 추정)",
+      "variant": "detailed"
+    },
+    {
+      "id": "connector",
+      "url": "connector/model-03249032fb03dcc8460e7fa32de58746b9632b29799632799163b1a6c0d6402c.gltf",
+      "triangles": 2124,
+      "name": "서측 연결동",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-2853cc5219e76d9fe6aa1366bfddda744d44228c4a59696d01a913ea9a2f3f03.gltf",
+      "triangles": 8428,
+      "name": "복합정보센터·체육관(동정 후보)",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-31bc40a427d845082a9b5ec7b94ee8b2b9826ad943f1962222502dc9cf4cb99b.gltf",
+      "triangles": 1572,
+      "name": "북동 부속동(용도 추정)",
+      "variant": "detailed"
+    },
+    {
+      "id": "storage",
+      "url": "storage/model-007b7b1f5864b2ccad35592b99398518bce0726d340947a1f160a13457e32e2f.gltf",
+      "triangles": 684,
+      "name": "남서 창고(용도 추정)",
+      "variant": "detailed"
+    },
+    {
+      "id": "walkway",
+      "url": "walkway/model-cde115fe36f787a821127e7ee5198bb840cc60fcec438147486fa8fd736f9fa2.gltf",
+      "triangles": 2932,
+      "name": "본관 앞 우천통로",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 39510
+  }
+}

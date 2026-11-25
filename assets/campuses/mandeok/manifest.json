@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "auto-school mandeok (3 destructible buildings, generated from OSM way/756749261 by scripts/campuses/mandeok/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "학생동",
+      "variant": "auto",
+      "url": "wing1/model-cd6f48ecb177e15615323b667b2d6abbbbd5af85612738e3e387500d957b1f94.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "관리동",
+      "variant": "auto",
+      "url": "wing2/model-16a6dd719314e9410f0da95b6a6181081528027373be2829c4b373ae25962eaa.gltf"
+    },
+    {
+      "id": "hall3",
+      "name": "해울누리관",
+      "variant": "auto",
+      "url": "hall3/model-13d4dcec0d542efd306be4df6c956029ad348c55ba3986fe26a0a09781ae2830.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 14149
+  }
+}

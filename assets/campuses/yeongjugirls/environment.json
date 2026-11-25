@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Yeongju Girls Middle School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-755bdeec1ffa3ec4bc475d5a402620a5be35eb32f46f07516e30eab0a63e721c.gltf",
+      "triangles": 24994
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-1ccb5ff381942b9abee2b36849ed13e0f69b36163d96ada40cbc1b680499349e.gltf",
+      "triangles": 27494
+    },
+    {
+      "id": "context",
+      "url": "context/model-503bf6d54962440c5c3dd30cd719069dc44f53fcf44a1e5baec22d75aa7785d8.gltf",
+      "triangles": 16572
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-e3809e212496db456372c37036987b863f875f0f80a7755b41cc3456a8d929a8.gltf",
+      "triangles": 1615
+    }
+  ]
+}

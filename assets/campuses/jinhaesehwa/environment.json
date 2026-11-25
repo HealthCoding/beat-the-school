@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "Jinhae Sehwa Changwon R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -13.27114486694336,
+      "id": "env-ground",
+      "url": "env-ground/model-b647c3c1a3abd7c82a26b7a2edb9cc97b4810aa3b4611c4c52333e9c65816d59.gltf",
+      "triangles": 47796
+    },
+    {
+      "minimumY": -0.800000011920929,
+      "id": "env-site",
+      "url": "env-site/model-2d4c73f5a841d6504766b0026f5f65f598b45abede24cbd9b848e7c3e6db7006.gltf",
+      "triangles": 7008
+    },
+    {
+      "minimumY": -0.4177139401435852,
+      "id": "env-landscape",
+      "url": "env-landscape/model-dd4eef78c15fce288afe3e81673f72b7db4a3ea3de0248206b8b23207f589901.gltf",
+      "triangles": 1840
+    },
+    {
+      "minimumY": -7.328491687774658,
+      "id": "env-context",
+      "url": "env-context/model-0d8814fbefd936dd6359a4d63c232768cbd32ad6126a7d6d162bbed6fdf999d7.gltf",
+      "triangles": 2696
+    },
+    {
+      "minimumY": 0,
+      "id": "env-planting",
+      "url": "env-planting/model-f21ffc9afafabd76f2ffcd85f73264fddbb7d40f1a1952a5f958504bf32b4553.gltf",
+      "triangles": 418
+    }
+  ]
+}

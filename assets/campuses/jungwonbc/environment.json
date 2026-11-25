@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Jungwon Bucheon R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-9afdea3d023d464397b0173761c21de1b9df84f1a317c290413c14107bc7135c.gltf",
+      "triangles": 49594
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-ee79e4287d6665a15770c0b3e7cb91b19a76ac765a9bfb982f4a0fcf5a66fd0e.gltf",
+      "triangles": 31058
+    },
+    {
+      "id": "context",
+      "url": "context/model-dcbd53f7f17ee64b68f516c3b901c0ddd9a546fa7055cf16914a4ba6a65fedde.gltf",
+      "triangles": 46967
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-08858afe16c993aeaa3ecb8fc7485b54b55f4f90bb23522b45f1a2a3d20674a0.gltf",
+      "triangles": 3475
+    }
+  ]
+}

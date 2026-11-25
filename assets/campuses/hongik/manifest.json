@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "source": "hongik-seoul active-models.json (34 destructible units: 27 buildings + 7 bridges / stand), packed losslessly",
+  "models": [
+    {
+      "id": "hongmun",
+      "name": "홍문관",
+      "variant": "detailed",
+      "url": "hongmun/model-702253c0532b75895167ee470b95336ed7b251986f1c96d2d698a70f0d179c0a.gltf"
+    },
+    {
+      "id": "eng1",
+      "name": "제1공학관",
+      "variant": "generic",
+      "url": "eng1/model-60c162893c1b64cc756b2c209be03d558215db1d0d92b56964a98b8d6a80a4a9.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic",
+      "url": "gym/model-ef6f3f963a6ed821b9beb450fb36e006e097073644769a8bb8e8b975273cf018.gltf"
+    },
+    {
+      "id": "eng3",
+      "name": "제3공학관",
+      "variant": "generic",
+      "url": "eng3/model-712598c6b655204a63f9e656151be8d15fe597f974ace5f287f4f9f167d6d308.gltf"
+    },
+    {
+      "id": "wawoo",
+      "name": "와우관",
+      "variant": "generic",
+      "url": "wawoo/model-4429095a7bf09bcea71fdad9a24de88360393928020ad2dfcdd3c34047cdff4b.gltf"
+    },
+    {
+      "id": "science",
+      "name": "과학관",
+      "variant": "generic",
+      "url": "science/model-be4b21c9c558f753b5d7ef31671fa145aa5b6d36761c2a85e90d08021e2e8109.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic",
+      "url": "studentUnion/model-a6cde4b091d41675909f44189edc35939d39404cce3792a30ecf0b451d93ec83.gltf"
+    },
+    {
+      "id": "artDesignValley",
+      "name": "아트앤디자인밸리",
+      "variant": "generic",
+      "url": "artDesignValley/model-e5602d97831bf2032c24b0de1270888423dd0b6e5c6fc5609bc5bace2a98ce82.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "generic",
+      "url": "library/model-daf16715bfca6382614ee1eaca258562d031c8c614d82488266de122d7c5ef24.gltf"
+    },
+    {
+      "id": "eng2",
+      "name": "제2공학관",
+      "variant": "generic",
+      "url": "eng2/model-a80aa8b5a799afa06d3ccddfe6d554c603dbb366cfae8c086bdf3614f28e8f56.gltf"
+    },
+    {
+      "id": "ict",
+      "name": "정보통신센터",
+      "variant": "generic",
+      "url": "ict/model-90296f08b9fbdce87439471abe0575ab597dfd7f89e7c782820d22ccde45d593.gltf"
+    },
+    {
+      "id": "artHall",
+      "name": "미술학관",
+      "variant": "generic",
+      "url": "artHall/model-e1c710f517a1ef0a2855943573a807003539ad93176a6f886e5b0fab74d0cc45.gltf"
+    },
+    {
+      "id": "munheon",
+      "name": "문헌관",
+      "variant": "detailed",
+      "url": "munheon/model-88299a4800a109fa09f7b6a4505fb8f8782a4172cf17cdd8aacb2f4c6cd6c100.gltf"
+    },
+    {
+      "id": "lecture1",
+      "name": "제1강의동",
+      "variant": "generic",
+      "url": "lecture1/model-b83d80db819958699d4ebcfe39bcff8d9a41ee33638bde1d462c05ee5c281eee.gltf"
+    },
+    {
+      "id": "lecture4",
+      "name": "제4강의동",
+      "variant": "generic",
+      "url": "lecture4/model-0aa3e551144170c6565b6a2db7aaa665c662f45fa317efd02abba56670db6284.gltf"
+    },
+    {
+      "id": "auditorium",
+      "name": "강당",
+      "variant": "generic",
+      "url": "auditorium/model-15b8a394e2083a70ee2c8ee90991a1e11182128071f6ca7e38c20e49e7d76d1c.gltf"
+    },
+    {
+      "id": "johyeong",
+      "name": "조형관",
+      "variant": "generic",
+      "url": "johyeong/model-15aed4e97e92d3b7ea7fd37709e5f5d9b208b9b94e51f0d7707ce8726ca4679f.gltf"
+    },
+    {
+      "id": "artLecture",
+      "name": "미술종합강의동",
+      "variant": "generic",
+      "url": "artLecture/model-8b743fe73e0086402dd66b04e48d2316af554440b0ff9b123aa7f606c1d0195a.gltf"
+    },
+    {
+      "id": "eng4",
+      "name": "제4공학관",
+      "variant": "detailed",
+      "url": "eng4/model-d25357d87343cdc1e47e36ab55aeaa751cf3de10bc94a25f126dbfb084e31fca.gltf"
+    },
+    {
+      "id": "lecture3",
+      "name": "제3강의동",
+      "variant": "generic",
+      "url": "lecture3/model-3bb1506d9bbdb2b0241669013576e8b92135a0646e784a79a00ba5f7fb5f5a85.gltf"
+    },
+    {
+      "id": "leeCheondeuk",
+      "name": "이천득관 (제2강의동)",
+      "variant": "generic",
+      "url": "leeCheondeuk/model-307b73b02dc6816c85c8143a2f6c54f8cf7fdb38110a32be2dbe9e5809f6249e.gltf"
+    },
+    {
+      "id": "humanitiesA",
+      "name": "인문사회관 A동",
+      "variant": "generic",
+      "url": "humanitiesA/model-ec43efedf34f97cb38cad0b9b948340144d7e25b69fb18f0df2d31723aae0240.gltf"
+    },
+    {
+      "id": "humanitiesB",
+      "name": "인문사회관 B동",
+      "variant": "generic",
+      "url": "humanitiesB/model-e73efafef1cdc29ae3419479459eb3b84a4327e185313957926cdbad4d16837e.gltf"
+    },
+    {
+      "id": "humanitiesC",
+      "name": "인문사회관 C동",
+      "variant": "generic",
+      "url": "humanitiesC/model-3b33a5d62ce00f78c008584c741aaa440bea9270a36936aa16b103c2cb3709c1.gltf"
+    },
+    {
+      "id": "humanitiesD",
+      "name": "인문사회관 D동",
+      "variant": "generic",
+      "url": "humanitiesD/model-ed4b7bfcb2ca3a314b89b3083f30569396f0e445a106469dc4bb49c52e7f438a.gltf"
+    },
+    {
+      "id": "socialEdu",
+      "name": "사회교육관",
+      "variant": "generic",
+      "url": "socialEdu/model-c2f486e96558116bfa3fd6b6d46649de416d30f44c163afc76c890c599f158d3.gltf"
+    },
+    {
+      "id": "dorm2",
+      "name": "제2기숙사 (와우학사)",
+      "variant": "generic",
+      "url": "dorm2/model-4e0f3330f091cabb4b06495cec0ae7f872b2dd7dd8076af69c2864f2ff626fa9.gltf"
+    },
+    {
+      "id": "bridgeCA",
+      "name": "인문 C동 3층-A동 옥상 다리 (R3d)",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgeCA/model-963e0c086dcca9148e05e1391c0d96c79155117feef8f03b379bca0e04c74a13.gltf"
+    },
+    {
+      "id": "bridgeKL",
+      "name": "제1공학관-와우관 윗 통로 다리 (R3d)",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgeKL/model-ed0034b554f07704e141d1adc9070bce0f4df2db8e3f825a4f64d6ffd084c400.gltf"
+    },
+    {
+      "id": "bridgePI",
+      "name": "제2공학관-과학관 연결동",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgePI/model-02f66526d8ce5f4a3d6fbe10b012edcd7469f4facc8bab8266dddaf1572146e3.gltf"
+    },
+    {
+      "id": "bridgeSZ2",
+      "name": "강당-이천득관 다리",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgeSZ2/model-14c4ef8237b7051b4a82fc147a3c58b734d3cac72fbd4f82e4512216d1d74f29.gltf"
+    },
+    {
+      "id": "bridgeT",
+      "name": "제4공학관 구름다리 (강당 남쪽 이어짐)",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgeT/model-04df1f0d0c20b5bc4e6ba9a953b8ef8b7672abeca7146dc11e382b7709a1bed8.gltf"
+    },
+    {
+      "id": "bridgeZ2A",
+      "name": "이천득관-인문사회관 A 다리",
+      "variant": "custom",
+      "kind": "bridge",
+      "url": "bridgeZ2A/model-11f17155fdf13d9c0cb0658b49b3d818b244831737d4e118ca34c2a57262c726.gltf"
+    },
+    {
+      "id": "standEast",
+      "name": "대운동장 동쪽 스탠드·파고라",
+      "variant": "custom",
+      "kind": "stand",
+      "url": "standEast/model-0a06b943793cef044537d54c9cdf12d2ce1c078019dec35df736d821c4417680.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 126225
+  }
+}

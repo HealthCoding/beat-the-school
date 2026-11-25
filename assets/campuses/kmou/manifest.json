@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "source": "KMOU active models and separated existing dormitory / ships; lossless meshopt",
+  "models": [
+    {
+      "id": "osm268374973",
+      "name": "누리관",
+      "variant": "generic-v2",
+      "url": "osm268374973/model-3e5c7d536476aee361b2e2ef744a78cae7e602a0bfbaaa441c22b411a77b9ae0.gltf",
+      "triangles": 5130
+    },
+    {
+      "id": "researchHall",
+      "name": "종합연구관",
+      "variant": "generic-v2",
+      "url": "researchHall/model-1100349e2057a6051292b36469d2fd418f63a8a0966d5a0a527ab1cfc2a5e4b5.gltf",
+      "triangles": 3008
+    },
+    {
+      "id": "leports",
+      "name": "레포츠센터",
+      "variant": "generic-v2",
+      "url": "leports/model-d22177fca84fc06b39573816ce06283e07f9f308588d0d8b5644f59988be7063.gltf",
+      "triangles": 848
+    },
+    {
+      "id": "newMaritime",
+      "name": "해사대학 신관",
+      "variant": "detailed",
+      "url": "newMaritime/model-25b7f0aa94113fa3a313935fef2eb0c65894b3794eb4349f9adbee73486c5007.gltf",
+      "triangles": 4636
+    },
+    {
+      "id": "engineering1",
+      "name": "공학1관",
+      "variant": "generic-v2",
+      "url": "engineering1/model-89471246fabeb7d8817c9ac9b901308c728037498d359a450354330879d608a7.gltf",
+      "triangles": 3872
+    },
+    {
+      "id": "library",
+      "name": "도서관 본관",
+      "variant": "generic-v2",
+      "url": "library/model-40c37aa663257035fe527f699cac7128d09a0edfce81f6c8f4c972d49e5d4a4d.gltf",
+      "triangles": 1388
+    },
+    {
+      "id": "libraryNew",
+      "name": "도서관 신관",
+      "variant": "detailed",
+      "url": "libraryNew/model-d93e16741c9e5642a0baf49b4f1dc31c763ce538bee1d98569dbfe532215a892.gltf",
+      "triangles": 5390
+    },
+    {
+      "id": "maritime",
+      "name": "해사대학관",
+      "variant": "detailed",
+      "url": "maritime/model-f1388d0793a0731f313144dfd7c18df80a48bfc4485efdc99e1fed7377eb9619.gltf",
+      "triangles": 19212
+    },
+    {
+      "id": "humanities",
+      "name": "해양인문사회과학대학관",
+      "variant": "generic-v2",
+      "url": "humanities/model-23e170c6ab6e84d3ae88eca91616eca0de404688bb1cb486d31cbdefebfdbe85.gltf",
+      "triangles": 3640
+    },
+    {
+      "id": "engineering2",
+      "name": "공학2관",
+      "variant": "generic-v2",
+      "url": "engineering2/model-8828259e97ba15f1cfc2fc39284a5e9f0e8f95b4e1edc6a71ef3ccd53e527921.gltf",
+      "triangles": 1712
+    },
+    {
+      "id": "osm619959170",
+      "name": "입지관",
+      "variant": "generic-v2",
+      "url": "osm619959170/model-7ea89972a338d42edf7c8c35c1ef1ff9b858e8bc7b51a80aa175156b2e0d08db.gltf",
+      "triangles": 5632
+    },
+    {
+      "id": "osm761589237",
+      "name": "평생교육관",
+      "variant": "generic-v2",
+      "url": "osm761589237/model-18326870ff40960e4668f4ba0c2bd16b3dfa184d28cf121d077bb9a01d0b31c8.gltf",
+      "triangles": 1712
+    },
+    {
+      "id": "osm761589238",
+      "name": "다솜관",
+      "variant": "generic-v2",
+      "url": "osm761589238/model-b3bd250b9f956497edeb9b478934a704e55decb2fd4906e0257c094b5ff6af8c.gltf",
+      "triangles": 1348
+    },
+    {
+      "id": "osm761589239",
+      "name": "예섬관",
+      "variant": "generic-v2",
+      "url": "osm761589239/model-de3e5a7a200941d1667c7447d2be43e05b7da110d00200c9c30aa986c5f7bcc9.gltf",
+      "triangles": 1818
+    },
+    {
+      "id": "osm761589241",
+      "name": "대강당",
+      "variant": "generic-v2",
+      "url": "osm761589241/model-37ce38b49ff95ec5f11c0f3658027c1ab3427a670f979d8210c8a06e09ba4738.gltf",
+      "triangles": 900
+    },
+    {
+      "id": "osm761589242",
+      "name": "아라관",
+      "variant": "generic-v2",
+      "url": "osm761589242/model-ddfb94016bd981b95abca99f8d718e953b57c8e1c623f63bf1bab64ec5352a6a.gltf",
+      "triangles": 8744
+    },
+    {
+      "id": "osm761589243",
+      "name": "공동실험관(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589243/model-9d75c0995246882c3d79c0be440a4f9957536c9b775fdfdcf9469d4ac129ed27.gltf",
+      "triangles": 604
+    },
+    {
+      "id": "osm761589244",
+      "name": "반도체실험동(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589244/model-326020e33284f76c832db9df79bc89ba051fe67b935d0de7617bcbea933a53a7.gltf",
+      "triangles": 268
+    },
+    {
+      "id": "osm761589245",
+      "name": "해양과학기술관 저층부 추정",
+      "variant": "generic-v2",
+      "url": "osm761589245/model-1ca30b26eb6ae66a73b74509be23e66f0e4e69f21535c62d3207d68bc407078f.gltf",
+      "triangles": 1012
+    },
+    {
+      "id": "oceanScience",
+      "name": "해양과학기술관",
+      "variant": "detailed",
+      "url": "oceanScience/model-dfb75b9f12184f8e61a43e6b785a4b1a13afadb8df9b0aa8bbaf1f7386c4cbf9.gltf",
+      "triangles": 9700
+    },
+    {
+      "id": "main",
+      "name": "대학본부",
+      "variant": "detailed",
+      "url": "main/model-ecb89b11750361daa66cc0587755a1c1c0339f024f7de6a7fe2b0edae4ede7bd.gltf",
+      "triangles": 7846
+    },
+    {
+      "id": "osm761589248",
+      "name": "캠퍼스 부속동 761589248",
+      "variant": "generic-v2",
+      "url": "osm761589248/model-cbee277ed9756a90620249b6100fd07f9461359ae0321ff2e6c3e6ed31e6d3ff.gltf",
+      "triangles": 202
+    },
+    {
+      "id": "osm761589249",
+      "name": "50주년기념관",
+      "variant": "generic-v2",
+      "url": "osm761589249/model-69f9f85bd4ea5b01cfdd9773c7287e4ee2cb30f39b3705e0304834991559efec.gltf",
+      "triangles": 882
+    },
+    {
+      "id": "osm761589250",
+      "name": "케미컬탱커훈련센터",
+      "variant": "generic-v2",
+      "url": "osm761589250/model-859a887a4b230d83d117f01157a1cff1e6f9a82e0cb9185c5b4c84986c2a8a8a.gltf",
+      "triangles": 674
+    },
+    {
+      "id": "asan",
+      "name": "아산관",
+      "variant": "generic-v2",
+      "url": "asan/model-906a68e373e28613c2db8cb73487559149a431b6163d9682ab5663c80897ac69.gltf",
+      "triangles": 3014
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "gym/model-71672d0199b6882e69648caff81d33bda3448b248246d4db2c83cb07b0c7fb0c.gltf",
+      "triangles": 1238
+    },
+    {
+      "id": "osm761589258",
+      "name": "학생군사교육단(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589258/model-a5e48f271450eb7edded476a260e11fd1ef2ee965facbd3090ae7d024401f312.gltf",
+      "triangles": 860
+    },
+    {
+      "id": "osm761589259",
+      "name": "전파암실동(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589259/model-ae7b83e680a2a3190a1cb4408c4f53b0ae0d3d92f2225f5bc27859b8633c9335.gltf",
+      "triangles": 776
+    },
+    {
+      "id": "osm761589260",
+      "name": "아치관(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589260/model-d3ce242b91dea27a9179530008e11d7ffad9fede76556fc0230422e418b476d0.gltf",
+      "triangles": 2088
+    },
+    {
+      "id": "osm761589261",
+      "name": "시설서비스센터",
+      "variant": "generic-v2",
+      "url": "osm761589261/model-79c4f9cc52c60d8d58cf63481c8e906e1101e5657aeb5dfa1abab4c240ea463f.gltf",
+      "triangles": 718
+    },
+    {
+      "id": "osm761589265",
+      "name": "보트보관실(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589265/model-4b7475feb893eaa68a2dbb71897ab41b543e3c22d72025b2ccf7f5d4fa4e88e8.gltf",
+      "triangles": 334
+    },
+    {
+      "id": "osm761589266",
+      "name": "국제교류협력관(위치 추정)",
+      "variant": "generic-v2",
+      "url": "osm761589266/model-1435d5483e61018e7c2edbbca7e92b15b020aa1082e91802bde4fcf8cc670259.gltf",
+      "triangles": 2942
+    },
+    {
+      "id": "osm761589267",
+      "name": "캠퍼스 부속동 761589267",
+      "variant": "generic-v2",
+      "url": "osm761589267/model-92c7659d0ca765da91ea64c7e05e02feb665d7cc7fd913a856b147c811f6811d.gltf",
+      "triangles": 434
+    },
+    {
+      "id": "eoullim",
+      "name": "어울림관",
+      "variant": "generic-v2",
+      "url": "eoullim/model-a0e28991db4161a09a51a40fe7225fc791e6fa561c47211a9fdaf0ade03b1e9d.gltf",
+      "triangles": 2992
+    },
+    {
+      "id": "boardingDorm",
+      "name": "승선생활관",
+      "variant": "photo-informed six-storey dormitory",
+      "url": "boardingDorm/model-55be80ab9e8b5a0f8310b4cf3dbabe6d307da135761b025a7af7148a1e21b25b.gltf",
+      "triangles": 19526
+    },
+    {
+      "id": "hannara",
+      "name": "한나라호",
+      "variant": "existing scene geometry",
+      "url": "hannara/model-4c8eda27722c2058f7cf163228e4bfaad50d1e5f7272122351538008bc8ae65a.gltf",
+      "triangles": 6056
+    },
+    {
+      "id": "hanbada",
+      "name": "한바다호",
+      "variant": "existing scene geometry",
+      "url": "hanbada/model-5cde802709d2317ddb183a0af8f6eb41dd00ebf76a56b25b1bf16877944dd5e3.gltf",
+      "triangles": 6128
+    }
+  ],
+  "totals": {
+    "triangles": 137284
+  }
+}

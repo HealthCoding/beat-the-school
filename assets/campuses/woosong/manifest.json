@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "source": "woosong-daejeon active-models.json (31 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "w7",
+      "name": "W7 우송관",
+      "variant": "detailed",
+      "url": "w7/model-23b425d8fc2cff1768bd581226724ec8ddf77c21837296fd0e28a3df1525ca73.gltf"
+    },
+    {
+      "id": "w1",
+      "name": "W1 우송도서관",
+      "variant": "detailed",
+      "url": "w1/model-62f4bf9392b71f427061b0a41945a53238800fce1d76239baf80e5fc72d339aa.gltf"
+    },
+    {
+      "id": "w11",
+      "name": "W11 체육관(서캠)",
+      "variant": "generic-v2",
+      "url": "w11/model-625b7579da09cc877762d419f71a99bc7aae71ae8ffccb68f40581b5de7a59ce.gltf"
+    },
+    {
+      "id": "w4",
+      "name": "W4 철도물류관",
+      "variant": "generic-v2",
+      "url": "w4/model-9652b3716a611a26f2e6fcc08bff04937a4a7ac1034ab57f1ab6c27d74230612.gltf"
+    },
+    {
+      "id": "w5",
+      "name": "W5 보건의료과학관",
+      "variant": "generic-v2",
+      "url": "w5/model-5e48040d40fea4164afb2b44cd4ebd2205104fddcf6ce9742c8a288fc5d4aec2.gltf"
+    },
+    {
+      "id": "w15",
+      "name": "W15 식품건축관",
+      "variant": "generic-v2",
+      "url": "w15/model-ab34b7003b534959f1576e2bd48d5afafb604cea1a7d523462d7bb4c61af2ffa.gltf"
+    },
+    {
+      "id": "w12",
+      "name": "W12 SICA",
+      "variant": "custom",
+      "url": "w12/model-eeb8d13f6241f0130051b36b356c3c19c44557f808f6754581d9048db90bc838.gltf"
+    },
+    {
+      "id": "w6",
+      "name": "W6 교양교육관",
+      "variant": "generic-v2",
+      "url": "w6/model-4a9b21e34b4da133b1bc03b9930f77d0e1d7609e0d34a1b82f134c2cafb161c4.gltf"
+    },
+    {
+      "id": "w2",
+      "name": "W2 산학협력관",
+      "variant": "generic-v2",
+      "url": "w2/model-36cd51019957e6c85a43d27892c5b543724669fe703423de037e10a6b52ffac4.gltf"
+    },
+    {
+      "id": "w14",
+      "name": "W14 Culinary Center",
+      "variant": "generic-v2",
+      "url": "w14/model-c808f70fc8c151557966a117e80f0cd1059938c2f2dce971034549bb65fa9a41.gltf"
+    },
+    {
+      "id": "w13",
+      "name": "W13 우송타워",
+      "variant": "detailed",
+      "url": "w13/model-afce31db6e0bfa5980fdfc4c0278755775a96810004925de3f62282061e5a7ee.gltf"
+    },
+    {
+      "id": "w9",
+      "name": "W9 정례원",
+      "variant": "generic-v2",
+      "url": "w9/model-f7038a6c82b77f7307bf74e215b78afa74795f04702787d48f9c6de4e7c2c311.gltf"
+    },
+    {
+      "id": "cheongun2",
+      "name": "청운2숙",
+      "variant": "generic-v2",
+      "url": "cheongun2/model-4756ba3f5c8776f9d28f54e1dbecf7b7d4bc372c35118346787d61be1b500dbd.gltf"
+    },
+    {
+      "id": "w17",
+      "name": "W17 미디어융합관",
+      "variant": "generic-v2",
+      "url": "w17/model-7b3a45311371dc5b4827e027c89e4ef742c86760f4e0fcb2a12d3c2a1e186716.gltf"
+    },
+    {
+      "id": "solpark",
+      "name": "솔파크",
+      "variant": "generic-v2",
+      "url": "solpark/model-5d3984b9b9ff99de4079d6a9c10896a7ddf36e26137c6bad8a33548d42c8c301.gltf"
+    },
+    {
+      "id": "w18",
+      "name": "W18 우송예술회관",
+      "variant": "generic-v2",
+      "url": "w18/model-94cfbefca689cf9924daa007202d5a9f621373255bb2a5380b0e3ce675cd6813.gltf"
+    },
+    {
+      "id": "w10",
+      "name": "W10 사회복지융합관",
+      "variant": "generic-v2",
+      "url": "w10/model-e9e8aa4c54f2dffb095d2820b312a70b5c6f5bac298b56566c6f33d7b8bdd824.gltf"
+    },
+    {
+      "id": "w16",
+      "name": "W16 학생회관",
+      "variant": "generic-v2",
+      "url": "w16/model-2899370178073e3d229f3dad1b0db7a06617988509d0be433480d73273329697.gltf"
+    },
+    {
+      "id": "cheongun1m",
+      "name": "청운1숙(남자동)",
+      "variant": "generic-v2",
+      "url": "cheongun1m/model-e97054ec3ad0f89fc6bf78b4e735106888d893b6a24d740bca68446a9345cb1d.gltf"
+    },
+    {
+      "id": "cheongun1f",
+      "name": "청운1숙(여자동)",
+      "variant": "generic-v2",
+      "url": "cheongun1f/model-52c356c5f00c63980b137d1cf034c9b04478163ce42be4d410274589fb8dcd1b.gltf"
+    },
+    {
+      "id": "w3",
+      "name": "W3 유학생기숙사",
+      "variant": "generic-v2",
+      "url": "w3/model-07f701c052728ba3c065a56fe361b82d83e678a4553fcb96eef6dd57248906cd.gltf"
+    },
+    {
+      "id": "e1",
+      "name": "E1 테크노디자인센터",
+      "variant": "generic-v2",
+      "url": "e1/model-3a668b8fa7c055aa8eff144047e4d7586617a08b071b687eefa1f2cbe8965f60.gltf"
+    },
+    {
+      "id": "e2",
+      "name": "E2 국제경영센터",
+      "variant": "generic-v2",
+      "url": "e2/model-00cb615dbf1590e00ac7b890a05d467f719907f07c290933ec0d3d16db7442c5.gltf"
+    },
+    {
+      "id": "e3",
+      "name": "E3 학술정보관",
+      "variant": "generic-v2",
+      "url": "e3/model-5ecbd194d71be3723550cd5df232f54e03ba8040c90da2667349b9ec8755ee97.gltf"
+    },
+    {
+      "id": "e4",
+      "name": "E4 구 대학본부",
+      "variant": "generic-v2",
+      "url": "e4/model-fd8861ef2efabaa6cca3d05e25d0cc537eaa6c2af20413bffb342cca138e91d0.gltf"
+    },
+    {
+      "id": "e5",
+      "name": "E5 체육관(동캠)",
+      "variant": "generic-v2",
+      "url": "e5/model-6e305bd9a1bf7e27dfd8e1c95e7903f9a6071de4e0542592206eb761e81ef579.gltf"
+    },
+    {
+      "id": "osm768053685",
+      "name": "동캠 1관(추정)",
+      "variant": "generic-v2",
+      "url": "osm768053685/model-75e4118ac03afa58e35982300a8e67eeac7cd65de2b009243d8e5dd18c72da79.gltf"
+    },
+    {
+      "id": "osm768053686",
+      "name": "동캠 2관(추정)",
+      "variant": "generic-v2",
+      "url": "osm768053686/model-7632cead9bad245fae2507a2608c90298b6edd9f5e29374616b6789391b43160.gltf"
+    },
+    {
+      "id": "w19",
+      "name": "W19 Endicott Building",
+      "variant": "custom",
+      "url": "w19/model-164b10a4b603f13e02ccab2c50709c375755c7a17383ac607eda0d5970f0f1c9.gltf"
+    },
+    {
+      "id": "osm921539013",
+      "name": "서캠 부속동 1(추정)",
+      "variant": "generic-v2",
+      "url": "osm921539013/model-327d84a5b14d0357d19dab78d4eccb20625ea3cbec5f14da639038397cab0f8a.gltf"
+    },
+    {
+      "id": "osm921539021",
+      "name": "서캠 부속동 2(추정)",
+      "variant": "generic-v2",
+      "url": "osm921539021/model-b3f9e7dc346eb9ce4e96dfdb02792ad46e70964d0ad8fa82552427c930a08c10.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 155460
+  }
+}

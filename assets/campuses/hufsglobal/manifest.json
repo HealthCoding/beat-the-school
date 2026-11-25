@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "source": "hufs-global active-models.json (24 destructible buildings), bounded attribute rounding",
+  "models": [
+    {
+      "id": "humanities",
+      "name": "인문경상관",
+      "variant": "generic-v2",
+      "url": "humanities/model-2294975afddd50b36539935eb455d41b40cb113df4e4ef069bc386896ae7d527.gltf"
+    },
+    {
+      "id": "language",
+      "name": "어문학관",
+      "variant": "detailed",
+      "url": "language/model-74b3ab5a5aadaff30b987f283be1b15c2e15fc11e7f263cfc8989dc40bb558d9.gltf"
+    },
+    {
+      "id": "liberal",
+      "name": "교양관",
+      "variant": "generic-v2",
+      "url": "liberal/model-4c34896b60658ef089c5d71f0937969a02ff9a92d2df057f894fb067ca939cd7.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "generic-v2",
+      "url": "engineering/model-26e61e20d3e000ae6cbd5f1027836d39637f121c5ee774dddbee69762d27e806.gltf"
+    },
+    {
+      "id": "library",
+      "name": "도서관",
+      "variant": "detailed",
+      "url": "library/model-7094b620a39af1699f21549458735333376779939af1316b8ffabfd30ec27ab2.gltf"
+    },
+    {
+      "id": "student",
+      "name": "학생회관",
+      "variant": "detailed",
+      "url": "student/model-227199bd3190bc97ecc3a0c4462af11acd851fb7144771e2b8cc0bc8febde613.gltf"
+    },
+    {
+      "id": "welfare",
+      "name": "후생관",
+      "variant": "generic-v2",
+      "url": "welfare/model-1fc50f095ea07a3ed5b57a508f4df88f295ef465ab510b944a14f4e19ccc51fc.gltf"
+    },
+    {
+      "id": "centennial",
+      "name": "백년관",
+      "variant": "detailed",
+      "url": "centennial/model-6f652b045465ba819615929c884d8ebad947f1dd0c4896a15be86394a031b3cf.gltf"
+    },
+    {
+      "id": "science",
+      "name": "자연과학관",
+      "variant": "generic-v2",
+      "url": "science/model-4ee895288f7431c955317a87053968696894c90341695a7c9f78f36a043b2baf.gltf"
+    },
+    {
+      "id": "sehyang",
+      "name": "세향관",
+      "variant": "generic-v2",
+      "url": "sehyang/model-c3df068625b2e02ee58624962cb19ee6c5771bb666443130909f2f525712a4ba.gltf"
+    },
+    {
+      "id": "global-academy",
+      "name": "국제사회교육원",
+      "variant": "generic-v2",
+      "url": "global-academy/model-02915bd67194b7acbd4964f52b6b30ef2ad9ac105fef2174ef683482712b9e7a.gltf"
+    },
+    {
+      "id": "academy-dorm",
+      "name": "국제사회교육원 생활관",
+      "variant": "generic-v2",
+      "url": "academy-dorm/model-0db6833e54b21551f1ecca9e481f7f1d1d1a7382b0a361a4e5bb7d0bee850904.gltf"
+    },
+    {
+      "id": "arts",
+      "name": "왕산문화예술관",
+      "variant": "detailed",
+      "url": "arts/model-450092bef5d625eccb9918969f99fc02981cb1a6bb345934bb011bf65abf08c5.gltf"
+    },
+    {
+      "id": "faculty",
+      "name": "교수동",
+      "variant": "generic-v2",
+      "url": "faculty/model-5e4bffec54c732fcee5ed8f4708b275c5ee6aa063828f6099f4dc5cd882fecb0.gltf"
+    },
+    {
+      "id": "mohyeon-468432125",
+      "name": "모현학사 1",
+      "variant": "generic-v2",
+      "url": "mohyeon-468432125/model-26d511de933747037409d4423c9d4b335ce16d9a472da7f4a431135e003451f8.gltf"
+    },
+    {
+      "id": "mohyeon-468432126",
+      "name": "모현학사 2",
+      "variant": "generic-v2",
+      "url": "mohyeon-468432126/model-ba91cf80691c14d7b85942f5d6665d9c6242699118ea5ebea2c73078a2099f9e.gltf"
+    },
+    {
+      "id": "dorm2",
+      "name": "제2기숙사 C동",
+      "variant": "generic-v2",
+      "url": "dorm2/model-826cee424e3fa00e7017942e69b2b8d2bfc03f2c9e0df6686bfc1f263c6d0615.gltf"
+    },
+    {
+      "id": "facility-1436367101",
+      "name": "제2기숙사 B동",
+      "variant": "generic-v2",
+      "url": "facility-1436367101/model-ccf88a286023d5ba1bda0a432865397ab8f43ae14ba685be445e43a9df678101.gltf"
+    },
+    {
+      "id": "facility-1436367102",
+      "name": "제2기숙사 G동(식당동)",
+      "variant": "generic-v2",
+      "url": "facility-1436367102/model-af7ff0cf30d5d77c92cb4f501d2ba5de24d15acba1e57a5349730e6cd4957fff.gltf"
+    },
+    {
+      "id": "facility-1436367103",
+      "name": "제2기숙사 A동",
+      "variant": "generic-v2",
+      "url": "facility-1436367103/model-b192ee5157a7a8c4271ffb12aa9059d9d75a7d7d3ab2cdb4ed831dc2ff64532d.gltf"
+    },
+    {
+      "id": "facility-1436367104",
+      "name": "제2기숙사 F동",
+      "variant": "generic-v2",
+      "url": "facility-1436367104/model-7b62709a3c1f89207430eed48a6365305be9ed00b88aab0a2ff64510b92267f6.gltf"
+    },
+    {
+      "id": "facility-1436367110",
+      "name": "백년관 유리탑",
+      "variant": "detailed",
+      "url": "facility-1436367110/model-ef7f0c0545c09f6235341ebb8355b4c630bdd83574ad9df6665488a053184318.gltf"
+    },
+    {
+      "id": "facility-1436367111",
+      "name": "버스 정류장 휴게소",
+      "variant": "generic-v2",
+      "url": "facility-1436367111/model-ebeb85462b297484ba4856a017bc9f5d9d9489f8843c95d09cb39a412dcc50f5.gltf"
+    },
+    {
+      "id": "facility-1436367115",
+      "name": "창업보육센터",
+      "variant": "generic-v2",
+      "url": "facility-1436367115/model-afefba87b6ac4e2eecb791fedff6501a39fe0171df7ebc72e5f1401add211bf2.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 135325
+  }
+}

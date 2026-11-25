@@ -1,0 +1,2 @@
+// Generated from the explicit religious-use decision; local X/Z metres.
+export const SPEER_PROTECTED = Object.freeze([{"id":"curtis","name":"커티스 메모리얼 예배당","kind":"religious","osmId":null,"x":58.652514734950294,"z":-15.09190637889499,"rotation":0.35775398532999136,"scale":0.5,"baseY":3.75,"heightMetres":9.808130264282227,"footprintLocalMetres":[[-3.3,-6.5],[3.3,-6.5],[3.3,6.5],[1.45,6.5],[1.45,5.55],[-1.45,5.55],[-1.45,6.5],[-3.3,6.5]]}]);

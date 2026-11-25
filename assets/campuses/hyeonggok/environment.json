@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Gumi Hyeonggok Middle School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-626eb1f94438d30863cf4abb323013fe7868c2e72789b2feab6cf4df46e3d568.gltf",
+      "triangles": 8041
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-712dd5975f9c4d9cfee4ec94143d51d807eed9c23255d0912cedbc001b852f71.gltf",
+      "triangles": 19748
+    },
+    {
+      "id": "context",
+      "url": "context/model-f5c1edce3270fe158a6c181e7649e9afb16c62df365773d53da554010d9ef468.gltf",
+      "triangles": 7940
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-b08187b988b85023b888b4c0c2ca098111280d9e41f346fb9b20b519f535248a.gltf",
+      "triangles": 1272
+    }
+  ]
+}

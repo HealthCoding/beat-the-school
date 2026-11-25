@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Cheongju Hitech R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-1f75917d464d13bdbfdc0ee781345fb11ab213e69ae3953f3af06de8d361cc10.gltf",
+      "triangles": 12096,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "practice",
+      "url": "practice/model-a61443c05d95b507f1b819bf5dbbe6e740a9e2300d2e7b32359d29e8ad364120.gltf",
+      "triangles": 4940,
+      "name": "융합실습실",
+      "variant": "detailed"
+    },
+    {
+      "id": "dowoom",
+      "url": "dowoom/model-9de38a6eb0e7d1d6b1978319130b1fb8f64dd85dfc65d55aa745ebeb77dd3dd0.gltf",
+      "triangles": 1528,
+      "name": "도움반",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 18564
+  }
+}

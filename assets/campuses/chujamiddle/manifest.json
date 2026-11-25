@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school chujamiddle (2 destructible buildings, generated from OSM way/588379106 by scripts/campuses/chujamiddle/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-06530a70400c5e4136723e672f0c5dbd090b66b328ee09812b1486d1e92e7f01.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing2/model-53efe1b424061f494e53f4776e217ce8dab33ddbb6b8d5beb27ecfac33a14ea9.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 10790
+  }
+}

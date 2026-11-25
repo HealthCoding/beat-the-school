@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "source": "Gumi Hyeonggok Middle School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-84e7cc7208c3a90fcb24707a6a1dbc562df168801f65b26fdeb0be283f53ca82.gltf",
+      "triangles": 5888,
+      "name": "본관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-d12ff250f120cd7257b4b69b035fb16b3fb7157136df57d7f25f053bf8154767.gltf",
+      "triangles": 2112,
+      "name": "후관·특별교실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym-hall",
+      "url": "gym-hall/model-22e2fdf855dd21fc4b2e20aa4530ff74d5f5dc231d60b30afd00878c3c2e52da.gltf",
+      "triangles": 1988,
+      "name": "청솔관 (강당·급식소)",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-c08b913f5c28473989564b88d4b7625b17871edfe298a90f39f596809b333fde.gltf",
+      "triangles": 376,
+      "name": "배움터지킴이실",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 10364
+  }
+}

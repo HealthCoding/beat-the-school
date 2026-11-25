@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Sangsin R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-e8379d0c3a6b2bdbc0b54dd1d58b4570a8b0f15131843c770dbf4e5e9e8a9efc.gltf",
+      "triangles": 12992,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-fe7011a013cff1ede426f94fc7becb90223cf2975f13609d66e44a01fa48bd4a.gltf",
+      "triangles": 5408,
+      "name": "창조관",
+      "variant": "detailed"
+    },
+    {
+      "id": "shed1",
+      "url": "shed1/model-3762881106a0a9c6318747ecd89c13be2eacfb16b128a47d56c26ae46f543953.gltf",
+      "triangles": 374,
+      "name": "부속동 1",
+      "variant": "detailed"
+    },
+    {
+      "id": "shed2",
+      "url": "shed2/model-02c981d4c2c57d198eade6380850a0c312c2e624143fb424c2c550c944530306.gltf",
+      "triangles": 374,
+      "name": "부속동 2",
+      "variant": "detailed"
+    },
+    {
+      "id": "shed3",
+      "url": "shed3/model-949de35cd51dfe37aba4e2d29b99f4bef9ec0ff325d2313c4a604114f72104fd.gltf",
+      "triangles": 254,
+      "name": "부속동 3",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 19402
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "source": "auto-school daegeon (10 destructible buildings, generated from manual aerial boundary and OSM building footprints by daegeon-local-builder)",
+  "models": [
+    {
+      "id": "west",
+      "name": "서쪽 교사동",
+      "variant": "auto",
+      "url": "west/model-23f47c870d3b4c27c6f66d5a3e72b65d6491870fba50b326c8fa0ffa6ccd4ea4.gltf"
+    },
+    {
+      "id": "rear2",
+      "name": "북쪽 기숙사동",
+      "variant": "auto",
+      "url": "rear2/model-e62899454d08d0188ec5e3a3a01894b6d4573bb1305d839a6f0a3731bd63369f.gltf"
+    },
+    {
+      "id": "southcomplex",
+      "name": "남쪽 건물",
+      "variant": "auto",
+      "url": "southcomplex/model-ed4dce827b7a6c785207bf802546ab6465e235e8cbdff58f6dfa562ce4fd5ce0.gltf"
+    },
+    {
+      "id": "main",
+      "name": "대건관",
+      "variant": "auto",
+      "url": "main/model-1455bf4109ad3516947b688a3e9acfe8e667297c2cf9e9c7c8590fea9c6b94df.gltf"
+    },
+    {
+      "id": "newdorm",
+      "name": "신축 기숙사",
+      "variant": "auto",
+      "url": "newdorm/model-6dd50ca7b05529b170f93e65640e2b52ef94963d08f9c1a268aceda3c87aaeac.gltf"
+    },
+    {
+      "id": "maria",
+      "name": "마리아홀",
+      "variant": "auto",
+      "url": "maria/model-f5cf471e8f385acf8c32c983951650ed5360603d68780bfeb9afb57357256adf.gltf"
+    },
+    {
+      "id": "northwest",
+      "name": "북서쪽 건물",
+      "variant": "auto",
+      "url": "northwest/model-a9a1b198d9416ea9c4dcf769c5223748a3a0b213a8770b11e12180dcf26cc26d.gltf"
+    },
+    {
+      "id": "south",
+      "name": "남쪽 교사동",
+      "variant": "auto",
+      "url": "south/model-41bbf869ecc6ed16f0aab3e80e7abdb02f305e7a016c5a5ef14a7f9290cb109b.gltf"
+    },
+    {
+      "id": "inwon",
+      "name": "인원관",
+      "variant": "auto",
+      "url": "inwon/model-9e80dd87eaac5cb07a97ee598899ba49bdfe645c33d52efaecf90ee0f729af7c.gltf"
+    },
+    {
+      "id": "rear1",
+      "name": "북쪽 교사동",
+      "variant": "auto",
+      "url": "rear1/model-9cfbc85f01d238505ae40a8ea120ffc4763581f54459fcc41b6b2e477aee1ef8.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 28441
+  }
+}

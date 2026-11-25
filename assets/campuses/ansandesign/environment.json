@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Ansan Design Ansan R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -9.907119750976562,
+      "id": "env-ground",
+      "url": "env-ground/model-93817ce1cece41f8a215c12c841e8d890bdac350538de4e3a4f9ee9c74480d62.gltf",
+      "triangles": 10242
+    },
+    {
+      "minimumY": -0.20000000298023224,
+      "id": "env-site",
+      "url": "env-site/model-12f091ca9905266d2d559e4d923a64ee7e3464cee61a865ed067996a409ac6b1.gltf",
+      "triangles": 2266
+    },
+    {
+      "minimumY": -0.09146393090486526,
+      "id": "env-landscape",
+      "url": "env-landscape/model-597fc362063cb09f69b3676dcf9664bc742483985c24bddd9f8cdafc2e8b52fc.gltf",
+      "triangles": 32902
+    },
+    {
+      "minimumY": -8.69879150390625,
+      "id": "env-context",
+      "url": "env-context/model-7da0471416130aa613e37dcac76102383d4a0ffc37754d51ba9d5ab65e96d463.gltf",
+      "triangles": 30289
+    }
+  ]
+}

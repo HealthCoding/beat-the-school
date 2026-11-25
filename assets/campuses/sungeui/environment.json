@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "source": "Sungeui R10 exact terrain, context and planting",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-eeae9351e52e68e19b0f869429b144506693284c06daaf0836ae8d169b95b428.gltf"
+    },
+    {
+      "id": "context",
+      "url": "context/model-f6924d95b028b6311abc8049866ffd5f15432629dc64106e7418d81a16c30e8d.gltf"
+    },
+    {
+      "id": "gate-stairs",
+      "url": "gate-stairs/model-81088712a8a3604f42bee0500209181abefa938033fd5aeb31725dea321175be.gltf"
+    },
+    {
+      "id": "garden",
+      "url": "garden/model-cca2c72c0dab23556ed3241caf3723d55467c8c60fdafdd69544dc9d4aa04245.gltf"
+    },
+    {
+      "id": "west-route",
+      "url": "west-route/model-31dfe80d6cf53fccc8008ce39b709175a75c5efeca10348324d9fd9a24a8112a.gltf"
+    },
+    {
+      "id": "terraces",
+      "url": "terraces/model-a6a9df7e81fbcb372f560947103ae486d7ea553db530f34c3a4619abf87f7fb7.gltf"
+    },
+    {
+      "id": "c-retaining",
+      "url": "c-retaining/model-376e32a108d7b7a70b1d55e5df07de5b2c76ebdbfd837236903f1fc6a7bf9e09.gltf"
+    },
+    {
+      "id": "church-side-terrace",
+      "url": "church-side-terrace/model-037703d95defcbdaf252b5c761daee1e98b0f788baf7cbd80e59470fa43e8770.gltf"
+    },
+    {
+      "id": "west-service",
+      "url": "west-service/model-fdea3422568fa704d608c7a77e52a00f73807bdadf5c02a8de20d500788ab701.gltf"
+    },
+    {
+      "id": "finish3",
+      "url": "finish3/model-f0a8c49536d0a91317da50c9795617201465e337eb08367bebb23d7f1d4e6fb8.gltf"
+    },
+    {
+      "id": "retaining",
+      "url": "retaining/model-9f97737dde1c6cd88508b5a938b972650c1e0d16385d1a7bede07936cfc6c917.gltf"
+    },
+    {
+      "id": "planting",
+      "url": "planting/model-224b7c164a61ec47c0ed22c1ddacf171c407575f8c8a5fac24e07a46b1a0f594.gltf"
+    }
+  ]
+}

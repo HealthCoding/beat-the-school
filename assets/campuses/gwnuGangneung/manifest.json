@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "source": "GWNU Gangneung draft; elevations and identification estimated",
+  "models": [
+    {
+      "id": "n17-lifesci2",
+      "name": "생명과학2호관",
+      "variant": "detailed",
+      "url": "n17-lifesci2/model-c40ce4798c4f4c435ca23c153b01824c1eb038d4c8b61164e38d9f31e3ad1934.gltf",
+      "triangles": 32272
+    },
+    {
+      "id": "n16-lifesci1",
+      "name": "생명과학1호관",
+      "variant": "detailed",
+      "url": "n16-lifesci1/model-c824f316f810ea03dbfc89ddaae28c53e19fe8ad923055658ed4f94b7b1d203b.gltf",
+      "triangles": 13106
+    },
+    {
+      "id": "n15-convergence-plaza",
+      "name": "창의융합플라자(수산질병관리원)",
+      "variant": "detailed",
+      "url": "n15-convergence-plaza/model-686d455d9552cc6555e0ed46b841d8078999cc70ccc47a67c6fc4a1cc26b7ea4.gltf",
+      "triangles": 2441
+    },
+    {
+      "id": "n14-natsci2",
+      "name": "자연과학2호관",
+      "variant": "detailed",
+      "url": "n14-natsci2/model-c9988f067d357bfb4800436fce799246b61e8e95739a3c75d79f44fed8f96bc6.gltf",
+      "triangles": 23298
+    },
+    {
+      "id": "n13-natsci1",
+      "name": "자연과학1호관",
+      "variant": "detailed",
+      "url": "n13-natsci1/model-5a2a046d33adb3e5819e5ef9a29517ec53646296752099b696df20c838df336c.gltf",
+      "triangles": 28332
+    },
+    {
+      "id": "n18-central-lab",
+      "name": "공동실험실습관",
+      "variant": "detailed",
+      "url": "n18-central-lab/model-2a09b29843b13600010e8ea43d2f98eaf0feff4413a2662de0a25c4667f84424.gltf",
+      "triangles": 4784
+    },
+    {
+      "id": "n11-eng1",
+      "name": "공학1호관",
+      "variant": "detailed",
+      "url": "n11-eng1/model-ceebb79f28d0b5fe6c0a2d832abe5f2d8b6c7a2706d4a980202606b1e94fd230.gltf",
+      "triangles": 26344
+    },
+    {
+      "id": "n12-eng2",
+      "name": "공학2호관",
+      "variant": "detailed",
+      "url": "n12-eng2/model-cb34026cac24cd9a9e489b5ea0f62e85225cca5b1c64d92a612544dcc6c6bf9d.gltf",
+      "triangles": 18378
+    },
+    {
+      "id": "n10-iacg",
+      "name": "산학협력관",
+      "variant": "detailed",
+      "url": "n10-iacg/model-d71c5f0632990acba3803388734409114337afbbf796fb016facd87249c7cc27.gltf",
+      "triangles": 18986
+    },
+    {
+      "id": "n9-bi-center",
+      "name": "창업보육센터",
+      "variant": "detailed",
+      "url": "n9-bi-center/model-0a96584ca229cf2992ad0e3a013637439af4f71dc8b20c0dba5be3f3391d1c6c.gltf",
+      "triangles": 10040
+    },
+    {
+      "id": "n8-power-plant",
+      "name": "파워플랜트",
+      "variant": "detailed",
+      "url": "n8-power-plant/model-c6516d39c49aef66e27d9759d54331fee85e6bc1b596bb8692f7959555bbf786.gltf",
+      "triangles": 2270
+    },
+    {
+      "id": "c6-main-admin",
+      "name": "대학본부",
+      "variant": "detailed",
+      "url": "c6-main-admin/model-2039ad95a908bd7b7eaecdbfcb44d5d86fd662bf864db3ffd1d6b8779ced21a5.gltf",
+      "triangles": 22772
+    },
+    {
+      "id": "n5-haeram-hall",
+      "name": "해람문화관",
+      "variant": "detailed",
+      "url": "n5-haeram-hall/model-e3b4d4bf690c932b86b18c5c7f78f2b352d80c0bafdb1fc419c818d84081068d.gltf",
+      "triangles": 6874
+    },
+    {
+      "id": "n6-gym",
+      "name": "체육관",
+      "variant": "detailed",
+      "url": "n6-gym/model-63fd3ed37bb977f97c43f6e901e3667a486d9e9bd1539286556e1f8190bf70f0.gltf",
+      "triangles": 8918
+    },
+    {
+      "id": "n7-martial-arts",
+      "name": "무도관",
+      "variant": "detailed",
+      "url": "n7-martial-arts/model-a7ea4169403b6ab76d4eb5faf718243e83c70c42bb524c7b080720a94dddd2ed.gltf",
+      "triangles": 2256
+    },
+    {
+      "id": "c1-socsci",
+      "name": "사회과학관",
+      "variant": "detailed",
+      "url": "c1-socsci/model-9aaca22b39603bbd1b8f0793ebcc9a06340051e1d593eeb8a22b177ab92d17b5.gltf",
+      "triangles": 35016
+    },
+    {
+      "id": "c5-library",
+      "name": "학술정보지원센터(중앙도서관)",
+      "variant": "detailed",
+      "url": "c5-library/model-bbe6a89eaae8949eb66750ff629da9f6d25721def2de58a3268bca5c4b0865b3.gltf",
+      "triangles": 20120
+    },
+    {
+      "id": "c11-art2",
+      "name": "예술2호관",
+      "variant": "detailed",
+      "url": "c11-art2/model-bc57ef236c5f601fb83d02eafff7fe62f661ce2c07299e26cd1ae6206e682a24.gltf",
+      "triangles": 41090
+    },
+    {
+      "id": "c10-art1",
+      "name": "예술1호관",
+      "variant": "detailed",
+      "url": "c10-art1/model-fdf49029ec6fc2fe1c24df446900b1c00b2e4d73c4c6d13f0c487a4253b73566.gltf",
+      "triangles": 4202
+    },
+    {
+      "id": "c13-rotc",
+      "name": "학군단",
+      "variant": "detailed",
+      "url": "c13-rotc/model-d720748b42105cb78aa7e70d92c0a963c794b2c9ff50b778044e4328e786bbf8.gltf",
+      "triangles": 1490
+    },
+    {
+      "id": "c9-edu-support",
+      "name": "교육지원센터(박물관)",
+      "variant": "detailed",
+      "url": "c9-edu-support/model-615d0ca214e9e7f60b11b5b81acf6f07ce15087503df9374397f865af2c3d9d6.gltf",
+      "triangles": 25496
+    },
+    {
+      "id": "c3-student-union-a",
+      "name": "학생회관(우편취급국동)",
+      "variant": "detailed",
+      "url": "c3-student-union-a/model-ddede04b9910326dfdc4c4aaed7d87b74b47928bdcb9553fff9862e7b9b8c2aa.gltf",
+      "triangles": 2196
+    },
+    {
+      "id": "c3-student-union-b",
+      "name": "학생회관(학생복지1호관)",
+      "variant": "detailed",
+      "url": "c3-student-union-b/model-6060011f75c37781b15e14d71be1f948a007ed6dfa6e2cfe2facdaa7cdd359c8.gltf",
+      "triangles": 1318
+    },
+    {
+      "id": "c4-welfare-a",
+      "name": "후생관(학생복지2호관)",
+      "variant": "detailed",
+      "url": "c4-welfare-a/model-8c89a442e94d922d28322fb738f967c465f76207e99c52da6607f55612d5cea4.gltf",
+      "triangles": 2578
+    },
+    {
+      "id": "c4-welfare-b",
+      "name": "후생관 부속동",
+      "variant": "detailed",
+      "url": "c4-welfare-b/model-f0fb2bef40f97db7db07b3ad3dcd7206cc745a9293f1c8c13cf80cdf3a31f50a.gltf",
+      "triangles": 1331
+    },
+    {
+      "id": "d3-myungjin",
+      "name": "학생생활관(명진관)",
+      "variant": "detailed",
+      "url": "d3-myungjin/model-c6461fd76c816fe38a0e2bc0d8f8dc2f64e4053e46bbca8140f6dc5a125ecc81.gltf",
+      "triangles": 4600
+    },
+    {
+      "id": "d6-intl-house",
+      "name": "학생생활관(국제교류관)",
+      "variant": "detailed",
+      "url": "d6-intl-house/model-3e3ad52ee225c1a0af5f9ada5c1b71acdc8ec89b4b5175c17ee84e4987cacc2f.gltf",
+      "triangles": 4691
+    },
+    {
+      "id": "d4-yulgok",
+      "name": "학생생활관(율곡관)",
+      "variant": "detailed",
+      "url": "d4-yulgok/model-c5c7e51ca68c02705d2d7dbd5d4b8ba0f4debc6c2dbfade55c5dfd2c1f26a8a6.gltf",
+      "triangles": 8727
+    },
+    {
+      "id": "d5-saimdang",
+      "name": "학생생활관(사임당관)",
+      "variant": "detailed",
+      "url": "d5-saimdang/model-5318378e5cbe5ba6fc56aaf6d0fa4fdfeff32626cf8724b79794b06305d8b782.gltf",
+      "triangles": 6843
+    },
+    {
+      "id": "d7-glocal",
+      "name": "학생생활관(글로컬관/구 이문관)",
+      "variant": "detailed",
+      "url": "d7-glocal/model-fb8fc96cf0f61cbbb8c4727000b1a79c28c31c8e4ca369decf1b1f0cdf1cac25.gltf",
+      "triangles": 5370
+    },
+    {
+      "id": "d9-annex",
+      "name": "학생생활관 부속동",
+      "variant": "detailed",
+      "url": "d9-annex/model-7ccf426afd68a7e8c274bf4a7d6d13284b05ae9173031a418141f4bd20a6f3aa.gltf",
+      "triangles": 376
+    },
+    {
+      "id": "d9-haesong",
+      "name": "학생생활관(해송관/Global E-zone)",
+      "variant": "detailed",
+      "url": "d9-haesong/model-a6668668e34fdd2f8f8026045ae3eb5ea08be6f5cf47d0c6c6331acd36ea596c.gltf",
+      "triangles": 6205
+    },
+    {
+      "id": "d9-jeongjin",
+      "name": "학생생활관(정진관)",
+      "variant": "detailed",
+      "url": "d9-jeongjin/model-8d43b4ed097a13e8f93f47f39aca0cd676d101079a623dd185f5f56a31efd9c4.gltf",
+      "triangles": 7410
+    },
+    {
+      "id": "s1-dent1",
+      "name": "치학1호관",
+      "variant": "detailed",
+      "url": "s1-dent1/model-a75abe03d09ae7c3118b54ad07ae7565332cba9bd70b76f8714676d9e98f7baf.gltf",
+      "triangles": 5391
+    },
+    {
+      "id": "s-annex1",
+      "name": "치과대학 부속동 1",
+      "variant": "detailed",
+      "url": "s-annex1/model-00c80d1fae59736749887984cfcc7db707afc9cb1760791432a7d7ba10c9d3fc.gltf",
+      "triangles": 562
+    },
+    {
+      "id": "s-annex2",
+      "name": "치과대학 부속동 2",
+      "variant": "detailed",
+      "url": "s-annex2/model-cb50e104cf86cf1ee7263fc0368658568bee9395bf70b447d3fa407294ce534d.gltf",
+      "triangles": 456
+    },
+    {
+      "id": "s2-dent2",
+      "name": "치학2호관",
+      "variant": "detailed",
+      "url": "s2-dent2/model-e3135320aca1e8ff7cd2022f5f595874d1fcbc653b0494a0fd1e225956784623.gltf",
+      "triangles": 5012
+    },
+    {
+      "id": "d8-solhyang",
+      "name": "학생생활관(솔향관)",
+      "variant": "detailed",
+      "url": "d8-solhyang/model-363a732611cbc45d6646260cd368bd85121cacfd6f4ade54eb81a3adf898ebfb.gltf",
+      "triangles": 10576
+    },
+    {
+      "id": "c2-humanities",
+      "name": "인문관",
+      "variant": "detailed",
+      "url": "c2-humanities/model-292664b4f64c2d018b43a6f23c8b0075196c3df7cde75de2e1db57cac4575599.gltf",
+      "triangles": 26142
+    },
+    {
+      "id": "n1-main-gate",
+      "name": "정문",
+      "variant": "custom",
+      "url": "n1-main-gate/model-485c1f20ce429927c9a9335d0004f98c79d0eed0681fdc9221c5f73ea4ac3ef6.gltf",
+      "triangles": 1834
+    },
+    {
+      "id": "c7-greenhouse",
+      "name": "각추식물원",
+      "variant": "custom",
+      "url": "c7-greenhouse/model-7181096f14a3247bc4d1d469d072c1a1840dc6ed5875915cda8383be2f762cc8.gltf",
+      "triangles": 1537
+    },
+    {
+      "id": "n20-shelter",
+      "name": "쉼뜨락",
+      "variant": "custom",
+      "url": "n20-shelter/model-2850f34d2bcd8c73b47ab17af701cc2fbeb1c47e2451646cfabd1306d54bc9c6.gltf",
+      "triangles": 2112
+    },
+    {
+      "id": "c17-sports",
+      "name": "해람 스포츠콤플렉스",
+      "variant": "custom",
+      "url": "c17-sports/model-8ab46277f204c523180750fc277aa67762711bd9b9f5e3208753d5a9c1c82f44.gltf",
+      "triangles": 3440
+    },
+    {
+      "id": "c15-golf",
+      "name": "골프학습장",
+      "variant": "custom",
+      "url": "c15-golf/model-b12dc7b1dc9b372c15b8e2298be9033bd1c35f86fcb0ae3e10576df39e240609.gltf",
+      "triangles": 1992
+    },
+    {
+      "id": "c16-open-theatre",
+      "name": "야외음악당",
+      "variant": "custom",
+      "url": "c16-open-theatre/model-41f826f779941b5cd99cd607a6f9a4d187ccdc31480405c63d3cf9af8b45c3ff.gltf",
+      "triangles": 4314
+    }
+  ]
+}

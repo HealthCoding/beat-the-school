@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "source": "uos-seoul-v2 active-models.json (37 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "centennial",
+      "name": "100주년기념관",
+      "variant": "detailed",
+      "url": "centennial/model-b0c935b9154951793d1ea687a81c2d7ffac2790be91b56f74c95d3e656f7a464.gltf"
+    },
+    {
+      "id": "mainAdmin",
+      "name": "대학본부",
+      "variant": "detailed",
+      "url": "mainAdmin/model-98b88a8c5121f7a1f3ec0114c7c64195ae518fd3132f2ae847b792043b62e682.gltf"
+    },
+    {
+      "id": "gyeongnong",
+      "name": "경농관",
+      "variant": "detailed",
+      "url": "gyeongnong/model-332c16fcb1a359cf8aa321b5ebcc279a1b5cc7856cdb312d407ec92d120dac89.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-3f6a4d59749d34f719ea70eb213fe2d1392cc8991ba61663aaf9161b50fbc125.gltf"
+    },
+    {
+      "id": "jeonnong",
+      "name": "전농관",
+      "variant": "generic-v2",
+      "url": "jeonnong/model-6d139fda961b4aa7cb7c37f8e4563ea9ccd2f9ad1702d7f67f34e603286c8d1e.gltf"
+    },
+    {
+      "id": "civilEng",
+      "name": "건설공학관",
+      "variant": "generic-v2",
+      "url": "civilEng/model-fc9d972fc21fa871dd4bd0302882f56ab4745e0613191762831ae5f0032ae2ff.gltf"
+    },
+    {
+      "id": "changgong",
+      "name": "창공관",
+      "variant": "generic-v2",
+      "url": "changgong/model-9e2c34f33d78b60aeaca09b9c7b72673d6284590382c26a88e8f82a2b0cf5f3b.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문학관",
+      "variant": "generic-v2",
+      "url": "humanities/model-5c8910c0c8b9ff3b89b8e051f3668ffa82252cac9f4b8768c01adbebe2faf256.gltf"
+    },
+    {
+      "id": "baebong",
+      "name": "배봉관",
+      "variant": "generic-v2",
+      "url": "baebong/model-9c75780286e68bd4b94282b25167fb63139091e8a54207c4a23d56834e45cb99.gltf"
+    },
+    {
+      "id": "naturalScience",
+      "name": "자연과학관",
+      "variant": "generic-v2",
+      "url": "naturalScience/model-750533891d411a6d5c640fe6bc94be2a8eb08239f182622c1ab5484835075fd4.gltf"
+    },
+    {
+      "id": "eng2",
+      "name": "창의혁신관",
+      "variant": "generic-v2",
+      "url": "eng2/model-b51841cc8e9c6264434d14c5e71aa32f91027f76e54dcbeda46506ad52210113.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-1c864cef314b3d77eee63a4cdb0a7f4f7b53f1d1f022d074e1640249bb7b8af8.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "시대인재관(학군단)",
+      "variant": "generic-v2",
+      "url": "rotc/model-ad14db2bfbf8c5aef20321f691025c0c07bf309ad867e814daa59190a11b9e49.gltf"
+    },
+    {
+      "id": "sciTech",
+      "name": "과학기술관",
+      "variant": "generic-v2",
+      "url": "sciTech/model-95a172db33f0e07c01e25c0824149bc39e4a5abbc9705ad26c30ed1c3f09e6ca.gltf"
+    },
+    {
+      "id": "century21",
+      "name": "21세기관",
+      "variant": "generic-v2",
+      "url": "century21/model-5ca40c5b238ff49a8a8ae01a4e2dca78b3d0e587b5371e08aab8b88d983950c1.gltf"
+    },
+    {
+      "id": "design",
+      "name": "조형관",
+      "variant": "generic-v2",
+      "url": "design/model-ec433e9020864648ede2836387953577b189207a37c6b0caf7e336af6933c1d0.gltf"
+    },
+    {
+      "id": "jajakmaru",
+      "name": "자작마루",
+      "variant": "generic-v2",
+      "url": "jajakmaru/model-95288317061ef0e8bd962095385fd6584b8c9150270bfcac2bdb6458d5dba37d.gltf"
+    },
+    {
+      "id": "infoTech",
+      "name": "정보기술관",
+      "variant": "generic-v2",
+      "url": "infoTech/model-dede557d54037d5e2f0f07e994dbb8793668f5f061f13fb3028110c405a8723a.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법학관",
+      "variant": "generic-v2",
+      "url": "law/model-67b6cc44314aec7d0774767e35b9898f132433c65d23c8f0720610a341f89851.gltf"
+    },
+    {
+      "id": "dormitory",
+      "name": "생활관",
+      "variant": "generic-v2",
+      "url": "dormitory/model-6c53f5831fc76f4057f2c766c6dabc0c39fe07b964904a15d343bbadd07f3a7f.gltf"
+    },
+    {
+      "id": "archLab",
+      "name": "건축구조실험동",
+      "variant": "generic-v2",
+      "url": "archLab/model-4f0dc55aa5a9dacd66deb3b767022866d2bac73a7c623b2b91230fcfeb4ac418.gltf"
+    },
+    {
+      "id": "civilLab",
+      "name": "토목구조실험동",
+      "variant": "generic-v2",
+      "url": "civilLab/model-2687fe0029704a88be3ac34eb5e9a9a2d0c2ce481bff58dc6adb7ea3adbfefdd.gltf"
+    },
+    {
+      "id": "media",
+      "name": "미디어관",
+      "variant": "generic-v2",
+      "url": "media/model-5d620df2749af2183e249c4dd0b5302d922a0d1bdbe218592409e7cbe1cfc8d5.gltf"
+    },
+    {
+      "id": "auditorium",
+      "name": "대강당",
+      "variant": "generic-v2",
+      "url": "auditorium/model-30dd7a030ca35329f0609e88459f1324a10d66610326e84276c882edab42411f.gltf"
+    },
+    {
+      "id": "museum",
+      "name": "박물관",
+      "variant": "generic-v2",
+      "url": "museum/model-51ccc4b188d9bf898c274b26ffd1cf7af10e913795d543a956306746a84223b3.gltf"
+    },
+    {
+      "id": "wellness",
+      "name": "웰니스센터",
+      "variant": "generic-v2",
+      "url": "wellness/model-ca189026eeb878aef683f34d9a757d4dbc3d1fdd1b4e0fd76e485f70573adfcc.gltf"
+    },
+    {
+      "id": "isus",
+      "name": "시민문화교육관",
+      "variant": "generic-v2",
+      "url": "isus/model-4c01d3c351ccf4dacbf6390c49d56810f63c53ea40dacccc373aa6b0c8c9d8ce.gltf"
+    },
+    {
+      "id": "mirae",
+      "name": "미래관",
+      "variant": "generic-v2",
+      "url": "mirae/model-f1a6cbf1539204733ecfcee75c171c818dc5b3817ecccc9bae48db6fc3d90129.gltf"
+    },
+    {
+      "id": "intlHouseMain",
+      "name": "국제학사",
+      "variant": "generic-v2",
+      "url": "intlHouseMain/model-2fd3d8a4b8497b142b5800031293f0d8dd4ef9a68e17a9de5bcbcc8b9b516b7e.gltf"
+    },
+    {
+      "id": "intlHouseNew",
+      "name": "국제학사(예지관)",
+      "variant": "generic-v2",
+      "url": "intlHouseNew/model-c52b6c25b4d9b7989802e5e79a52a842f1c88cf66690dacb6bfd2f5d3d9820d8.gltf"
+    },
+    {
+      "id": "music",
+      "name": "음악관",
+      "variant": "generic-v2",
+      "url": "music/model-c913a99fd35c48b59dc1c828bd4fb605b7774f401769ed5a87f40f1db0009bb3.gltf"
+    },
+    {
+      "id": "daycare",
+      "name": "어린이집",
+      "variant": "generic-v2",
+      "url": "daycare/model-0f49c45572e498e50489a81faed8516bcad5619a1d0256f5ae4ce2f02ca1aed5.gltf"
+    },
+    {
+      "id": "smartResearch",
+      "name": "스마트연구동",
+      "variant": "generic-v2",
+      "url": "smartResearch/model-29eaf461d4400c129037e529020ab562ad1c35849a3720fcc26c1a1af080aa2f.gltf"
+    },
+    {
+      "id": "convergence",
+      "name": "시대융합관",
+      "variant": "generic-v2",
+      "url": "convergence/model-493aee16e9bca3a56cd1b00fb1568fac2c2c06969039688915f8cdc44ec319a6.gltf"
+    },
+    {
+      "id": "greenhouse",
+      "name": "자동화온실",
+      "variant": "generic-v2",
+      "url": "greenhouse/model-ea9b10be02e148292ea8436d5b244a4fd1cba2160c001983c53c4685708a1152.gltf"
+    },
+    {
+      "id": "gateOffice",
+      "name": "정문안내소",
+      "variant": "generic-v2",
+      "url": "gateOffice/model-73242acf6d70adb0585b3c45e633bdf4e633107305258d47f6f0eb42e2fd5ca0.gltf"
+    },
+    {
+      "id": "mainGate",
+      "name": "정문·시대탑",
+      "variant": "custom",
+      "url": "mainGate/model-ee3e0e2bbb144e09c4a76e7a096b9b7743f7cbd226bd5d1edae810987fa53a97.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 148446
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "source": "Ipseok R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-4f506acdcda12978fbfd666b5576eada1f4e5f06df79023f7d2f31e47a9ad003.gltf",
+      "triangles": 12088,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "east",
+      "url": "east/model-1d6e2b484022a8853cc0941e9523eb74d52328bc3c5dea454f4055d0850c31fb.gltf",
+      "triangles": 4912,
+      "name": "동관 현관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "eastend",
+      "url": "eastend/model-673a475615241efef8476453d84715c6479a205844687d2204924345f60c695a.gltf",
+      "triangles": 3524,
+      "name": "동관 끝 교실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-cb5ba74890d43f8d4fd012e9220b4c1daaa639052ec34bc0215b7f92327cffd8.gltf",
+      "triangles": 668,
+      "name": "다목적강당",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 21192
+  }
+}

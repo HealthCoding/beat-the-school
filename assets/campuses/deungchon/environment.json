@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Deungchon High Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-be5a06888fbc4087c49c2f634a175e837b104cd02fe87b457497cd46db99c0df.gltf",
+      "triangles": 17052
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-18e8b7f3faab9ae59b8b7241c9f2b7e363e2fb76a8ca52fd266e3aea2431fc75.gltf",
+      "triangles": 14772
+    },
+    {
+      "id": "context",
+      "url": "context/model-0486d8b2082b5a0551162aa9bace6277c39bb49ee58e9290519203e0f32b0f9d.gltf",
+      "triangles": 43353
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-87d3c941a31ec4c2aa7b0eb6bb5e4a2767371c6884737495b41afafa16ee60d2.gltf",
+      "triangles": 2267
+    }
+  ]
+}

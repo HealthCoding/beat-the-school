@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Dadae Busan R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -38.5,
+      "id": "env-ground",
+      "url": "env-ground/model-f017bcf77730893d5eb90fb37fcf342a172f36fe6a83ad62c727e24ee1117d41.gltf",
+      "triangles": 10456
+    },
+    {
+      "minimumY": -9.39701287216488,
+      "id": "env-site",
+      "url": "env-site/model-0df86e9675d9a629976c8aba29978a0441b82d18d04fdd3eb92381aa4bd35ce9.gltf",
+      "triangles": 2020
+    },
+    {
+      "minimumY": -23.164009516182844,
+      "id": "env-landscape",
+      "url": "env-landscape/model-41848b6d2ac1c5a440bac53d70636a722cf053310459bfc0c90efd1b9bfac379.gltf",
+      "triangles": 33814
+    },
+    {
+      "minimumY": -38.425000000000004,
+      "id": "env-context",
+      "url": "env-context/model-9ff5cd8912cef6df46cb84e5185f5cf7338f29b88f6ba7a93a70db0e0b811244.gltf",
+      "triangles": 53002
+    }
+  ]
+}

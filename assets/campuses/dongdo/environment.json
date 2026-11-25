@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Dongdo Middle School (Mapo, Seoul) R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-e026c65f913dcd5e780e31d61f3d3341fa32eca1dc356a00d71263381598194e.gltf",
+      "triangles": 17676
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-ecf72476591aceeb6088ba2289e9af46a2d11fb129929e2e732c97a2fcb65af6.gltf",
+      "triangles": 17566
+    },
+    {
+      "id": "context",
+      "url": "context/model-9e8e5a0120409cf5810497b44740313746b50c8236377f2ef9cdb6898144a6a0.gltf",
+      "triangles": 42889
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-d07bc5a31a09f00fe10ee020e64c6a144193563edce863d599ded5d456a3dfa5.gltf",
+      "triangles": 2267
+    }
+  ]
+}

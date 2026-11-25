@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Pohang Jecheol HS R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-ef9c1ebeac8fe247d34fe8330992c2241951fb4e5fb85291de0d48bb40712032.gltf",
+      "triangles": 85909
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-285e3fa199f74dfb091455fdd1d336c14dd520b7fb59cebfce361a298f5c4fbc.gltf",
+      "triangles": 77197
+    },
+    {
+      "id": "context",
+      "url": "context/model-f9f4399ba55b7e7c554d47192538fddc53ea1f08187966548e524e9f191aed63.gltf",
+      "triangles": 22458
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-30dcf9721e87527dc760d051d1f3510013a21266d599d0ce485be38e96afa720.gltf",
+      "triangles": 2267
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "source": "Sehwa Girls Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -0.05000000074505806,
+      "instanceTriangles": 21437,
+      "id": "env-ground",
+      "url": "env-ground/model-98dac8b33337fa68c7ad8d6b82bbf40c4b8e6e3d01b97ecda9297e59ea140e11.gltf",
+      "triangles": 21437
+    },
+    {
+      "minimumY": -0.05000000074505806,
+      "instanceTriangles": 5424,
+      "id": "env-site-props",
+      "url": "env-site-props/model-52f56336541c9c78ecd1691df46e5ddeb0506510819173a4b66f5bfe4431bf20.gltf",
+      "triangles": 5424
+    },
+    {
+      "minimumY": 0.019999990239739418,
+      "instanceTriangles": 8680,
+      "id": "env-landscape",
+      "url": "env-landscape/model-acca7fc4ff67d606d00ee2792ea09c80393c5a8ef5f22d660eec39443e443206.gltf",
+      "triangles": 8680
+    },
+    {
+      "minimumY": 0,
+      "instanceTriangles": 38238,
+      "id": "env-context",
+      "url": "env-context/model-925d73b9e2f752f25a2a217d896a058a1cee5551d131fdeeab91abe3ab70356d.gltf",
+      "triangles": 38238
+    },
+    {
+      "minimumY": -0.07000000774860382,
+      "instanceTriangles": 11996,
+      "id": "env-planting",
+      "url": "env-planting/model-493b17ec8ca419b6d6fa079627ef5ef08eec8f1ea1197b675b638344b70af114.gltf",
+      "triangles": 896
+    }
+  ]
+}

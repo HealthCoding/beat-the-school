@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "auto-school kyungmun (7 destructible buildings, generated from OSM way/419534349 by scripts/campuses/kyungmun/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-1a469b6f5c8bb709a94f66e64663e95a08d3ac662f71a86eb2aeee9147fca7c5.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "운화관",
+      "variant": "auto",
+      "url": "hall2/model-b72a2d7730d3118bc29c16ce3ae6574d5070b6716662fdec1eeaab4679876ebb.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "별관",
+      "variant": "auto",
+      "url": "wing3/model-b0d26c4cfbac34b755c4e2cb0ed697599a9a2311eaf2166b0b704078db0905e8.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "제2별관",
+      "variant": "auto",
+      "url": "wing4/model-bf6b38edfb06f9ce922d7fd9cbb204871c6b9dcb06f74e5dd517e00e8e9b3b8f.gltf"
+    },
+    {
+      "id": "wing5",
+      "name": "도서관",
+      "variant": "auto",
+      "url": "wing5/model-a2ac6f9df57b8e1ad1d8fc16c5b93498234eab5d91d0dc60e6856e69ac37c447.gltf"
+    },
+    {
+      "id": "wing6",
+      "name": "시청각동",
+      "variant": "auto",
+      "url": "wing6/model-303c0eeb8327e9fc4f669709dd42e73f6b40be061e7a623edaf2cfa5008e29a4.gltf"
+    },
+    {
+      "id": "shed7",
+      "name": "구름다리",
+      "variant": "auto",
+      "url": "shed7/model-595c2865f7c91367279e4bc94e6e82c76ed088b792420f454f9744189ce1c496.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 29587
+  }
+}

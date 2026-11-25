@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "Ungcheon Changwon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "main",
+      "url": "main/model-2bcf20f087c6a827caff8a5e254f23fe722e9b5c8c515c6e00563ce11c9689df.gltf",
+      "triangles": 18542,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.46000000834465027,
+      "id": "rear",
+      "url": "rear/model-da44ed8cb614cabacfa4ee2a490603cba593ac94c163fba228ca7d50c076894b.gltf",
+      "triangles": 7782,
+      "name": "후관(별관)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "dining",
+      "url": "dining/model-4783d4902caab982003965526d99725a0ce63c081e24faeddfb1bd94bab45f5f.gltf",
+      "triangles": 1704,
+      "name": "급식·소강당",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "gym",
+      "url": "gym/model-0dc4908508aaf48c55e4be29f331f4a30686afc2c520cc7b47a539ca853ac535.gltf",
+      "triangles": 4726,
+      "name": "웅비관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "store",
+      "url": "store/model-aad8e9a967e7ddece1974be91d261f9b35d4876e43714a88614d784892d342a8.gltf",
+      "triangles": 624,
+      "name": "옛 급식소·관리 부속 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "guard",
+      "url": "guard/model-f113e445d01b96d4b685c69cbb3caff3b00c7b17493ebf56e52f5fdc0919cb8f.gltf",
+      "triangles": 448,
+      "name": "정문 안내실 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 33826
+  }
+}

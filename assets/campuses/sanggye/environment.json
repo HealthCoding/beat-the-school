@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Sanggye Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-f444387f34ff8dda3477cbb1b38f21465bcc8ca48e30271fcf76028ce401dda8.gltf",
+      "triangles": 16736
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-f89553c956e2c7b871d112dc23909ec2743bdf5ae4f8b815f50b975ba46371ae.gltf",
+      "triangles": 36750
+    },
+    {
+      "id": "context",
+      "url": "context/model-10e40f8e6a18f0a733e1697076159533cebb371047b5b9b4c4944805d34ba60d.gltf",
+      "triangles": 56453
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-564c1966a4f8ddc08fd782081d9be8a30659ed86ae87178f24134eeaf5e1ed65.gltf",
+      "triangles": 2267
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "gangseo-seoul active-models.json (8 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "holton",
+      "name": "홀튼관",
+      "variant": "detailed",
+      "url": "holton/model-eff054605e822344860a63b0a007f7ae3d72f5e0909d36ce9caa780176147655.gltf"
+    },
+    {
+      "id": "harding",
+      "name": "하딩관",
+      "variant": "detailed",
+      "url": "harding/model-a550ac5854e97534fbc59570ef953ee5d13f187062664ac88ae523fb90c88722.gltf"
+    },
+    {
+      "id": "chesshir",
+      "name": "채셔관",
+      "variant": "detailed",
+      "url": "chesshir/model-f5cc664dc27806bfe668a6f30d12f760ab20636363ce16e0bfe7093732e923df.gltf"
+    },
+    {
+      "id": "rucker",
+      "name": "라커관",
+      "variant": "generic-v2",
+      "url": "rucker/model-ab19dadf5e9b6889e44c84ae30da162afbe338aca864581d631016a57aba96bd.gltf"
+    },
+    {
+      "id": "pasuri",
+      "name": "파수리관",
+      "variant": "generic-v2",
+      "url": "pasuri/model-d94fe4b07ff76b5d16e8b2808fa1fe97a0a50f0725c1e2d16c8b56b3018649e1.gltf"
+    },
+    {
+      "id": "allen",
+      "name": "알렌관",
+      "variant": "generic-v2",
+      "url": "allen/model-a5dd787b4103b08f0885e97a9984bf74b1cc1db0fe9bcf3db6cd499f52f9463c.gltf"
+    },
+    {
+      "id": "richardson",
+      "name": "리처드슨관",
+      "variant": "generic-v2",
+      "url": "richardson/model-dc0ba478d2a513471f3ecc25d248cf5533453214beaaed9bcdb321304ff2a145.gltf"
+    },
+    {
+      "id": "cafe",
+      "name": "KCU카페",
+      "variant": "generic-v2",
+      "url": "cafe/model-b0756a07c74ceea72bc8e1263bf08dd363bc4b5d6041d0d419f3f6f87652a292.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 19757
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Sunhwa Arts R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-2294222ab11e69bcbf503ca220d7e646122694bc9915640c31e5bf3da7ced92b.gltf",
+      "triangles": 124050
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-869fe59ecf0d5eed0f4ea149564fbcc433bbce54969329b66afc79bf08a0a530.gltf",
+      "triangles": 41452
+    },
+    {
+      "id": "context",
+      "url": "context/model-cce8e3b5526040ec21bd9f47ea08ec129f3d1ed329561e8632965907d812099a.gltf",
+      "triangles": 42102
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-952e2f8337031ac53cfb6e2522d0621ad781898813969f83939deddde5a488e8.gltf",
+      "triangles": 3475
+    }
+  ]
+}

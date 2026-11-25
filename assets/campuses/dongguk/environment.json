@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/dongguk/build-package.mjs from the pilot preview modules + landscape/ + context/; look-textures = texture carrier for the ground shader",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-7962a9d9d622e40a7c6cc9b52538f1aa2b2f6c4e574fb36442ef21a06bf30f5f.gltf",
+      "triangles": 201413
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-c38b22ad4289f9937382c8588afee749f5e6626a2fd538049909e61837d9600a.gltf",
+      "triangles": 27846
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-41c269c792d94bd918757906a33e9fc374dcbf6d375cba8b89db76c68453909b.gltf",
+      "triangles": 96490
+    },
+    {
+      "id": "env-landscape",
+      "url": "env-landscape/model-db120f69811c3b03b4a196cdbc464ff0a8d2e1e485ace90393423246e5870dbf.gltf",
+      "triangles": 5867
+    },
+    {
+      "id": "env-landscape-sports",
+      "url": "env-landscape-sports/model-4d6c83fdc393ac28221ff3ec7e1b1e10552520f179c5d0f703ba565017e23416.gltf",
+      "triangles": 5382
+    },
+    {
+      "id": "context",
+      "url": "context/model-85294bf94f275dee80a2a74313a1b465ac490105d3a2e86b56ca443cad618b6b.gltf",
+      "triangles": 59097
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-aee855c79fd927591e7f6d7ccda1ee637e474b3c707cb0134854d691fca25057.gltf",
+      "triangles": null
+    },
+    {
+      "id": "look-textures",
+      "url": "look-textures/model-479066c32995bd2b5802b9d25aca41a6eff6a5a895ff2b64d1c3232e6aa36559.gltf",
+      "triangles": 0,
+      "carrier": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "source": "Gwanyang Anyang R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.05000000074505806,
+      "id": "main",
+      "url": "main/model-16a8a3aff70d9dbb077c963f47a99070c260045a664d67881e8bf5fb6d0f613d.gltf",
+      "triangles": 41722,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0,
+      "id": "gym",
+      "url": "gym/model-ede91154516f327ef58b769a603c81019c4561645c743f16549324f2f37a9000.gltf",
+      "triangles": 3668,
+      "name": "한볕관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 45390
+  }
+}

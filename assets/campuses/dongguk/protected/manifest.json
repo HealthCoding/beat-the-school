@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "dongguk-seoul active-models.json destructible:false (정각원, 범종각: never damaged, shield), packed losslessly with the campus models",
+  "models": [
+    {
+      "id": "jeonggakwon",
+      "name": "정각원",
+      "url": "../jeonggakwon/model-0420b19b45a558535f5ec5ed64ceaef1ef53e6e359b9410e58db90cee73574e7.gltf",
+      "triangles": 11526
+    },
+    {
+      "id": "bell",
+      "name": "범종각",
+      "url": "../bell/model-6e127042a10abfc14cea1244adf67575842e71ec57086b6a3cc65338fb8752ca.gltf",
+      "triangles": 2662
+    }
+  ]
+}

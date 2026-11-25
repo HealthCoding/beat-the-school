@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "Provisional child-facility protection and church",
+  "models": [
+    {
+      "id": "music",
+      "name": "숭의음악당·부설유치원",
+      "url": "../music/model-f85404206622bfb6d52b100a4653688f24d53b9f2a0a64f769ce118b90755635.gltf",
+      "triangles": 14218
+    },
+    {
+      "id": "church",
+      "name": "숭의마펫기념교회",
+      "url": "../church/model-cf02c7d97ee69b5e5c271d5d77607ce71f0e1995e5c575a4dde68e07c09a9e13.gltf",
+      "triangles": 21620
+    }
+  ]
+}

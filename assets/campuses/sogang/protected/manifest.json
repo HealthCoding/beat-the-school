@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "sogang-sinchon active-models.json destructible:false (성이냐시오관(성당), 예수회공동체: never damaged, shield), packed losslessly with the campus models",
+  "models": [
+    {
+      "id": "ignatius",
+      "name": "성이냐시오관(성당)",
+      "url": "../ignatius/model-e998737597c96aab6b1011a29b36c482845b44aa4c6459579663a22fa024c394.gltf",
+      "triangles": 9039
+    },
+    {
+      "id": "jesuit",
+      "name": "예수회공동체",
+      "url": "../jesuit/model-061a49d1e577febd1de4eb1c9faa162e8d7ed49bacf378947e20666704b86507.gltf",
+      "triangles": 2676
+    }
+  ]
+}

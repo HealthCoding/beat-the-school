@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Seongdong Global Business HS R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-7ef74960375a1818c0b1393977735e5b61884634183d7871d85fbbdb84aa1a33.gltf",
+      "triangles": 4910,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-east",
+      "url": "main-east/model-b482479f30520a6689315a8925e121dfd973cc3d5bf3f26c4e75a5f2a11c9661.gltf",
+      "triangles": 2660,
+      "name": "본관 동편",
+      "variant": "detailed"
+    },
+    {
+      "id": "court-wing",
+      "url": "court-wing/model-a5302f606c3e993f0e466892b532b4964cceb29fe07d851a4a41d5fc688b1f4c.gltf",
+      "triangles": 5288,
+      "name": "중정동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west",
+      "url": "west/model-5227ee073f3b328212fd5793b1a80f93edb201ac8a7749119a0866d32603346f.gltf",
+      "triangles": 8234,
+      "name": "서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "east",
+      "url": "east/model-255b2a89096fe2f86bd816e2eea4d6b69b425af8fe4ca38bd9addb390f780f67.gltf",
+      "triangles": 4176,
+      "name": "동관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 25268
+  }
+}

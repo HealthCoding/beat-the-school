@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "source": "Gyeongil Girls Changwon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 2.6500000953674316,
+      "id": "main",
+      "url": "main/model-715f6d5072573184467c08b41214ed85c183045f29110a8bb3e12f7cb9a64677.gltf",
+      "triangles": 33284,
+      "name": "긴 교사동(행정동명별 내부 구획 미확정)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "gym",
+      "url": "gym/model-a885a1caa6a5e572313c39b9585319c78027a1cfd109b36ae7e005bdc3c876b2.gltf",
+      "triangles": 14662,
+      "name": "서남 강당·하부 교실 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 47946
+  }
+}

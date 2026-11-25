@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "source": "pilot/cau-seoul/active-models.json, packed losslessly",
+  "models": [
+    {
+      "id": "youngshin",
+      "name": "영신관",
+      "variant": "detailed",
+      "url": "youngshin/model-a5f9e52e417d2e06016019df01cc1e4e048cde2b39f6c958cd635b6a8c6b2bf3.gltf"
+    },
+    {
+      "id": "pharmacy",
+      "name": "약학대학 및 R&D센터",
+      "variant": "detailed",
+      "url": "pharmacy/model-a9c699a15160ca881c3f5964fc25f8feb93653e6bf5202c04b4c9b3b9858acec.gltf"
+    },
+    {
+      "id": "pfeiffer",
+      "name": "파이퍼홀",
+      "variant": "generic",
+      "url": "pfeiffer/model-b5f08ae30893ddfecc3b115fda5615c86895fc697b9808ce9cc6f92800357706.gltf"
+    },
+    {
+      "id": "surim",
+      "name": "수림과학관",
+      "variant": "generic",
+      "url": "surim/model-595cebb995ad61ad78f513632c9165d7aacc1829829e09a8e0ef864be6a5e662.gltf"
+    },
+    {
+      "id": "medicine2",
+      "name": "제2의학관",
+      "variant": "generic",
+      "url": "medicine2/model-d35099ef59c4439e18a04ef7a7904808ea07335b4959c3efc2e6066c9d8df360.gltf"
+    },
+    {
+      "id": "medicine1",
+      "name": "제1의학관",
+      "variant": "generic",
+      "url": "medicine1/model-1df7f158f2b5b6d9a3b949fdfc1ff69795ae32107025c66218c932fe63316d3c.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic",
+      "url": "studentUnion/model-588758c5a6374a60e82f02708c2b8a32b9977140c01e81f7ad61ac73e6442200.gltf"
+    },
+    {
+      "id": "hall108",
+      "name": "108관",
+      "variant": "generic",
+      "url": "hall108/model-7c5c4d36202cddd8b1c8faeafd725e1a9cad4664f8ed5608ef2ade06546f7622.gltf"
+    },
+    {
+      "id": "mainHall",
+      "name": "본관",
+      "variant": "generic",
+      "url": "mainHall/model-a9e659b2a94dfdf59d05786a22602262231291c91aa024f21909ff68041081c5.gltf"
+    },
+    {
+      "id": "computing",
+      "name": "전산정보관",
+      "variant": "generic",
+      "url": "computing/model-a78cacd4521b0b51ba5918a5010dfba313030ad462c2fd00ea9377e59e5f7363.gltf"
+    },
+    {
+      "id": "seorabeol",
+      "name": "서라벌홀",
+      "variant": "detailed",
+      "url": "seorabeol/model-c0521c6df6111577dbf5b39336d01402a247aa660b5b1e5ec324b33ccc339c7b.gltf"
+    },
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-b734400418eb48436333c48c70f73c4f415d52a3600dcfa61ee8f34e08d9887e.gltf"
+    },
+    {
+      "id": "bobst",
+      "name": "봅스트홀",
+      "variant": "generic",
+      "url": "bobst/model-42e381ae6141c1f593b68fc8ca0779365e0c02fb3a79b90ac194219798d3de6b.gltf"
+    },
+    {
+      "id": "engineering2",
+      "name": "제2공학관",
+      "variant": "generic",
+      "url": "engineering2/model-7d75c94912822ff0d757539ffdd952c579d059f1c24b1199e1097d90d910ab18.gltf"
+    },
+    {
+      "id": "incubator",
+      "name": "창업보육관",
+      "variant": "generic",
+      "url": "incubator/model-6a0516d1d2a073db568e2577af00386c77c0ed43e673f21aecd7ea0a345f13a7.gltf"
+    },
+    {
+      "id": "artCenter",
+      "name": "중앙문화예술관",
+      "variant": "generic",
+      "url": "artCenter/model-68248223eed258874126027a8359ecd96ea9cb6e3f4cb52b68cd831be5eafa31.gltf"
+    },
+    {
+      "id": "gradSchool",
+      "name": "대학원",
+      "variant": "generic",
+      "url": "gradSchool/model-9084c9bcaa639abaf956b7681bf9286a0cab3f7f912971ef92897cc78097578d.gltf"
+    },
+    {
+      "id": "lawSchool",
+      "name": "법학관",
+      "variant": "detailed",
+      "url": "lawSchool/model-ae2c9199acdc3ffe2091f02dabaa6661366624eed055dfe6fa009a569246ca72.gltf"
+    },
+    {
+      "id": "facultyOffice",
+      "name": "교수연구동",
+      "variant": "generic",
+      "url": "facultyOffice/model-c214e7cc268ce9d0b84e426a9f16f8357a8bc4a93d3037341dbafff85798cd11.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관(305관)",
+      "variant": "generic",
+      "url": "gym/model-ae51284ab3552bdf82e07486fcbf15a0f1c46874a8b14e7e4a6d6e4ab4100795.gltf"
+    },
+    {
+      "id": "globalHouse",
+      "name": "글로벌 하우스",
+      "variant": "generic",
+      "url": "globalHouse/model-5e4973d4d905828f42d3f2244036b05c939c817f7f43781f8eea326afdc538d5.gltf"
+    },
+    {
+      "id": "blueMirEast",
+      "name": "블루미르홀 308관(추정)",
+      "variant": "generic",
+      "url": "blueMirEast/model-b65e71e229110f567fe0403a6607f6462594d00b0951480207775f89ed14f9d1.gltf"
+    },
+    {
+      "id": "blueMirWest",
+      "name": "블루미르홀 309관(추정)",
+      "variant": "generic",
+      "url": "blueMirWest/model-83370f7da149cb0419df6eb9b7d2ef00c1c1fe31f7853d7f2ae8216b0e09cfbb.gltf"
+    },
+    {
+      "id": "centennial",
+      "name": "100주년기념관",
+      "variant": "detailed",
+      "url": "centennial/model-1b2fe73bcc2d34c3ac4011295aa4ea7f338c1864e191be570f62ede8c1140a94.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 132629
+  }
+}

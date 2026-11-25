@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "source": "konkuk-seoul active-models.json (36 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "admin",
+      "name": "행정관",
+      "variant": "generic-v2",
+      "url": "admin/model-4e05cd61546a4265978397d9390e2b6542d605d60047f8d0c2a59598baeedfb6.gltf"
+    },
+    {
+      "id": "library",
+      "name": "상허기념도서관",
+      "variant": "detailed",
+      "url": "library/model-1dd04b2c29cbac9d672e7f2c1a5f08734701ddcb4d7a77528c14bc1f6c2902c7.gltf"
+    },
+    {
+      "id": "millennium",
+      "name": "새천년관",
+      "variant": "detailed",
+      "url": "millennium/model-422b7c440fc017f3276ae67ae3f0262521bdd29c01544df8fee22e7b5f37b0b6.gltf"
+    },
+    {
+      "id": "museum",
+      "name": "박물관(구 서북학회회관)",
+      "variant": "detailed",
+      "url": "museum/model-d555aa10b4a84e369f20af4ac21cd980152179b8178ea73a46b80287e7497039.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법학관",
+      "variant": "generic-v2",
+      "url": "law/model-fc8d55554f8e4346a071284a21300178eb1923976395d60715c626e733227723.gltf"
+    },
+    {
+      "id": "business",
+      "name": "경영관",
+      "variant": "generic-v2",
+      "url": "business/model-adb99042d3aa78b5cdc11d20dc3fff545cfb22beae4e3d518626f0b70cdaa5bb.gltf"
+    },
+    {
+      "id": "sangheoResearch",
+      "name": "상허연구관",
+      "variant": "generic-v2",
+      "url": "sangheoResearch/model-0c440ec164e79ebd6ce32928f294ade62c392213d4ef3f02226dc12091b23e3f.gltf"
+    },
+    {
+      "id": "eduScience",
+      "name": "교육과학관",
+      "variant": "generic-v2",
+      "url": "eduScience/model-82d8b5c08a71d661b442479e9bd2c46d88c8f7b74aa8ff14dbaa371f791e2dc4.gltf"
+    },
+    {
+      "id": "adminNorth",
+      "name": "북쪽 소형동(미확인)",
+      "variant": "generic-v2",
+      "url": "adminNorth/model-e1e2005f3b8445ec8fa7c47993fc8171fd39b54d873fa0b41f31e5506f105123.gltf"
+    },
+    {
+      "id": "northAnnex",
+      "name": "상허연구관 북측동",
+      "variant": "generic-v2",
+      "url": "northAnnex/model-3a0fea1105e4d1fdeaed2a5d2cef737f30b3adcd8fc57269ef93880562035118.gltf"
+    },
+    {
+      "id": "language",
+      "name": "언어교육원",
+      "variant": "generic-v2",
+      "url": "language/model-043cb9cd50ff9d1748199d65ad2bac9d23806f6a97ad39df06e05f151fd5bc02.gltf"
+    },
+    {
+      "id": "artCulture",
+      "name": "예술문화관",
+      "variant": "generic-v2",
+      "url": "artCulture/model-59e8953b31eb5396e26300e28a76e48392c5dff76ac996ca2cdcd72db3b1d173.gltf"
+    },
+    {
+      "id": "specialized",
+      "name": "생명과학관부속동",
+      "variant": "generic-v2",
+      "url": "specialized/model-acddf397b64eab89f7dd845c09e23bb018a717914d8391e992471d78589af05e.gltf"
+    },
+    {
+      "id": "biomedical",
+      "name": "의생명과학연구관",
+      "variant": "generic-v2",
+      "url": "biomedical/model-0881ec9c022fa415015734f38d908df1276747f375e21d9bd959631007ee934f.gltf"
+    },
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion/model-4e7f163c4c1f9f0c0ee8f6a8108360eabc9f6db90fc51ea89e7930686cf022ea.gltf"
+    },
+    {
+      "id": "studentUnion2",
+      "name": "제2학생회관",
+      "variant": "generic-v2",
+      "url": "studentUnion2/model-ff28b3495aa0156b80939b07326632ecc9825f489bcd0aab3bf7021264df8009.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "generic-v2",
+      "url": "engineering/model-72408af39b0069828d42e90247bf8376c8b94377dc5e9fd85eaa8bf90eaeb15b.gltf"
+    },
+    {
+      "id": "engineeringLab",
+      "name": "공학관 중앙 실험동",
+      "variant": "generic-v2",
+      "url": "engineeringLab/model-252c1ff10670206518890f862cd81fc3461f644a467d6a328f9326621bac89b5.gltf"
+    },
+    {
+      "id": "engineeringSmall",
+      "name": "공대 별관",
+      "variant": "generic-v2",
+      "url": "engineeringSmall/model-2bc075b02e2cc22084433fe888903123f6de5c6adbf61cf7014503c82c51b76f.gltf"
+    },
+    {
+      "id": "heavyLab",
+      "name": "중장비동",
+      "variant": "generic-v2",
+      "url": "heavyLab/model-a8d26466a347278939db30551252635dd444670623e9755b311bae3ecd8c3cec.gltf"
+    },
+    {
+      "id": "architecture",
+      "name": "건축관",
+      "variant": "generic-v2",
+      "url": "architecture/model-e69048ed07e4321ef7828bfceba6b2c1a3c182c02a91b5eb8c5da1b8e8f31525.gltf"
+    },
+    {
+      "id": "haebong",
+      "name": "해봉부동산학관",
+      "variant": "generic-v2",
+      "url": "haebong/model-b28b46b841147f12e6fa74cf64abc7e5ce639578f3ab81b00893bac7b5d5d89c.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문학관",
+      "variant": "generic-v2",
+      "url": "humanities/model-9bd2eeaa6fe0b985c6f88df616bb0d24ccf9f8d8ce5db2228ce352c56d934b43.gltf"
+    },
+    {
+      "id": "lifeScience",
+      "name": "생명과학관",
+      "variant": "generic-v2",
+      "url": "lifeScience/model-49c6863ae95e1bb7b882133e15c76f8211b8038f41694d62dc85429029af59d6.gltf"
+    },
+    {
+      "id": "animalScience",
+      "name": "동물생명과학관",
+      "variant": "generic-v2",
+      "url": "animalScience/model-47df4dc6c8895fa80d072b4d6edb986ce0e9aa7bbd1161c71a771392c1b2a057.gltf"
+    },
+    {
+      "id": "admissions",
+      "name": "입학정보관",
+      "variant": "generic-v2",
+      "url": "admissions/model-94ff31d29b32a712900ece5588915617997f63552e4235b3c6a2601f3bd76eff.gltf"
+    },
+    {
+      "id": "newEngineering",
+      "name": "신공학관",
+      "variant": "detailed",
+      "url": "newEngineering/model-bbf4db61ef2377ba8b63b855c77579d6adf1026b83a5d6c69a929dcce96c1b9b.gltf"
+    },
+    {
+      "id": "intlHouse",
+      "name": "KU기술혁신관",
+      "variant": "generic-v2",
+      "url": "intlHouse/model-74fa5f4023ccd9ecd934631fde54b565ba29cd3354b69750d59966a5da779b82.gltf"
+    },
+    {
+      "id": "frontierHall",
+      "name": "쿨하우스 프론티어홀",
+      "variant": "generic-v2",
+      "url": "frontierHall/model-7409b10312d90d1aaafe1ff4e17a1a20f2f7badf7e60e7648ae8435dd69d6614.gltf"
+    },
+    {
+      "id": "visionHall",
+      "name": "쿨하우스 비전홀",
+      "variant": "generic-v2",
+      "url": "visionHall/model-bef1366ed7ecc801d734145159aefd7f65edf3e78b81bc8acbd8204444b6aa67.gltf"
+    },
+    {
+      "id": "lakeHall",
+      "name": "쿨하우스 레이크홀",
+      "variant": "generic-v2",
+      "url": "lakeHall/model-b9c1d60d7879362c6b24b2666b2bcdcb8cc140be22f654a0442ba3ea22daea06.gltf"
+    },
+    {
+      "id": "eduTraining",
+      "name": "교육연수원",
+      "variant": "generic-v2",
+      "url": "eduTraining/model-0d03043c49e16c7007345c7bc861e3d193ebcec972734cfc4f69af9a3f240b27.gltf"
+    },
+    {
+      "id": "globalHall",
+      "name": "쿨하우스 글로벌홀",
+      "variant": "generic-v2",
+      "url": "globalHall/model-59e8d14c9976ce082843cacf73133c90697840eda75c4386dc5901bf976101b5.gltf"
+    },
+    {
+      "id": "dreamHall",
+      "name": "쿨하우스 드림홀",
+      "variant": "generic-v2",
+      "url": "dreamHall/model-3fcc81cfadfe17523f8f17a91656eeda47dfdfd5ae26ee9934d84855b20d50f9.gltf"
+    },
+    {
+      "id": "industryCoop",
+      "name": "산학협동관",
+      "variant": "generic-v2",
+      "url": "industryCoop/model-499a08101738237f7d5b23f49186dbe5c0840ba59b38191085ddef001a756ff4.gltf"
+    },
+    {
+      "id": "vetMedicine",
+      "name": "수의학관",
+      "variant": "generic-v2",
+      "url": "vetMedicine/model-cd4409f4bfc77cd422f55ae314871559f0d754652aad3eb77e0276bc8d5104df.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 188657
+  }
+}

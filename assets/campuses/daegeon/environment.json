@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by daegeon-local-builder (OSM © OpenStreetMap contributors, ODbL; DEM Copernicus GLO-30 DSM)",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-091cfd54b8cbe6e3ce673cea7f19b4c352571b3f72c172e07bee98b5e7811937.gltf",
+      "triangles": 78408
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-a5a4a94a2e0c90fc0c34e494c3cbf7affb2dd40542ba45c85e8d288d3398d3ee.gltf",
+      "triangles": 6582
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-c85906b5fcb132fb079848e9b2abeca5b5e30e2bf3d07cdfea2d29e3acc8b696.gltf",
+      "triangles": 48206
+    },
+    {
+      "id": "context",
+      "url": "context/model-c9019e047d93187453273e29f021f7d3d25411aeecb465a62e01e4aafc0f68b6.gltf",
+      "triangles": 1991
+    }
+  ]
+}

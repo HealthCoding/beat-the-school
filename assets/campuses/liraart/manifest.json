@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "source": "auto-school liraart (1 destructible buildings, generated from OSM way/464461379 by scripts/campuses/liraart/build-package.mjs)",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "auto",
+      "url": "main/model-e4780304c9104d30232a09b4ad0f4fdfcf123504e119e5c6d094eafd03d8b1e0.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 24178
+  }
+}

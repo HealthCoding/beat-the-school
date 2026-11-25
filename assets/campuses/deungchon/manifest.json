@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Deungchon High Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-f871116ac9fbcaabbd1ae9162ef30badb0633249199e8c989e9a9e99a684b5a6.gltf",
+      "triangles": 12242,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-hall",
+      "url": "west-hall/model-0e8d77a20cfebe8e370634f5aeee7c8afe49ab33f04e3fe6a5ab100d94a61d30.gltf",
+      "triangles": 914,
+      "name": "서측 유리동",
+      "variant": "detailed"
+    },
+    {
+      "id": "link-west",
+      "url": "link-west/model-bf2bd1ceb19b5a3d1f82abbc84b2e7d458252e6f181b9647a8e190f795b484c1.gltf",
+      "triangles": 1236,
+      "name": "시계 다리",
+      "variant": "detailed"
+    },
+    {
+      "id": "central",
+      "url": "central/model-9565f871a05cf430bc6d9548f911879d510243dc0f2729395e942a263a28debf.gltf",
+      "triangles": 8566,
+      "name": "중앙동(현관·시계)",
+      "variant": "detailed"
+    },
+    {
+      "id": "link-east",
+      "url": "link-east/model-156fa204fcfe7cd4f1a9156720b98dddeb0fa374282b397b89f249265b45473a.gltf",
+      "triangles": 2952,
+      "name": "동측 연결동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east",
+      "url": "east/model-f5e348a73c67e1ca7886d98d5983913aa1c5cc15aa1d2e91f14feba8de4f01dd.gltf",
+      "triangles": 5606,
+      "name": "동관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-b6d6290ebc1c8bd8bc9d954c2712975b8053cddf8e0936e4d103b816594bd1f9.gltf",
+      "triangles": 3682,
+      "name": "구암관(급식실·체육관)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 35198
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "Gyeonggi Arts local estimated site and surroundings; OSM contributors",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-70d18f59a7438857e9c18517371f94aaa36ee14abbbc21c8229687e5f54c48dd.gltf",
+      "triangles": 105533
+    }
+  ]
+}

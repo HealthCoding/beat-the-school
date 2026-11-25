@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "Bundangjungang HQ R3 exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-d477c4551285eabfb4f62981700d74732d9f960f14540cad78bde4f12b4fad90.gltf",
+      "triangles": 18086,
+      "instanceTriangles": 18086,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-9cb1ac9cfca3af0a12a998e9031b2f79efbcf3e765fec5525fd342e204e84aed.gltf",
+      "triangles": 7480,
+      "instanceTriangles": 7480,
+      "name": "별관·과학실·다목적강당",
+      "variant": "detailed"
+    },
+    {
+      "id": "bridge",
+      "url": "bridge/model-7eb5480fc9e5e08da0a44b567ef2d331103ff681164080c561393de913576426.gltf",
+      "triangles": 2400,
+      "instanceTriangles": 2400,
+      "name": "본관·별관 연결통로",
+      "variant": "custom"
+    }
+  ],
+  "totals": {
+    "triangles": 27966
+  }
+}

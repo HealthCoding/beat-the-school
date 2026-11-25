@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Changcheon Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-e4a9af62307be824c9b81dfe451f93cc9e3485d6ad68b1ad82c238e9c29c57b8.gltf",
+      "triangles": 18609
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-0e0c72159cc1b493523461ef30e922138e7c64d591e017d89c2133a948504158.gltf",
+      "triangles": 24872
+    },
+    {
+      "id": "context",
+      "url": "context/model-023ea8d9d15c8fedbb87c4279f25a71a272bde355f24241a0fbb7694aeb4c60f.gltf",
+      "triangles": 38845
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-95abb5a8f1d9aa0634efb8f0cb0d777767affdf89380d8a89ae1a31bcf2c3a6a.gltf",
+      "triangles": 2267
+    }
+  ]
+}

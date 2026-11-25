@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Busanjin Girls Busan R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-c3dd3c3c5ede3969c4a3cb2329da750b8467f062106eda832e32f4099afd5974.gltf",
+      "triangles": 10546,
+      "name": "본관 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east-wing",
+      "url": "east-wing/model-21fd5f4781f1ff7f5814feeca09e5bef8b69aaeafb4ec68d8a052a6960ad3663.gltf",
+      "triangles": 2664,
+      "name": "본관 동편 계단·특별실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "science-wing",
+      "url": "science-wing/model-1f82e840152712b477abe0e81134294f802a1f7dd8e18da0c4ddadae7fb749e5.gltf",
+      "triangles": 6258,
+      "name": "과학관 북측 실험·정독실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "library-wing",
+      "url": "library-wing/model-68bd25fdc6574f1333040bba443400fb2e2863ae214bc4c4007a4ed63dff247e.gltf",
+      "triangles": 5144,
+      "name": "과학관 동측 서휴림·예체능동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym-hall",
+      "url": "gym-hall/model-9cc0afba67cc3b209d24365b62c3d8e2d20206c26efa24414201710983be945d.gltf",
+      "triangles": 3754,
+      "name": "체육관·학생회관 강당동",
+      "variant": "detailed"
+    },
+    {
+      "id": "shinseon-hall",
+      "url": "shinseon-hall/model-b6bd67854e5911d2f3cc055eb95bf4377facbf5e615945b00e14627d1ca0760b.gltf",
+      "triangles": 2586,
+      "name": "신선관 급식·학생회관 남관",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-2c677a71db99d765640204b7a75c259d75aabf6380888ba65efb9ae5fce90ba3.gltf",
+      "triangles": 488,
+      "name": "북문 수위실·경비초소",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 31440
+  }
+}

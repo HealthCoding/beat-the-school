@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "sunhwaarts-seoul active-models.json destructible:false (선화유치원 child facility: never damaged, shield)",
+  "models": [
+    {
+      "id": "kindergarten",
+      "name": "선화유치원",
+      "url": "../kindergarten/model-12eb8ec349ec8358f98f779aaaa7cd28dc7299e320d921c711f8b0198fc14a4f.gltf",
+      "triangles": 5170
+    }
+  ]
+}

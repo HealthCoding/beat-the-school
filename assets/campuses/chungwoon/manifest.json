@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "source": "Chungwoon University: exact positions and oriented faces; quantized render normals and UVs",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-06a7b94a187989cc4f6dfdf163cc294641aa08c8dedb58412188eb2c4652f8a7.gltf",
+      "triangles": 24104,
+      "name": "대학본부·중앙도서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "sinae",
+      "url": "sinae/model-6b63f379559dbcabbabb9fcd572bb25bbe77bf74cbb9e0384068f9289d811dc4.gltf",
+      "triangles": 10620,
+      "name": "신애관",
+      "variant": "detailed"
+    },
+    {
+      "id": "bmec",
+      "url": "bmec/model-d6e9c81b14ecc79881a6f0de88b3d7c29f648caaa585f4b2914c951baf29adf9.gltf",
+      "triangles": 5104,
+      "name": "방송미디어교육센터",
+      "variant": "detailed"
+    },
+    {
+      "id": "huimang",
+      "url": "huimang/model-3f314cc50944fc7fd4f3a7b92faa90dff535a3906f77073e089229e8b52c2042.gltf",
+      "triangles": 13166,
+      "name": "희망관",
+      "variant": "detailed"
+    },
+    {
+      "id": "susin",
+      "url": "susin/model-821f10e71458f827414f33b5970d30529965516bd24d69994227e933b381a327.gltf",
+      "triangles": 8408,
+      "name": "수신관",
+      "variant": "detailed"
+    },
+    {
+      "id": "music",
+      "url": "music/model-9a81a5d60ff6fd280232417d6bdfb26c09b81bf6b53080e463a909a98d472a0a.gltf",
+      "triangles": 6616,
+      "name": "청운음악당",
+      "variant": "detailed"
+    },
+    {
+      "id": "euncheon",
+      "url": "euncheon/model-22557639ab7171876c8f22c1f0590be66f37fcbdeb3595752c9ce671dc2ceee8.gltf",
+      "triangles": 15492,
+      "name": "은천관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hongik",
+      "url": "hongik/model-bb75baa73f5355b76f958e4b031af22d53441b794ed9f6686afa6703d4bc973e.gltf",
+      "triangles": 14868,
+      "name": "홍익관",
+      "variant": "detailed"
+    },
+    {
+      "id": "inui",
+      "url": "inui/model-ade445169ace1a27832b06b229d53deeeb458c2c2ae5958a281530927998c3fa.gltf",
+      "triangles": 11762,
+      "name": "인의관",
+      "variant": "detailed"
+    },
+    {
+      "id": "yeji",
+      "url": "yeji/model-a2a220b8e69d70361dd3a6489fe811bcb0be2ea7e5f069e4f6276344166894fb.gltf",
+      "triangles": 8470,
+      "name": "예지관",
+      "variant": "detailed"
+    },
+    {
+      "id": "sangchun",
+      "url": "sangchun/model-a7a0e7692c4e0de862f57401adf32bd0446b11e921a91c3c370875b9a2f2fbc5.gltf",
+      "triangles": 9438,
+      "name": "상춘관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hotel",
+      "url": "hotel/model-e773065d86815aa023b4c66f1438c6a72072eadcef33478c13458b59b0dc8137.gltf",
+      "triangles": 7766,
+      "name": "호텔관광대학",
+      "variant": "detailed"
+    },
+    {
+      "id": "mokryeon",
+      "url": "mokryeon/model-0e0fea708a79b58eb0d2dffb1022057e8a452240bc06fc67f88aab90de5fb321.gltf",
+      "triangles": 3787,
+      "name": "목련관",
+      "variant": "detailed"
+    },
+    {
+      "id": "const",
+      "url": "const/model-fffe0e6356e48218e943153e92f176fa9cf6108cea6ddc5e63b4e9a31e15ad06.gltf",
+      "triangles": 4734,
+      "name": "건설연구동",
+      "variant": "detailed"
+    },
+    {
+      "id": "bi",
+      "url": "bi/model-8d349228f89c141763da766d95f4e58bb99ab73dc2cfbd78d1e1caa099e43f6c.gltf",
+      "triangles": 6766,
+      "name": "창업보육센터",
+      "variant": "detailed"
+    },
+    {
+      "id": "dorm",
+      "url": "dorm/model-483fcb348786114c3d3e613fb6735839f418a7f972891212f59b692313974cd0.gltf",
+      "triangles": 23674,
+      "name": "청운학사",
+      "variant": "detailed"
+    },
+    {
+      "id": "stage",
+      "url": "stage/model-ee8dc50f1cdc231a1000761ed24a7bca8b98883c53f7abf7a0a44e02d664642d.gltf",
+      "triangles": 2324,
+      "name": "무대제작소",
+      "variant": "detailed"
+    },
+    {
+      "id": "pitch-annex",
+      "url": "pitch-annex/model-c63ad9234479b7d494f0c05cea3afc4010bad3ca3420cb30e1fc05d45be4286c.gltf",
+      "triangles": 2818,
+      "name": "운동장 본부동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 179917
+  }
+}

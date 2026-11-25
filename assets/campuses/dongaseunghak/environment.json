@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/dongaseunghak/build-package.mjs from the pilot preview modules + landscape/ + context/; look-textures = texture carrier for the ground shader",
+  "models": [
+    {
+      "id": "outer-soccer_goal",
+      "url": "outer-soccer_goal/model-01de1aacb6041d5f2a144fdf097d30e6c4169f72917905b5cad0b5652f2b57cd.gltf",
+      "triangles": 732,
+      "instances": 2
+    },
+    {
+      "id": "outer-floodlight_tower",
+      "url": "outer-floodlight_tower/model-d7ca4a6ad5a628720b0aecff321d6f3035c23b4dc2deb3e9152fb45d35aa9e3b.gltf",
+      "triangles": 1552,
+      "instances": 4
+    },
+    {
+      "id": "outer-stand_concrete",
+      "url": "outer-stand_concrete/model-785bed7731fa4280fe50b4bb090982d0721b132a1cef264a0757773711b7277b.gltf",
+      "triangles": 1940,
+      "instances": 5
+    },
+    {
+      "id": "outer-stand_stair_bay",
+      "url": "outer-stand_stair_bay/model-766c654e1b384e4e2d8261419658240fcf372e1a616b1a26ce6f2f593596e1f6.gltf",
+      "triangles": 1236,
+      "instances": 1
+    },
+    {
+      "id": "outer-mural_wall",
+      "url": "outer-mural_wall/model-a1b790db3a22e724ebd4bc6d163a539479685cd3bcb6da01577bed521528f690.gltf",
+      "triangles": 112,
+      "instances": 1
+    },
+    {
+      "id": "outer-court_hoop",
+      "url": "outer-court_hoop/model-93d3aa0c4880deb39477aed95ec04069d231def74823d67cc293910c0f6df160.gltf",
+      "triangles": 1632,
+      "instances": 4
+    },
+    {
+      "id": "outer-court_rail_fence",
+      "url": "outer-court_rail_fence/model-b2b45aeb2510af933accae5147e84505d8a151a9cff35a7fc9340c34b2a1b135.gltf",
+      "triangles": 2376,
+      "instances": 22
+    },
+    {
+      "id": "outer-newton_pond",
+      "url": "outer-newton_pond/model-b6b50356dcee569a060f7660ba9e356383f124623e517c4b7578a71a7f1ab0f2.gltf",
+      "triangles": 1656,
+      "instances": 1
+    },
+    {
+      "id": "outer-newton_bench_arc",
+      "url": "outer-newton_bench_arc/model-d1b174f6816e28be9b93ec3170fecbf766118d8bc26bae5574ca65a909aad3a0.gltf",
+      "triangles": 504,
+      "instances": 1
+    },
+    {
+      "id": "outer-pine_staked",
+      "url": "outer-pine_staked/model-b631946babcac3fe13fa722a5aecbf1516d8ff89fb648071679736b0c9d15d0f.gltf",
+      "triangles": 2576,
+      "instances": 4
+    },
+    {
+      "id": "outer-bus_stop_sign",
+      "url": "outer-bus_stop_sign/model-3fbc0f0ff8988789b2eea806b88cb1082c82374015ba530922ece63eeaecafd8.gltf",
+      "triangles": 688,
+      "instances": 4
+    },
+    {
+      "id": "outer-bus_shelter",
+      "url": "outer-bus_shelter/model-eaa94af42995971067c1757bfc060daa192cfef4e000fa2bd61bc74cb6492570.gltf",
+      "triangles": 1264,
+      "instances": 2
+    },
+    {
+      "id": "outer-guardrail_zinc",
+      "url": "outer-guardrail_zinc/model-105d58257b8e21c873e1ab7edfd16e81104786d5c8cb9e7ef1aac380b395c7d2.gltf",
+      "triangles": 3300,
+      "instances": 33
+    },
+    {
+      "id": "outer-parked_car",
+      "url": "outer-parked_car/model-f382eab10f2f333dbcf28f3a96a54b244e1969fa35d1e4813fd6c096ae9027b0.gltf",
+      "triangles": 13832,
+      "instances": 38
+    },
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-0ec92bfa13465a3610093bba300ff29ff2ee4a65f736817a6dfe932b4406d609.gltf",
+      "triangles": 491487
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-3bc71d382f3d8aa43c46e2d345363abf94bb8060a64f175d0adada40ac229bf3.gltf",
+      "triangles": 495371
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-b1cf0ede4017eb7510a24dc0ad645a6bca9ccfb2827761de49d882a2b7cedba6.gltf",
+      "triangles": 142530
+    },
+    {
+      "id": "env-landscape",
+      "url": "env-landscape/model-f582ca9c9cad892e83c1043c11514e01c6a8aea45978758a51286c12ef93807e.gltf",
+      "triangles": 102081
+    },
+    {
+      "id": "context",
+      "url": "context/model-7b3e76ebe53f50db626817159735fffe836691b353f7b1eaefbc24fddbd84b38.gltf",
+      "triangles": 9699
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-4ef43e606855701758d37015f543637ff4efa7a20a393946a8ab63d22ceb0552.gltf",
+      "triangles": null
+    },
+    {
+      "id": "look-textures",
+      "url": "look-textures/model-892dc27e45dbdc19ce851f9b1247de5b992b9efbe17f5501bca16eb45645a0f2.gltf",
+      "triangles": 0,
+      "carrier": true
+    }
+  ]
+}

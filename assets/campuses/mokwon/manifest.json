@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "source": "mokwon-daejeon active-models.json (36 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "library",
+      "name": "중앙도서관·대학본부",
+      "variant": "detailed",
+      "url": "library/model-3060f4a58cb2400b1bcf675532e25b9c8a777b92bff395b884ea5a8594f50e96.gltf"
+    },
+    {
+      "id": "campusTown",
+      "name": "캠퍼스타운",
+      "variant": "generic-v2",
+      "url": "campusTown/model-9678ee06016709567a5ebfcd2b8adc49899cb32a8f0e723198b490989e31a05d.gltf"
+    },
+    {
+      "id": "dormWest",
+      "name": "목원학사 서관",
+      "variant": "generic-v2",
+      "url": "dormWest/model-8018ca5f8d1df43a9302fb017e2ab10b74737631aab8202fb9448ccf0540fac6.gltf"
+    },
+    {
+      "id": "dormEast",
+      "name": "목원학사 동관",
+      "variant": "generic-v2",
+      "url": "dormEast/model-77b8e3d8811e6ea55621f01b77967f3712b30cc7ffd71556e0ac4e852c65f9b7.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic-v2",
+      "url": "gym/model-6f42f100bbcaf55e9ca8542f55b134a8ff3965175cf58afc86675d1b2b43a10f.gltf"
+    },
+    {
+      "id": "student",
+      "name": "학생회관·미래인재관(연결범위 추정)",
+      "variant": "generic-v2",
+      "url": "student/model-adb07040f528d3abf34a50fabf5a93d442e447cbe3c2662f1e3984e5ae31c30e.gltf"
+    },
+    {
+      "id": "theology",
+      "name": "신학관",
+      "variant": "generic-v2",
+      "url": "theology/model-12e9d63ac0ebbc00e7d114b15e84e0c67ee08897db2deda4f7513e30fdd5b166.gltf"
+    },
+    {
+      "id": "culture",
+      "name": "문화콘텐츠관",
+      "variant": "generic-v2",
+      "url": "culture/model-689a11ad8fa052f57dd5adbd39b3d941aa5560a15f414363f5e4554db935f928.gltf"
+    },
+    {
+      "id": "health",
+      "name": "보건안전관",
+      "variant": "generic-v2",
+      "url": "health/model-9858e18d22b51db008783a1a0d6c89f8d923bf217d1ce20eed1492cfc75235e0.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "generic-v2",
+      "url": "engineering/model-149646e0275d10ddd513ef313800943b8b2ad64622e402f83ff1965d2d499d0e.gltf"
+    },
+    {
+      "id": "art",
+      "name": "미술디자인관",
+      "variant": "detailed",
+      "url": "art/model-bb068438583a0721514fa21f993edb0a2b8246b28cc026cc0f80c95c8eb0a82b.gltf"
+    },
+    {
+      "id": "architecture",
+      "name": "건축도시지원센터",
+      "variant": "generic-v2",
+      "url": "architecture/model-ce437d3d194b12c44b6a86f2bbe81b87452fd66f4353d9c8619832ba30ef067d.gltf"
+    },
+    {
+      "id": "social",
+      "name": "사회과학관",
+      "variant": "generic-v2",
+      "url": "social/model-449c89320c20f01fb8082777224d560fd1fabf81975bd0472c05721f5a157a25.gltf"
+    },
+    {
+      "id": "music",
+      "name": "음악관",
+      "variant": "generic-v2",
+      "url": "music/model-bb96e98ecfaf945d50e4d335625648745421dfc2b22d4a91a2dc4c0c2b5fc483.gltf"
+    },
+    {
+      "id": "concert",
+      "name": "콘서트홀",
+      "variant": "detailed",
+      "url": "concert/model-f348f700c95763a7f30bcd5bc1213d048c8d53b4a0d201a135d0460147742bf5.gltf"
+    },
+    {
+      "id": "osm532535243",
+      "name": "열린 쉼터 532535243",
+      "variant": "custom",
+      "url": "osm532535243/model-6852c3b6fb76e3e4273c5eff7a3a030e349845e1f4f191bf32adfa615bfc42b3.gltf"
+    },
+    {
+      "id": "education",
+      "name": "사범관",
+      "variant": "generic-v2",
+      "url": "education/model-4fdaf5b917a9d56ef97b79e2641f885c85957e2779db059ea52656320fefd7da.gltf"
+    },
+    {
+      "id": "osm532894609",
+      "name": "교내 부속시설 532894609",
+      "variant": "generic-v2",
+      "url": "osm532894609/model-9f4c497cffd52c734134acc73f32dc4910e88a02c43ab5ac85bff9d623e8f8e2.gltf"
+    },
+    {
+      "id": "osm532894620",
+      "name": "열린 쉼터 532894620",
+      "variant": "custom",
+      "url": "osm532894620/model-b4b5b373991f3062c2fce22cec4cd2a7211a79b620570f918c200245e708d077.gltf"
+    },
+    {
+      "id": "gymAnnex",
+      "name": "체육관 부속동(추정)",
+      "variant": "generic-v2",
+      "url": "gymAnnex/model-0219248c9d62fad7a98e9ba48cb2f6c1c2a4cfd28742257ac8f08d2a989dd437.gltf"
+    },
+    {
+      "id": "osm532894681",
+      "name": "교내 부속시설 532894681",
+      "variant": "generic-v2",
+      "url": "osm532894681/model-f3b753239c9601d2dd72441c33a16ce40d434fc2b6cae1c568c62458a6543c8e.gltf"
+    },
+    {
+      "id": "osm533336910",
+      "name": "열린 쉼터 533336910",
+      "variant": "custom",
+      "url": "osm533336910/model-a2bad0eeafae9af2f38ad1707bb2e2b2ed5ba8e5207abfd83c2515688d5f7954.gltf"
+    },
+    {
+      "id": "osm533336941",
+      "name": "교내 부속시설 533336941",
+      "variant": "generic-v2",
+      "url": "osm533336941/model-3b2af9af9311d82a2fe4947311be82782daffe5e48e9b339f5bd2f00f16d7d66.gltf"
+    },
+    {
+      "id": "osm533336978",
+      "name": "열린 쉼터 533336978",
+      "variant": "custom",
+      "url": "osm533336978/model-33d3fd58c7c8039bd961a946bbb405290452bd82604c5bc801f367511017d6d3.gltf"
+    },
+    {
+      "id": "osm533744326",
+      "name": "열린 쉼터 533744326",
+      "variant": "custom",
+      "url": "osm533744326/model-6ebdd7e860b754e475e00c77d74aa0df84441fa55803040bad907712a379a184.gltf"
+    },
+    {
+      "id": "osm533744352",
+      "name": "열린 쉼터 533744352",
+      "variant": "custom",
+      "url": "osm533744352/model-bcb63883653f4277905a2f588174f963270ce3e9d18a10a12a583be9aa4041b0.gltf"
+    },
+    {
+      "id": "osm533744353",
+      "name": "열린 쉼터 533744353",
+      "variant": "custom",
+      "url": "osm533744353/model-559177bf84f19c48de12a689d2c26e9185c50c82f97fcdbbe09990e491d0fe3b.gltf"
+    },
+    {
+      "id": "osm533744381",
+      "name": "열린 쉼터 533744381",
+      "variant": "custom",
+      "url": "osm533744381/model-cb35835374166a6c8ce6f3bec0a767d0da9eef30419a32c11f0ce24f04007a77.gltf"
+    },
+    {
+      "id": "osm533849928",
+      "name": "열린 쉼터 533849928",
+      "variant": "custom",
+      "url": "osm533849928/model-3b6730a5ffac1afdb60ff1e6e6ed0825dbe316f089f33abb5b062f1421676597.gltf"
+    },
+    {
+      "id": "osm533849935",
+      "name": "교내 부속시설 533849935",
+      "variant": "generic-v2",
+      "url": "osm533849935/model-53f82201e591cee4e8676b295c0362b959a8c53ab7f58774de4b9fb7c2e58084.gltf"
+    },
+    {
+      "id": "osm533849947",
+      "name": "열린 쉼터 533849947",
+      "variant": "custom",
+      "url": "osm533849947/model-80620625945205f526503a8d2658aff4f551793955f5762f7452619b707f6363.gltf"
+    },
+    {
+      "id": "history",
+      "name": "구신학관·역사박물관",
+      "variant": "detailed",
+      "url": "history/model-44e0ff7ed9548c162cf5c613b4843eacc32280732e8d1a0ea4b07a1d1821d8b3.gltf"
+    },
+    {
+      "id": "artAnnex",
+      "name": "미술대학실습동·석주조형관",
+      "variant": "generic-v2",
+      "url": "artAnnex/model-e07b56d63642400d6e4eecc0e6b78314945e6c162bba18219a8fb4b2d295db46.gltf"
+    },
+    {
+      "id": "dormNew",
+      "name": "목원학사 신관",
+      "variant": "generic-v2",
+      "url": "dormNew/model-dfa8b21269c953ab4e025564a7db779660140b5c0ecc97684f297045bc9109e7.gltf"
+    },
+    {
+      "id": "webtoon",
+      "name": "웹툰애니메이션게임관",
+      "variant": "generic-v2",
+      "url": "webtoon/model-504db45a657016448a445e0077c53e88eefb441b893a89c307a6b26e5b8633f0.gltf"
+    },
+    {
+      "id": "startup",
+      "name": "창업보육센터",
+      "variant": "custom",
+      "url": "startup/model-4e90b3cfaea30b008090a5ca40545f3b51809d6e4112e1d77091106f6c16e942.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 151837
+  }
+}

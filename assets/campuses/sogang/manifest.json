@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "source": "sogang-sinchon active-models.json (29 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "detailed",
+      "url": "main/model-af489cf841434b64c5f85d5ad045b72196bc07366ac6a41400a35d7a3a86e313.gltf"
+    },
+    {
+      "id": "library1",
+      "name": "로욜라 도서관 1관",
+      "variant": "detailed",
+      "url": "library1/model-c2c108ba363b5157b83b4b319f20da90df346b314922a893e9892c515d527ae1.gltf"
+    },
+    {
+      "id": "library2",
+      "name": "로욜라 도서관 2관",
+      "variant": "detailed",
+      "url": "library2/model-0f1b80a6c1a677f573c462469627916df1adf529dd6505296f7ec221a2163b2c.gltf"
+    },
+    {
+      "id": "libraryLaw",
+      "name": "로욜라 도서관 3관",
+      "variant": "detailed",
+      "url": "libraryLaw/model-62e63534273a55f6d6adf8ffebfa1e67fced93679d8fae68eb7646d20643d850.gltf"
+    },
+    {
+      "id": "emmaus",
+      "name": "엠마오관",
+      "variant": "generic",
+      "url": "emmaus/model-2fc864c8e3adaf3b5eedc8e6ea7d18d94a5313b2354355d2cb888c544ed22c40.gltf"
+    },
+    {
+      "id": "centreHall",
+      "name": "엠마오관 (스탠드동)",
+      "variant": "detailed",
+      "url": "centreHall/model-864f6ec639e34fe018c5c58ab34b1296ab0459ffc21d06a130e4e6db85811706.gltf"
+    },
+    {
+      "id": "kimDaegon",
+      "name": "김대건관",
+      "variant": "generic",
+      "url": "kimDaegon/model-552d8dcf2705acdfa822e9fcd7ef6ca361f36e5034354eb1cdad480aa530b3cb.gltf"
+    },
+    {
+      "id": "ricci",
+      "name": "리치과학관",
+      "variant": "detailed",
+      "url": "ricci/model-dd7626bae3d3257dd597d9727c6fc9d971b22f2077053d0aac977049d3f098aa.gltf"
+    },
+    {
+      "id": "ricciAnnex",
+      "name": "리치별관",
+      "variant": "generic",
+      "url": "ricciAnnex/model-80e5d10db7b506e4b021b3b0d269c315849c89c2a518356d5a3134cfad4f7907.gltf"
+    },
+    {
+      "id": "adamSchall",
+      "name": "아담샬관",
+      "variant": "generic",
+      "url": "adamSchall/model-b27ec62bbf2e2fd8b08d05a660fceb0f0ad566c8feb79a9cc46769e69d867f98.gltf"
+    },
+    {
+      "id": "francisco",
+      "name": "포스코 프란치스코관",
+      "variant": "generic",
+      "url": "francisco/model-40332530d0a285df7048c0f29965e9c31ba1242811011a5a5133d23070d5d5f5.gltf"
+    },
+    {
+      "id": "jeongHasang",
+      "name": "정하상관",
+      "variant": "generic",
+      "url": "jeongHasang/model-0d5f7f93360c5cdfc88c00ce5c5741492279c25aebb1a6c88dc8a9e323797b87.gltf"
+    },
+    {
+      "id": "teilhard",
+      "name": "떼이야르관",
+      "variant": "generic",
+      "url": "teilhard/model-f5536eb4e9cb60206454815b80dc6ee1f55dd8f2197df4dcd80c569a3e7f57cd.gltf"
+    },
+    {
+      "id": "xavier",
+      "name": "하비에르관",
+      "variant": "generic",
+      "url": "xavier/model-098559079a0f35ed0f5460e0a59e83ae0ff78db80dad2264c3bd3f8533bd3f80.gltf"
+    },
+    {
+      "id": "dasan",
+      "name": "다산관",
+      "variant": "generic",
+      "url": "dasan/model-8147a6b879ffc85a8e9655e473d9df2b37cc3fb38977ac49c2e2b8b275fbac36.gltf"
+    },
+    {
+      "id": "choeYangeop",
+      "name": "최양업관",
+      "variant": "generic",
+      "url": "choeYangeop/model-e1834799254341adf766f112d97dbfcf4e3a4472bfae66eec773dd07e0d0069e.gltf"
+    },
+    {
+      "id": "gonzagaPlaza",
+      "name": "곤자가 프라자",
+      "variant": "generic",
+      "url": "gonzagaPlaza/model-392e60026af1066d6efc5343bbcd8ccf9e6e82731997c18e92d03b975448ecf8.gltf"
+    },
+    {
+      "id": "gonzagaHall",
+      "name": "곤자가 국제학사",
+      "variant": "generic",
+      "url": "gonzagaHall/model-21d4a91050d3ca618b0a8fdf2dc43c5fa39ab68786c14525f66138a67d248bc7.gltf"
+    },
+    {
+      "id": "dormEast",
+      "name": "곤자가 국제학사 남동동 (추정)",
+      "variant": "generic",
+      "url": "dormEast/model-fc07584b0b2790945d7f3c5af3039b482c5c0c543b0ee95fbe3373701a0d820e.gltf"
+    },
+    {
+      "id": "gabriel",
+      "name": "삼성가브리엘관",
+      "variant": "generic",
+      "url": "gabriel/model-b48fe320a0aac57fd7d30d8a45c3127088962d43e267fe7f360c0ee3eaabcbbd.gltf"
+    },
+    {
+      "id": "paul",
+      "name": "금호아시아나바오로경영관",
+      "variant": "generic",
+      "url": "paul/model-b3e2ca46670390e58cb11e194b7d104bc2f1cdc7b8d0cbc8de85dc977148d61a.gltf"
+    },
+    {
+      "id": "maryHall",
+      "name": "메리홀",
+      "variant": "generic",
+      "url": "maryHall/model-ab796c5a1016ec4ae2cdd0b7e1fbc4788e0cba94d67c66415eb2cc7fa40b9dd7.gltf"
+    },
+    {
+      "id": "matthew",
+      "name": "마태오관",
+      "variant": "generic",
+      "url": "matthew/model-a0a3e16dac24767cd0d52ab8a68031deba3e94640253b35a1a3701f62b18a568.gltf"
+    },
+    {
+      "id": "thomasMore",
+      "name": "토마스 모어관",
+      "variant": "generic",
+      "url": "thomasMore/model-e781f35d4f1a4b3b3ac79419648413411751f7fbe600a9796389353ff508c515.gltf"
+    },
+    {
+      "id": "namDuckwoo",
+      "name": "게페르트 남덕우 경제관",
+      "variant": "generic",
+      "url": "namDuckwoo/model-626517839e600f70b347e5aae97a4732fcc2194d467fd961130208e1b9b75dc4.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "generic",
+      "url": "gym/model-096bbc8a0e10d962045c65727458377f4e8d4c87b9594cb458da97aba4566bb5.gltf"
+    },
+    {
+      "id": "woojung",
+      "name": "베르크만스 우정원",
+      "variant": "generic",
+      "url": "woojung/model-cfafed4a62c228b1df3ebf832ae7f14a74e1a15aa7b639f5b9d6e6f7c5384d7f.gltf"
+    },
+    {
+      "id": "arrupe",
+      "name": "아루페관",
+      "variant": "generic",
+      "url": "arrupe/model-6a76355a1240b5dbb6aa77e7713b1fd0c26419429be161e0123ad64a34cc9be6.gltf"
+    },
+    {
+      "id": "gateBooth",
+      "name": "정문 경비초소",
+      "variant": "generic",
+      "url": "gateBooth/model-8d5b7d0119927854bcb4d190ec0a69a57600ea494857d45d3e5b5f608b09969a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 131996
+  }
+}

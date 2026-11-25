@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "pilot/snu-gwanak-v2 active-models.json destructible:false (85-1동 수의대부속동물병원, 86동 관악서울대학교치과병원: hospitals, never damaged, shield), packed losslessly",
+  "models": [
+    {
+      "id": "vetHospital",
+      "name": "85-1동 수의대부속동물병원",
+      "url": "vetHospital/model-4527cd9878bb0ec9257d7845cbf219f77efbbbcf91dc124470194167be0994d0.gltf",
+      "triangles": 1308
+    },
+    {
+      "id": "dental86",
+      "name": "86동 관악서울대학교치과병원",
+      "url": "dental86/model-e00513ded21781ed615aa8c1b011fa35a6bd392c92f9ee5a70305ee9f3047050.gltf",
+      "triangles": 996
+    }
+  ]
+}

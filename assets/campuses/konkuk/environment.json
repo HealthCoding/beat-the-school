@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/konkuk/build-package.mjs from the pilot preview modules + landscape/ + context/; look-textures = texture carrier for the ground shader",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-7b9f2a0ef258ad4252721e5ec2665fe35dd8d20f3ef9196c41770ce30807a2c4.gltf",
+      "triangles": 95441
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-64d63ddc31f34b6db13fc1448c81dc1acc7fbabcab4f00a7738b309e3d75a299.gltf",
+      "triangles": 45228
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-ea7cc25bf4c438ccc39776a568a4b2473bc5d97f5b3c4dac7a6904c6c9e03dd8.gltf",
+      "triangles": 65500
+    },
+    {
+      "id": "env-lake",
+      "url": "env-lake/model-db9207f11dea630ae05b82370dbafd466510ea8ec3c3bb35cee444cad57ac740.gltf",
+      "triangles": 918
+    },
+    {
+      "id": "env-theatre",
+      "url": "env-theatre/model-6521510dc2ef868dd01670e2af291169e74f540c3edfa4612225b5050ff16ab9.gltf",
+      "triangles": 2290
+    },
+    {
+      "id": "env-sports",
+      "url": "env-sports/model-bcc2c88e7e56779d5e2156516d5a5399a88339721969058239a75f3a936e7973.gltf",
+      "triangles": 2789
+    },
+    {
+      "id": "env-gates",
+      "url": "env-gates/model-e3a99214ea5f9d9f7c286442a5b24f431e4cbff09ce336e4c8477949c1260a73.gltf",
+      "triangles": 608
+    },
+    {
+      "id": "context",
+      "url": "context/model-6f9e469b20c4a2394cf95084abf9f4c528634914a0c257b5786526dbc4fbf79b.gltf",
+      "triangles": 59159
+    },
+    {
+      "id": "context-props",
+      "url": "context-props/model-8c77a20022662e54dbc8ae0bc040ab942bb2acc9c5978f88e7239c2d6f956307.gltf",
+      "triangles": null
+    },
+    {
+      "id": "look-textures",
+      "url": "look-textures/model-8d285c559b997d5de702dcaf5550f02efccb0ee625438a3ffa92b623a4e1cdf7.gltf",
+      "triangles": 0,
+      "carrier": true
+    }
+  ]
+}

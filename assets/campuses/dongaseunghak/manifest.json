@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "source": "pilot/donga-seunghak/active-models.json (25 destructible buildings), with two reviewed game-only derivatives; packed losslessly",
+  "models": [
+    {
+      "id": "s11",
+      "name": "자연과학대학(E)",
+      "variant": "detailed",
+      "url": "s11/model-1fbb55672c67d36fc604790f9a3bb0a7ef6fccc9e0cd22ccf6b3f20feea1623f.gltf"
+    },
+    {
+      "id": "s07",
+      "name": "예술체육대학1관",
+      "variant": "detailed",
+      "url": "s07/model-410c561249d57f7667512373c145ca908a162b638256d9844fb4f7ddc191bf66.gltf"
+    },
+    {
+      "id": "s06",
+      "name": "공과대학5호관(RS)",
+      "variant": "detailed",
+      "url": "s06/model-4b90fa1b4441c29f3403f86f2e478c08d1223f4a087d3bab490ba7fb218d761a.gltf"
+    },
+    {
+      "id": "osm759074759",
+      "name": "교내 건물 759074759",
+      "variant": "detailed",
+      "url": "osm759074759/model-9f666cb276273d5a1e4e57f12388f637f15dab3359f66abcd7b289bb5b5041b3.gltf"
+    },
+    {
+      "id": "osm759074760",
+      "name": "교내 건물 759074760",
+      "variant": "detailed",
+      "url": "osm759074760/model-fb6ca01dcbd4bbbec687c54d616cf5b6ed5505563b8ce89355bb3affdad13174.gltf"
+    },
+    {
+      "id": "osm759074761",
+      "name": "교내 건물 759074761",
+      "variant": "detailed",
+      "url": "osm759074761/model-895d460cef2afddd49726b1b364473cfe336d1b5ea5d0a706bd6e2f1b9d1d4f7.gltf"
+    },
+    {
+      "id": "s16",
+      "name": "학생군사교육단(DE)",
+      "variant": "detailed",
+      "url": "s16/model-9c98928c7fd978e487383a998168ccc86a80e0113d43dbfd925e33d4b9ea7e56.gltf"
+    },
+    {
+      "id": "s14",
+      "name": "산학관(SM)",
+      "variant": "detailed",
+      "url": "s14/model-1f1cc201e1afa4a4d291fd749cf8413f35e63af68b7104c75de5238e083b3af4.gltf"
+    },
+    {
+      "id": "s13",
+      "name": "창업관",
+      "variant": "detailed",
+      "url": "s13/model-92a339f8598297140c76a7d295071be28312378916b02fd2e8e85542c3cba3de.gltf"
+    },
+    {
+      "id": "s12",
+      "name": "공과대학4호관(S12)",
+      "variant": "detailed",
+      "url": "s12/model-cc1e148822d6ff9b748357fc41ac8dd5a44dacb9aff5b884b6f4ce89e50bfad3.gltf"
+    },
+    {
+      "id": "s09",
+      "name": "생명자원과학대학 및 건강과학대학",
+      "variant": "detailed",
+      "url": "s09/model-ebdf2179ab66cb64f11a11d0a0a5f5186dcdef34053f56664e7868db354c33b1.gltf"
+    },
+    {
+      "id": "s08",
+      "name": "교수회관(W)",
+      "variant": "detailed",
+      "url": "s08/model-dae9d2bde1cf12a566921e64380a1008e0e3ec549ea93b48d68a509dc6657eee.gltf"
+    },
+    {
+      "id": "s04",
+      "name": "공과대학2호관(P2)",
+      "variant": "detailed",
+      "url": "s04/model-130f0578d71b7cbf89e9a51948efcea21c624680c0839f17bcacb9e215d571d7.gltf"
+    },
+    {
+      "id": "s03",
+      "name": "공과대학1호관(P1)",
+      "variant": "detailed",
+      "url": "s03/model-07817efe0a67515d92b37ec171d4d3b94ac27a33167808f94d6a350951101e8e.gltf"
+    },
+    {
+      "id": "osm759074770",
+      "name": "교내 건물 759074770",
+      "variant": "detailed",
+      "url": "osm759074770/model-e680d4426468ff0b9cbb35b15421358014ebb0db75246cf0dddf8b41bfc2033e.gltf"
+    },
+    {
+      "id": "s02",
+      "name": "학생회관(Q)",
+      "variant": "detailed",
+      "url": "s02/model-85e0d2598901da3391323a875be3c2b0a6bfacf6dc967fb8541bf8295e3d13c5.gltf"
+    },
+    {
+      "id": "osm759074772",
+      "name": "교내 건물 759074772",
+      "variant": "detailed",
+      "url": "osm759074772/model-6a88571a5d98865c6ef710ab3e99d8c47b13da56305ebdb6b2e6af8f8f0d3dd5.gltf"
+    },
+    {
+      "id": "s01",
+      "name": "대학본부 및 인문과학대학(A)",
+      "variant": "detailed",
+      "url": "s01/model-035d069796389e05d9cbbecbb46166375afa28915f29daf826f797fa9843def3.gltf"
+    },
+    {
+      "id": "s10",
+      "name": "한림도서관(B)",
+      "variant": "detailed",
+      "url": "s10/model-febfa2188732650680843b33911177f7ca58a56649c715d013a27f5f11288169.gltf"
+    },
+    {
+      "id": "s17",
+      "name": "예술체육대학2관",
+      "variant": "detailed",
+      "url": "s17/model-0a78f8ef5608c4bf5265a8feb2f1c2f9715374a906960648dd41d91c7b5986b6.gltf"
+    },
+    {
+      "id": "s19",
+      "name": "한림생활관 승학2관 (S19)",
+      "variant": "detailed",
+      "url": "s19/model-46569d5dfcd67bdf46c2cf29161aefb2b1d399ee52b4335615fd9957ce4b225a.gltf"
+    },
+    {
+      "id": "s20",
+      "name": "한림생활관 승학2관 (S20)",
+      "variant": "detailed",
+      "url": "s20/model-aa392b1d0d8c3e9a045743214da35557331eaefed24ab3b94d8b9ea9d5a678a4.gltf"
+    },
+    {
+      "id": "s05",
+      "name": "공과대학3호관(P3)",
+      "variant": "detailed",
+      "url": "s05/model-89f1acd98e889b736eab94b2cf702aa65b2e22a2d08411ccee9cb79b4182129d.gltf"
+    },
+    {
+      "id": "s22",
+      "name": "L2M Platform(S22)",
+      "variant": "detailed",
+      "url": "s22/model-d3aff275da6a2fb55e02432ca0bbad875de3265e039521b99ffb5037cc6194c7.gltf"
+    },
+    {
+      "id": "s21",
+      "name": "고압수소시험동",
+      "variant": "detailed",
+      "url": "s21/model-7d311dff15a2852b7f727ec9d1fcd1b7d731ec40b7a1289b87a8a158254b1995.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 181904
+  }
+}

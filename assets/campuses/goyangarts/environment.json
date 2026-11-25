@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Goyang High School of Arts R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-349abc988fedc19c78498bde736421ba71d3802105623276bcfcdd65cdd4274a.gltf",
+      "triangles": 13360
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-67d2eac38ecebd6cb47c35f4083cf221bbb1a5d7454cbb0a1a523f949c57ef16.gltf",
+      "triangles": 54904
+    },
+    {
+      "id": "context",
+      "url": "context/model-5784ada5a475e16c0b608e7de2e3c1872cbf15751bfa04ec37e9eb2ec439732b.gltf",
+      "triangles": 9141
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-b56a483d8d42fa551d4f27d20b8edb2f488a5b12a4cfad72e218bfced08677f6.gltf",
+      "triangles": 1687
+    }
+  ]
+}

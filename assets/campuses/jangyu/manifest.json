@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "source": "Jangyu Gimhae R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main-long",
+      "url": "main-long/model-fbeafd783ff0a1c0786a32dd106d8e25dcbf8ecd18d6e7429c133c6cfa769df3.gltf",
+      "triangles": 15856,
+      "name": "본관 긴 교실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "new-wing",
+      "url": "new-wing/model-bf9122270281833c5fad571ad62f3e90608cb69a0dea929ffb4767c2181e5b85.gltf",
+      "triangles": 6352,
+      "name": "신관 후보 연결교사",
+      "variant": "detailed"
+    },
+    {
+      "id": "special-wing",
+      "url": "special-wing/model-47ca63759dc94669ff2c6c45acc2aa075f3b4de58b9c54360d93f4e70a1baf2d.gltf",
+      "triangles": 3888,
+      "name": "특별관 후보 짧은 교사",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-dc385bfc0a55b3ba19bda83175fcc53b95b958085268cba6e721ea2365fda299.gltf",
+      "triangles": 17920,
+      "name": "반룡관 체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "cafeteria",
+      "url": "cafeteria/model-c14436f77840c2db78f34b1e260c0b962ce8db0e3f2fa15f309a8705595a691f.gltf",
+      "triangles": 1336,
+      "name": "낮은 급식실 후보",
+      "variant": "detailed"
+    },
+    {
+      "id": "history",
+      "url": "history/model-b4aab6a1df9a594ce5b0cc5e5c316b9f16005b188ea2a0c637ece49fe46f00ee.gltf",
+      "triangles": 2326,
+      "name": "학교 역사관",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-1e3c78932b98631cd54255158cbebaba8fe43c9c516224202bda05e0f46480a8.gltf",
+      "triangles": 382,
+      "name": "교문 초소 후보",
+      "variant": "detailed"
+    },
+    {
+      "id": "covered-walkway",
+      "url": "covered-walkway/model-83f07e709f9f9e12590a6ef68a519b8fd57b6e0c36ae4b02bf3380af8cc354cb.gltf",
+      "triangles": 19576,
+      "name": "적백 곡면 열린 우천통로",
+      "variant": "detailed"
+    },
+    {
+      "id": "round-canopy",
+      "url": "round-canopy/model-f484ae5eed1571377cba5aaada9e52949c43b7d4cfed0b181ecf941bd43f50e3.gltf",
+      "triangles": 19076,
+      "name": "역사관 앞 열린 원형데크",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 86712
+  }
+}

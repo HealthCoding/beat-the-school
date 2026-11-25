@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Busan Buheung High School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-6be7821a546f2e5d556573ead77f591fd8b7e92e2901922a201bcfd21b9e43ba.gltf",
+      "triangles": 26793
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-236e88b9d6ef2962fb5e636d8ee425ee2b8712a0fc4611f2df792d2015b23db6.gltf",
+      "triangles": 34978
+    },
+    {
+      "id": "context",
+      "url": "context/model-b590204823d9a12c86852c232eecefb19da2861ab6ec780ee319170e0b010b4e.gltf",
+      "triangles": 50917
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-a640310c845e077455afa99d8fb09c72ac074613a9ba4df19dbc687ea20ae277.gltf",
+      "triangles": 2267
+    }
+  ]
+}

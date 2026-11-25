@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "source": "mokwon-daejeon active-models.json destructible:false (채플·목원대학교회: never damaged, shield), packed with bounded attribute rounding with the campus models",
+  "models": [
+    {
+      "id": "chapel",
+      "name": "채플·목원대학교회",
+      "url": "../chapel/model-e03b80f4d8b1590eeaba275616b46f048d796e0bda594114486efb3263ccca73.gltf",
+      "triangles": 6325
+    }
+  ]
+}

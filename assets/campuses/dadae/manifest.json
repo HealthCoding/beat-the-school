@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source": "Dadae Busan R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 0.949999988079071,
+      "id": "main",
+      "url": "main/model-eb1c8f0d2013d6b66dc348759ce5afa221a7ad2e17ae68948e700909583f6f3a.gltf",
+      "triangles": 21360,
+      "name": "본관(후면4층 식당·시청각실 날개 포함)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "gym",
+      "url": "gym/model-367bf98995a81dfec6ca88ec45a68e4d72debef2f9e3f008d8907c82623c51fc.gltf",
+      "triangles": 17254,
+      "name": "바랄관(강당·특별실·주차장)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "bridge",
+      "url": "bridge/model-027b3a4547d223dfc1c3d9b3dd71ce3b28acd0c681dd245b0d8a95a7dbf6a25d.gltf",
+      "triangles": 4024,
+      "name": "본관2층-바랄관 연결교",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "guard",
+      "url": "guard/model-3ab91cb95fd393dbad8e23552b50a740f5688ba6eacae7916e9a2f19d44a721d.gltf",
+      "triangles": 864,
+      "name": "정문 경비실(추정)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.15000000596046448,
+      "id": "stage",
+      "url": "stage/model-efa0ee1d39a1af66921c05460025730beb36f9526bfb17168420ffdd668166cc.gltf",
+      "triangles": 2484,
+      "name": "스탠드 단상 하부창고(추정)",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 45986
+  }
+}

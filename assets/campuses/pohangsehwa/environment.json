@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Pohang Sehwa High School R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-8b1400f3fa36dd096097108bdb5c7a2086d57e3c107cf6134be13221d9d11b4f.gltf",
+      "triangles": 17454
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-91b3c747f4993ac7ad6c71ae9906856c87ce7d448c8fc780511a9cd140d43eec.gltf",
+      "triangles": 34732
+    },
+    {
+      "id": "context",
+      "url": "context/model-d4e532c783db7296852b5a0f76f2c0d1c1fcf98827a9a34f1dbe8b35459cedd1.gltf",
+      "triangles": 9600
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-80bca5d8a6cde39c0f972b4b314bf0664854a60c231a6dfc8992f40d5343ea19.gltf",
+      "triangles": 2346
+    }
+  ]
+}

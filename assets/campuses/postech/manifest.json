@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "source": "postech-pohang active-models.json (81 destructible units), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "osm135973462",
+      "name": "포스코국제관",
+      "variant": "custom",
+      "url": "osm135973462/model-6e2eda428832eb73fd3325f4072bb04ab33d83ffd29dd796ba4ad3e5a988a6d0.gltf"
+    },
+    {
+      "id": "osm135973505",
+      "name": "학생회관",
+      "variant": "generic-v2",
+      "url": "osm135973505/model-b1d704df97c650eca5411fd6315c395f80983a29f564619068f553f4479e1cb4.gltf"
+    },
+    {
+      "id": "osm136173360",
+      "name": "지곡회관",
+      "variant": "custom",
+      "url": "osm136173360/model-e000520609f0d2cc0314bc4f12c1e7988ccc1a9ee462f1fb4463fb9771fb646e.gltf"
+    },
+    {
+      "id": "osm136179047",
+      "name": "포스플렉스",
+      "variant": "custom",
+      "url": "osm136179047/model-499c9464af485cc9014402f4e248c8724a90f2d50be3e7a42a7dd165fae307bc.gltf"
+    },
+    {
+      "id": "library",
+      "name": "박태준학술정보관",
+      "variant": "detailed",
+      "url": "library/model-9ce6c69502d50eea9c8486a622c7024e4f11b38fad9039eb7e7eec75724ba717.gltf"
+    },
+    {
+      "id": "osm136186601",
+      "name": "바이오오픈이노베이션센터(BOIC)",
+      "variant": "generic-v2",
+      "url": "osm136186601/model-def4406795aab30d9a322bc18cf1e91a05af5bffd22b7edb5a52247bb75656df.gltf"
+    },
+    {
+      "id": "osm136187755",
+      "name": "남자 기숙사 14",
+      "variant": "generic-v2",
+      "url": "osm136187755/model-34557b8845c9d000f67a993201e4e431d2064d1810596032d9138b276cc644db.gltf"
+    },
+    {
+      "id": "osm136187756",
+      "name": "남자 기숙사 11",
+      "variant": "generic-v2",
+      "url": "osm136187756/model-ec3f1c52708e3ee5d2a678379bc56127b85ac06107e3ed475140e912565a44da.gltf"
+    },
+    {
+      "id": "osm136187757",
+      "name": "남자 기숙사 10",
+      "variant": "generic-v2",
+      "url": "osm136187757/model-477e733f217d49338fea4ad36aa80b840134bb07b312adb41978314cbf08784d.gltf"
+    },
+    {
+      "id": "osm136187758",
+      "name": "남자 기숙사 9",
+      "variant": "generic-v2",
+      "url": "osm136187758/model-f31ead19a69e2419fdf38f45fe7a3e1fb23fb2c0be8e31d2b61e972c165b1bfb.gltf"
+    },
+    {
+      "id": "osm136187759",
+      "name": "남자 기숙사 19",
+      "variant": "generic-v2",
+      "url": "osm136187759/model-4c7cce1732d39a5ba3926a4b638ebe3185992eb002c0af6cc65d280b9c9d4309.gltf"
+    },
+    {
+      "id": "osm136187761",
+      "name": "남자 기숙사 15",
+      "variant": "generic-v2",
+      "url": "osm136187761/model-667aa1112fab9eb887acdd204260a2e6189e098b745f4963f3a12c09ccf6e508.gltf"
+    },
+    {
+      "id": "osm136187867",
+      "name": "기숙사 16 DICE",
+      "variant": "generic-v2",
+      "url": "osm136187867/model-8be2fe4e29fd52f695fa1f318d26cea104b72f3c25f43947ae99b72aafcd52a8.gltf"
+    },
+    {
+      "id": "osm136187868",
+      "name": "남자 기숙사 13",
+      "variant": "generic-v2",
+      "url": "osm136187868/model-f21064d0246e165d10a89ae2fb1a30420746e0c577c551a1f89954fee6e5ff08.gltf"
+    },
+    {
+      "id": "osm136188127",
+      "name": "남자 기숙사 17",
+      "variant": "generic-v2",
+      "url": "osm136188127/model-6dbdddf8485a9c2453bd92fb6ad4a82af8ead941ae169e4fa69184076f821932.gltf"
+    },
+    {
+      "id": "osm136188129",
+      "name": "남자 기숙사 12",
+      "variant": "generic-v2",
+      "url": "osm136188129/model-a59ca2b855046de0ec90e05cc69ac056cf492f9a485d2d0e5cfc5a2bbcf7a6db.gltf"
+    },
+    {
+      "id": "osm136188643",
+      "name": "제4공학관",
+      "variant": "generic-v2",
+      "url": "osm136188643/model-e70452e2520df275aea98da3edc82a704c6c6f44cce7182bf048255ee41c02a5.gltf"
+    },
+    {
+      "id": "osm136188879",
+      "name": "대강당",
+      "variant": "generic-v2",
+      "url": "osm136188879/model-466bcef8e92c4d4134d11e8c39bdecf54cead56dba2013889c7e1094530b7c19.gltf"
+    },
+    {
+      "id": "osm136188882",
+      "name": "제5공학관",
+      "variant": "generic-v2",
+      "url": "osm136188882/model-77363b9e8874f78e368a3c796bd913aecec3c187592ce2c5995cf2750d57d159.gltf"
+    },
+    {
+      "id": "osm136188883",
+      "name": "제2공학관",
+      "variant": "generic-v2",
+      "url": "osm136188883/model-2e48656a6ba53827e461f8018ce5d8a4e1d321e42d426c074ecff6804495f979.gltf"
+    },
+    {
+      "id": "osm136188886",
+      "name": "제3공학관",
+      "variant": "generic-v2",
+      "url": "osm136188886/model-5ae226987f5335724cce98c035b4a6bc3506683a971f7ffb3d6b64815da3f85c.gltf"
+    },
+    {
+      "id": "osm136188887",
+      "name": "수리과학관",
+      "variant": "generic-v2",
+      "url": "osm136188887/model-0e076344b7339209cc6b1fa7c577a5930bac6e566bb85642a338688fa0d311e3.gltf"
+    },
+    {
+      "id": "mueunjae",
+      "name": "무은재기념관",
+      "variant": "detailed",
+      "url": "mueunjae/model-668e8e9f686fb1052abfa68e153018e14787dc6c36f082adc842101e4222e19d.gltf"
+    },
+    {
+      "id": "main",
+      "name": "대학본관",
+      "variant": "detailed",
+      "url": "main/model-20f05a9e29a021be140b9d413d1e8f56e7e4f340a775ab5a52b0862e7fc72498.gltf"
+    },
+    {
+      "id": "osm136189135",
+      "name": "제1공학관",
+      "variant": "generic-v2",
+      "url": "osm136189135/model-bafa872e3f0b3355ce501c5767455ad8966193274f31d296e461a14239a68e4a.gltf"
+    },
+    {
+      "id": "osm136240952",
+      "name": "기숙사 20동 (LG 상남관)",
+      "variant": "generic-v2",
+      "url": "osm136240952/model-08c363347c9273d6c282ca13819cb8d2e8a87dcac44c5007efbdf4b88877e978.gltf"
+    },
+    {
+      "id": "osm136242421",
+      "name": "남자 기숙사 18",
+      "variant": "generic-v2",
+      "url": "osm136242421/model-e5f60b6bf1eb21dbc11fb3b2f0a1d4e5def0058993b053252b8672ac3469ae65.gltf"
+    },
+    {
+      "id": "osm136242801",
+      "name": "여자 기숙사 1",
+      "variant": "generic-v2",
+      "url": "osm136242801/model-53feaceda89d0080a6dfd021faae6b4f9d0ed9591249df33fddd7503b66d5bd0.gltf"
+    },
+    {
+      "id": "osm136242803",
+      "name": "여자 기숙사 2",
+      "variant": "generic-v2",
+      "url": "osm136242803/model-14225a15c0d4ba11496947c31d59eace7d7898bbd87c3360bb4c86bb5478e5aa.gltf"
+    },
+    {
+      "id": "osm136242805",
+      "name": "여자 기숙사 3",
+      "variant": "generic-v2",
+      "url": "osm136242805/model-7a1c2820dd4be5ecad3540432dab147e5cea767e579b5cf3b790fb3ae0c6325b.gltf"
+    },
+    {
+      "id": "osm136242911",
+      "name": "기숙사 21동",
+      "variant": "generic-v2",
+      "url": "osm136242911/model-3c31e5c82332f51f87d7f4ea133ab9267aeb25dd074a6f6ce68d3cdfe886c40c.gltf"
+    },
+    {
+      "id": "osm136242966",
+      "name": "남자 기숙사 2",
+      "variant": "generic-v2",
+      "url": "osm136242966/model-dcabd16c714793c4cce446d3097ec1b2d3748b9057152c89c7eb79f40a8b81e3.gltf"
+    },
+    {
+      "id": "osm136242984",
+      "name": "남자 기숙사 4",
+      "variant": "generic-v2",
+      "url": "osm136242984/model-06128e22eac7887b332859eff008e9e76d57fe1e10cef066235285ca839f14a6.gltf"
+    },
+    {
+      "id": "osm136242985",
+      "name": "남자 기숙사 1",
+      "variant": "generic-v2",
+      "url": "osm136242985/model-6b72ebad932986e6b5acadf57d7dbf4647445b82cf29810421056abfffa6ac52.gltf"
+    },
+    {
+      "id": "osm136242986",
+      "name": "남자 기숙사 3",
+      "variant": "generic-v2",
+      "url": "osm136242986/model-a0d44d88b91e92cfb73b6bb40f25bcbe6dadc87d4cb5bee35bb12134d24750d1.gltf"
+    },
+    {
+      "id": "osm136243002",
+      "name": "남자 기숙사 5",
+      "variant": "generic-v2",
+      "url": "osm136243002/model-63b8c8c33077fd66ba156c7a4ddfeb355a588fcf139856fb5bf25fbb6af9dd7a.gltf"
+    },
+    {
+      "id": "osm136243003",
+      "name": "남자 기숙사 7",
+      "variant": "generic-v2",
+      "url": "osm136243003/model-0d2e6b11134740c08174a08f8d95bd7f105fdbb5bffeaedcaab1217668646575.gltf"
+    },
+    {
+      "id": "osm136243004",
+      "name": "남자 기숙사 6",
+      "variant": "generic-v2",
+      "url": "osm136243004/model-78fbc6913d29e1b8ae3aa9b85838060317bbd2856508da56f8e9a5995dad1899.gltf"
+    },
+    {
+      "id": "osm136243005",
+      "name": "남자 기숙사 8",
+      "variant": "generic-v2",
+      "url": "osm136243005/model-b3a5aac0eb3200fadb6a237da5856482600e7834967724699ee1786cfc20bd6f.gltf"
+    },
+    {
+      "id": "osm136961597",
+      "name": "인공지능연구원",
+      "variant": "generic-v2",
+      "url": "osm136961597/model-ea5551615d67351f69f4df11faac7872e5893d4c242b4fddf65672bbc3fdf3cd.gltf"
+    },
+    {
+      "id": "osm136961695",
+      "name": "LG연구동",
+      "variant": "generic-v2",
+      "url": "osm136961695/model-36a6452088c70898bae03b25814b60591a619f1c336bde29b1129bdf1cd8777e.gltf"
+    },
+    {
+      "id": "osm136961730",
+      "name": "환경공학동",
+      "variant": "generic-v2",
+      "url": "osm136961730/model-3bf0a56af627c0edd62238b4009518294f622c6ebd5a3d8925b10545547f420b.gltf"
+    },
+    {
+      "id": "osm136961801",
+      "name": "posville 6",
+      "variant": "generic-v2",
+      "url": "osm136961801/model-bdc84717a16a7a4df58944ae990a7222c0d397f3de4fe5ae9f92f6fb7fdb055c.gltf"
+    },
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "detailed",
+      "url": "gym/model-08499480af1a7ce754c286ac4378e060dac14c297aee131874b6c75cb2a47e01.gltf"
+    },
+    {
+      "id": "osm137109125",
+      "name": "지곡연구동",
+      "variant": "generic-v2",
+      "url": "osm137109125/model-60a464f634a4be458628fe198c913e828ea32c4e41455fe801fe2007efd0c7ab.gltf"
+    },
+    {
+      "id": "osm137109713",
+      "name": "한국로봇융합연구원",
+      "variant": "generic-v2",
+      "url": "osm137109713/model-cd34ba70202c45cf79f451550b45638e99b7f5f785de3eb40a5278814c1650e0.gltf"
+    },
+    {
+      "id": "osm137110020",
+      "name": "친환경소재대학원",
+      "variant": "custom",
+      "url": "osm137110020/model-7dc4f02a3cb21240b632658c88ebbf35c079f9aadd0fb0ebffc83f291410f349.gltf"
+    },
+    {
+      "id": "osm137110181",
+      "name": "이름 미확인 건물 137110181",
+      "variant": "generic-v2",
+      "url": "osm137110181/model-5cd3671bd14b35c5c4ffa4abce7360257a77494f52c9a1ee2cf5706eedb4595c.gltf"
+    },
+    {
+      "id": "osm191380905",
+      "name": "Pohang Accelerator Lab",
+      "variant": "generic-v2",
+      "url": "osm191380905/model-28890caf308e6df58108f2d3b08db66aee45608ab12818e8ca9202ca5b81a9b8.gltf"
+    },
+    {
+      "id": "osm333372710",
+      "name": "포항4세대방사광가속기",
+      "variant": "generic-v2",
+      "url": "osm333372710/model-1140eff647aaa019f80369bd5abb2f3d804f2472487b9a26225908ad738688cd.gltf"
+    },
+    {
+      "id": "c5",
+      "name": "C5",
+      "variant": "detailed",
+      "url": "c5/model-8758a81e5e9a8795639eb69cd4b0be4492e0ce1bd41c5bacdf469dba8b14eb44.gltf"
+    },
+    {
+      "id": "osm468571906",
+      "name": "이름 미확인 건물 468571906",
+      "variant": "generic-v2",
+      "url": "osm468571906/model-ba0430c3755f0826e4f45381ca3c613b1233242560ae2be18aad196372f468a1.gltf"
+    },
+    {
+      "id": "osm628732512",
+      "name": "생명공학연구센터",
+      "variant": "custom",
+      "url": "osm628732512/model-9ab4ba69d68bcf26e1c6dd979dd05fa3b53ad7729b2f409e9ba0397b8613bb5c.gltf"
+    },
+    {
+      "id": "osm631011000",
+      "name": "화학관",
+      "variant": "generic-v2",
+      "url": "osm631011000/model-e5da40fa64465a5d0ef728d39ae9887fbde3d2443119aa9ce9c3268a1be459df.gltf"
+    },
+    {
+      "id": "osm631011001",
+      "name": "생명과학관",
+      "variant": "generic-v2",
+      "url": "osm631011001/model-a6be8ff1d41f3ccf7f1e53348d88c8fef8e820d222caae072cd1c8fc659549c4.gltf"
+    },
+    {
+      "id": "osm631011002",
+      "name": "제1실험동",
+      "variant": "generic-v2",
+      "url": "osm631011002/model-5294bc5b23c3c457b9af7618b9f0bb0e3a83696e53130878d772abad09128d07.gltf"
+    },
+    {
+      "id": "osm631011003",
+      "name": "기기공작동",
+      "variant": "generic-v2",
+      "url": "osm631011003/model-8dd65f3c75e716f48cead369b66510bd8d12750c1160d290e22195c017b1db54.gltf"
+    },
+    {
+      "id": "osm631011004",
+      "name": "제2실험동",
+      "variant": "generic-v2",
+      "url": "osm631011004/model-f31dd46c27d16dfd163d107638fc3f653ea1caeefea66c77e5e665b6f6c0d704.gltf"
+    },
+    {
+      "id": "osm631011005",
+      "name": "기계실험동",
+      "variant": "generic-v2",
+      "url": "osm631011005/model-7b8addc6f4440253318292d9cc04eb6d35b11837593fad36ade76b75d9c889f9.gltf"
+    },
+    {
+      "id": "osm631011007",
+      "name": "풍동",
+      "variant": "generic-v2",
+      "url": "osm631011007/model-01100a61363f487f4ad926158e9f0ec7bf37257ceda67bde94383e1e9c5d8ba3.gltf"
+    },
+    {
+      "id": "osm631011008",
+      "name": "이름 미확인 건물 631011008",
+      "variant": "generic-v2",
+      "url": "osm631011008/model-102bbfeab34b70600367db54f2d302c80f0e8ac5054f30f2236c4dee171c3fb2.gltf"
+    },
+    {
+      "id": "osm631011010",
+      "name": "이름 미확인 건물 631011010",
+      "variant": "generic-v2",
+      "url": "osm631011010/model-27a072841fb8b7d5de9bf191a3b389ccf51d64349d418dadd5ea827329d06fc4.gltf"
+    },
+    {
+      "id": "osm631011012",
+      "name": "이름 미확인 건물 631011012",
+      "variant": "generic-v2",
+      "url": "osm631011012/model-e7f71d0f427ba67d63a7aa3b3463b05d2f144d3c32f8e742da5afdff368262f4.gltf"
+    },
+    {
+      "id": "osm631011014",
+      "name": "이름 미확인 건물 631011014",
+      "variant": "generic-v2",
+      "url": "osm631011014/model-49e77ebaafcaf4ab4f5612cbad0728102b42007026e56e79726fc1e24d73dfcd.gltf"
+    },
+    {
+      "id": "osm631011016",
+      "name": "이름 미확인 건물 631011016",
+      "variant": "generic-v2",
+      "url": "osm631011016/model-fb00bcf16a46ab244fa6c1c6d0dd53060b193ceb3860474faaf0f262210005f3.gltf"
+    },
+    {
+      "id": "osm631011018",
+      "name": "이름 미확인 건물 631011018",
+      "variant": "generic-v2",
+      "url": "osm631011018/model-e1c93ef073fa8bd30143e3d05b07368f95f3fa23b19c0287d06ff02431d7bf6d.gltf"
+    },
+    {
+      "id": "osm631011019",
+      "name": "이름 미확인 건물 631011019",
+      "variant": "generic-v2",
+      "url": "osm631011019/model-e940e9d76b7d9843fa47f892bb0bf3569b1ebed1af2e22d028073a9faa4b873a.gltf"
+    },
+    {
+      "id": "osm631011021",
+      "name": "이름 미확인 건물 631011021",
+      "variant": "generic-v2",
+      "url": "osm631011021/model-ed1ef595faf78fca8e68746351ca7fcc66a9a83e6a12b45a3006a1f8cbc620d3.gltf"
+    },
+    {
+      "id": "osm639992759",
+      "name": "나노융합기술원",
+      "variant": "custom",
+      "url": "osm639992759/model-e6adea7eb0265962560dc2a4420f034494c7ed6fd5a76ada0909f91021ce9960.gltf"
+    },
+    {
+      "id": "osm639992760",
+      "name": "연구2동",
+      "variant": "generic-v2",
+      "url": "osm639992760/model-aabcc411471fce7ea80048dc9b1d8d9eaff60e8d7cbcc0d9c19e2bdcac9b4eef.gltf"
+    },
+    {
+      "id": "osm639992761",
+      "name": "연구1동,행정동",
+      "variant": "generic-v2",
+      "url": "osm639992761/model-785a818f156ddd8cd6c551f4a555f4b1dded58c2067543cbf26fd040997712b9.gltf"
+    },
+    {
+      "id": "osm639992762",
+      "name": "선형가속기동",
+      "variant": "generic-v2",
+      "url": "osm639992762/model-780e17fe7edb5fce6cc40738d676ac73f3491ff8ed4c92fe107323f8d946ef0f.gltf"
+    },
+    {
+      "id": "osm639992763",
+      "name": "EUV가속기동",
+      "variant": "generic-v2",
+      "url": "osm639992763/model-050def192cf5318a68a9abf6cc0584e04ee6d6779ed1754e65b669d0cbf50acd.gltf"
+    },
+    {
+      "id": "osm639992764",
+      "name": "154KV변전실",
+      "variant": "generic-v2",
+      "url": "osm639992764/model-da7082e38d651d053ebda7ab980ad5e3f6a3cfb6438ee5f87c5045a2c09d2770.gltf"
+    },
+    {
+      "id": "osm639992765",
+      "name": "동력동",
+      "variant": "generic-v2",
+      "url": "osm639992765/model-e873d5644c4f32dedcf3be3486c9e31039f9d0b9cb7be738949bac6959482901.gltf"
+    },
+    {
+      "id": "osm897850554",
+      "name": "이름 미확인 건물 897850554",
+      "variant": "generic-v2",
+      "url": "osm897850554/model-1e29ffbccbbfb77d8b8e72b6b7894ca994dbf46b8cd3b9f2da8fb3b3274cf4c6.gltf"
+    },
+    {
+      "id": "osm942763731",
+      "name": "그라운드 포항",
+      "variant": "custom",
+      "url": "osm942763731/model-a362122a797ba3d0a2becd595636125d9a2b7fdc3d3b5fbc95f4c6992e7aa182.gltf"
+    },
+    {
+      "id": "libraryBridge",
+      "name": "박태준학술정보관 보행교",
+      "variant": "custom",
+      "url": "libraryBridge/model-cd1ae6769a463d5ff65ddcb33fc6f96be5097982a6c91efec956bb221b0578fb.gltf"
+    },
+    {
+      "id": "haedong78Tower",
+      "name": "해동78타워",
+      "variant": "custom",
+      "url": "haedong78Tower/model-ad9250a4544f531ce7647a2445f29bbf03cd9c036babd0f2916180cbaa929787.gltf"
+    },
+    {
+      "id": "academicLinkEast",
+      "name": "본관–제1공학관 열린 연결회랑",
+      "variant": "custom",
+      "url": "academicLinkEast/model-3d81eb0431994e37524fd989c1b98a3d9b5146375001f592336654d2abef54ab.gltf"
+    },
+    {
+      "id": "academicLinkWest",
+      "name": "본관–수리과학관 열린 연결회랑",
+      "variant": "custom",
+      "url": "academicLinkWest/model-afce8f675d259f60d0732c9881e9504de6a6c69b447c045f97104d9b0d4ee02e.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 295624
+  }
+}

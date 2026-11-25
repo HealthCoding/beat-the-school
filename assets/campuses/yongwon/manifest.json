@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "Yongwon Changwon R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "main",
+      "url": "main/model-9e0d02b664da60687f42b16bc3a23bf7a4b675f077431df80ac038df58e7a41b.gltf",
+      "triangles": 22514,
+      "name": "전관·후관 연결교사",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "hall",
+      "url": "hall/model-f2ea0cd9f363b69b2fab59521460a0d4ecd0e7d0e38ab225c75d16921e61757e.gltf",
+      "triangles": 1560,
+      "name": "체육관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": -0.11999999731779099,
+      "id": "guard",
+      "url": "guard/model-d7b9a43823c4b3ec820b4c1b54dd14331e8e146f518739047bd7fd56a2f8ff87.gltf",
+      "triangles": 264,
+      "name": "정문 경비실 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 24338
+  }
+}

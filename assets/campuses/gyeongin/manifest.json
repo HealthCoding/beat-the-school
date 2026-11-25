@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "source": "Gyeongin Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-7ee30887886c5013df3ac68532e531251a7824b6cdbd0681019063fb020f1ac0.gltf",
+      "triangles": 19243,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "west",
+      "url": "west/model-77d9681ccd51736ccb3cfae29cc06385630dd11c7f947f992a21e27c2865e385.gltf",
+      "triangles": 10442,
+      "name": "서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gyeonginHall",
+      "url": "gyeonginHall/model-181321cdf70650466495aeab55fc60d6750764152f6ad2b9587c2ea2932268a7.gltf",
+      "triangles": 4338,
+      "name": "경인관(급식실·체육관·무용실)",
+      "variant": "detailed"
+    },
+    {
+      "id": "bridge",
+      "url": "bridge/model-ce2d9bd4c107d7a1db7faba5c54a11940f474fa0b2f5648b487b0938d7d554bf.gltf",
+      "triangles": 1208,
+      "name": "서관–경인관 연결교",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 35231
+  }
+}

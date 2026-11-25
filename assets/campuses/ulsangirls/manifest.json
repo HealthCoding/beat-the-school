@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "auto-school ulsangirls (2 destructible buildings, generated from OSM way/551772758 by scripts/campuses/ulsangirls/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-2efdf9563b920fa2bf2a0b39ca07c87817947012dc20990b452cde5a866772ca.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육시설",
+      "variant": "auto",
+      "url": "hall2/model-844270e400651de97ccbac760222efa64c1593475172fab4da9cd0297d40e3b5.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 16940
+  }
+}

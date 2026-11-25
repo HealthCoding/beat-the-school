@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "Sunhwa Arts R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "classroom",
+      "url": "classroom/model-12b7a97dfba1419662431c2810246e500f6a0ddea9d614070fa4b1f9ee3039de.gltf",
+      "triangles": 13224,
+      "name": "교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-arts",
+      "url": "main-arts/model-47b9d6646b11aaa01b57fa92d2108a0af1eaf27c120d93f91b6959759dbc2720.gltf",
+      "triangles": 10060,
+      "name": "본관예술동",
+      "variant": "detailed"
+    },
+    {
+      "id": "art-wing",
+      "url": "art-wing/model-12e6f535856cfffe21d76742b2a0b6710a35256450d7dc4ff0c3963a9aee2d27.gltf",
+      "triangles": 8990,
+      "name": "예술동",
+      "variant": "detailed"
+    },
+    {
+      "id": "art-link",
+      "url": "art-link/model-ff344d493c44e8d7b0ade5606670e97101d82e35b5fe421cb902717f151d8a3c.gltf",
+      "triangles": 1764,
+      "name": "예술동 연결관",
+      "variant": "detailed"
+    },
+    {
+      "id": "dining",
+      "url": "dining/model-360586da784dd2157564d7a276832cf27ddb617aa8cdc8d95d3d1347925bddda.gltf",
+      "triangles": 9190,
+      "name": "급식동",
+      "variant": "detailed"
+    },
+    {
+      "id": "solgeo-1",
+      "url": "solgeo-1/model-c0c55677e6e2e1294c632c3d4800e70fa50182e3662fd63d4fd5d1fd0204ddd8.gltf",
+      "triangles": 9118,
+      "name": "솔거1관",
+      "variant": "detailed"
+    },
+    {
+      "id": "solgeo-2",
+      "url": "solgeo-2/model-803a015f865ac4bc3518af12dee404140b81bc82b61325b48133264ff3a263a3.gltf",
+      "triangles": 4608,
+      "name": "솔거2관",
+      "variant": "detailed"
+    },
+    {
+      "id": "uac",
+      "url": "uac/model-0293e0f6b7f1a7ee7da9f529071bc0f98539fa75b29469c290ad072ec3a2fd27.gltf",
+      "triangles": 12128,
+      "name": "유니버설아트센터",
+      "variant": "detailed"
+    },
+    {
+      "id": "uac-annex",
+      "url": "uac-annex/model-84028b93920a60d5b1d2480b734071203d7a012d873b3e4d4d516511ad14e775.gltf",
+      "triangles": 6998,
+      "name": "아트센터 별관",
+      "variant": "detailed"
+    },
+    {
+      "id": "kyungbok",
+      "url": "kyungbok/model-a5e95a78cb777c4a57ff7a7e623e1e801c476e0bc98f9b7048fd1b38406db0c3.gltf",
+      "triangles": 9818,
+      "name": "경복초등학교",
+      "variant": "detailed"
+    },
+    {
+      "id": "pavilion-west",
+      "url": "pavilion-west/model-3581b1d6357321146b312be78bab2156161ed37564834e15983949ed74c755fb.gltf",
+      "triangles": 508,
+      "name": "트랙 서쪽 쉼터",
+      "variant": "detailed"
+    },
+    {
+      "id": "pavilion-south",
+      "url": "pavilion-south/model-3001e2044e0b66c5d2a9c107046e3c06761d58ebbcf89e5377daab0215d4d4f0.gltf",
+      "triangles": 480,
+      "name": "트랙 남쪽 쉼터",
+      "variant": "detailed"
+    },
+    {
+      "id": "pavilion-store",
+      "url": "pavilion-store/model-e591f64e781e56835b4047f2cb5198b085ab9d0dea3e44b4dd578f2231fca5dd.gltf",
+      "triangles": 1024,
+      "name": "운동장 창고",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 87910
+  }
+}

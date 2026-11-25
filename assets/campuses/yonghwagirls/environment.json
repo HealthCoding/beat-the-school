@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Yonghwa Girls Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-3f9cef00030b6bac0c92f02ad09950fec90d8cd278be0c07653d2252f445ecf2.gltf",
+      "triangles": 17359
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-13ac1f691f864c083c82888daaaba0276b97587f093714eb018569eaac9d8caa.gltf",
+      "triangles": 30976
+    },
+    {
+      "id": "context",
+      "url": "context/model-2ade5a1b73018af04102c0798976ec165fce032d88f1b03e4cc22fc689051147.gltf",
+      "triangles": 41820
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-d6cdd421e5317c42932a36d0cb3e458700dbc5ca0fc063fa096652017cf0f816.gltf",
+      "triangles": 2167
+    }
+  ]
+}

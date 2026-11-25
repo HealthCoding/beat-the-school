@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "source": "ewha-sinchon active-models.json (63 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "ecc",
+      "name": "이화캠퍼스복합단지(ECC)",
+      "variant": "detailed",
+      "url": "ecc/model-8ccbe7954964fb6763942c5fb0a6d23c3301939fc5fab4e203b211861b884798.gltf"
+    },
+    {
+      "id": "industryCoop",
+      "name": "산학협력관",
+      "variant": "generic-v2",
+      "url": "industryCoop/model-1dc8fb587b1ee912e641ef7ffaaf516d5f4b5980bd4597f73dd3c3f037e7fbc8.gltf"
+    },
+    {
+      "id": "library",
+      "name": "100주년기념중앙도서관",
+      "variant": "generic-v2",
+      "url": "library/model-4eb7a158b2b5a6194098de1662841686cf5a3135e30ab2e58cded37e3a8fd35e.gltf"
+    },
+    {
+      "id": "lifeEnv",
+      "name": "생활환경관",
+      "variant": "generic-v2",
+      "url": "lifeEnv/model-b01fc6b5d53c3d5c382579902c54735ddb8da994a5273665599d39b237054fb0.gltf"
+    },
+    {
+      "id": "researchCoop",
+      "name": "연구협력관",
+      "variant": "generic-v2",
+      "url": "researchCoop/model-1908c70c1705e127d9ba35d8ea409f68131f46c8859ca4181ab01f3625efe045.gltf"
+    },
+    {
+      "id": "asanEng",
+      "name": "아산공학관",
+      "variant": "generic-v2",
+      "url": "asanEng/model-6739eb624f166fec85a0ab455b907717ca4fbcaa40b2da751d03a6e39afce7f7.gltf"
+    },
+    {
+      "id": "education",
+      "name": "교육관 A동",
+      "variant": "generic-v2",
+      "url": "education/model-fd1f3551a9afd42d8cf5e90f573089bad585efe58b9155f8d6b6060efb9c1dcd.gltf"
+    },
+    {
+      "id": "music",
+      "name": "음악관",
+      "variant": "generic-v2",
+      "url": "music/model-8caeed0753e22aa452dd36f0dd916b4bd37f382f748c6e6542b3eafb3e17e5c5.gltf"
+    },
+    {
+      "id": "auditorium",
+      "name": "대강당",
+      "variant": "detailed",
+      "url": "auditorium/model-f9c28f0af0607d659778f8ff9ea1234c46940d3f8260f2c6995d6823fccf47ad.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법학관",
+      "variant": "generic-v2",
+      "url": "law/model-0d3ca8a633690970b28d030f839f11ba9ee16645aefa19f61daa464415080592.gltf"
+    },
+    {
+      "id": "hakgwan",
+      "name": "학관",
+      "variant": "generic-v2",
+      "url": "hakgwan/model-c3b9d57a247577e63b126b34e17f9341942d9e97524785e7e8ea562d4b277622.gltf"
+    },
+    {
+      "id": "posco",
+      "name": "이화·포스코관",
+      "variant": "generic-v2",
+      "url": "posco/model-c42c5bedd3949b73bab4e1c12e58259043031a69203df5e5c0a3902439778656.gltf"
+    },
+    {
+      "id": "sciA",
+      "name": "종합과학관 A동",
+      "variant": "generic-v2",
+      "url": "sciA/model-2787e9be2770541161325bc9e09b01bd124e55792009c9d3b3236867446cf84c.gltf"
+    },
+    {
+      "id": "newEng",
+      "name": "신공학관",
+      "variant": "generic-v2",
+      "url": "newEng/model-5d5b6941dce60f7a8d325e3483c3956c49134c62412c6f8f746bf64ea11bf561.gltf"
+    },
+    {
+      "id": "samsungEdu",
+      "name": "이화·삼성교육문화관",
+      "variant": "generic-v2",
+      "url": "samsungEdu/model-8cb49844c4f7eedd4802e469b3d66203d9af7e37c80ec6b3f92a677858b8b0cb.gltf"
+    },
+    {
+      "id": "sciB",
+      "name": "종합과학관 B동",
+      "variant": "generic-v2",
+      "url": "sciB/model-1eb509dcf837f0d75bad5da2be18e425e0f2a8ca9d5d6a871ae131d0cac0b331.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "ROTC관",
+      "variant": "generic-v2",
+      "url": "rotc/model-134e854e45c1f6aeb3a4d630610498269e32d0326f859098e34800cb1b49ce26.gltf"
+    },
+    {
+      "id": "hanuri",
+      "name": "한우리집",
+      "variant": "generic-v2",
+      "url": "hanuri/model-a43fda197d01cc7fd8cdb364b2ea431efd7357da9001def89754622eb873a3d8.gltf"
+    },
+    {
+      "id": "museum100",
+      "name": "100주년기념박물관",
+      "variant": "generic-v2",
+      "url": "museum100/model-640ab6fa8f2e7c8286dceaebcba8342d0822b17dad927d3a50fb5cc1521df91a.gltf"
+    },
+    {
+      "id": "naturalHistory",
+      "name": "자연사박물관",
+      "variant": "generic-v2",
+      "url": "naturalHistory/model-27f7b682eb150b4dcdad207a7d9722a8b57cd96a6c0e3353fc1a838724202e44.gltf"
+    },
+    {
+      "id": "shinsegae",
+      "name": "이화신세계관",
+      "variant": "generic-v2",
+      "url": "shinsegae/model-81d6e286bf09cdfbcbfdf7adf5405ac92d44534a18d77bde4eb9e57d031df52d.gltf"
+    },
+    {
+      "id": "mainHall",
+      "name": "본관(파이퍼홀)",
+      "variant": "detailed",
+      "url": "mainHall/model-629552a148ebca4a1a89ed975ed9d66f1f7d13ce485308327cf4afed48867b3b.gltf"
+    },
+    {
+      "id": "artA",
+      "name": "조형예술관 A동/자연사박물관",
+      "variant": "generic-v2",
+      "url": "artA/model-63084094d197788b70bf9325cb545a9d0f435388f90e1b226029a94e99f6a593.gltf"
+    },
+    {
+      "id": "ottogi",
+      "name": "오뚜기 국제관",
+      "variant": "generic-v2",
+      "url": "ottogi/model-244b0ab02b9783add23f90d19b93af378f004866f123fea418f544340f747f0e.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문관",
+      "variant": "generic-v2",
+      "url": "humanities/model-43da26ff468ae85e890a65a729f34ae76d92d3e6d4059a108271362309cd93ff.gltf"
+    },
+    {
+      "id": "helen",
+      "name": "헬렌관",
+      "variant": "generic-v2",
+      "url": "helen/model-0d3ca1ccd9bbb75002005f05b476b8488b685515bee9581e0a32a087d36123e6.gltf"
+    },
+    {
+      "id": "studentCulture",
+      "name": "학생문화관",
+      "variant": "generic-v2",
+      "url": "studentCulture/model-9c6bc3cd366120638b0b689f2161eb1b53da88b61052c40b427dea89ab8e9ed2.gltf"
+    },
+    {
+      "id": "pharmB",
+      "name": "약학관 B동",
+      "variant": "generic-v2",
+      "url": "pharmB/model-7d9a2d1fc780b61dab5703e277a2ee3615157b1caf0f8743f2acd2744df97237.gltf"
+    },
+    {
+      "id": "sciD",
+      "name": "종합과학관 현대자동차동",
+      "variant": "generic-v2",
+      "url": "sciD/model-c6847d39171701e12c0ace117d11c6b61d12a2273173e755b003ef8c15a01e67.gltf"
+    },
+    {
+      "id": "pharmA",
+      "name": "약학관 A동",
+      "variant": "generic-v2",
+      "url": "pharmA/model-2b960b9ef4080186823ab7b971953f9f6085b6c2ab4686d5ff2f074c9c79de6c.gltf"
+    },
+    {
+      "id": "sciC",
+      "name": "종합과학관 C동",
+      "variant": "generic-v2",
+      "url": "sciC/model-f87b5276faa0fc11ab1a49347546a84a0f643a7c470f00927432a61423c71de3.gltf"
+    },
+    {
+      "id": "gymB",
+      "name": "체육관 B동",
+      "variant": "generic-v2",
+      "url": "gymB/model-81731bc2891fda5165f3604605b5d7bdbabbd9103a973982210db050b1304d19.gltf"
+    },
+    {
+      "id": "gradSchool",
+      "name": "대학원관",
+      "variant": "generic-v2",
+      "url": "gradSchool/model-77205c31e66a9b49741ff6736d511c103d4eac4ef3457a7a651e103b7c88ab57.gltf"
+    },
+    {
+      "id": "eh301",
+      "name": "이하우스 301동",
+      "variant": "generic-v2",
+      "url": "eh301/model-30c12ad219926b214ed875ac7aa1c86028ac8dd75df8d4b6d0690ee8becd3f50.gltf"
+    },
+    {
+      "id": "eh304",
+      "name": "이하우스 304동",
+      "variant": "generic-v2",
+      "url": "eh304/model-185bbaf8e40ca529d88e648f3fb5faf0295da387573b99e7d9d9d575fd65895c.gltf"
+    },
+    {
+      "id": "eh202",
+      "name": "이하우스 202동",
+      "variant": "generic-v2",
+      "url": "eh202/model-af4281c22fa7e2667326a2c0932e3953cd4182696c0f37c6c5d9a87910816d9f.gltf"
+    },
+    {
+      "id": "eh302",
+      "name": "이하우스 302동",
+      "variant": "generic-v2",
+      "url": "eh302/model-c2e6ce3dc4049ba7e9fd25c1c1919868d7252dea8fdfd54fb796ea70a254dd51.gltf"
+    },
+    {
+      "id": "jinseonmi",
+      "name": "진선미관",
+      "variant": "generic-v2",
+      "url": "jinseonmi/model-14b47df049cf165f559b0ca6ea6b2df5d9f71ddf48249827265b12113937b21e.gltf"
+    },
+    {
+      "id": "eh203",
+      "name": "이하우스 203동",
+      "variant": "generic-v2",
+      "url": "eh203/model-9d82adaa5dcb3d193867be3429b2b6add2e37d6fd87b0dd8f62ad31b79e6d919.gltf"
+    },
+    {
+      "id": "history",
+      "name": "이화역사관",
+      "variant": "generic-v2",
+      "url": "history/model-3a9dcac3d722cde43022406266c4e828bbb70d4bde36a4050cb60c62ea86f011.gltf"
+    },
+    {
+      "id": "artB",
+      "name": "조형예술관 B동",
+      "variant": "generic-v2",
+      "url": "artB/model-d1eaafe7b321f6c7bedc47210536eb24ab692a45ed15bb6769a191ae65ae4412.gltf"
+    },
+    {
+      "id": "eh204",
+      "name": "이하우스 204동",
+      "variant": "generic-v2",
+      "url": "eh204/model-0c81d424778f52131030025a93c47243d6dd7c278a3732b818b2cd62005e31e2.gltf"
+    },
+    {
+      "id": "sktelecom",
+      "name": "이화·SK텔레콤관",
+      "variant": "generic-v2",
+      "url": "sktelecom/model-28ac700e03a7511ff13ffc7be6813945def5ddae46a5ea9dbc7de59cb5b41fb2.gltf"
+    },
+    {
+      "id": "eh201",
+      "name": "이하우스 201동",
+      "variant": "generic-v2",
+      "url": "eh201/model-bde7f65a08df2fcbe80a370cee2d5665bff94aace55295b5bdcfeafe7968b6e7.gltf"
+    },
+    {
+      "id": "admission",
+      "name": "입학관",
+      "variant": "generic-v2",
+      "url": "admission/model-feb58dbc0ffcc29c1c9e0ba3fbfecb22928181c190320262b96def5ba15b8c61.gltf"
+    },
+    {
+      "id": "eh303",
+      "name": "이하우스 303동",
+      "variant": "generic-v2",
+      "url": "eh303/model-61b866359479c8e2e580a092af3136ab1613650160e11b228796d9a2ca3e15aa.gltf"
+    },
+    {
+      "id": "ihouseA",
+      "name": "I-House A동",
+      "variant": "generic-v2",
+      "url": "ihouseA/model-eb2201e9848c77b7c05d0f650d7aee333c500f837f0827212c809019384012fe.gltf"
+    },
+    {
+      "id": "ihouseB",
+      "name": "I-House B동",
+      "variant": "generic-v2",
+      "url": "ihouseB/model-f917cc3ec2e4c2696a59f421dde92bcfb804cd27c0b3103ca63dab4e6b5c6087.gltf"
+    },
+    {
+      "id": "intlEdu",
+      "name": "국제교육관",
+      "variant": "generic-v2",
+      "url": "intlEdu/model-83b9f4ff141db4404db8a13497c0b2f3f41c110aadb51ce42da57e7348dd23b1.gltf"
+    },
+    {
+      "id": "artC",
+      "name": "조형예술관 C동",
+      "variant": "generic-v2",
+      "url": "artC/model-8bcbd472486407c7fd03404dead909de30371358911130ad9303116b1841744a.gltf"
+    },
+    {
+      "id": "gymC",
+      "name": "체육관 C동",
+      "variant": "generic-v2",
+      "url": "gymC/model-029f873939764616df32fceecfcbbcb27e271527124014a900ba5e2281e98014.gltf"
+    },
+    {
+      "id": "samsungDorm",
+      "name": "이화·삼성 국제기숙사",
+      "variant": "generic-v2",
+      "url": "samsungDorm/model-986959bf1eac56556329c2fe2a66d2336125c8a156130ec6aa151a6b0dabf93e.gltf"
+    },
+    {
+      "id": "gymA",
+      "name": "체육관 A동",
+      "variant": "generic-v2",
+      "url": "gymA/model-553ca0e752f13d435d9bc2ce411f4eda39010a9c450751bdc8669e787b2ce3d0.gltf"
+    },
+    {
+      "id": "alps",
+      "name": "이화·알프스관",
+      "variant": "generic-v2",
+      "url": "alps/model-d9c37301fbc49ade60dee77033deffc8e381f4b0da3ea211fccd73d5d19bf3d6.gltf"
+    },
+    {
+      "id": "unk8466",
+      "name": "학생문화관 남쪽 부속동",
+      "variant": "generic-v2",
+      "url": "unk8466/model-eb50260bb0a098c60b18c72c02f8f9a5bfacdb0bf73d4496ffabad3e44838d75.gltf"
+    },
+    {
+      "id": "aryeong",
+      "name": "아령당",
+      "variant": "generic-v2",
+      "url": "aryeong/model-0ec7362573ca854d8ef86041079df164d4e49528e2db5d4ce26b08c3427c4cb0.gltf"
+    },
+    {
+      "id": "gradAnnex",
+      "name": "대학원별관",
+      "variant": "generic-v2",
+      "url": "gradAnnex/model-ce3cf19a1167a7b64db789d1eac7077c84078cda78dcf54dcd52a501014b16ad.gltf"
+    },
+    {
+      "id": "unk8232",
+      "name": "다락방",
+      "variant": "generic-v2",
+      "url": "unk8232/model-e569d6b4ab00289e2a85e75d194c036bdb2db77506e72e284510a24d1ea79079.gltf"
+    },
+    {
+      "id": "gonggwan",
+      "name": "공관",
+      "variant": "generic-v2",
+      "url": "gonggwan/model-2472991e070d37dc1b0eb8491210e3be31aa6d8b646dec9974b18014810bbfcd.gltf"
+    },
+    {
+      "id": "unk1290",
+      "name": "한우리집 부속동",
+      "variant": "generic-v2",
+      "url": "unk1290/model-327d26e4576a82ce6e62b54e26bc591936cadec24c1429de59f5f99f7c397a06.gltf"
+    },
+    {
+      "id": "research",
+      "name": "연구관",
+      "variant": "generic-v2",
+      "url": "research/model-7ea38088b0ad04b059cdb3f974f5bb54863dab32f3f49777aa38bdbbb1ce1a14.gltf"
+    },
+    {
+      "id": "unk8452",
+      "name": "학생문화관 옆 부속동",
+      "variant": "generic-v2",
+      "url": "unk8452/model-3a0f64d88993f12796fdf129669464678087358193954cbd2ea45b6c73400ae0.gltf"
+    },
+    {
+      "id": "unk8220",
+      "name": "이화 스타트업 이룸 센터",
+      "variant": "generic-v2",
+      "url": "unk8220/model-741fa808fb0edb4e06459c35a0a49fb42d1b705d118540d2f39d61c4ae3c9a0a.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 178194
+  }
+}

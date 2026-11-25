@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "Goyang High School of Arts R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-fa1aa32854565e139985ef6dce6d6a72f55cf64b4bd4e444f9ec71fc1126facc.gltf",
+      "triangles": 6926,
+      "name": "본관동",
+      "variant": "detailed"
+    },
+    {
+      "id": "east",
+      "url": "east/model-63eb5c24ca2ebef488d18052cb0a2239cdbd3fdc6a43c552f28ccc7ed14c9f64.gltf",
+      "triangles": 5762,
+      "name": "동관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gibong",
+      "url": "gibong/model-3653ddc41c0a564f5b4a7279fb32fca5cc39085d014478e630196bd38b0a30ee.gltf",
+      "triangles": 7700,
+      "name": "기봉관",
+      "variant": "detailed"
+    },
+    {
+      "id": "theatre",
+      "url": "theatre/model-87c63d217ae79741fa6e84cba807a6f4dd7b3f6295ae86153f2f3368e77133dd.gltf",
+      "triangles": 2276,
+      "name": "대극장",
+      "variant": "detailed"
+    },
+    {
+      "id": "yunsong",
+      "url": "yunsong/model-af55d4da627206666f36b61c95508aab0666f04e6b86704ce4ed70ea1a1cb026.gltf",
+      "triangles": 4914,
+      "name": "윤송관",
+      "variant": "detailed"
+    },
+    {
+      "id": "sculpture-mac",
+      "url": "sculpture-mac/model-ac3870e3fefd7a7f7f120579aa4786e595a6783bb55d26a3cabbec7569fba72a.gltf",
+      "triangles": 3168,
+      "name": "기봉관 MAC·조소동",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 30746
+  }
+}

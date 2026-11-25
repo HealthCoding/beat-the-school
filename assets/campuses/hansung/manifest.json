@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "source": "hansung-seoul active-models.json (15 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "mirae",
+      "name": "미래관",
+      "variant": "detailed",
+      "url": "mirae/model-a6d4cc08e97dae7041017e357d3b6b60d72d655f2c2cb09d3c079b8cdcf75fb4.gltf"
+    },
+    {
+      "id": "jinri",
+      "name": "진리관",
+      "variant": "generic-v2",
+      "url": "jinri/model-328613107dfc46bc227c89e75d9b76ba4e23ff43b0b9c8edd47c2c9c48b7a3bb.gltf"
+    },
+    {
+      "id": "uchon",
+      "name": "우촌관",
+      "variant": "detailed",
+      "url": "uchon/model-18f9e96d7176dd4db2cec4d700598fe93474cd335e29696748cbe63c8a0ee4fd.gltf"
+    },
+    {
+      "id": "research",
+      "name": "연구관",
+      "variant": "detailed",
+      "url": "research/model-394eb5e269e969e7e795134369eb9142cb775afaf3b6a81a135d5f3e017a9000.gltf"
+    },
+    {
+      "id": "sangsang",
+      "name": "상상관",
+      "variant": "detailed",
+      "url": "sangsang/model-a002b25c61f2f32e8f3d8dc8422df1f73280f68b9793b82f389de74592c4b5c6.gltf"
+    },
+    {
+      "id": "jiseon",
+      "name": "지선관",
+      "variant": "generic-v2",
+      "url": "jiseon/model-15b221947f8f02815cb9754bca4eb2b925c013ef559a694c0f44ecfc923a46d3.gltf"
+    },
+    {
+      "id": "engineeringA",
+      "name": "공학관 A동",
+      "variant": "generic-v2",
+      "url": "engineeringA/model-366b299e10680477eedbb2fae19cc6a0466392608dd4162c790e0ac1156133dd.gltf"
+    },
+    {
+      "id": "engineeringB",
+      "name": "공학관 B동",
+      "variant": "custom",
+      "url": "engineeringB/model-d5a70d1b49af55f4a2c0830c5cdf838b8a468924d6715b839eefd3b38950ad1d.gltf"
+    },
+    {
+      "id": "changui",
+      "name": "창의관(학생회관)",
+      "variant": "generic-v2",
+      "url": "changui/model-0ae1429fb31aa7393e5af6bb104fd27ac89abcd401318507b1b89f8ee88d085d.gltf"
+    },
+    {
+      "id": "inseong",
+      "name": "인성관",
+      "variant": "generic-v2",
+      "url": "inseong/model-a32c77753b0741c38eb94bb384400d6587e20a356b27edd941b91f8f1044e029.gltf"
+    },
+    {
+      "id": "naksan",
+      "name": "낙산관",
+      "variant": "detailed",
+      "url": "naksan/model-30918d4c1fbf9c4d07b7697462ab65883c817c45d275d7e60c15f26b7cbabe36.gltf"
+    },
+    {
+      "id": "tamgu",
+      "name": "탐구관",
+      "variant": "generic-v2",
+      "url": "tamgu/model-c1279457fac76d2315b8ae3c9fd12d7a5ee118526096b188eeaf95e1e40cf2c1.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "학군단",
+      "variant": "generic-v2",
+      "url": "rotc/model-8e89e256ba61169f3aae477416e8c9fcd39d632ed49f59c05351791eb335edb6.gltf"
+    },
+    {
+      "id": "haksong",
+      "name": "학송관",
+      "variant": "generic-v2",
+      "url": "haksong/model-0cbbd9c817951dd238cc98c92dcc7ede17af75e81da52b3845dc29283acbbac7.gltf"
+    },
+    {
+      "id": "village",
+      "name": "상상빌리지(기숙사)",
+      "variant": "generic-v2",
+      "url": "village/model-f2003f94474ad058ecdb2a4782dd4b690b1da2d59309ef13ca3a2e5a81c0e7be.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 107916
+  }
+}

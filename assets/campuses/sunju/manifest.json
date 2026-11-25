@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Sunju Gumi R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-305ea6fe6d1b9eadfe764ab1c767abe7c0cc7ba2c35f99af0bae612730b9f271.gltf",
+      "triangles": 12784,
+      "name": "본관(운동장 쪽 교사동)",
+      "variant": "detailed"
+    },
+    {
+      "id": "west-wing",
+      "url": "west-wing/model-97721556ec81c98a510d37d310c477c822482a11bdc6005a2e31b62e5bc79a42.gltf",
+      "triangles": 8222,
+      "name": "서쪽 교사동(뒤 날개)",
+      "variant": "detailed"
+    },
+    {
+      "id": "mid-wing",
+      "url": "mid-wing/model-711a9b6e9b3c946bfe119fff77ad68b017c723aae57d8a98ba0a3dc72db9f310.gltf",
+      "triangles": 7450,
+      "name": "가운데 교사동(뒤 날개)",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-efe911aa18ad60aa20aa233ba3ac9d64af5b3572c00e6524648726ce55538c80.gltf",
+      "triangles": 1892,
+      "name": "체육관·급식실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-bf23b4cf48b1224790e0786af9aedefd9f7cb6128bf2fb0b53ed6b916b118667.gltf",
+      "triangles": 340,
+      "name": "교문 경비실",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 30688
+  }
+}

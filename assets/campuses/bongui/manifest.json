@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "source": "auto-school bongui (6 destructible buildings, generated from OSM way/476499591 by scripts/campuses/bongui/build-package.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing1/model-8fc271a39b075f4149983835553712b7ff236d4adf4442ef86bb3968f9d34a7c.gltf"
+    },
+    {
+      "id": "hall2",
+      "name": "체육관",
+      "variant": "auto",
+      "url": "hall2/model-cc4749b65b6e0cdb94ee15a0491f842cf7d537d93f0ddbe7a3af1cfa590c0862.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "남쪽 교사동",
+      "variant": "auto",
+      "url": "wing3/model-eab1da2cf1e3d20df56812b204b2315781bddb61453d7df2a0afaed1b29046bb.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "중앙 교사동",
+      "variant": "auto",
+      "url": "wing4/model-9830f65303e2a664cb7fb12dc7e6368c58a8812a02a45a467a5fdc9f2e2c4457.gltf"
+    },
+    {
+      "id": "wing5",
+      "name": "서쪽 교사동",
+      "variant": "auto",
+      "url": "wing5/model-64aeeeb52a03724e0a9f7ac32b098e8c292317a6351693f79a88bf7d22fa74a3.gltf"
+    },
+    {
+      "id": "shed6",
+      "name": "후면 부속동",
+      "variant": "auto",
+      "url": "shed6/model-c2a80305c247aa523c1484cadc87ae19e82b6963a33942e503d6c66db8dd4afa.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 10216
+  }
+}

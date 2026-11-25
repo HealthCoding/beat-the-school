@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "auto-school seoklim (5 destructible buildings, generated from OSM way/856215905 by scripts/campuses/seoklim/gen/build.mjs)",
+  "models": [
+    {
+      "id": "wing1",
+      "name": "서부평생교육원",
+      "variant": "auto",
+      "url": "wing1/model-14b9bce7ad989ddd6e7e7e12422c270d453d08507656b85d819f2a9df908ace9.gltf"
+    },
+    {
+      "id": "wing2",
+      "name": "희망관",
+      "variant": "auto",
+      "url": "wing2/model-32606324b9366a4c9c596581f035074dd70c9cca4127cf191bcb64542a800dc3.gltf"
+    },
+    {
+      "id": "wing3",
+      "name": "본관",
+      "variant": "auto",
+      "url": "wing3/model-610cd482c1765cc606d0c0a24bbc7e9302287d46f6c86d240b115f1808cf3cc2.gltf"
+    },
+    {
+      "id": "wing4",
+      "name": "운동장동",
+      "variant": "auto",
+      "url": "wing4/model-b12fd08ec9cf0b5c1cd058e4472a474a263c4c692cdfb395e7173b8b535e4519.gltf"
+    },
+    {
+      "id": "wing5",
+      "name": "계단탑 연결동",
+      "variant": "auto",
+      "url": "wing5/model-8e48e8a58230312463bd5d6c2472411f0b0db6bbf048935f2557c212e97b06ee.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 32492
+  }
+}

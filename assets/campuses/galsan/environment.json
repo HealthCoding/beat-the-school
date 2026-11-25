@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Galsan Asan R4 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-5f3f456fc9e2bdc7affefe9aa48535e265dc72f5b18642475ce026493d429f03.gltf",
+      "triangles": 19676
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-37bbd9a2a7ca20f7d3cb151360fd7c389d05a623a1fc5539c00b46902f1bfffa.gltf",
+      "triangles": 27534
+    },
+    {
+      "id": "context",
+      "url": "context/model-8cece8a79c0ee3ec16037d301208a6187280cbe0a58b34aa0b1777c30cec914b.gltf",
+      "triangles": 54292
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-132561e19cece7a813baee75b02403bae47b15af30b61dbca74d69be4bc22910.gltf",
+      "triangles": 976
+    }
+  ]
+}

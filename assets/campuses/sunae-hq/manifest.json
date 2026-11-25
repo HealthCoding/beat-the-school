@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "source": "Sunae HQ R4: annex facade only; main/bridge/environment preserved",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-77a53d02c477fe61c300d22d0e640cef8fb94627a77b2bb0c0e8b86452d6be26.gltf",
+      "triangles": 25964,
+      "instanceTriangles": 25964,
+      "name": "본관 후보",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-f86aedd6640293b3686af29f0e6a192a191b9e642b9861d0a7e85359dc7172ca.gltf",
+      "triangles": 7018,
+      "instanceTriangles": 7018,
+      "name": "신관(상부 체육관) 후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 32982
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "source": "hufs-seoul active-models.json (15 destructible buildings), packed losslessly",
+  "models": [
+    {
+      "id": "main",
+      "name": "본관",
+      "variant": "detailed",
+      "url": "main/model-4b8b812a81d65993dc12defba275fb71ca9290f3651785167174e2aa4e0a70a0.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문과학관",
+      "variant": "generic",
+      "url": "humanities/model-0adb0a85fa89fed42e907c644e56cbfa393984df81a348665390697838715e7a.gltf"
+    },
+    {
+      "id": "teaching",
+      "name": "교수학습개발원",
+      "variant": "generic",
+      "url": "teaching/model-f7af12e055784ccff81b56e1c153b0ff45ce7add29b9431a2ee2375b51430198.gltf"
+    },
+    {
+      "id": "languageCenter",
+      "name": "외국어연수평가원",
+      "variant": "generic",
+      "url": "languageCenter/model-809e5e46735262fb2f4e498054cccc6d1df4dd8d23925619e4870fa4b35b8498.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제관",
+      "variant": "generic",
+      "url": "international/model-f423ad155af661c796fdee6d4044c469eee56d4b8e27e5f7a32310f1bfd2a2e0.gltf"
+    },
+    {
+      "id": "history",
+      "name": "역사기념관",
+      "variant": "generic",
+      "url": "history/model-fd2e4c50b85aee8498040b1792c9c6ef172fe1d3a24773cd2936ec3beca9ad8f.gltf"
+    },
+    {
+      "id": "gradSchool",
+      "name": "대학원",
+      "variant": "generic",
+      "url": "gradSchool/model-0c1f41fbcb6b17f423d19b0a9d1090c4de8a1f43276e77b0aa91d31488095f5a.gltf"
+    },
+    {
+      "id": "press",
+      "name": "출판부",
+      "variant": "generic",
+      "url": "press/model-64a49170597d2cdd9ddcdb3deac0643eb46f7ebfcb08f08a189a74738aaf7a78.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법학관",
+      "variant": "generic",
+      "url": "law/model-df8a2079fbf05c5f7de12c7d2f7daf3c22105b1df6528a506e08b2a70ececc0b.gltf"
+    },
+    {
+      "id": "globeeDorm",
+      "name": "국제학사",
+      "variant": "generic",
+      "url": "globeeDorm/model-c2eba3673f10375a4bacedb9f53e90105710b6c0f9b90004c591fba0185067bb.gltf"
+    },
+    {
+      "id": "socialSciences",
+      "name": "사회과학관",
+      "variant": "generic",
+      "url": "socialSciences/model-8c813bd47668f61087293bc5ec922ff715009202cebea51b3923a52a010f3f69.gltf"
+    },
+    {
+      "id": "library",
+      "name": "도서관",
+      "variant": "generic",
+      "url": "library/model-a39213a057dcfd0c9e7068b98fa4c1d309110c5b3c3483e5b9e80a6eaf3e9ccb.gltf"
+    },
+    {
+      "id": "cyber",
+      "name": "사이버관",
+      "variant": "detailed",
+      "url": "cyber/model-400cd8861e5eb0a6841d097c540b0740a8fd2b583e253e39711c8f0fde41295a.gltf"
+    },
+    {
+      "id": "facultyHall",
+      "name": "교수회관",
+      "variant": "generic",
+      "url": "facultyHall/model-0521529df1d1f5bfac5f5d25ae15e90ee847d430c9fcbfd07a25367c9fa842db.gltf"
+    },
+    {
+      "id": "guardHouse",
+      "name": "경비실",
+      "variant": "generic",
+      "url": "guardHouse/model-dd1c888a91625c9ed82672b5a3eb8d8d17cb0644f890bf983054dcfbc4dc2703.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 85255
+  }
+}

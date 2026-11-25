@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Baewha Girls High School R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "campbell",
+      "url": "campbell/model-e30ab2d6db5c0ac993293bcace0512b3d964746b4665cccae193124d13268039.gltf",
+      "triangles": 6920,
+      "name": "캠벨기념관",
+      "variant": "detailed"
+    },
+    {
+      "id": "annex",
+      "url": "annex/model-a96adfdf7379dc33dbdfd859cf581d64b3a5fbed778e3465223a9d4eb0aca82a.gltf",
+      "triangles": 11196,
+      "name": "별관",
+      "variant": "detailed"
+    },
+    {
+      "id": "carolina",
+      "url": "carolina/model-fdecb96c14bda89b49b81b8a5611668c61832b80a87ed7800e7212b51cb4cdf1.gltf",
+      "triangles": 6694,
+      "name": "캐롤라이나관",
+      "variant": "detailed"
+    },
+    {
+      "id": "jaran",
+      "url": "jaran/model-ae06e94738daa82a0312fd329cb0f93527ec404134eda63a0802f198cd384f8d.gltf",
+      "triangles": 4454,
+      "name": "자란관",
+      "variant": "detailed"
+    },
+    {
+      "id": "dorm",
+      "url": "dorm/model-fdeacf07d7967b395ad83bf53df8fceb794c792c820973272e5e7bb68b63e135.gltf",
+      "triangles": 3862,
+      "name": "생활관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-4537e00886f5f1ba169524f93bc216048538522f08bf9ca4cc9d473f20a6f5aa.gltf",
+      "triangles": 1996,
+      "name": "미란관 체육관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-685d9c01d82d1afd690ac851a9736fe888f6318088cce25c7ce945eed72f875e.gltf",
+      "triangles": 5876,
+      "name": "공용 강당",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 40998
+  }
+}

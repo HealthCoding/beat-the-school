@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "KMOU baked ground and scenery, plus 3 cm terrain-matched courtyard paving overlay",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-58f8ce289cbcf9bf7519b2d16e5597881f68f1f49fe923c7b49a0693ff14579c.gltf",
+      "triangles": 51003
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-b9f3bcb54fb1b90a79e43ed21e4054311582412e5f24a67e524d8cd4bf1133b7.gltf",
+      "triangles": 29227
+    },
+    {
+      "id": "env-dorm-court",
+      "url": "env-dorm-court/model-d178a6b2843391730cfd3214a534970ae6635c81eb80abab79db3d8c89229cdf.gltf",
+      "triangles": 64
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-976653b82b7d2a88be5e3b19c087dfbb04a7ecc51db3412ae90729343a3cbaec.gltf",
+      "trees": 886,
+      "triangles": 375
+    }
+  ]
+}

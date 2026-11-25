@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Gocheok Seoul R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-43253f2aaf7edfba60db5b9a4f6e0e65f9ef6e9d648c3c307c86f22c6468eb2e.gltf",
+      "triangles": 8536,
+      "name": "본관 남측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "neulbom-hall",
+      "url": "neulbom-hall/model-f12ef35750c241bfb4af2b6021ea6b631b76ff166e5101e24d9cc4a329292a72.gltf",
+      "triangles": 2738,
+      "name": "늘봄관 체육관·급식실",
+      "variant": "detailed"
+    },
+    {
+      "id": "library-wing",
+      "url": "library-wing/model-b0d737a93fddf4af2cccb6e59eee7c6cc3e1f6869239e97a9610932c967dcf41.gltf",
+      "triangles": 2844,
+      "name": "정보관 서측 도서·미술동",
+      "variant": "detailed"
+    },
+    {
+      "id": "info-wing",
+      "url": "info-wing/model-85804280887429968bd3c63e1f9ffde5ace04dc33537823cc7aa1d04d6f5927c.gltf",
+      "triangles": 3228,
+      "name": "정보관 중앙 특별교실동",
+      "variant": "detailed"
+    },
+    {
+      "id": "science-wing",
+      "url": "science-wing/model-984e5bc62b481136829079c0b64ab36e31e16a3cacc993ead7f25ddfd38f1991.gltf",
+      "triangles": 4682,
+      "name": "본관 동측 과학·교과동",
+      "variant": "detailed"
+    },
+    {
+      "id": "north-wing",
+      "url": "north-wing/model-9765aee0a0f585686970e39e043170511795b66c433dd082769d9e173659acf3.gltf",
+      "triangles": 4740,
+      "name": "본관 북측 교사·레슬링부동",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-c712a13314dd7cf832a86c1f1439bb1ea8e7c1e37b28a23519b072a379d0dd3a.gltf",
+      "triangles": 476,
+      "name": "정문 경비초소",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 27244
+  }
+}

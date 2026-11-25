@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "Koyang R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-358d2685fde11e35b77b06e55722b3191e8aa8a0d7a0889b4833ea50a5bbf403.gltf",
+      "triangles": 14079
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-d4ec7f6b4ae2b912ab5a4640e1f5b2a3070e9ecbeef108a11a35bc8fea5e4a2e.gltf",
+      "triangles": 45244
+    },
+    {
+      "id": "context",
+      "url": "context/model-22ab6ec1d6ffdb42cc9ef9b56a557cc3023c79dee61252f4be490e8353c717c7.gltf",
+      "triangles": 24411
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-dc974a409f72db4bd58fddb485b1460761e98c3e548763bc77c4f236ef170617.gltf",
+      "triangles": 799
+    }
+  ]
+}

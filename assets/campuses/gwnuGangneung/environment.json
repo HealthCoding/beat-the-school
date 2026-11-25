@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "source": "GWNU Gangneung draft pilot scene",
+  "models": [
+    {
+      "id": "site-n19-daycare",
+      "url": "site-n19-daycare/model-8444ba4e17b0c81f8bcb58e408769d01f3e3a5f8ec7f3e828b623518df65d61b.gltf"
+    },
+    {
+      "id": "site-n19-access",
+      "url": "site-n19-access/model-5b23d33ac4adc713d7f910d8b646e83c9eb93145b215677897c6ac7e326d3768.gltf"
+    },
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-a5ef8c572579d2d972083ac3c7cc46f0d96c539978319f4fa18c61627c55babe.gltf"
+    },
+    {
+      "id": "site-central-symbol",
+      "url": "site-central-symbol/model-d83aeda7a1c0b7eedf845d0fef2cc23ea79cf141c37521df3a1bb972fb696a6c.gltf"
+    },
+    {
+      "id": "site-c17-parking",
+      "url": "site-c17-parking/model-069788db22a352068e05b506a43475301304de10cc0e036f3146f5d5fc5ae536.gltf"
+    },
+    {
+      "id": "site-entry-connectors",
+      "url": "site-entry-connectors/model-1300efce410a43f97a9e95e4a6f8e067ba3fb6cd9634cf4ce0b5ece2b9e6043f.gltf"
+    },
+    {
+      "id": "context",
+      "url": "context/model-3812c745278d6d52377fdf033996bac000a5ff7bf6325c96a63c9756124e4061.gltf"
+    },
+    {
+      "id": "stadium",
+      "url": "stadium/model-22462c37b8b96666a93bdf9f77d46503a6783767d4e1cae9da38068c67e22210.gltf"
+    },
+    {
+      "id": "pond",
+      "url": "pond/model-5ea8fced5bcb167148862a38c8fed260eae4406be7ccad09b93cfcd3dd78f4cb.gltf"
+    },
+    {
+      "id": "futsal",
+      "url": "futsal/model-f7bcbd1ecee8b6ff02191de6c9107674af4f1a4aa1d73dc662a15206288fcf2e.gltf"
+    },
+    {
+      "id": "site-n11-landing",
+      "url": "site-n11-landing/model-3acc4e48f5794ba778e768b46846b40ab523d919fbd20f78b0f3cd74f8638892.gltf"
+    },
+    {
+      "id": "site-n7-landing",
+      "url": "site-n7-landing/model-5dec55d3f9b64e311ac84b20a7e687145430d01237b85537dd1f366282273f31.gltf"
+    },
+    {
+      "id": "site-s3-landing",
+      "url": "site-s3-landing/model-f51540a5f82bc3bb2b2fb972aba03b9fe23bc6c26147e21e3b92ff5385ed27c4.gltf"
+    },
+    {
+      "id": "site-s3-road",
+      "url": "site-s3-road/model-85cf5964acae144cebfaaa1da5f28be6b86296c2a3f17877dcce4e406b3a06f1.gltf"
+    },
+    {
+      "id": "site-n1-road",
+      "url": "site-n1-road/model-10aa641ca66557538adc3d73bd962362e173f9635fdd24beb096a3d010c805bf.gltf"
+    },
+    {
+      "id": "site-n20-path",
+      "url": "site-n20-path/model-05e7a27ba8d9c1a1d08255ec4e6c7426dee36f820ebef0551cd32ecfaaa752e4.gltf"
+    },
+    {
+      "id": "site-c15-net",
+      "url": "site-c15-net/model-2f4e43c24c3340e50b4c6bc08fde5153e2958b56ef421f44141d3998d8a97790.gltf"
+    },
+    {
+      "id": "site-v2-parking",
+      "url": "site-v2-parking/model-eaaeab31f90407796e6b775fd57226a3bf2b9fbc74864f1b5f32615e75848756.gltf"
+    },
+    {
+      "id": "site-place-walls",
+      "url": "site-place-walls/model-7889d2cf986278e87ac85e03b276806d1c6e7b3d0d91b9b1be71cc2ac1123b91.gltf"
+    },
+    {
+      "id": "site-watertight",
+      "url": "site-watertight/model-f519c87abeb657b41e60b8ba9e7a7e7617e919b3537b815d8010b003bfd3d012.gltf"
+    },
+    {
+      "id": "context-planting",
+      "url": "context-planting/model-2530b87bce7edbb87e3dcd82365075a5a57283135716f38df08b054103e9f983.gltf"
+    }
+  ]
+}

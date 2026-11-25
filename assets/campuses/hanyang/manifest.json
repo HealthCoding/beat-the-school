@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "source": "pilot/hanyang-seoul/active-models.json (destructible), packed losslessly",
+  "models": [
+    {
+      "id": "studentUnion",
+      "name": "학생회관",
+      "variant": "generic",
+      "url": "studentUnion/model-c87e0ac589cf5ba41aafa3bcd6d1e663d6e11542155b32e566a2bfd87186b4b3.gltf"
+    },
+    {
+      "id": "studentUnionWest",
+      "name": "학생회관 서측 부속동(미상)",
+      "variant": "generic",
+      "url": "studentUnionWest/model-0ae2e77dc7f516863d7bf59d5b61140bccee929fda217bed27a25fa4725aa1dd.gltf"
+    },
+    {
+      "id": "studentWelfare",
+      "name": "학생복지관(한양플라자)",
+      "variant": "detailed",
+      "url": "studentWelfare/model-aea59bafbc74f202671725eb20aef75d0aafe898a7dfcc6a7cd5ccca50724094.gltf"
+    },
+    {
+      "id": "aejimun",
+      "name": "애지문",
+      "variant": "generic",
+      "url": "aejimun/model-df876592fb744b647a4907943f2fd6ff73689f618eaab354225065a7163d42f7.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제관",
+      "variant": "generic",
+      "url": "international/model-39ff27179f00f2f5966fac0ca748b44b54f23dbde99e28dc76a82fd172e4ae8f.gltf"
+    },
+    {
+      "id": "togeon",
+      "name": "토건관",
+      "variant": "generic",
+      "url": "togeon/model-e3ec3c6c159a36ce559d50bf20727ea9b5bd0950b949ba154a9515b93ec5a28a.gltf"
+    },
+    {
+      "id": "jaesungCivil",
+      "name": "재성토목관",
+      "variant": "generic",
+      "url": "jaesungCivil/model-9b81887f6b02601c640e238f1cc052c122421768f4db1d71cbdc02ca53884a2a.gltf"
+    },
+    {
+      "id": "architecture",
+      "name": "건축관",
+      "variant": "generic",
+      "url": "architecture/model-3d2eb5af020aa4a08396eff114037a712a4b5397b21854e4e66f362f2bcf38bd.gltf"
+    },
+    {
+      "id": "scienceTech",
+      "name": "과학기술관",
+      "variant": "generic",
+      "url": "scienceTech/model-afcf1cd8b86e38d3b7241ea26ca555029c39030cad51358c2bf88f3c520ce562.gltf"
+    },
+    {
+      "id": "scienceTechNorth",
+      "name": "과학기술관 북측동(미상)",
+      "variant": "generic",
+      "url": "scienceTechNorth/model-fbf4dd8572151f26e888cc167712c54eae69e4ac20c8ae77816bec610c96bc1c.gltf"
+    },
+    {
+      "id": "materials",
+      "name": "신소재공학관",
+      "variant": "generic",
+      "url": "materials/model-fb1aa8d7839901260f60f36f0567ef18971aeb190c4a925d9ddcf4f75f27480b.gltf"
+    },
+    {
+      "id": "publicPolicy",
+      "name": "공공정책대학원(OSM: 공공정책대학)",
+      "variant": "generic",
+      "url": "publicPolicy/model-b402aa27ad5f557886c4756c7d3768378085f10f70471999d23fdbec8a970ae7.gltf"
+    },
+    {
+      "id": "socialSciences",
+      "name": "사회과학관",
+      "variant": "generic",
+      "url": "socialSciences/model-8bc554eace41ed0ce8fa6dedd178a22044b097ea394bf0eb80980bcf09cd46bc.gltf"
+    },
+    {
+      "id": "main",
+      "name": "신본관",
+      "variant": "detailed",
+      "url": "main/model-6fede3f548d64ee15cc8813be012a672ab54ae286e2a535da0c432c2ee2b6da2.gltf"
+    },
+    {
+      "id": "history",
+      "name": "역사관",
+      "variant": "detailed",
+      "url": "history/model-a08527c0811cef703e502b9e0ee17600b2098ddc0cd568f5b5559b4f1a64330e.gltf"
+    },
+    {
+      "id": "museum",
+      "name": "박물관",
+      "variant": "generic",
+      "url": "museum/model-9ca0bf0996b1f3f2e6ab199d0e7e4222b41e5f8ca2637c5c4ab71dc90c86740c.gltf"
+    },
+    {
+      "id": "amphitheater",
+      "name": "노천극장 무대동",
+      "variant": "detailed",
+      "url": "amphitheater/model-bbfc46a6c0e16de0bbf76acbedb1d350e2f197c4a7c2e1b4ddfff969c43fc212.gltf"
+    },
+    {
+      "id": "chungMongKoo",
+      "name": "정몽구 미래자동차연구센터",
+      "variant": "detailed",
+      "url": "chungMongKoo/model-1627418459060d94fec04b0a49f298d80618cc426676632205b3ad8703ab9990.gltf"
+    },
+    {
+      "id": "engineering1",
+      "name": "제1공학관",
+      "variant": "generic",
+      "url": "engineering1/model-fa4db51f8bdf186c0847b39d734b9f6689b90575195ded0fdaddb2b116310aa7.gltf"
+    },
+    {
+      "id": "libraryStore",
+      "name": "학술정보관 편의점동",
+      "variant": "generic",
+      "url": "libraryStore/model-d1c4ce60c9a482200a937c8473077c39494263fec74773915d8b2660030f631f.gltf"
+    },
+    {
+      "id": "paiknamLibrary",
+      "name": "백남학술정보관",
+      "variant": "detailed",
+      "url": "paiknamLibrary/model-e6e1c4e79c68f1419b7321270c1f8294110aa38f08fdc2433f0d427f5036fa8c.gltf"
+    },
+    {
+      "id": "humanEcology",
+      "name": "생활과학관",
+      "variant": "generic",
+      "url": "humanEcology/model-1524cf3e0d617cceaed22ee3f7bd34dd2faba07a3ac1c9203f6678749997bda4.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "학군단",
+      "variant": "generic",
+      "url": "rotc/model-6895707c1fe32e601652ff6fefe17c0e8e68bfa2f16cf290363f0aa8ea3018f5.gltf"
+    },
+    {
+      "id": "engineering2",
+      "name": "제2공학관",
+      "variant": "generic",
+      "url": "engineering2/model-82abb11966f80aa397d9e6a6e7fd14249ac78a319bfd118796ca7079b8b88953.gltf"
+    },
+    {
+      "id": "industrialCenter",
+      "name": "공업센터",
+      "variant": "generic",
+      "url": "industrialCenter/model-06673d11904227baebeddcb748c366f3e38b3205e07e0b1231f5f6da47fe04c8.gltf"
+    },
+    {
+      "id": "industrialLink",
+      "name": "공업센터 연결동(미상)",
+      "variant": "generic",
+      "url": "industrialLink/model-bf26f7102cb78ba36e746ed34efd10575e4ed38e50bfc3569c83a70be1f1d0b6.gltf"
+    },
+    {
+      "id": "industrialAnnex",
+      "name": "공업센터 별관",
+      "variant": "generic",
+      "url": "industrialAnnex/model-fc36e4a6f69c385c6153df029373e5e80a402fedf3c514e3fc0927fa2a6774cb.gltf"
+    },
+    {
+      "id": "fusionTech",
+      "name": "퓨전테크센터(FTC)",
+      "variant": "generic",
+      "url": "fusionTech/model-7ddc92f8844eed57d1d2aeb7d4c5f84d262d1cadd89538bc37b13d20a73d3051.gltf"
+    },
+    {
+      "id": "hit",
+      "name": "한양종합기술연구원(HIT)",
+      "variant": "generic",
+      "url": "hit/model-0584fb1950ab2430396e2142df8aadfa06e67055ced42bdcbefb44457dee8ead.gltf"
+    },
+    {
+      "id": "naturalSciences",
+      "name": "자연과학관",
+      "variant": "generic",
+      "url": "naturalSciences/model-2f4362c7024400b061e47afcf09fba0a81b5ca6a04113c76457226785cccd291.gltf"
+    },
+    {
+      "id": "humanities",
+      "name": "인문관",
+      "variant": "generic",
+      "url": "humanities/model-efc63249d6790151ec919c42ca13e53516341240e23ee91b96cacc1c11b19997.gltf"
+    },
+    {
+      "id": "educationMain",
+      "name": "사범대학 본관",
+      "variant": "generic",
+      "url": "educationMain/model-9bf6bf82cca8b4cd1c0b0113becd06088fda34e6c031aa26b1f3735e7e37e578.gltf"
+    },
+    {
+      "id": "educationAnnex",
+      "name": "사범대학 별관",
+      "variant": "generic",
+      "url": "educationAnnex/model-fd293a63e37668685dc250b3cbe897960619921957e85e3d87c9b544f02de0da.gltf"
+    },
+    {
+      "id": "medicineMain",
+      "name": "의과대학 본관",
+      "variant": "generic",
+      "url": "medicineMain/model-a5822f8b319d3e6a76e7685a58454352aec2a06fb2e8d4cce1bf8370671c91ca.gltf"
+    },
+    {
+      "id": "medicine1",
+      "name": "제1의학관",
+      "variant": "generic",
+      "url": "medicine1/model-fa201e46ccf0a86874cc798a2681b2846d17717a12c953baf4db4f48c92cb768.gltf"
+    },
+    {
+      "id": "medicine2",
+      "name": "제2의학관",
+      "variant": "generic",
+      "url": "medicine2/model-db501e1886334eaef7ef293141e1c72fa27eb698a9d8a50cc4ccd5415ce76431.gltf"
+    },
+    {
+      "id": "medLecture",
+      "name": "의대 계단강의동",
+      "variant": "generic",
+      "url": "medLecture/model-ad769f512c07211ed88a7d0fb073a0f9872c264d137348fe0d1abc3f3732961f.gltf"
+    },
+    {
+      "id": "north5359",
+      "name": "제5학생생활관(추정)",
+      "variant": "generic",
+      "url": "north5359/model-d34de6498bf0cd37be35e1ea93cd92c841a13b46cda761c433850c8006afb5e5.gltf"
+    },
+    {
+      "id": "north5351",
+      "name": "간호 미래교육관",
+      "variant": "generic",
+      "url": "north5351/model-0b2719575a0995a65775d58caabab1691467ee9522ef34222dce962436510c5a.gltf"
+    },
+    {
+      "id": "dorm1North",
+      "name": "제1학생생활관(북)",
+      "variant": "generic",
+      "url": "dorm1North/model-cdd42310dc2ac4583f6aecc5c3425529d1a8c9d85b1456d6248a383a3c02c130.gltf"
+    },
+    {
+      "id": "dorm1South",
+      "name": "제1학생생활관(남)",
+      "variant": "generic",
+      "url": "dorm1South/model-e79a251e8b8996c26f44d84a6f3ac32d159239513468e347ca6b7f2d2d652b6d.gltf"
+    },
+    {
+      "id": "dorm3",
+      "name": "제3학생생활관",
+      "variant": "generic",
+      "url": "dorm3/model-1cc952bfbff9f5e79456337f650b4db4db2171716cf97cb474c11a3cf5a96a99.gltf"
+    },
+    {
+      "id": "hospitalParking",
+      "name": "한양대병원 제1주차동",
+      "variant": "generic",
+      "url": "hospitalParking/model-75d977126be880ed410a04b1f5e95882b7cdef9e12f4f414217b995f85b66c0e.gltf"
+    },
+    {
+      "id": "business",
+      "name": "경영관",
+      "variant": "generic",
+      "url": "business/model-513e5b835f4307fd4d377c8bd0cc87505918eaa61d70c058a73c0a2cf2fe01bb.gltf"
+    },
+    {
+      "id": "east5352",
+      "name": "융합교육관",
+      "variant": "generic",
+      "url": "east5352/model-a1519bbebbcaf8489a482eb3af7dacc1edb26e3e39e9b3132c35e3c8ef39758e.gltf"
+    },
+    {
+      "id": "east7394",
+      "name": "동쪽 부속동(미확인)",
+      "variant": "generic",
+      "url": "east7394/model-0eefa12ea4b559d3c94c1448ce7b86ccf70775ab1990d5bcfaa01e0ed88e8fd4.gltf"
+    },
+    {
+      "id": "economics",
+      "name": "경제금융관·법학학술정보관",
+      "variant": "generic",
+      "url": "economics/model-4d39ca727af673b6579b91af827784a705ac452f8b456b9e181113b437cffab7.gltf"
+    },
+    {
+      "id": "law1",
+      "name": "제1법학관",
+      "variant": "generic",
+      "url": "law1/model-4501cb48f9da20781310aae3a1d23003cbf24473ce3c57dd0ae946dd9cbb852c.gltf"
+    },
+    {
+      "id": "law2",
+      "name": "제2법학관",
+      "variant": "generic",
+      "url": "law2/model-82e9e578026f9780bf48404e47dbac48b657dc9ad307b95fcf0beb2b592f0dff.gltf"
+    },
+    {
+      "id": "law3",
+      "name": "제3법학관",
+      "variant": "generic",
+      "url": "law3/model-b54da81878241516ef9013a9a2dcefba477934daba310a8bf125872c865bee0c.gltf"
+    },
+    {
+      "id": "music1",
+      "name": "제1음악관",
+      "variant": "generic",
+      "url": "music1/model-96342a8c32006a7219b0568bca47bbbac230fca6306df9568aaebae251d99a51.gltf"
+    },
+    {
+      "id": "music2",
+      "name": "제2음악관",
+      "variant": "generic",
+      "url": "music2/model-3126f45d460a842cf24b83b7749832b9fcf4022b7a1d743e7a44daedb1bc6902.gltf"
+    },
+    {
+      "id": "paiknamMusic",
+      "name": "백남음악관",
+      "variant": "generic",
+      "url": "paiknamMusic/model-a8e75b38c9ffe16eabc0f3741405a8580b365f1e07c50b098bc8207a7eef4142.gltf"
+    },
+    {
+      "id": "olympicGym",
+      "name": "올림픽체육관",
+      "variant": "detailed",
+      "url": "olympicGym/model-a72ac087c86b121a69ea0ce7de1877bab2285565f90cc22cfddaa2e8806da96a.gltf"
+    },
+    {
+      "id": "itbt",
+      "name": "IT/BT관",
+      "variant": "detailed",
+      "url": "itbt/model-9da29431c2242502c8ce8564d65a02c0e6b414f5200bd19b0b212dfe6f7f01db.gltf"
+    },
+    {
+      "id": "industryTech",
+      "name": "산학기술관",
+      "variant": "generic",
+      "url": "industryTech/model-73b0a6eb7c79efbd912467f3d6632b4177f4b389e4341878a07b150602a5f8ef.gltf"
+    },
+    {
+      "id": "east7385",
+      "name": "동쪽 건물(미확인)",
+      "variant": "generic",
+      "url": "east7385/model-89afad5c9203fc612a3176701b158d913230772d3c09392fabbc717ed1586471.gltf"
+    },
+    {
+      "id": "stadiumStand",
+      "name": "대운동장 북쪽 관람석",
+      "variant": "generic",
+      "url": "stadiumStand/model-26faeb585db25f5f091d7ba164186b0c1f73bf534b47c0e5dcaeda600baa54b2.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 270270
+  }
+}

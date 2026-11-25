@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "Jeonju Seo R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-04968cd295ae2e2d468ec8699f8f5f086135f4d549b6c31017ea93117fbe5516.gltf",
+      "triangles": 9104,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "mid",
+      "url": "mid/model-ee3ee49f5840886f12555cb0b8020773493a2a047caf32b965271c5b9f1bb7eb.gltf",
+      "triangles": 4686,
+      "name": "중앙동",
+      "variant": "detailed"
+    },
+    {
+      "id": "link-s",
+      "url": "link-s/model-e2b1a73c89d623e664a9673eddb80c23d486365b980df221f29916e1847ffa2e.gltf",
+      "triangles": 672,
+      "name": "연결동",
+      "variant": "detailed"
+    },
+    {
+      "id": "west",
+      "url": "west/model-adae9c787e89b90150883509a765e372cbf7057f837ec4a3e67af88c7cb04429.gltf",
+      "triangles": 3780,
+      "name": "서관",
+      "variant": "detailed"
+    },
+    {
+      "id": "link-n",
+      "url": "link-n/model-2517cd65c1c4dc062f14f6e405207d69f637c0c4cebca17b58eccbf96a5a346b.gltf",
+      "triangles": 1780,
+      "name": "북쪽 계단동",
+      "variant": "detailed"
+    },
+    {
+      "id": "stand",
+      "url": "stand/model-184e67c7502163f4160648ceb59e1baccc8becb35a50053945b9919fd3d2d99c.gltf",
+      "triangles": 276,
+      "name": "구령대",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 20298
+  }
+}

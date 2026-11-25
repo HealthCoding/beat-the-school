@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source": "baked by scripts/campuses/cau/build-package.mjs from the pilot preview modules + context/context.glb",
+  "models": [
+    {
+      "id": "env-ground",
+      "url": "env-ground/model-255e31e31d80cd39204c053f18a033ce115bd09468eefb265428110f4e4afc16.gltf",
+      "triangles": 168047
+    },
+    {
+      "id": "env-site",
+      "url": "env-site/model-e9b5c548895cf1bf7a4f35f2b995eb0b01387ec68ef0f38a5201ad73951da90b.gltf",
+      "triangles": 42490
+    },
+    {
+      "id": "env-planting",
+      "url": "env-planting/model-37f8763ef6469e79a7e14f4b8c5deb9e34a3c499bf9ad042cc9aa76061eb9d56.gltf",
+      "triangles": 126120
+    },
+    {
+      "id": "context",
+      "url": "context/model-e7a79ac5615b26fbed2ac547ce499201ea020edb39d3116b32a37cf704272e28.gltf",
+      "triangles": 27475
+    }
+  ]
+}

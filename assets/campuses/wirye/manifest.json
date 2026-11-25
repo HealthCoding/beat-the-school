@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Wirye Hanam R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main-west",
+      "url": "main-west/model-3ce3d127bb8bf81997a2270a7cb603527ab72a0b3a590754bd8afeec149bdad1.gltf",
+      "triangles": 17824,
+      "name": "본관 서측 교실구획",
+      "variant": "detailed"
+    },
+    {
+      "id": "entrance-core",
+      "url": "entrance-core/model-31aa78487c584015f20dd60d9ede85c667837c28946b113be69c2b7da381482f.gltf",
+      "triangles": 2280,
+      "name": "본관 중앙 현관구획",
+      "variant": "detailed"
+    },
+    {
+      "id": "main-east",
+      "url": "main-east/model-6127da0a92a1935ddb1f4cb7f5db36b9daf1052ea49c2f4061bed6a2f0cfff82.gltf",
+      "triangles": 20726,
+      "name": "본관 동측 교실구획",
+      "variant": "detailed"
+    },
+    {
+      "id": "north-wing",
+      "url": "north-wing/model-de12d9cc18f3dada937c623959defa68bc2a3046aaca3831439b93c3c2662d3b.gltf",
+      "triangles": 16778,
+      "name": "북측 교사동",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-797f1c1db10adc4e33beeba1d0f16f67ca5dd9ee0010cbd28a048850390c0348.gltf",
+      "triangles": 6458,
+      "name": "체육관·급식 복합매스(용도층 추정)",
+      "variant": "detailed"
+    },
+    {
+      "id": "guard",
+      "url": "guard/model-826b630c601bb204f31f14a916ecd77d0f390fc148d82f1a874ffbd5c2491d57.gltf",
+      "triangles": 432,
+      "name": "정문 경비실 후보",
+      "variant": "detailed"
+    },
+    {
+      "id": "assembly-canopy",
+      "url": "assembly-canopy/model-263b601e2ff0b0414af73a7088d765c2ce2c4e38ac70e8a26e2a424bc0d0ae37.gltf",
+      "triangles": 276,
+      "name": "조회대 열린 캐노피",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 64774
+  }
+}

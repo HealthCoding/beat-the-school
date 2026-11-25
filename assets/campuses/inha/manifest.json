@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "source": "inha-incheon active-models.json (25 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "annex60",
+      "name": "60주년기념관 동쪽 부속동(추정)",
+      "variant": "generic-v2",
+      "url": "annex60/model-e0b79a054ee84ef7433f3d8a9c71e9999df792063750cde7addcef229bb6ff9b.gltf"
+    },
+    {
+      "id": "annexFour",
+      "name": "4호관 동쪽 부속동(추정)",
+      "variant": "generic-v2",
+      "url": "annexFour/model-7c8a4a774247ccd922eb428f4fdeabe676b732163e866c3db078087e4c64b36e.gltf"
+    },
+    {
+      "id": "annexNaville",
+      "name": "나빌레관 옆 부속동(추정)",
+      "variant": "generic-v2",
+      "url": "annexNaville/model-49e5fe0f5654ae266418ae94c8b7c27a6675d10531dcc3bc491c2b83e6b3c706.gltf"
+    },
+    {
+      "id": "anniversary60",
+      "name": "60주년기념관",
+      "variant": "detailed",
+      "url": "anniversary60/model-45425672ef5b4fd104517ca20a4f819658f99841e6e16ab0224ca573c3b90aa2.gltf"
+    },
+    {
+      "id": "cHall",
+      "name": "C호관",
+      "variant": "generic-v2",
+      "url": "cHall/model-e4ce1aa65dabe64e9ca8daa931da9628c74d57f1f31849659c93a2bf1f02afad.gltf"
+    },
+    {
+      "id": "cafe",
+      "name": "그라찌에",
+      "variant": "generic-v2",
+      "url": "cafe/model-9c959ea5adf73eb3e3be6f55d11881bc1dcdc709d9f0218a47e893dd70e3a825.gltf"
+    },
+    {
+      "id": "continuing",
+      "name": "평생교육관",
+      "variant": "generic-v2",
+      "url": "continuing/model-bdfc33215e2f00a49069dc24a63d61ab1c0a28e7356e3db12ee6fc6bc9ae1571.gltf"
+    },
+    {
+      "id": "dreamCenter",
+      "name": "김현태 인하드림센터",
+      "variant": "generic-v2",
+      "url": "dreamCenter/model-79ac0bf23e6696cbbded7882a67c04587e632b1f670675e8457ca1555decb267.gltf"
+    },
+    {
+      "id": "five",
+      "name": "5호관 동군",
+      "variant": "generic-v2",
+      "url": "five/model-5e9eafe08a22202f05582854b466d57a592161bf3e72121fd12f8e667df0718d.gltf"
+    },
+    {
+      "id": "four",
+      "name": "4호관",
+      "variant": "generic-v2",
+      "url": "four/model-c3d35346426bbfa3fa7d4be765891f915480bc8b28d76334738b1760299b35cb.gltf"
+    },
+    {
+      "id": "hawaii",
+      "name": "하와이교포기념관",
+      "variant": "generic-v2",
+      "url": "hawaii/model-46c313680adb46ad3f78570be253e68c18a7337d0f24670b042842064e7d7204.gltf"
+    },
+    {
+      "id": "hitech",
+      "name": "하이테크센터",
+      "variant": "detailed",
+      "url": "hitech/model-533c8ec4514bc90c95f619a5d023f162d302fa532d907cc623d8c747a3b22bb3.gltf"
+    },
+    {
+      "id": "law",
+      "name": "로스쿨관",
+      "variant": "generic-v2",
+      "url": "law/model-747267aa758c2766999618b3f85001aeaec07a47832a23b5518d98c133324332.gltf"
+    },
+    {
+      "id": "library",
+      "name": "정석학술정보관",
+      "variant": "detailed",
+      "url": "library/model-0bb65d4ac7bbb1e0fe227d2ab57a399b651144ce1b189e3da05153f6e30cafc2.gltf"
+    },
+    {
+      "id": "main",
+      "name": "본관(1호관)",
+      "variant": "detailed",
+      "url": "main/model-cc8cb48b75914397d0593903ecd6da46c8e2b89d042ac240772a35d3189f568a.gltf"
+    },
+    {
+      "id": "naville",
+      "name": "나빌레관",
+      "variant": "generic-v2",
+      "url": "naville/model-e7294168be3e25319d618b42fe88cc25359b661f26f8db42076ec2c7d0f37c5f.gltf"
+    },
+    {
+      "id": "nine",
+      "name": "9호관",
+      "variant": "generic-v2",
+      "url": "nine/model-edddcf7baa5ca84f1340fd8a1d7f53a701661157e8388afddf244a1e82f353ee.gltf"
+    },
+    {
+      "id": "parking",
+      "name": "주차관리실",
+      "variant": "generic-v2",
+      "url": "parking/model-f90839443104eb03e8f1564e612cea21e2c089843ead68af8d9f2917dd1adb75.gltf"
+    },
+    {
+      "id": "rotc",
+      "name": "학군단",
+      "variant": "generic-v2",
+      "url": "rotc/model-e742765f56ea5bbe0923fe3d55435bc61479555960955eca22f06ffc29832ae2.gltf"
+    },
+    {
+      "id": "seoho",
+      "name": "서호관",
+      "variant": "generic-v2",
+      "url": "seoho/model-7c8cb2b2ae30da6dcea96bc388b9d47a9d677291810c49098373b7f531a7da67.gltf"
+    },
+    {
+      "id": "six",
+      "name": "6호관",
+      "variant": "generic-v2",
+      "url": "six/model-1cae8dc9bda720f297976b33b38bbd56ab233760426256c1a7bd6ab3a57d89b1.gltf"
+    },
+    {
+      "id": "student",
+      "name": "학생회관(7호관)",
+      "variant": "generic-v2",
+      "url": "student/model-575b02408ab18171eabb5f835d93e7777cea78cf81040d399e2f38a1e6d8886c.gltf"
+    },
+    {
+      "id": "twoNorth",
+      "name": "2북관",
+      "variant": "generic-v2",
+      "url": "twoNorth/model-470ee54dfc85300f949ba7cad61bae95d4d6c893d64b858b68b347f2066b4679.gltf"
+    },
+    {
+      "id": "twoSouth",
+      "name": "2호관 남·동동군(추정)",
+      "variant": "generic-v2",
+      "url": "twoSouth/model-fa31ca7731bad462b4f7f8c6c7349c3c6b6af61029aaa53cab25cb242da5265d.gltf"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체교육동(추정)",
+      "variant": "generic-v2",
+      "url": "semiconductor/model-fe6d72f5008e596c62ba7a340ebc0c01f80d6592d0642a8c023eb8e0b581cc7e.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 149504
+  }
+}

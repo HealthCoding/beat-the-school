@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "church",
+      "name": "대학교회",
+      "url": "../church/model-7ab98f0374affca4666ace4f26bd416cde541c9f94815dba50cf02fa4cbda22c.gltf",
+      "triangles": 2502
+    }
+  ]
+}

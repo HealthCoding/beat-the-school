@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source": "Ewha Girls Seoul R3 exact environment, tree placements and surrounding context",
+  "models": [
+    {
+      "minimumY": -11.494300842285156,
+      "id": "env-ground",
+      "url": "env-ground/model-cff48f92e889e3be78f5cf29298305d57dbd45bc8a3579aba10c72199ef58ecc.gltf",
+      "triangles": 28389
+    },
+    {
+      "minimumY": -4.53000020980835,
+      "id": "env-site",
+      "url": "env-site/model-c362970ff232d6eca93ae772768b3824e8ac298ce5396a6683465dee1f0da5d0.gltf",
+      "triangles": 43836
+    },
+    {
+      "minimumY": -4.53000020980835,
+      "id": "env-landscape",
+      "url": "env-landscape/model-e9ca12cb04974a02c68d80c4a6769f0b738ebde9bdc610a5a470e9e85bf607bf.gltf",
+      "triangles": 46461
+    },
+    {
+      "minimumY": -9.979945182800293,
+      "id": "env-context",
+      "url": "env-context/model-7979531e51705ab41f434ea691f238e28eee68cfb7a51cee1e4fdc61551b2669.gltf",
+      "triangles": 35886
+    }
+  ]
+}

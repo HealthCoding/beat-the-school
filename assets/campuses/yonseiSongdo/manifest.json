@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "source": "pilot/yonsei-songdo/active-models.json (libertasB from its expanded copy), packed losslessly",
+  "models": [
+    {
+      "id": "library",
+      "name": "언더우드 기념도서관",
+      "variant": "detailed",
+      "url": "library/model-344101e8cd0c769ac366c12d9f85f50e0ae928f7087051d21b3024b7a857322f.gltf"
+    },
+    {
+      "id": "veritasA",
+      "name": "진리관 A",
+      "variant": "detailed",
+      "url": "veritasA/model-2caca8886ec132ec1b110ea913d3b99bf2bec8031e7e45f065f6e75f2fb25bed.gltf"
+    },
+    {
+      "id": "veritasB",
+      "name": "진리관 B",
+      "variant": "detailed",
+      "url": "veritasB/model-621fa70edc76680e80038adefb80423dc422867006a128f350abfe86488924bd.gltf"
+    },
+    {
+      "id": "veritasC",
+      "name": "진리관 C",
+      "variant": "detailed",
+      "url": "veritasC/model-3d63dd5797bceeea5a6168d5db6f4020e98bee1ca04a4d92bca0a9db1a3efbd2.gltf"
+    },
+    {
+      "id": "veritasD",
+      "name": "진리관 D",
+      "variant": "detailed",
+      "url": "veritasD/model-07859bcc23cb36993b6e91a07473477c5573300cb6cd04948fb27141621fe8dc.gltf"
+    },
+    {
+      "id": "mainHall",
+      "name": "종합관",
+      "variant": "detailed",
+      "url": "mainHall/model-cb865c6aee6a116e9c9178d8f31eef6c0b9e3d3054e647e607c0ba6482893870.gltf"
+    },
+    {
+      "id": "libertasA",
+      "name": "자유관 A",
+      "variant": "detailed",
+      "url": "libertasA/model-ba6dc9a50743c16ef02b3871af7aed03f5f5fd5f3be927a7955b2e24d6c5300e.gltf"
+    },
+    {
+      "id": "libertasB",
+      "name": "자유관 B",
+      "variant": "generic",
+      "url": "libertasB/model-9abb7b3ed3516a4ea992174351a81e3adc5b66dfba9374f48bf3e6dcc92679a3.gltf"
+    },
+    {
+      "id": "libertasBLink",
+      "name": "자유관B 연결부(추정)",
+      "variant": "generic",
+      "url": "libertasBLink/model-e605977ad0dd2d7d5cf4e5be4d69e3961672533062b960519579f425501cafce.gltf"
+    },
+    {
+      "id": "dormD",
+      "name": "송도학사 D",
+      "variant": "detailed",
+      "url": "dormD/model-bf725c95907b44c77632fe65a2aae01f3400d3d35b512acd67e76cc185da5e2f.gltf"
+    },
+    {
+      "id": "dormE",
+      "name": "송도학사 E",
+      "variant": "detailed",
+      "url": "dormE/model-2b1cda57e82e0bfdfc55fbc4be310642ddb208f1f89544f3da8de4ac370c0c7c.gltf"
+    },
+    {
+      "id": "dormF",
+      "name": "송도학사 F",
+      "variant": "detailed",
+      "url": "dormF/model-5e12bbe1553e35519996a5fae295d23d19e712fb2e6523ffd4db4b0787da02e7.gltf"
+    },
+    {
+      "id": "dormG",
+      "name": "송도학사 G",
+      "variant": "detailed",
+      "url": "dormG/model-6c335cdcfdad5de568107b763bd46f596ce84d1aea7510c9db169c296c3dd648.gltf"
+    },
+    {
+      "id": "dormLinkEF",
+      "name": "송도학사 E-F 연결부(추정)",
+      "variant": "generic",
+      "url": "dormLinkEF/model-1e788d4b5b35598e8cd2000f6a08bb520c0e5dfe6518a61191e9b7dfd6fa6b6c.gltf"
+    },
+    {
+      "id": "chapel",
+      "name": "크리스틴 채플",
+      "variant": "generic",
+      "url": "chapel/model-60dd9f66a1e93c1599c5a990f99f8863e92cb24196f6fa5a07b51bbba494a2b5.gltf"
+    },
+    {
+      "id": "wisdomA",
+      "name": "지혜관 A",
+      "variant": "generic",
+      "url": "wisdomA/model-4a65d11185c31370e4a650085365bcf72a9fca8c42d69ec43a0052b6e3dac8f2.gltf"
+    },
+    {
+      "id": "wisdomB",
+      "name": "지혜관 B",
+      "variant": "detailed",
+      "url": "wisdomB/model-0801f58ba3c26650948906dfed8dfb6bcede4317555fe56b33a549fc6c7a6f39.gltf"
+    },
+    {
+      "id": "wisdomC",
+      "name": "지혜관 C",
+      "variant": "generic",
+      "url": "wisdomC/model-c1254ffe107648e8f516f08399ed8cc7cef89907b7b95841f1427fdc78a04342.gltf"
+    },
+    {
+      "id": "memorial",
+      "name": "국제캠퍼스 기념관",
+      "variant": "generic",
+      "url": "memorial/model-af161d9b2c1a6ce1dc1823e19413e36df2e295373206399c066e287644f19d01.gltf"
+    },
+    {
+      "id": "powerPlant",
+      "name": "파워플랜트",
+      "variant": "generic",
+      "url": "powerPlant/model-058ab14916d6058ace026fd3b1ea038d83075b85655a1a2ecf5351a9a9261685.gltf"
+    },
+    {
+      "id": "greenHome",
+      "name": "저에너지환경실험주택",
+      "variant": "generic",
+      "url": "greenHome/model-02e5bd68b4159a19fb6109f049f25b3a8fd050c973956f07136d8c76e55e00fc.gltf"
+    },
+    {
+      "id": "poscoGreen",
+      "name": "포스코그린빌딩",
+      "variant": "generic",
+      "url": "poscoGreen/model-a11fb6f85af6db8e269229563576476132c19d14c06051734b80cb2eb2a08839.gltf"
+    },
+    {
+      "id": "slBigen",
+      "name": "에스엘바이젠산학협력관",
+      "variant": "detailed",
+      "url": "slBigen/model-7a77c65a2a6e6ee96c17e22e13d19177624ad98cb90624c7b93db840ac0f31e8.gltf"
+    },
+    {
+      "id": "quantum",
+      "name": "양자융합연구센터",
+      "variant": "generic",
+      "url": "quantum/model-666a4a91103de91ed69b799c3b7cfddc57a82d72b580a6e0c5b72f9ee67436be.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 137045
+  }
+}

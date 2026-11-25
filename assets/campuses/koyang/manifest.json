@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "Koyang R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "id": "main",
+      "url": "main/model-0650f38b77064b5862658811cb0b619f28517f51ce748de89e538d5a936dec44.gltf",
+      "triangles": 8956,
+      "name": "본관",
+      "variant": "detailed"
+    },
+    {
+      "id": "hall",
+      "url": "hall/model-544ee4de6b193bef6edb107f5b781a8f80901c918d42c8108b42921a7f2ed83a.gltf",
+      "triangles": 1766,
+      "name": "차오름관",
+      "variant": "detailed"
+    },
+    {
+      "id": "gym",
+      "url": "gym/model-7d502545d7806316b3bec77b8c06c1e9240041be6f275758a92dff04cc69aaf4.gltf",
+      "triangles": 2498,
+      "name": "성실관",
+      "variant": "detailed"
+    },
+    {
+      "id": "electric",
+      "url": "electric/model-8b56004b58fbf4f5edab9f868bbda33f49c2a48abc10ec4df9828f4c8e22d260.gltf",
+      "triangles": 3846,
+      "name": "정보전자관",
+      "variant": "detailed"
+    },
+    {
+      "id": "food",
+      "url": "food/model-c84c321c6797d09ec586caa9eb629562368744cc4a233389005ac2595040d695.gltf",
+      "triangles": 2112,
+      "name": "식품가공관",
+      "variant": "detailed"
+    },
+    {
+      "id": "flower",
+      "url": "flower/model-2c473b4554bb5dbc6227a3df4bc39f2dd2d329104f0e0bada672fc3e0793ef3c.gltf",
+      "triangles": 1442,
+      "name": "화훼장식관",
+      "variant": "detailed"
+    },
+    {
+      "id": "animal",
+      "url": "animal/model-2fcdc71c26b04963de171af5489c4676e9463088c350152722d1766bbafcbc4b.gltf",
+      "triangles": 1510,
+      "name": "반려동물실습관",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 22130
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "source": "kyonggi-suwon active-models.json (44 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "library",
+      "name": "중앙도서관",
+      "variant": "detailed",
+      "url": "library/model-aae3f9976aea13de3f0469476786302d60d484ce924d268e4740a4e28c4abbab.gltf"
+    },
+    {
+      "id": "w191946662",
+      "name": "부속동 1",
+      "variant": "detailed",
+      "url": "w191946662/model-a526ab2ebf849fa99212689d98a32c8eac76e0568faa26a884272f490cb5b975.gltf"
+    },
+    {
+      "id": "w451562707",
+      "name": "박물관",
+      "variant": "detailed",
+      "url": "w451562707/model-b92ee49b40a6d9c4c89127dbf6c606f75b440eedb2c254d275fb5dfabfd01968.gltf"
+    },
+    {
+      "id": "w451562708",
+      "name": "덕문관",
+      "variant": "detailed",
+      "url": "w451562708/model-c4f571efa9c415f6f9179e68eb5cc8c103845750562c148a3966b7b058c3eafe.gltf"
+    },
+    {
+      "id": "w451562709",
+      "name": "한우리관",
+      "variant": "detailed",
+      "url": "w451562709/model-8f98e1f65599b2606819032e2784afad53f74bc9975dbb7dc3dd8215e8f9d9fd.gltf"
+    },
+    {
+      "id": "w451562710",
+      "name": "교수연구동",
+      "variant": "detailed",
+      "url": "w451562710/model-1eb87b5bad7e276100e2972fea91b7523e3ccf9f88dfd6434bcecee1a0b0106b.gltf"
+    },
+    {
+      "id": "tele",
+      "name": "텔레컨벤션센터",
+      "variant": "detailed",
+      "url": "tele/model-1d4663ae80a2d0fc1f250f598e23801bd862aff7c41a28442f98bd4dcef04363.gltf"
+    },
+    {
+      "id": "w451562712",
+      "name": "공학실습동",
+      "variant": "detailed",
+      "url": "w451562712/model-7135053fb7a4321604e474ad561956b8059dfcc601288034f8a1137031bbc074.gltf"
+    },
+    {
+      "id": "w451562714",
+      "name": "경기드림타워 A동",
+      "variant": "detailed",
+      "url": "w451562714/model-3ac98adc1b448f78269882c7d4cca8ae2ff6bc7325be99cedbd22e726cc9db05.gltf"
+    },
+    {
+      "id": "w451562715",
+      "name": "관광실습동",
+      "variant": "detailed",
+      "url": "w451562715/model-fc3a5930cf61e097fdc27f8375a3f9abae51082f2bb45b6e38593553486679a2.gltf"
+    },
+    {
+      "id": "w451562716",
+      "name": "부속동 2",
+      "variant": "detailed",
+      "url": "w451562716/model-89d45e96180757d61e587cb8bebd7f79baaaca4131e13c8f1c17f64b550ed348.gltf"
+    },
+    {
+      "id": "w451562717",
+      "name": "리서치센터",
+      "variant": "detailed",
+      "url": "w451562717/model-343be1950925da69554b1940073c9628cf56bdde17974b445e343e7b40b682b6.gltf"
+    },
+    {
+      "id": "w451562718",
+      "name": "복지관",
+      "variant": "detailed",
+      "url": "w451562718/model-2f5c8e99fb1558bee44535422a9bb4feda7123f77682e00909efa91f8dfc569f.gltf"
+    },
+    {
+      "id": "w451562719",
+      "name": "광교관",
+      "variant": "detailed",
+      "url": "w451562719/model-d7fa160267fefe9ff818fbf6def9fd4acfb3251f838aaeff16bc406165f9339d.gltf"
+    },
+    {
+      "id": "w451562720",
+      "name": "부속동 3",
+      "variant": "detailed",
+      "url": "w451562720/model-696337173d01bd39a724c74989a8225f112bd9f44adcb093c378e589af35a473.gltf"
+    },
+    {
+      "id": "w451562721",
+      "name": "창업보육센터",
+      "variant": "detailed",
+      "url": "w451562721/model-cfdfd9bec8ee330d0b63281f4f61803a6fc2c3641f4539dd727c63a0e5781d82.gltf"
+    },
+    {
+      "id": "w451562722",
+      "name": "경기드림타워 B동",
+      "variant": "detailed",
+      "url": "w451562722/model-eb1bc56bfe90265648511397000c6851b83ab2a51cf89c173e2edf5a7337c560.gltf"
+    },
+    {
+      "id": "w451562723",
+      "name": "예학관",
+      "variant": "detailed",
+      "url": "w451562723/model-814a3496aed98f611602ce922f712bc059ca64ed6ed883cacef54f7da7158d2a.gltf"
+    },
+    {
+      "id": "w451562724",
+      "name": "부속동 4",
+      "variant": "detailed",
+      "url": "w451562724/model-f8395fa23d5c3a631f9a762221afac7e2683c7b701f6bf27a9bace45e6319f70.gltf"
+    },
+    {
+      "id": "w451562725",
+      "name": "체육관",
+      "variant": "detailed",
+      "url": "w451562725/model-b086a9143027383941e32365f2871fa651ea9a3d7171666bf91f0107da441a06.gltf"
+    },
+    {
+      "id": "w451562726",
+      "name": "학생회관",
+      "variant": "detailed",
+      "url": "w451562726/model-a4ae49371d0d141d55b587cf76462542e11eea46dba2796678a0f1797ba0ef05.gltf"
+    },
+    {
+      "id": "w451562727",
+      "name": "어울림관",
+      "variant": "detailed",
+      "url": "w451562727/model-47b900fbcba6cc332c04851eeecf535b05f3f5868a1636dab552094c2797f78e.gltf"
+    },
+    {
+      "id": "w451562728",
+      "name": "부속동 5",
+      "variant": "detailed",
+      "url": "w451562728/model-6129f0232dcc9b6342f7a4bf5e92dfa6711ae48cdc3fee9fceb0e11dca0a537c.gltf"
+    },
+    {
+      "id": "w451562730",
+      "name": "부속동 6",
+      "variant": "detailed",
+      "url": "w451562730/model-cd38ec6873e37be725fbd28060c34b3495c46339639567c9728028c3cbe4229f.gltf"
+    },
+    {
+      "id": "w451562732",
+      "name": "미래관",
+      "variant": "detailed",
+      "url": "w451562732/model-e133daa93818fe6aed3a7def9abfe0dba9d40e899c581294d9f0f6b027fd242f.gltf"
+    },
+    {
+      "id": "w451562734",
+      "name": "홍보관",
+      "variant": "detailed",
+      "url": "w451562734/model-16db8db1b9bf063c204cba34336e73d2ac7b32b779eb2ee6817595b625c9d61b.gltf"
+    },
+    {
+      "id": "jinri",
+      "name": "진리관",
+      "variant": "detailed",
+      "url": "jinri/model-b502111b361001b99a619aa6dd33102001dcb7ed75e93c13d02190ef187822d6.gltf"
+    },
+    {
+      "id": "w451562737",
+      "name": "종합강의동",
+      "variant": "detailed",
+      "url": "w451562737/model-9b6e3559f7aae682b5a8b9db67300676228341a3fd57ffe77794b142c6f928c3.gltf"
+    },
+    {
+      "id": "w451562738",
+      "name": "부속동 7",
+      "variant": "detailed",
+      "url": "w451562738/model-d9ecea97e67c879b7960e37daadf248a4728a775dbfdd277898e0dedfcc1d21a.gltf"
+    },
+    {
+      "id": "w451562739",
+      "name": "성신관",
+      "variant": "detailed",
+      "url": "w451562739/model-a32a6cccaaa30b64311b80f4adc6270e029fc0c2d91431a3214ba320603af63d.gltf"
+    },
+    {
+      "id": "w451562740",
+      "name": "제2공학관",
+      "variant": "detailed",
+      "url": "w451562740/model-a24fe16d542433264709cd79854db3b2850d948261fccb36217f9afc3d23bfe6.gltf"
+    },
+    {
+      "id": "w451565823",
+      "name": "예지관",
+      "variant": "detailed",
+      "url": "w451565823/model-5005661f70af1c6ad5f4a9de345337601a01b69987cbe579495e45129cae511d.gltf"
+    },
+    {
+      "id": "w451565824",
+      "name": "E-스퀘어",
+      "variant": "detailed",
+      "url": "w451565824/model-3115b6acb8cce0438e65d796072f2233bf9246f357f34c5983053a4cccf5a584.gltf"
+    },
+    {
+      "id": "w451575561",
+      "name": "부속동 8",
+      "variant": "detailed",
+      "url": "w451575561/model-d09d2e3604c54917c425dc1dc465836da67007795aa6795ab8b1a4fdbefd31a4.gltf"
+    },
+    {
+      "id": "w451575562",
+      "name": "부속동 9",
+      "variant": "detailed",
+      "url": "w451575562/model-b101b2f491a1a9c37885515ad87f77f8a5ea11599651e958d4fa847e5581d21c.gltf"
+    },
+    {
+      "id": "w451575563",
+      "name": "감성코어",
+      "variant": "detailed",
+      "url": "w451575563/model-c58529361258d33d75f861f984c352669d04b7e0e70f02df38c5a42e0c3ca159.gltf"
+    },
+    {
+      "id": "w451575564",
+      "name": "돔식가마동",
+      "variant": "detailed",
+      "url": "w451575564/model-9e641c4eac965e856c9fe89ca5bac8fbf4ac0a8102187c9fb70ce18a65332389.gltf"
+    },
+    {
+      "id": "w451575565",
+      "name": "애경관",
+      "variant": "detailed",
+      "url": "w451575565/model-f43805f09c47812f3ef13aa441f89d3b553a56f66175c1ddb5e02c4c92d6392f.gltf"
+    },
+    {
+      "id": "w451575566",
+      "name": "육영관",
+      "variant": "detailed",
+      "url": "w451575566/model-2298bfc3c4d0fc055032ee63f1cc5683208c4eaf75c39c7478dfc7a947f90ca1.gltf"
+    },
+    {
+      "id": "jiphyeon",
+      "name": "집현관",
+      "variant": "detailed",
+      "url": "jiphyeon/model-163067f94531961116341ef329c9d12a713324668258630eedf72739b2ed71fc.gltf"
+    },
+    {
+      "id": "w653568201",
+      "name": "부속동 10",
+      "variant": "detailed",
+      "url": "w653568201/model-5d9b429f673036663c787004f9a5807c0f2e279aa4ae6730f6ced9481b797612.gltf"
+    },
+    {
+      "id": "ssireum",
+      "name": "광교 씨름전용체육관",
+      "variant": "detailed",
+      "url": "ssireum/model-20d1b714763f0f50fc9c4f689cd5d9081b33656e10ebf55cec017e64fa27a1b1.gltf"
+    },
+    {
+      "id": "hoyeon",
+      "name": "호연관",
+      "variant": "detailed",
+      "url": "hoyeon/model-6162e6047a44cb07feb5e630b5370560c53a55c389e4b36d3c2f0a37bf9b5126.gltf"
+    },
+    {
+      "id": "hall60",
+      "name": "교내 건물 (이름 미확인)",
+      "variant": "detailed",
+      "url": "hall60/model-c805794555cc6e6e92ad18b0415d8a1529c70647e60b136be81e186ed2ee1c5e.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 225224
+  }
+}

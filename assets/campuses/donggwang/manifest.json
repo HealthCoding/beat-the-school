@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "source": "Donggwang Goseong R3, exact source geometry, lossless meshopt",
+  "models": [
+    {
+      "minimumY": 0.949999988079071,
+      "id": "main",
+      "url": "main/model-e8f3c8258b03b44f13c7d9caa843cd9f4164f1faa6b2ab057a6bd7ca9c1e5ae6.gltf",
+      "triangles": 10396,
+      "name": "동광산업과학고 본관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.05000000074505806,
+      "id": "middle",
+      "url": "middle/model-59629a5b20859089dea4e55261cbec965bcd12eecf7914d2a7d9f30b77336fdf.gltf",
+      "triangles": 28020,
+      "name": "동광중학교 본관(공유경계)",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "northwide",
+      "url": "northwide/model-5d504eadae69e481300fd119bdef3b3ef0abf56b35f09785c776ec2e04665d87.gltf",
+      "triangles": 8890,
+      "name": "북단 넓은 실습동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "northlong",
+      "url": "northlong/model-5c764559c862493dcf59fbf6ef303679c80fdb802b8b662ef266d28264d9c74e.gltf",
+      "triangles": 9404,
+      "name": "본관 북측 긴 교사/실습동 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "dorm",
+      "url": "dorm/model-694992032f9c52da48e7c17dbc1c61591162ac1bc3d7a03b5aaddbeb73fbaf00.gltf",
+      "triangles": 8924,
+      "name": "북동 해오름관 기숙/급식 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "westbarrel",
+      "url": "westbarrel/model-dd8bb466e5b2d394ea7594a871d4b528c8e9be636535185cf63d0072df400552.gltf",
+      "triangles": 1016,
+      "name": "서북 녹색 볼트 실습시설 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "westworkshop",
+      "url": "westworkshop/model-4df2fbe5e6077c147035a3c726fd7c153f03cf280d00f3aca8642fa64e278ba4.gltf",
+      "triangles": 702,
+      "name": "서측 낮은 녹색지붕 작업동",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "westside",
+      "url": "westside/model-2ee51b2d9a065f446a5afb1f048ede39ca033384aa14f658a6545cee39851235.gltf",
+      "triangles": 602,
+      "name": "서측 긴 협소 부속동",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "greenhouse1",
+      "url": "greenhouse1/model-60d8c71eaf9624016b03a7a26fab662c5d99d32f49e20972f73ba277e732eb85.gltf",
+      "triangles": 622,
+      "name": "서측 온실 북",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "greenhouse2",
+      "url": "greenhouse2/model-79186809a6c7770b6b45b22d4e38d93b1bb50f1b1110835f0a0f1e2b33fc9e3e.gltf",
+      "triangles": 600,
+      "name": "서측 온실 중",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "greenhouse3",
+      "url": "greenhouse3/model-c4b9635c3c6d83e475366fbc938603b4955f00339e6109739719dc3a2ea9d137.gltf",
+      "triangles": 600,
+      "name": "서측 온실 남",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "westblue",
+      "url": "westblue/model-0ca6954503eac61f2d352bc01424fa25dfc4877d03b7054b5a2c87e7539f5426.gltf",
+      "triangles": 450,
+      "name": "중학교 서측 파란 소형부속 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.949999988079071,
+      "id": "westgreen",
+      "url": "westgreen/model-7fdeeca8d467402b76273e7df25e6a9db4c99260259542c9e964941448de4e76.gltf",
+      "triangles": 486,
+      "name": "운동장 서북 녹색 소형부속 후보",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.05000000074505806,
+      "id": "gym",
+      "url": "gym/model-da9eca3fec53caaaad8803143e375eaf64ce600565c9caff7493ab7324becd3b.gltf",
+      "triangles": 3814,
+      "name": "운동장 남측 주황기와 체육관",
+      "variant": "detailed"
+    },
+    {
+      "minimumY": 0.05000000074505806,
+      "id": "southhouse",
+      "url": "southhouse/model-8044b0ec7b1fb718a69f1741c537d100aa1e95ecfe1adb84b435ec231e9e391c.gltf",
+      "triangles": 438,
+      "name": "최남동 청록지붕 주택형 관사후보",
+      "variant": "detailed"
+    }
+  ],
+  "totals": {
+    "triangles": 74964
+  }
+}

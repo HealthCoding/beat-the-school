@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "source": "kookmin-seoul active-models.json (26 destructible buildings), packed with bounded attribute rounding",
+  "models": [
+    {
+      "id": "gym",
+      "name": "체육관",
+      "variant": "custom",
+      "url": "gym/model-e2ed14ed2b71da55a9094e3296420d98b330613343caab7097f10b804c1200a1.gltf"
+    },
+    {
+      "id": "bugak",
+      "name": "북악관",
+      "variant": "detailed",
+      "url": "bugak/model-76295dac63684c4094e7a59f6601f78aa82fc39b1a1b52ae6cbe8780a2a2f4aa.gltf"
+    },
+    {
+      "id": "law",
+      "name": "법학관·형설관",
+      "variant": "generic-v2",
+      "url": "law/model-43c9208430cd989bb1c21c267d0e40f217219bbe562fa754a4e84d8cfdbdc96f.gltf"
+    },
+    {
+      "id": "library",
+      "name": "성곡도서관",
+      "variant": "detailed",
+      "url": "library/model-449d49b809fd061b1ca6ae104b77ff85f174bc1f0718f082590a5d5e580b3edc.gltf"
+    },
+    {
+      "id": "design",
+      "name": "조형관",
+      "variant": "generic-v2",
+      "url": "design/model-c7c30f9d02d72a89e0689ee4c73cacc4684ff709d7ea565128a88c530eeed4de.gltf"
+    },
+    {
+      "id": "osm172536208",
+      "name": "미동정 학교시설 172536208",
+      "variant": "generic-v2",
+      "url": "osm172536208/model-b33bf6b7f07a3c4088f184c2ca7be72eb4e9deb69736e0a86f3474fe31b4be28.gltf"
+    },
+    {
+      "id": "concert",
+      "name": "콘서트홀",
+      "variant": "generic-v2",
+      "url": "concert/model-809f52f153802e5555fd2ec74dcb35ea16877078d5b418487f56217d49363773.gltf"
+    },
+    {
+      "id": "osm172646932",
+      "name": "미동정 학교시설 172646932",
+      "variant": "generic-v2",
+      "url": "osm172646932/model-cf14cec944dceb829b349034f3d38bbddff9c8d292fddcfa3d18e50373618324.gltf"
+    },
+    {
+      "id": "science",
+      "name": "과학관",
+      "variant": "generic-v2",
+      "url": "science/model-0260e630bd792383d3c6d08fb0f86e6eb27a75b5b91fa47b7b5e63255876b34a.gltf"
+    },
+    {
+      "id": "business",
+      "name": "경영관",
+      "variant": "generic-v2",
+      "url": "business/model-57d9d8bc73e699c4892e9a4287d7cda580f5624d169f53a0c74d4360f62e7be8.gltf"
+    },
+    {
+      "id": "main",
+      "name": "본부관",
+      "variant": "detailed",
+      "url": "main/model-8b6900df702d898bd219e24e9fae7bc7d37d6950d1f1e3b7bd9c22bccc93e40f.gltf"
+    },
+    {
+      "id": "student",
+      "name": "종합복지관",
+      "variant": "custom",
+      "url": "student/model-c0cb11a5fdaad3bcfa5fc3aff93acac195cff61abd49cd9568c974558729f88f.gltf"
+    },
+    {
+      "id": "arts",
+      "name": "예술관",
+      "variant": "detailed",
+      "url": "arts/model-3f0549e06cea416d064de59142cf0bbc75596536b466d9c8d9d272efb5942ec4.gltf"
+    },
+    {
+      "id": "lifelong",
+      "name": "평생교육실기관",
+      "variant": "generic-v2",
+      "url": "lifelong/model-8f99de9f67213c2ba6cdd5d137329c7de7c43bcdedce7c57ba26cba8d5ac1b9a.gltf"
+    },
+    {
+      "id": "engineering",
+      "name": "공학관",
+      "variant": "generic-v2",
+      "url": "engineering/model-6b155939dc3f2f90c2f9bcc598653d5d30949de34025f11c54aa8cb3d114e7fa.gltf"
+    },
+    {
+      "id": "dorm",
+      "name": "생활관",
+      "variant": "generic-v2",
+      "url": "dorm/model-0210d61c220b476a171168e611b2f4474fdf7f2d4b0aac205ff1c07661ec4926.gltf"
+    },
+    {
+      "id": "osm432300547",
+      "name": "미동정 학교시설 432300547",
+      "variant": "generic-v2",
+      "url": "osm432300547/model-f22b0872e1373abf3ca0585f0b65c5ded278ced2fd2ba015afc7a2be4062b7c0.gltf"
+    },
+    {
+      "id": "roof432300549",
+      "name": "운동장 열린 캐노피",
+      "variant": "custom",
+      "url": "roof432300549/model-c6b8a2d331c6ec44cd6e86fcee01ef1133db880202fd9e6cc57627f2b51dbe5e.gltf"
+    },
+    {
+      "id": "industry",
+      "name": "산학협력관",
+      "variant": "generic-v2",
+      "url": "industry/model-e7b65756ce5d3cad52cb2135b37598999c180a257f1139ea5d3387d0f58a0780.gltf"
+    },
+    {
+      "id": "economics",
+      "name": "경상관",
+      "variant": "generic-v2",
+      "url": "economics/model-75eef11723a8d8322e455c25c7e91cc3f638ed184bc74d65719a4608eae8c501.gltf"
+    },
+    {
+      "id": "international",
+      "name": "국제관",
+      "variant": "generic-v2",
+      "url": "international/model-fd8a4a4113e49b369e5055acc070f5609fa73a50304dc528806c1cf86af7993d.gltf"
+    },
+    {
+      "id": "global",
+      "name": "글로벌 센터",
+      "variant": "generic-v2",
+      "url": "global/model-b89f1c2149da13cbaf5b9eda26adcf0d6048686c44c2a6c70e6ff52cfa46f829.gltf"
+    },
+    {
+      "id": "dormD",
+      "name": "생활관 D",
+      "variant": "generic-v2",
+      "url": "dormD/model-fec2740d6f70c391bbd2f85586219fd884475dd1ac373453de6256cad350109a.gltf"
+    },
+    {
+      "id": "guest",
+      "name": "영빈관",
+      "variant": "generic-v2",
+      "url": "guest/model-51289f71317d41de3ada5468b79bbacdb1c97db30214bfb89b242528343cdb99.gltf"
+    },
+    {
+      "id": "osm672438757",
+      "name": "미동정 학교시설 672438757",
+      "variant": "generic-v2",
+      "url": "osm672438757/model-debea9b238b08c0b7fe1e6d2e336cd305fd3cf82bec070a5bbfbb9b292a99895.gltf"
+    },
+    {
+      "id": "mirae",
+      "name": "미래관",
+      "variant": "detailed",
+      "url": "mirae/model-1fe8677c5ecb804f3dd5b7d0d0c54b80be3f9728642d8678990cbb53ee148af0.gltf"
+    }
+  ],
+  "totals": {
+    "triangles": 195198
+  }
+}
