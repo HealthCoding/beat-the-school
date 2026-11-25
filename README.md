@@ -1,6 +1,6 @@
 # Beat the School
 
-실제 학교 캠퍼스를 3D 로 만들어 부수는 웹 게임이에요.
+실제 학교 캠퍼스를 3D 로 만들어 부수는 웹 게임이에요. 학교 부수기 게임의 원조로, 2026년 10월 14일 22시 3분(KST)에 처음 공개했어요(Vercel 첫 배포 기록).
 
 ![Beat the School](assets/ui/og-title.jpg)
 
@@ -42,6 +42,6 @@ WebGL 2 를 지원하는 브라우저에서 돌아가요.
 
 ## English
 
-Beat the School is a web game where you smash 3D models of real school campuses. © 2026 HealthCoding — a personal project unrelated to any school. You are welcome to play it, share links to it and post videos or streams of your play, including monetised ones. You may use, change and republish it for non-commercial purposes, including making a version for your own school, as long as you credit "Beat the School © 2026 HealthCoding" with the original address and do not present it as official. The code is under the PolyForm Noncommercial License 1.0.0 and HealthCoding's own 3D models, images, sounds and music are under CC BY-NC 4.0; other commercial use needs permission. The title-screen song is not licensed and is not in this repository, so a copy run from here plays no title song; it may be heard in videos of your play but not used on its own. The school map data is © OpenStreetMap contributors under ODbL 1.0, and third-party components, sound effects and terrain data follow their own licenses. A school is one line in `src/campuses/registry.js` plus `src/campuses/<id>/`, `assets/campuses/<id>/` and the page `<id>/index.html`; the one-building `liraart` is the easiest one to copy. See [LICENSE](LICENSE) and [credits.html](credits.html).
+Beat the School is a web game where you smash 3D models of real school campuses. It is the original school-smashing game, first released on 14 October 2026 at 22:03 KST (first Vercel deployment record). © 2026 HealthCoding — a personal project unrelated to any school. You are welcome to play it, share links to it and post videos or streams of your play, including monetised ones. You may use, change and republish it for non-commercial purposes, including making a version for your own school, as long as you credit "Beat the School © 2026 HealthCoding" with the original address and do not present it as official. The code is under the PolyForm Noncommercial License 1.0.0 and HealthCoding's own 3D models, images, sounds and music are under CC BY-NC 4.0; other commercial use needs permission. The title-screen song is not licensed and is not in this repository, so a copy run from here plays no title song; it may be heard in videos of your play but not used on its own. The school map data is © OpenStreetMap contributors under ODbL 1.0, and third-party components, sound effects and terrain data follow their own licenses. A school is one line in `src/campuses/registry.js` plus `src/campuses/<id>/`, `assets/campuses/<id>/` and the page `<id>/index.html`; the one-building `liraart` is the easiest one to copy. See [LICENSE](LICENSE) and [credits.html](credits.html).
 
 문의 / Contact: healthcoding15@gmail.com
